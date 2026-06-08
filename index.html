@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ajinx Daily News</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #f0f2f5; color: #1a1a2e; min-height: 100vh;
+  }
+  header {
+    background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%);
+    color: #fff; padding: 20px 28px;
+    display: flex; align-items: center; justify-content: space-between;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+    position: sticky; top: 0; z-index: 100;
+  }
+  .header-left h1 { font-size: 1.4rem; font-weight: 700; }
+  .header-left p { font-size: 0.78rem; color: #a0aec0; margin-top: 2px; }
+  .header-right { display: flex; align-items: center; gap: 10px; }
+  #last-updated {
+    font-size: 0.75rem; color: #a0aec0;
+    background: rgba(255,255,255,0.08);
+    padding: 5px 12px; border-radius: 20px;
+  }
+  .category-nav {
+    background: #fff; padding: 0 28px;
+    display: flex; gap: 2px; overflow-x: auto;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08); scrollbar-width: none;
+  }
+  .category-nav::-webkit-scrollbar { display: none; }
+  .cat-btn {
+    padding: 13px 16px; border: none; background: none;
+    font-size: 0.8rem; font-weight: 600; color: #718096;
+    cursor: pointer; border-bottom: 3px solid transparent;
+    white-space: nowrap; transition: color 0.2s, border-color 0.2s;
+  }
+  .cat-btn:hover { color: #1a1a2e; }
+  .cat-btn.active { color: #e53e3e; border-bottom-color: #e53e3e; }
+  main { max-width: 1400px; margin: 0 auto; padding: 24px 20px; }
+  .category-section { margin-bottom: 36px; display: none; }
+  .category-section.visible { display: block; }
+  .section-header { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+  .section-icon {
+    width: 38px; height: 38px; border-radius: 10px;
+    display: flex; align-items: center; justify-content: center; font-size: 1.1rem;
+  }
+  .section-title { font-size: 1.1rem; font-weight: 700; color: #1a1a2e; }
+  .section-subtitle { font-size: 0.75rem; color: #718096; }
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 16px;
+  }
+  .news-card {
+    background: #fff; border-radius: 14px;
+    overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex; flex-direction: column;
+  }
+  .news-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+  .card-image {
+    width: 100%; height: 160px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2.6rem; flex-shrink: 0; overflow: hidden; position: relative;
+  }
+  .card-image img {
+    width: 100%; height: 100%; object-fit: cover; display: block;
+  }
+  .card-image .emoji-fallback {
+    font-size: 2.6rem;
+    display: flex; align-items: center; justify-content: center;
+    width: 100%; height: 100%;
+  }
+  .card-image img.svg-card { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .card-body { padding: 14px; flex: 1; display: flex; flex-direction: column; }
+  .card-category-tag {
+    display: inline-block; font-size: 0.65rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.5px;
+    padding: 2px 7px; border-radius: 4px; margin-bottom: 8px;
+  }
+  .card-title { font-size: 0.88rem; font-weight: 700; line-height: 1.35; color: #1a1a2e; margin-bottom: 10px; }
+  .card-bullets { list-style: none; flex: 1; margin-bottom: 12px; }
+  .card-bullets li {
+    font-size: 0.78rem; color: #4a5568;
+    line-height: 1.5; padding: 2px 0 2px 13px; position: relative;
+  }
+  .card-bullets li::before { content: '•'; position: absolute; left: 0; color: #e53e3e; font-weight: 900; }
+  .card-footer {
+    border-top: 1px solid #f0f0f0; padding-top: 10px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .card-source { font-size: 0.7rem; color: #a0aec0; font-weight: 500; }
+  .card-link { font-size: 0.73rem; font-weight: 700; color: #e53e3e; text-decoration: none; transition: color 0.2s; }
+  .card-link:hover { color: #c53030; }
+
+  /* Themes */
+  .theme-us      { --cc:#3182ce; --cb:#ebf8ff; }
+  .theme-global  { --cc:#805ad5; --cb:#faf5ff; }
+  .theme-india   { --cc:#dd6b20; --cb:#fffaf0; }
+  .theme-stocks  { --cc:#38a169; --cb:#f0fff4; }
+  .theme-business{ --cc:#2b6cb0; --cb:#ebf8ff; }
+  .theme-tech    { --cc:#e53e3e; --cb:#fff5f5; }
+  .news-card .card-category-tag { background: var(--cb,#f0f0f0); color: var(--cc,#666); }
+  .section-icon.theme-us      { background:#ebf8ff; }
+  .section-icon.theme-global  { background:#faf5ff; }
+  .section-icon.theme-india   { background:#fffaf0; }
+  .section-icon.theme-stocks  { background:#f0fff4; }
+  .section-icon.theme-business{ background:#ebf8ff; }
+  .section-icon.theme-tech    { background:#fff5f5; }
+  .card-image.theme-us      { background:#ebf8ff; }
+  .card-image.theme-global  { background:#faf5ff; }
+  .card-image.theme-india   { background:#fffaf0; }
+  .card-image.theme-stocks  { background:#f0fff4; }
+  .card-image.theme-business{ background:#ebf8ff; }
+  .card-image.theme-tech    { background:#fff5f5; }
+
+  .stale-banner {
+    background: #fffbea; border: 1px solid #f6d860;
+    color: #744210; font-size: 0.8rem; padding: 10px 20px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <h1>📰 Ajinx Daily News</h1>
+    <p>US · Global · India · Markets · Business · Tech</p>
+  </div>
+  <div class="header-right">
+    <span id="last-updated"></span>
+  </div>
+</header>
+
+<div id="stale-banner" class="stale-banner" style="display:none">
+  ⏰ This feed is from a previous day. It refreshes automatically at 9 AM via your scheduled task.
+</div>
+
+<nav class="category-nav">
+  <button class="cat-btn active" onclick="showCat('all',this)">🌐 All</button>
+  <button class="cat-btn" onclick="showCat('us',this)">🇺🇸 US News</button>
+  <button class="cat-btn" onclick="showCat('global',this)">🌍 Global</button>
+  <button class="cat-btn" onclick="showCat('india',this)">🇮🇳 India</button>
+  <button class="cat-btn" onclick="showCat('stocks',this)">📈 Stocks</button>
+  <button class="cat-btn" onclick="showCat('business',this)">💼 Business</button>
+  <button class="cat-btn" onclick="showCat('tech',this)">💡 Tech</button>
+</nav>
+
+<main id="main"></main>
+
+<script>
+// ── NEWS DATA (refreshed daily by scheduled task) ──────────────────────
+const FEED_DATE = "Sunday, June 07, 2026";
+const NEWS = {
+  us: {
+    label: "US News", icon: "🇺🇸", theme: "theme-us", subtitle: "Top 5 domestic stories",
+    articles: [
+      {
+        emoji: "⚔️",
+        img: "https://mediagolocalprov.imgix.net/Trump_Iran_Nuclear_deal.png",
+        title: "100 Days Into the Iran War, Trump Fails to Rally US Support",
+        bullets: [
+          "Sunday marks 100 days of the US-Israel war against Iran, still overwhelmingly unpopular domestically.",
+          "Polls show most Americans opposed bombing Iran before it started and support hasn't improved since.",
+          "Experts warn lack of public backing could weaken Trump politically heading into midterms."
+        ],
+        source: "Al Jazeera",
+        url: "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support"
+      },
+      {
+        emoji: "🕵️",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Capitol_Building_Full_View.jpg/1200px-Capitol_Building_Full_View.jpg",
+        title: "Pentagon Raises Israel Espionage Threat to 'Critical' Level",
+        bullets: [
+          "DIA reports Israel stepped up efforts to eavesdrop on senior US officials, including top Iran negotiator Steve Witkoff.",
+          "Counterintelligence threat level from Israel raised from 'high' to 'critical' — the top tier.",
+          "Israel reportedly intercepting communications from Pentagon policy chief Elbridge Colby and deputies."
+        ],
+        source: "New York Times",
+        url: "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
+      },
+      {
+        emoji: "🇨🇺",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Capitol_Building_Full_View.jpg/1200px-Capitol_Building_Full_View.jpg",
+        title: "Foreign Businesses Flee Cuba as Economy Collapses Under Trump Pressure",
+        bullets: [
+          "Mastercard and Visa suspended transactions by non-US foreign visitors in Cuba starting Saturday.",
+          "Spanish hotel giants Iberostar and Meliá each giving up management of at least a dozen Cuban hotels.",
+          "Major airlines canceled Cuba flights due to jet-fuel shortages; Canadian miner Sherritt suspended operations."
+        ],
+        source: "Wall Street Journal",
+        url: "https://www.wsj.com/world/americas/international-businesses-abandon-cuba-economy-trump"
+      },
+      {
+        emoji: "🗳️",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Capitol_Building_Full_View.jpg/1200px-Capitol_Building_Full_View.jpg",
+        title: "Xavier Becerra Clinches Top Spot on California Governor's Ballot",
+        bullets: [
+          "Former HHS Secretary Becerra topped the California gubernatorial primary ballot heading to November.",
+          "California race is one of the most watched 2026 gubernatorial contests nationally.",
+          "Race seen as a key test of Democratic Party strength in the post-Biden era."
+        ],
+        source: "NPR",
+        url: "https://www.npr.org/sections/news/"
+      },
+      {
+        emoji: "💵",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Capitol_Building_Full_View.jpg/1200px-Capitol_Building_Full_View.jpg",
+        title: "Trump May Appear on New $250 Bill in Latest Break With US Tradition",
+        bullets: [
+          "Republicans are pushing legislation to put President Trump's face on a new $250 denomination bill.",
+          "Move is part of a broader effort to stamp Trump's personal image on national institutions.",
+          "Critics call it an unprecedented departure from the tradition of putting deceased figures on currency."
+        ],
+        source: "Reuters",
+        url: "https://www.golocalprov.com/news/5-big-news-stories-overnight-sunday-june-7-2026"
+      }
+    ]
+  },
+  global: {
+    label: "Global", icon: "🌍", theme: "theme-global", subtitle: "Top 5 trending worldwide",
+    articles: [
+      {
+        emoji: "🚀",
+        img: "https://mediagolocalprov.imgix.net/St-Petersburg-Russia-June-6-2026-Social-Media-Drone-Attack.png",
+        title: "Ukraine Drones Strike St. Petersburg Naval Bases in Second Wave Attack",
+        bullets: [
+          "Hundreds of Ukrainian drones targeted Russian naval arsenals and Kronstadt naval base near St. Petersburg.",
+          "One person killed, oil depot set ablaze; Russia briefly closed maritime access to Kronstadt.",
+          "Wider drone attacks also hit oil infrastructure in Krasnodar Krai in southern Russia."
+        ],
+        source: "The Telegraph",
+        url: "https://www.telegraph.co.uk/world-news/2026/06/06/ukraine-drones-russia-military-targets-st-petersburg/"
+      },
+      {
+        emoji: "💥",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
+        title: "Iranian Missiles Target Kuwait and Bahrain After US-Iran Clash Escalates",
+        bullets: [
+          "Iran fired missiles at US-allied Gulf states Kuwait and Bahrain following exchange of strikes with US forces.",
+          "Pope Leo XIV declared the Iran war does not qualify as a 'just war' under Catholic teaching.",
+          "UN reports 1.4 million people need humanitarian aid in Lebanon amid ongoing Israeli attacks."
+        ],
+        source: "Al Jazeera",
+        url: "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked"
+      },
+      {
+        emoji: "🗳️",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
+        title: "Peru Holds Presidential Election Amid Polarized Race Between Fujimori and Sánchez",
+        bullets: [
+          "Peruvians voted Sunday in a tight presidential race between hard-right Keiko Fujimori and leftist Roberto Sánchez.",
+          "Polls showed a highly polarized electorate with no clear frontrunner in final days.",
+          "Outcome will shape Peru's economic and foreign policy direction for the next five years."
+        ],
+        source: "Reuters",
+        url: "https://www.aljazeera.com/news/2026/6/6"
+      },
+      {
+        emoji: "🌐",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
+        title: "Armenia Votes in Pivotal Election Deciding EU vs Russia Alignment",
+        bullets: [
+          "Armenians headed to polls Sunday with both the EU and US backing PM Pashinyan's pro-Western drive.",
+          "Russia applied economic and political pressure on Yerevan to keep Armenia within its orbit.",
+          "Result will define Armenia's geopolitical trajectory as Russia-West competition intensifies in the Caucasus."
+        ],
+        source: "Euronews",
+        url: "https://www.euronews.com/"
+      },
+      {
+        emoji: "🦈",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
+        title: "Spearfisherman Killed by 15-Foot Shark in Third Fatal Attack in Under a Month",
+        bullets: [
+          "A 35-year-old spearfisherman was killed off Western Australia by a suspected 15-foot great white shark.",
+          "The attack is the third fatal shark incident in the region in less than a month.",
+          "Authorities have closed nearby beaches and launched an investigation into the surge of attacks."
+        ],
+        source: "Fox News",
+        url: "https://www.foxnews.com/world/spearfisherman-killed-suspected-15-foot-shark-third-fatal-attack-less-month"
+      }
+    ]
+  },
+  india: {
+    label: "India News", icon: "🇮🇳", theme: "theme-india", subtitle: "Top 5 from India",
+    articles: [
+      {
+        emoji: "📉",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
+        title: "Modi Paradox: Political Dominance Alongside Worsening Economic Slide",
+        bullets: [
+          "BJP now rules 21 states covering ~75% of India's population, its strongest position since 2019.",
+          "Economy faces rising inflation, rupee weakness, and WPI inflation above 8% in April 2026.",
+          "Private investment declining; growth driven mostly by debt-financed public spending."
+        ],
+        source: "The Print",
+        url: "https://theprint.in/opinion/between-political-lines/the-modi-paradox-in-2026/2947630/"
+      },
+      {
+        emoji: "🔥",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
+        title: "LPG Prices Hiked Across India on June 7; Delhi, Mumbai Among Cities Affected",
+        bullets: [
+          "Cooking gas cylinder prices revised upward today in Delhi, Mumbai, Kolkata, Chennai, and Bangalore.",
+          "The hike follows earlier fuel and diesel price increases that pushed industrial costs higher.",
+          "Secondary inflation effects from fuel costs are expected to drive WPI higher in coming weeks."
+        ],
+        source: "NewsX",
+        url: "https://www.newsx.com/business/lpg-price-hike-7-june-2026-check-latest-gas-cylinder-rates-in-delhi-mumbai-bangalore-kolkata-chennai-231287/"
+      },
+      {
+        emoji: "✊",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
+        title: "'I'm a Cockroach': Gen Z Protest Movement Reaches Indian Capital",
+        bullets: [
+          "A viral Gen Z protest movement using the 'cockroach' identity has spread from social media to Delhi streets.",
+          "Demonstrators say they embrace the label as resilience against economic hardship and political apathy.",
+          "Movement mirrors similar youth protest waves seen recently in Kenya and Bangladesh."
+        ],
+        source: "Al Jazeera",
+        url: "https://www.aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital"
+      },
+      {
+        emoji: "⛈️",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
+        title: "14 States Under Thunderstorm Alert as Pre-Monsoon Intensifies Across North India",
+        bullets: [
+          "IMD issued thunderstorm and lightning alerts for Delhi-NCR, UP, Uttarakhand, Punjab, Haryana, and Rajasthan.",
+          "Winds expected to reach 60–80 km/h in affected areas; risk of waterlogging and power outages.",
+          "Southwest Monsoon advancing toward southern and central India ahead of normal schedule."
+        ],
+        source: "NewsX",
+        url: "https://www.newsx.com/india/north-india-weather-today-7-june-2026-delhi-uttarakhand-punjab-haryana-among-14-states-under-thunderstorm-alert-check-15-day-forecast-231268/"
+      },
+      {
+        emoji: "🌧️",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
+        title: "Southwest Monsoon Advances Toward Central India Ahead of Schedule",
+        bullets: [
+          "IMD confirmed the monsoon is progressing into southern and central India with widespread rainfall expected.",
+          "Mumbai, Hyderabad, and Chennai all seeing elevated temperatures before monsoon arrival.",
+          "Early arrival forecast to benefit kharif crop sowing season and ease reservoir levels in affected states."
+        ],
+        source: "Sunday Guardian",
+        url: "https://sundayguardianlive.com/india/india-weather-today-june-7-2026-check-current-temperature-of-delhi-mumbai-hyderabad-bangalore-chennai-kolkata-ahmedabad-202589/"
+      }
+    ]
+  },
+  stocks: {
+    label: "US Stocks", icon: "📈", theme: "theme-stocks", subtitle: "Top 5 market movers",
+    articles: [
+      {
+        emoji: "📉",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
+        title: "Nasdaq Plunges 4.18% in Worst Market Day of the Year as AI Stocks Crash",
+        bullets: [
+          "Nasdaq fell 4.18% to 25,709, S&P 500 dropped 2.64% to 7,383, Dow lost 695 points on Friday.",
+          "Sell-off driven by violent collapse in chip and AI stocks on disappointing guidance.",
+          "CNN/CNBC called it the market's worst single-day performance since October 2025."
+        ],
+        source: "CNN Business",
+        url: "https://www.cnn.com/2026/06/05/markets/stock-market-sell-off-fed"
+      },
+      {
+        emoji: "💼",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
+        title: "Strong Jobs Report Sparks Fed Rate-Hike Fears, Triggering Market Selloff",
+        bullets: [
+          "May jobs report showed 172,000 new jobs added — roughly double analyst expectations.",
+          "Unemployment held at 4.3%; markets reacted in 'good news is bad news' fashion on rate hike fears.",
+          "10-year Treasury yield surged to 4.54% and 2-year jumped to 4.16% immediately after the report."
+        ],
+        source: "CNBC",
+        url: "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html"
+      },
+      {
+        emoji: "💻",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
+        title: "Nvidia -6.2%, Broadcom -7.9%, Micron -13.3% as Chip Stocks Lead Market Rout",
+        bullets: [
+          "Nvidia fell 6.2% and Broadcom dropped 7.9% after Broadcom failed to raise its AI chip revenue outlook.",
+          "Micron Technology slid 13.3%, the steepest single-day drop among large-cap semiconductor names.",
+          "The AI chip group's losses dragged the broader Nasdaq into its worst session of 2026."
+        ],
+        source: "BNN Bloomberg",
+        url: "https://www.bnnbloomberg.ca/markets/2026/06/05/stocks-slip-on-wall-street-big-tech-falls/"
+      },
+      {
+        emoji: "📊",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
+        title: "Treasury Yields Spike After Jobs Data; 10-Year Hits 4.54%",
+        bullets: [
+          "10-year Treasury yield jumped from 4.50% to 4.54% and 2-year spiked from 4.04% to 4.16% post-report.",
+          "Rising yields reflect growing market conviction that the Fed will hike rates at least once in 2026.",
+          "New Fed Chairman Kevin Warsh is scheduled to speak publicly on June 17, his first major policy signal."
+        ],
+        source: "Charles Schwab",
+        url: "https://www.schwab.com/learn/story/stock-market-update-open"
+      },
+      {
+        emoji: "🍎",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
+        title: "Apple Bucks Selloff, Climbs 0.5% as WWDC 2026 Kicks Off Monday",
+        bullets: [
+          "Apple rose 0.5% Friday, remaining near all-time highs, as investors await Monday's WWDC keynote.",
+          "Market expects Apple to unveil a major AI-powered Siri overhaul and new iOS 27 at the conference.",
+          "CVS Health also rose after announcing it will cover Eli Lilly's Zepbound weight-loss injectable."
+        ],
+        source: "CNBC",
+        url: "https://www.cnbc.com/business/"
+      }
+    ]
+  },
+  business: {
+    label: "Business", icon: "💼", theme: "theme-business", subtitle: "Top 5 corporate stories",
+    articles: [
+      {
+        emoji: "🍎",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nasdaq_stock_exchange_logo.svg/1200px-Nasdaq_stock_exchange_logo.svg.png",
+        title: "Apple WWDC 2026 Opens Monday: Major Siri AI Overhaul and iOS 27 Expected",
+        bullets: [
+          "Apple's Worldwide Developers Conference keynote begins June 8 at 10am PT with major AI announcements.",
+          "Siri to be overhauled using Google's Gemini technology for contextual, multi-step task handling.",
+          "iOS 27, macOS 27, and an AI agent integration with the App Store also expected at the event."
+        ],
+        source: "TechCrunch",
+        url: "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+      },
+      {
+        emoji: "🚀",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/SpaceX_Dragon_C2%2B_berthing_ISS.jpg/1200px-SpaceX_Dragon_C2%2B_berthing_ISS.jpg",
+        title: "SpaceX IPO Roadshow Underway; $75B Raise Would Be Largest IPO in History",
+        bullets: [
+          "SpaceX investor roadshow launched June 4; pricing set for June 11, trading on Nasdaq (SPCX) June 12.",
+          "Company targeting $75B raise at ~$1.75T valuation, surpassing Saudi Aramco's 2019 record IPO.",
+          "30% of float routed directly to retail investors via Robinhood, Fidelity, and Charles Schwab."
+        ],
+        source: "Build Fast with AI",
+        url: "https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026"
+      },
+      {
+        emoji: "🤖",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nasdaq_stock_exchange_logo.svg/1200px-Nasdaq_stock_exchange_logo.svg.png",
+        title: "Anthropic Files Confidential IPO Paperwork at $965B Valuation",
+        bullets: [
+          "Anthropic filed a confidential draft S-1 with the SEC on June 1, 2026, starting the formal IPO clock.",
+          "Revenue run-rate hit approximately $47B in May 2026, up ~5x year-over-year.",
+          "Post-money valuation stands at $965B following the $65B Series H; trillion-dollar listing seen as likely."
+        ],
+        source: "TechCrunch",
+        url: "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
+      },
+      {
+        emoji: "💊",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Physician_writing_prescription_in_patient_chart.jpg/1200px-Physician_writing_prescription_in_patient_chart.jpg",
+        title: "CVS to Cover Eli Lilly's Zepbound Weight-Loss Drug, Boosting Lilly Shares",
+        bullets: [
+          "CVS Health announced it will cover Lilly's Zepbound injectable weight-loss medication for plan members.",
+          "CVS also resumed coverage of Lilly's newer weight-loss pill, expanding access to GLP-1 treatments.",
+          "Eli Lilly shares rose on the news, extending its outperformance in the healthcare sector this year."
+        ],
+        source: "CNBC",
+        url: "https://www.cnbc.com/business/"
+      },
+      {
+        emoji: "🏦",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nasdaq_stock_exchange_logo.svg/1200px-Nasdaq_stock_exchange_logo.svg.png",
+        title: "New Fed Chair Kevin Warsh to Deliver First Major Policy Signal on June 17",
+        bullets: [
+          "Fed Chairman Kevin Warsh is scheduled to speak publicly on June 17 — his first major podium appearance.",
+          "Markets will watch closely for signals on rate policy after Friday's stronger-than-expected jobs data.",
+          "Wall Street pricing in rising odds of at least one Fed rate hike before end of 2026."
+        ],
+        source: "CNBC",
+        url: "https://www.cnbc.com/business/"
+      }
+    ]
+  },
+  tech: {
+    label: "Tech", icon: "💡", theme: "theme-tech", subtitle: "Top 5 in technology",
+    articles: [
+      {
+        emoji: "🧠",
+        img: "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b3f3ef52-ed94-4a00-8373-6ed95b1bf177.png",
+        title: "OpenAI Launches ChatGPT Dreaming V3: AI Memory That Updates Itself Automatically",
+        bullets: [
+          "Dreaming V3 runs background memory synthesis after conversations, automatically updating user context.",
+          "5x more compute-efficient than prior memory system; rolling out to Plus/Pro users in US from June 4.",
+          "Privacy researchers flag concerns: 96% of ChatGPT memories in a study were created unilaterally by the system."
+        ],
+        source: "Build Fast with AI",
+        url: "https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026"
+      },
+      {
+        emoji: "🎮",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
+        title: "NVIDIA Unveils RTX Spark Superchip at Computex, Targets Intel and AMD Laptops",
+        bullets: [
+          "RTX Spark is an Arm-based chip integrating AI agents, gaming, and content creation for Windows laptops.",
+          "Adobe is rebuilding Photoshop and Premiere Pro natively for the RTX Spark architecture.",
+          "Consumer laptops expected in autumn 2026; AMD, Intel, and Qualcomm shares fell on the announcement."
+        ],
+        source: "CNBC",
+        url: "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html"
+      },
+      {
+        emoji: "⚖️",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
+        title: "Congress Drops 269-Page 'Great American AI Act' with 3-Year State Law Preemption",
+        bullets: [
+          "Bipartisan bill from Reps. Obernolte and Trahan would freeze all state AI laws for three years.",
+          "Requires companies with $500M+ revenue to publish AI governance frameworks and report safety incidents.",
+          "Labor unions including AFL-CIO rejected the bill, calling it 'a giveaway to the AI industry.'"
+        ],
+        source: "Roll Call",
+        url: "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act"
+      },
+      {
+        emoji: "🏭",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
+        title: "Microsoft Unveils 7 Proprietary MAI Models at Build 2026, Reducing OpenAI Dependence",
+        bullets: [
+          "Microsoft launched MAI-Thinking-1, MAI-Code-1-Flash, MAI-Image-2.5, MAI-Transcribe-1.5, and MAI-Voice-2.",
+          "MAI-Transcribe-1.5 beats OpenAI and Gemini transcription models across 43 languages at 5x faster speed.",
+          "Move positions Microsoft's Copilot as a model-agnostic platform independent of OpenAI's roadmap."
+        ],
+        source: "CNBC",
+        url: "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
+      },
+      {
+        emoji: "📱",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
+        title: "Apple WWDC 2026: Siri Gets Gemini AI Upgrade, iOS 27 and App Store AI Agents Unveiled",
+        bullets: [
+          "Siri to gain conversational, multi-step task handling powered by Google Gemini integration.",
+          "AI agents in the App Store will let users delegate tasks like booking reservations and editing documents.",
+          "New Visual Intelligence camera mode, intelligent photo editing, and automatic object removal also expected."
+        ],
+        source: "TechCrunch",
+        url: "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+      }
+    ]
+  }
+};
+// ── END NEWS DATA ────────────────────────────────────────────────────────────────────
+const CAT_ORDER = ['us','global','india','stocks','business','tech'];
+let currentCat = 'all';
+
+const THEME_COLORS = {
+  'theme-us':       {c:'#3182ce', l:'#ebf8ff'},
+  'theme-global':   {c:'#805ad5', l:'#faf5ff'},
+  'theme-india':    {c:'#dd6b20', l:'#fffaf0'},
+  'theme-stocks':   {c:'#38a169', l:'#f0fff4'},
+  'theme-business': {c:'#2b6cb0', l:'#dbeafe'},
+  'theme-tech':     {c:'#e53e3e', l:'#fff5f5'},
+};
+
+function cardSvg(emoji, theme) {
+  const t = THEME_COLORS[theme] || {c:'#666', l:'#f0f0f0'};
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160">
+    <rect width="400" height="160" fill="${t.l}"/>
+    <circle cx="370" cy="-20" r="120" fill="${t.c}" fill-opacity="0.13"/>
+    <circle cx="30" cy="180" r="90" fill="${t.c}" fill-opacity="0.09"/>
+    <circle cx="200" cy="80" r="50" fill="${t.c}" fill-opacity="0.06"/>
+    <rect x="0" y="130" width="400" height="30" fill="${t.c}" fill-opacity="0.08"/>
+    <text x="200" y="88" font-size="62" text-anchor="middle" dominant-baseline="middle">${emoji}</text>
+  </svg>`;
+  return 'data:image/svg+xml,' + encodeURIComponent(svg);
+}
+
+function showCat(cat, btn) {
+  currentCat = cat;
+  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+  document.querySelectorAll('.category-section').forEach(s => {
+    s.classList.toggle('visible', cat === 'all' || s.dataset.cat === cat);
+  });
+}
+
+function esc(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function render() {
+  const main = document.getElementById('main');
+  main.innerHTML = CAT_ORDER.map(id => {
+    const cat = NEWS[id];
+    const cards = cat.articles.map(a => `
+      <div class="news-card ${cat.theme}">
+        <div class="card-image ${cat.theme}">
+          ${a.img
+            ? `<img class="svg-card" src="${esc(a.img)}" alt="${esc(a.title)}" onerror="this.onerror=null;this.src='${cardSvg(a.emoji, cat.theme)}'">`
+            : `<img class="svg-card" src="${cardSvg(a.emoji, cat.theme)}" alt="${esc(a.title)}">`
+          }
+        </div>
+        <div class="card-body">
+          <span class="card-category-tag">${esc(cat.label)}</span>
+          <h3 class="card-title">${esc(a.title)}</h3>
+          <ul class="card-bullets">
+            ${a.bullets.map(b=>`<li>${esc(b)}</li>`).join('')}
+          </ul>
+          <div class="card-footer">
+            <span class="card-source">${esc(a.source)}</span>
+            ${a.url ? `<a class="card-link" href="${esc(a.url)}" target="_blank" rel="noopener">Read more →</a>` : ''}
+          </div>
+        </div>
+      </div>`).join('');
+    return `
+      <section class="category-section visible" data-cat="${id}">
+        <div class="section-header">
+          <div class="section-icon ${cat.theme}">${cat.icon}</div>
+          <div>
+            <div class="section-title">${cat.label}</div>
+            <div class="section-subtitle">${cat.subtitle}</div>
+          </div>
+        </div>
+        <div class="cards-grid">${cards}</div>
+      </section>`;
+  }).join('');
+
+  document.getElementById('last-updated').textContent = `📅 ${FEED_DATE}`;
+
+  // Show stale banner if feed is from a previous calendar day
+  const feedDay = new Date(FEED_DATE).toDateString();
+  const today   = new Date().toDateString();
+  if (feedDay !== today) {
+    document.getElementById('stale-banner').style.display = 'block';
+  }
+}
+
+render();
+</script>
+</body>
+</html>
