@@ -1,11 +1,15 @@
 #!/usr/bin/env node
-// Generates the day's news JSON via the Claude API (web search + structured
-// output), then writes/prunes the data/ directory that index.html reads from.
+// Generates the day's news JSON via the OpenAI API (GPT-5.5 + web search +
+// structured output), then writes/prunes the data/ directory that
+// index.html reads from.
 //
 // Usage:
-//   node scripts/fetch-news.mjs            # calls the real Claude API
+//   node scripts/fetch-news.mjs            # calls the real OpenAI API
 //   node scripts/fetch-news.mjs --mock     # skips the API call, uses fixture data
 //                                           # (for local testing / CI dry-runs)
+//
+// Requires the OPENAI_API_KEY environment variable to be set (picked up
+// automatically by the OpenAI SDK) when not running with --mock.
 
 import fs from "node:fs";
 import path from "node:path";
@@ -18,7 +22,8 @@ const HISTORY_DIR = path.join(DATA_DIR, "history");
 const LATEST_PATH = path.join(DATA_DIR, "latest.json");
 const INDEX_PATH = path.join(DATA_DIR, "index.json");
 
-const MODEL = "claude-opus-4-8";
+const MODEL = "gpt-5.5";
+const REASONING_EFFORT = "medium";
 const MAX_HISTORY_ITEMS = 5;
 
 const CAT_ORDER = ["us", "global", "india", "stocks", "business", "tech"];
@@ -121,42 +126,50 @@ Set "date" to "${iso}" and "displayDate" to "${display}".`;
 }
 
 async function generateNewsData() {
-  const { default: Anthropic } = await import("@anthropic-ai/sdk");
-  const client = new Anthropic();
+  const { default: OpenAI } = await import("openai");
+  const client = new OpenAI();
   const { iso, display } = nyDateParts();
 
-  const response = await client.messages.create({
+  const response = await client.responses.create({
     model: MODEL,
-    max_tokens: 16000,
-    thinking: { type: "adaptive" },
-    output_config: {
-      effort: "high",
-      format: { type: "json_schema", schema: newsSchema() },
+    reasoning: { effort: REASONING_EFFORT },
+    max_output_tokens: 16000,
+    tools: [{ type: "web_search" }],
+    text: {
+      format: {
+        type: "json_schema",
+        name: "daily_news_digest",
+        schema: newsSchema(),
+        strict: true,
+      },
     },
-    tools: [{ type: "web_search_20260209", name: "web_search" }],
-    messages: [{ role: "user", content: buildPrompt({ iso, display }) }],
+    input: buildPrompt({ iso, display }),
   });
 
-  if (response.stop_reason === "refusal") {
-    throw new Error(
-      `Claude declined the request (stop_reason: refusal). Details: ${JSON.stringify(response.stop_details)}`
-    );
+  if (response.status === "failed") {
+    throw new Error(`Request failed: ${JSON.stringify(response.error)}`);
   }
-  if (response.stop_reason === "max_tokens") {
-    throw new Error("Response was truncated (stop_reason: max_tokens). Increase max_tokens.");
+  if (response.status === "incomplete") {
+    throw new Error(`Response incomplete: ${JSON.stringify(response.incomplete_details)}. Increase max_output_tokens.`);
   }
 
-  const textBlocks = response.content.filter((b) => b.type === "text");
-  if (textBlocks.length === 0) {
-    throw new Error(`No text content in response. stop_reason=${response.stop_reason}`);
+  const refusal = (response.output || [])
+    .flatMap((item) => item.content || [])
+    .find((c) => c.type === "refusal");
+  if (refusal) {
+    throw new Error(`Model refused the request: ${refusal.refusal}`);
+  }
+
+  const text = response.output_text;
+  if (!text) {
+    throw new Error(`No output text in response. status=${response.status}`);
   }
 
   let data;
-  const lastText = textBlocks[textBlocks.length - 1].text;
   try {
-    data = JSON.parse(lastText);
+    data = JSON.parse(text);
   } catch (err) {
-    throw new Error(`Failed to parse JSON from model output: ${err.message}\n---\n${lastText.slice(0, 2000)}`);
+    throw new Error(`Failed to parse JSON from model output: ${err.message}\n---\n${text.slice(0, 2000)}`);
   }
 
   return data;
@@ -256,7 +269,7 @@ function persistNewsData(data) {
 async function main() {
   const isMock = process.argv.includes("--mock");
 
-  console.log(isMock ? "Running in --mock mode (no API call)." : `Calling Claude API (${MODEL}) with web search...`);
+  console.log(isMock ? "Running in --mock mode (no API call)." : `Calling OpenAI API (${MODEL}, reasoning effort: ${REASONING_EFFORT}) with web search...`);
   const data = isMock ? mockNewsData() : await generateNewsData();
 
   validateNewsData(data);

@@ -2,12 +2,12 @@
   "name": "ajinx-daily-news",
   "private": true,
   "type": "module",
-  "description": "Daily news digest, refreshed automatically via a scheduled GitHub Action and Claude web search.",
+  "description": "Daily news digest, refreshed automatically via a scheduled GitHub Action and OpenAI web search.",
   "scripts": {
     "fetch-news": "node scripts/fetch-news.mjs",
     "fetch-news:mock": "node scripts/fetch-news.mjs --mock"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.110.0"
+    "openai": "^6.45.0"
   }
 }
