@@ -1,0 +1,384 @@
+{
+  "date": "2026-06-14",
+  "displayDate": "Sunday, June 14, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "theme": "theme-us",
+      "subtitle": "Top 5 domestic stories",
+      "articles": [
+        {
+          "emoji": "⚽",
+          "title": "USMNT Stuns Paraguay 4-1 in World Cup 2026 Opener at SoFi Stadium",
+          "bullets": [
+            "The US Men's National Team dominated Paraguay 4-1 on June 12 at SoFi Stadium, Los Angeles.",
+            "Folarin Balogun scored twice; Christian Pulisic controlled the midfield throughout the match.",
+            "The decisive win sent shockwaves through Group C and elevated US title hopes at home World Cup."
+          ],
+          "source": "NPR / NBC News",
+          "url": "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-2026-june-12-live-updates-rcna349721"
+        },
+        {
+          "emoji": "🎯",
+          "title": "Trump Announces US Strike Killed Tren de Aragua Gang Leader in Venezuela",
+          "bullets": [
+            "President Trump said a US strike killed Hector Rusthenford Guerrero Flores, Tren de Aragua's top leader.",
+            "Trump called Guerrero Flores 'the infamous leader' and announced the operation on Friday.",
+            "The strike marks one of the most high-profile US counter-gang operations in South America."
+          ],
+          "source": "NPR",
+          "url": "https://www.npr.org/sections/national/"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Trump's Name Removed from Kennedy Center After Court-Ordered Deadline",
+          "bullets": [
+            "Workers removed Trump's name from the Kennedy Center facade Saturday, hours after a Friday deadline.",
+            "A federal court order required all references to Trump to be removed from the building by Friday.",
+            "The ruling follows an ongoing legal battle over Trump's renaming of the arts venue."
+          ],
+          "source": "NPR",
+          "url": "https://www.npr.org/sections/news"
+        },
+        {
+          "emoji": "📡",
+          "title": "FISA Section 702 Surveillance Renewal Fails in Congress Before Recess",
+          "bullets": [
+            "Efforts to renew FISA Section 702 failed before the House left for a scheduled recess.",
+            "The government says more than 60% of the president's daily intelligence briefing relies on this tool.",
+            "The expiration creates a critical gap in signals intelligence collection the White House calls urgent."
+          ],
+          "source": "NPR",
+          "url": "https://www.npr.org/sections/national/"
+        },
+        {
+          "emoji": "🚀",
+          "title": "SpaceX IPO Raises $75B in Largest Market Debut Ever; SPCX Surges 19% on Day One",
+          "bullets": [
+            "SpaceX priced its IPO at $135/share on June 11, implying a $1.75 trillion valuation.",
+            "SPCX opened at $150 on Nasdaq June 12 and closed at $161.11, up 19% on its first day.",
+            "The debut makes SpaceX one of the world's most valuable companies, rivaling Amazon."
+          ],
+          "source": "CNBC / Yahoo Finance",
+          "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "theme": "theme-global",
+      "subtitle": "Top 5 trending worldwide",
+      "articles": [
+        {
+          "emoji": "🚨",
+          "title": "Iran Closes Strait of Hormuz as US-Iran Strikes Escalate Into Second Day",
+          "bullets": [
+            "Iran declared the Strait of Hormuz closed to all shipping after a second day of US-Iran strikes.",
+            "Three tankers carrying Indian crews were struck in four days amid intensified hostilities.",
+            "A US-Iran peace deal framework is reportedly close to signing, with key terms including reopening the strait."
+          ],
+          "source": "CNN / Britannica",
+          "url": "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel"
+        },
+        {
+          "emoji": "🕊️",
+          "title": "US-Iran Peace Deal Framework Finalized; Signing Expected in Coming Days",
+          "bullets": [
+            "A purported US-Iran deal framework is finalized, with signing expected within days.",
+            "Key terms include complete reopening of the Strait of Hormuz and lifting of US blockade on Iranian ports.",
+            "Markets briefly weakened after Trump warned Iran before recovering on progress reports."
+          ],
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel"
+        },
+        {
+          "emoji": "⛪",
+          "title": "Pope Leo XIV Blesses Sagrada Familia's New Tower — Now World's Tallest Church",
+          "bullets": [
+            "Pope Leo XIV blessed Barcelona's Sagrada Familia new tower, now the world's tallest church.",
+            "The mass marked 100 years since Antoni Gaudí's death, drawing enormous global attention.",
+            "The completed tower caps more than a century of construction on the iconic UNESCO site."
+          ],
+          "source": "Euronews",
+          "url": "https://www.euronews.com/news/international"
+        },
+        {
+          "emoji": "🔥",
+          "title": "Northern Ireland Violence Erupts: Anti-Immigrant Riots Rock Belfast for Second Night",
+          "bullets": [
+            "Protesters set fires and hurled bricks at police in Belfast during a second night of violence.",
+            "The unrest was sparked by a stabbing incident and quickly escalated into anti-immigrant riots.",
+            "Police warned more violence was likely as tensions remained high across Northern Ireland."
+          ],
+          "source": "Euronews",
+          "url": "https://www.euronews.com/news/international"
+        },
+        {
+          "emoji": "🌍",
+          "title": "Somali Referee Denied US Entry, Barred from World Cup 2026 Officiating Role",
+          "bullets": [
+            "Somali referee Omar Artan was denied entry to the United States and removed from the World Cup officials list.",
+            "Hundreds of supporters welcomed him back in Mogadishu after his removal became public.",
+            "FIFA has not publicly commented; the incident raised questions about visa policy during a US-hosted tournament."
+          ],
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-2026-group-match-trump-schedule-lineups"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "theme": "theme-india",
+      "subtitle": "Top 5 from India",
+      "articles": [
+        {
+          "emoji": "🇫🇷",
+          "title": "PM Modi Visits France to Meet Macron in Nice, Review Strategic Partnership",
+          "bullets": [
+            "PM Modi is in France June 13-18, meeting Macron in Nice on June 14 to review bilateral ties.",
+            "India-France relations were elevated to a 'special global strategic partnership' earlier this year.",
+            "The visit follows India's record 7.7% GDP growth in FY26, reaffirming its major-economy status."
+          ],
+          "source": "TV9 Hindi / Amar Ujala",
+          "url": "https://www.tv9hindi.com/india/aaj-ki-taaja-khabar-live-updates-latest-news-hindi-samachar-daily-breaking-13-june-2026-3818645.html"
+        },
+        {
+          "emoji": "🎖️",
+          "title": "President Murmu Attends IMA Passing Out Parade in Uttarakhand",
+          "bullets": [
+            "President Droupadi Murmu presided over the 158th Regular Course and 141st Technical Graduate Course parade.",
+            "The ceremony at the Indian Military Academy in Uttarakhand commissioned new officers into the army.",
+            "Murmu congratulated graduates and emphasized the importance of national service and discipline."
+          ],
+          "source": "Newsonair",
+          "url": "https://newsonair.gov.in/"
+        },
+        {
+          "emoji": "🏏",
+          "title": "Afghanistan Cricket Team Tours India for Test and ODIs Through June 20",
+          "bullets": [
+            "Afghanistan's cricket team is touring India from June 6-20, playing one Test and three ODIs.",
+            "The series is seen as a major step for Afghanistan cricket's development on the world stage.",
+            "India's first ODI against Afghanistan drew large crowds ahead of the World Cup tournament."
+          ],
+          "source": "Wikipedia / Amar Ujala",
+          "url": "https://en.wikipedia.org/wiki/Afghan_cricket_team_in_India_in_2026"
+        },
+        {
+          "emoji": "🎓",
+          "title": "Rahul Gandhi Launches Student Conference Series Starting June 17 in Kota",
+          "bullets": [
+            "Congress leader Rahul Gandhi will hold large student conferences starting June 17 in Kota.",
+            "Follow-up events are planned in Allahabad on July 10, Patna on July 11, and Delhi on July 14.",
+            "The initiative targets student voters ahead of upcoming state and national electoral cycles."
+          ],
+          "source": "Newsonair",
+          "url": "https://newsonair.gov.in/"
+        },
+        {
+          "emoji": "🤖",
+          "title": "TCS Partners with Anthropic to Scale Enterprise AI Across Global Clients",
+          "bullets": [
+            "Tata Consultancy Services partnered with Anthropic to bring Claude AI to enterprise clients worldwide.",
+            "TCS gives Anthropic distribution through its global Fortune 500 customer base across industries.",
+            "The deal signals India's IT services sector is betting big on frontier AI integration."
+          ],
+          "source": "Reuters / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "theme": "theme-stocks",
+      "subtitle": "Top 5 market movers",
+      "articles": [
+        {
+          "emoji": "🚀",
+          "title": "SpaceX (SPCX) Closes 19% Above IPO Price at $161 on Record-Breaking Nasdaq Debut",
+          "bullets": [
+            "SpaceX stock opened at $150 and closed at $161.11, a 19% gain from its $135 IPO price.",
+            "At its session high of $168.75, SpaceX's market cap hit $2.21 trillion, near Amazon's $2.54T.",
+            "The IPO raised approximately $75 billion — the largest in market history."
+          ],
+          "source": "CNBC / Yahoo Finance",
+          "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html"
+        },
+        {
+          "emoji": "📈",
+          "title": "S&P 500 Gains 0.5%, Dow +0.7% on SpaceX IPO Boost and Iran Peace Deal Hopes",
+          "bullets": [
+            "The S&P 500 gained 0.5%, the Nasdaq rose 0.3%, and the Dow advanced 0.7% on June 12.",
+            "SpaceX's strong debut lifted broader market sentiment alongside Iran peace deal progress reports.",
+            "Stocks were on track for a positive week as geopolitical risk appetite improved."
+          ],
+          "source": "Schwab / Bloomberg",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Oil Prices Volatile as Iran Closes Strait of Hormuz, Peace Talks Emerge",
+          "bullets": [
+            "Crude oil prices swung sharply as Iran declared Strait of Hormuz closed to shipping.",
+            "Prices pulled back from highs after reports of an imminent US-Iran deal framework emerged.",
+            "Energy analysts warn any deal collapse could push Brent crude to multi-year highs."
+          ],
+          "source": "Reuters",
+          "url": "https://www.reuters.com/"
+        },
+        {
+          "emoji": "💻",
+          "title": "Tech Sector Accounts for Nearly Half of All 2026 S&P 500 Earnings Growth",
+          "bullets": [
+            "Technology companies are responsible for nearly half of total expected 2026 S&P 500 earnings growth.",
+            "AI-driven spending on chips, cloud, and software is the primary driver of tech sector outperformance.",
+            "Analysts note that concentration risk in tech remains one of the market's key vulnerabilities."
+          ],
+          "source": "Morningstar",
+          "url": "https://www.morningstar.com/markets"
+        },
+        {
+          "emoji": "📊",
+          "title": "Markets Eye Iran Deal and World Cup Sentiment as Trading Week Wraps Positive",
+          "bullets": [
+            "Equity markets closed the week broadly higher, driven by peace deal optimism and the SpaceX IPO.",
+            "Investors are watching Iran negotiations closely as any deal would ease oil and shipping concerns.",
+            "Consumer sentiment may get a lift from US World Cup performance boosting retail and media spending."
+          ],
+          "source": "Schwab",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "theme": "theme-business",
+      "subtitle": "Top 5 corporate stories",
+      "articles": [
+        {
+          "emoji": "🚀",
+          "title": "SpaceX IPO Makes Elon Musk World's First Likely Trillionaire; Company Valued at $2.1T",
+          "bullets": [
+            "SpaceX's $2.1 trillion market cap after its IPO debut pushed Musk's net worth toward $1 trillion.",
+            "The company raised $75 billion in the largest IPO ever, dwarfing previous records.",
+            "Steve Eisman of 'The Big Short' is avoiding the stock, citing growing capital needs and concerns."
+          ],
+          "source": "Yahoo Finance / Bloomberg",
+          "url": "https://finance.yahoo.com/markets/stocks/article/spacex-sets-135-ipo-price-ahead-of-friday-nasdaq-debut-101955774.html"
+        },
+        {
+          "emoji": "🏗️",
+          "title": "KKR Launches $10B Helix Digital AI Infrastructure Company with Nvidia and Vistra",
+          "bullets": [
+            "KKR launched Helix Digital Infrastructure with Nvidia, Vistra, and Kuwait Investment Authority backing.",
+            "Former AWS CEO Adam Selipsky will lead the $10 billion AI data center and power infrastructure firm.",
+            "The company will build data centers, power generation, and connectivity for AI hyperscalers."
+          ],
+          "source": "Wall Street Journal / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        },
+        {
+          "emoji": "📦",
+          "title": "Amazon Borrows $17.5B from Banks to Fund Surging AI Infrastructure Spending",
+          "bullets": [
+            "Amazon signed a deal to borrow $17.5 billion from banks for AI cloud and data center expansion.",
+            "The debt raise signals the scale of investment needed to compete with Microsoft, Google, and Oracle.",
+            "AI demand is reshaping Big Tech economics, turning infrastructure spending into a financing race."
+          ],
+          "source": "TechCrunch / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        },
+        {
+          "emoji": "💰",
+          "title": "OpenAI Considers Deep Price Cuts as Competition with Anthropic Intensifies",
+          "bullets": [
+            "OpenAI is weighing significant price reductions for its AI services to fend off Anthropic competition.",
+            "The move would shift the AI race from model benchmarks to price, distribution, and retention.",
+            "Lower AI pricing could accelerate enterprise adoption but squeeze margins across the sector."
+          ],
+          "source": "Wall Street Journal / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        },
+        {
+          "emoji": "🇬🇧",
+          "title": "UK Consumer Confidence Falls Fastest Since 2022 as Middle East Conflict Bites",
+          "bullets": [
+            "UK consumer confidence fell at its fastest quarterly rate since June 2022 amid Middle East tensions.",
+            "British households are bracing for renewed financial pressure as conflict dampens economic outlook.",
+            "Higher energy prices linked to the Strait of Hormuz closure are the primary concern for UK consumers."
+          ],
+          "source": "Reuters",
+          "url": "https://www.reuters.com/"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💡",
+      "theme": "theme-tech",
+      "subtitle": "Top 5 in technology",
+      "articles": [
+        {
+          "emoji": "📊",
+          "title": "77% of Americans Fear AI Data Centers Will Raise Electricity Bills, Poll Finds",
+          "bullets": [
+            "Reuters/Ipsos poll: only 33% of Americans approve of rapid AI data center construction nationwide.",
+            "77% worry data centers will drive up electricity costs; just 14% would welcome one near their community.",
+            "14 states have considered moratoriums as local opposition delays projects across the country."
+          ],
+          "source": "Reuters / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        },
+        {
+          "emoji": "📱",
+          "title": "EU Orders Meta to Open WhatsApp Business API to Rival AI Chatbots Within 5 Days",
+          "bullets": [
+            "The European Commission issued interim measures requiring Meta to restore WhatsApp API access for AI rivals.",
+            "OpenAI and Anthropic assistants must be allowed access under the order; Meta plans to appeal.",
+            "The ruling aims to prevent dominant platforms from locking users into proprietary AI ecosystems."
+          ],
+          "source": "BBC / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        },
+        {
+          "emoji": "🏗️",
+          "title": "KKR and Nvidia Launch $10B Helix AI Infrastructure Company; Adam Selipsky CEO",
+          "bullets": [
+            "KKR's Helix Digital Infrastructure will build the integrated backbone AI hyperscalers now need.",
+            "Former AWS CEO Adam Selipsky leads the venture backed by Nvidia, Vistra, and Kuwait sovereign wealth.",
+            "The $10B company will focus on AI data centers, power, and connectivity infrastructure at scale."
+          ],
+          "source": "Wall Street Journal / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        },
+        {
+          "emoji": "🍁",
+          "title": "Canada Proposes Bill to Ban Social Media for Under-16s and Regulate AI Chatbots",
+          "bullets": [
+            "Canada introduced legislation that would ban social media for children under 16.",
+            "The bill also targets AI chatbot regulation, adding Canada to growing list of countries acting on youth safety.",
+            "Age verification, parental consent, and AI chatbot safeguards are all contested elements of the proposal."
+          ],
+          "source": "Reuters / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        },
+        {
+          "emoji": "🌐",
+          "title": "OpenAI: Chinese Influence Operations Used ChatGPT to Spread Content on US Tariffs",
+          "bullets": [
+            "OpenAI uncovered covert Chinese influence operations using ChatGPT for US social media content.",
+            "Campaigns pushed claims about AI data centers raising electricity prices and framed tariffs geopolitically.",
+            "The report highlights generative AI's growing role as a tool in geopolitical influence operations."
+          ],
+          "source": "CyberScoop / TechStartups",
+          "url": "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
+        }
+      ]
+    }
+  }
+}

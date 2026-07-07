@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ajinx Daily News</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%B0%3C/text%3E%3C/svg%3E">
 <style>
   :root { color-scheme: light; }
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -17,15 +18,25 @@
     display: flex; align-items: center; justify-content: space-between;
     box-shadow: 0 2px 12px rgba(0,0,0,0.2);
     position: sticky; top: 0; z-index: 100;
+    flex-wrap: wrap; gap: 12px;
   }
   .header-left h1 { font-size: 1.4rem; font-weight: 700; }
   .header-left p { font-size: 0.78rem; color: #a0aec0; margin-top: 2px; }
-  .header-right { display: flex; align-items: center; gap: 10px; }
+  .header-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   #last-updated {
     font-size: 0.75rem; color: #a0aec0;
     background: rgba(255,255,255,0.08);
     padding: 5px 12px; border-radius: 20px;
+    white-space: nowrap;
   }
+  #history-select {
+    font-size: 0.75rem; color: #fff;
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.2);
+    padding: 5px 10px; border-radius: 20px;
+    cursor: pointer;
+  }
+  #history-select option { color: #1a1a2e; }
   .category-nav {
     background: #fff; padding: 0 28px;
     display: flex; gap: 2px; overflow-x: auto;
@@ -67,15 +78,7 @@
     display: flex; align-items: center; justify-content: center;
     font-size: 2.6rem; flex-shrink: 0; overflow: hidden; position: relative;
   }
-  .card-image img {
-    width: 100%; height: 100%; object-fit: cover; display: block;
-  }
-  .card-image .emoji-fallback {
-    font-size: 2.6rem;
-    display: flex; align-items: center; justify-content: center;
-    width: 100%; height: 100%;
-  }
-  .card-image img.svg-card { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .card-image img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .card-body { padding: 14px; flex: 1; display: flex; flex-direction: column; }
   .card-category-tag {
     display: inline-block; font-size: 0.65rem; font-weight: 700;
@@ -102,27 +105,28 @@
   .theme-global  { --cc:#805ad5; --cb:#faf5ff; }
   .theme-india   { --cc:#dd6b20; --cb:#fffaf0; }
   .theme-stocks  { --cc:#38a169; --cb:#f0fff4; }
-  .theme-business{ --cc:#2b6cb0; --cb:#ebf8ff; }
+  .theme-business{ --cc:#2b6cb0; --cb:#dbeafe; }
   .theme-tech    { --cc:#e53e3e; --cb:#fff5f5; }
   .news-card .card-category-tag { background: var(--cb,#f0f0f0); color: var(--cc,#666); }
   .section-icon.theme-us      { background:#ebf8ff; }
   .section-icon.theme-global  { background:#faf5ff; }
   .section-icon.theme-india   { background:#fffaf0; }
   .section-icon.theme-stocks  { background:#f0fff4; }
-  .section-icon.theme-business{ background:#ebf8ff; }
+  .section-icon.theme-business{ background:#dbeafe; }
   .section-icon.theme-tech    { background:#fff5f5; }
   .card-image.theme-us      { background:#ebf8ff; }
   .card-image.theme-global  { background:#faf5ff; }
   .card-image.theme-india   { background:#fffaf0; }
   .card-image.theme-stocks  { background:#f0fff4; }
-  .card-image.theme-business{ background:#ebf8ff; }
+  .card-image.theme-business{ background:#dbeafe; }
   .card-image.theme-tech    { background:#fff5f5; }
 
-  .stale-banner {
-    background: #fffbea; border: 1px solid #f6d860;
-    color: #744210; font-size: 0.8rem; padding: 10px 20px;
-    text-align: center;
+  .banner {
+    font-size: 0.8rem; padding: 10px 20px; text-align: center;
   }
+  .stale-banner { background: #fffbea; border: 1px solid #f6d860; color: #744210; }
+  .error-banner { background: #fff5f5; border: 1px solid #feb2b2; color: #742a2a; }
+  .empty-state { text-align: center; padding: 60px 20px; color: #718096; }
 </style>
 </head>
 <body>
@@ -133,424 +137,37 @@
     <p>US · Global · India · Markets · Business · Tech</p>
   </div>
   <div class="header-right">
+    <select id="history-select" aria-label="Select date"></select>
     <span id="last-updated"></span>
   </div>
 </header>
 
-<div id="stale-banner" class="stale-banner" style="display:none">
-  ⏰ This feed is from a previous day. It refreshes automatically at 9 AM via your scheduled task.
+<div id="stale-banner" class="banner stale-banner" style="display:none">
+  ⏰ This feed is from a previous day. It refreshes automatically at 9 AM ET via a scheduled GitHub Action.
 </div>
+<div id="error-banner" class="banner error-banner" style="display:none"></div>
 
-<nav class="category-nav">
-  <button class="cat-btn active" onclick="showCat('all',this)">🌐 All</button>
-  <button class="cat-btn" onclick="showCat('us',this)">🇺🇸 US News</button>
-  <button class="cat-btn" onclick="showCat('global',this)">🌍 Global</button>
-  <button class="cat-btn" onclick="showCat('india',this)">🇮🇳 India</button>
-  <button class="cat-btn" onclick="showCat('stocks',this)">📈 Stocks</button>
-  <button class="cat-btn" onclick="showCat('business',this)">💼 Business</button>
-  <button class="cat-btn" onclick="showCat('tech',this)">💡 Tech</button>
+<nav class="category-nav" id="category-nav">
+  <button class="cat-btn active" data-cat="all">🌐 All</button>
 </nav>
 
 <main id="main"></main>
 
 <script>
-// ── NEWS DATA (refreshed daily by scheduled task) ──────────────────────
-const FEED_DATE = "Sunday, June 14, 2026";
-const NEWS = {
-  us: {
-    label: "US News", icon: "🇺🇸", theme: "theme-us", subtitle: "Top 5 domestic stories",
-    articles: [
-      {
-        emoji: "⚽",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Capitol_Building_Full_View.jpg/1200px-Capitol_Building_Full_View.jpg",
-        title: "USMNT Stuns Paraguay 4-1 in World Cup 2026 Opener at SoFi Stadium",
-        bullets: [
-          "The US Men's National Team dominated Paraguay 4-1 on June 12 at SoFi Stadium, Los Angeles.",
-          "Folarin Balogun scored twice; Christian Pulisic controlled the midfield throughout the match.",
-          "The decisive win sent shockwaves through Group C and elevated US title hopes at home World Cup."
-        ],
-        source: "NPR / NBC News",
-        url: "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-2026-june-12-live-updates-rcna349721"
-      },
-      {
-        emoji: "🎯",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Capitol_Building_Full_View.jpg/1200px-Capitol_Building_Full_View.jpg",
-        title: "Trump Announces US Strike Killed Tren de Aragua Gang Leader in Venezuela",
-        bullets: [
-          "President Trump said a US strike killed Hector Rusthenford Guerrero Flores, Tren de Aragua's top leader.",
-          "Trump called Guerrero Flores 'the infamous leader' and announced the operation on Friday.",
-          "The strike marks one of the most high-profile US counter-gang operations in South America."
-        ],
-        source: "NPR",
-        url: "https://www.npr.org/sections/national/"
-      },
-      {
-        emoji: "🏛️",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Capitol_Building_Full_View.jpg/1200px-Capitol_Building_Full_View.jpg",
-        title: "Trump's Name Removed from Kennedy Center After Court-Ordered Deadline",
-        bullets: [
-          "Workers removed Trump's name from the Kennedy Center facade Saturday, hours after a Friday deadline.",
-          "A federal court order required all references to Trump to be removed from the building by Friday.",
-          "The ruling follows an ongoing legal battle over Trump's renaming of the arts venue."
-        ],
-        source: "NPR",
-        url: "https://www.npr.org/sections/news"
-      },
-      {
-        emoji: "📡",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Capitol_Building_Full_View.jpg/1200px-Capitol_Building_Full_View.jpg",
-        title: "FISA Section 702 Surveillance Renewal Fails in Congress Before Recess",
-        bullets: [
-          "Efforts to renew FISA Section 702 failed before the House left for a scheduled recess.",
-          "The government says more than 60% of the president's daily intelligence briefing relies on this tool.",
-          "The expiration creates a critical gap in signals intelligence collection the White House calls urgent."
-        ],
-        source: "NPR",
-        url: "https://www.npr.org/sections/national/"
-      },
-      {
-        emoji: "🚀",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/SpaceX_Dragon_C2%2B_berthing_ISS.jpg/1200px-SpaceX_Dragon_C2%2B_berthing_ISS.jpg",
-        title: "SpaceX IPO Raises $75B in Largest Market Debut Ever; SPCX Surges 19% on Day One",
-        bullets: [
-          "SpaceX priced its IPO at $135/share on June 11, implying a $1.75 trillion valuation.",
-          "SPCX opened at $150 on Nasdaq June 12 and closed at $161.11, up 19% on its first day.",
-          "The debut makes SpaceX one of the world's most valuable companies, rivaling Amazon."
-        ],
-        source: "CNBC / Yahoo Finance",
-        url: "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html"
-      }
-    ]
-  },
-  global: {
-    label: "Global", icon: "🌍", theme: "theme-global", subtitle: "Top 5 trending worldwide",
-    articles: [
-      {
-        emoji: "🚨",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
-        title: "Iran Closes Strait of Hormuz as US-Iran Strikes Escalate Into Second Day",
-        bullets: [
-          "Iran declared the Strait of Hormuz closed to all shipping after a second day of US-Iran strikes.",
-          "Three tankers carrying Indian crews were struck in four days amid intensified hostilities.",
-          "A US-Iran peace deal framework is reportedly close to signing, with key terms including reopening the strait."
-        ],
-        source: "CNN / Britannica",
-        url: "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel"
-      },
-      {
-        emoji: "🕊️",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
-        title: "US-Iran Peace Deal Framework Finalized; Signing Expected in Coming Days",
-        bullets: [
-          "A purported US-Iran deal framework is finalized, with signing expected within days.",
-          "Key terms include complete reopening of the Strait of Hormuz and lifting of US blockade on Iranian ports.",
-          "Markets briefly weakened after Trump warned Iran before recovering on progress reports."
-        ],
-        source: "CNN",
-        url: "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel"
-      },
-      {
-        emoji: "⛪",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
-        title: "Pope Leo XIV Blesses Sagrada Familia's New Tower — Now World's Tallest Church",
-        bullets: [
-          "Pope Leo XIV blessed Barcelona's Sagrada Familia new tower, now the world's tallest church.",
-          "The mass marked 100 years since Antoni Gaudí's death, drawing enormous global attention.",
-          "The completed tower caps more than a century of construction on the iconic UNESCO site."
-        ],
-        source: "Euronews",
-        url: "https://www.euronews.com/news/international"
-      },
-      {
-        emoji: "🔥",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
-        title: "Northern Ireland Violence Erupts: Anti-Immigrant Riots Rock Belfast for Second Night",
-        bullets: [
-          "Protesters set fires and hurled bricks at police in Belfast during a second night of violence.",
-          "The unrest was sparked by a stabbing incident and quickly escalated into anti-immigrant riots.",
-          "Police warned more violence was likely as tensions remained high across Northern Ireland."
-        ],
-        source: "Euronews",
-        url: "https://www.euronews.com/news/international"
-      },
-      {
-        emoji: "🌍",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1024px-The_Earth_seen_from_Apollo_17.jpg",
-        title: "Somali Referee Denied US Entry, Barred from World Cup 2026 Officiating Role",
-        bullets: [
-          "Somali referee Omar Artan was denied entry to the United States and removed from the World Cup officials list.",
-          "Hundreds of supporters welcomed him back in Mogadishu after his removal became public.",
-          "FIFA has not publicly commented; the incident raised questions about visa policy during a US-hosted tournament."
-        ],
-        source: "Al Jazeera",
-        url: "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-2026-group-match-trump-schedule-lineups"
-      }
-    ]
-  },
-  india: {
-    label: "India News", icon: "🇮🇳", theme: "theme-india", subtitle: "Top 5 from India",
-    articles: [
-      {
-        emoji: "🇫🇷",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
-        title: "PM Modi Visits France to Meet Macron in Nice, Review Strategic Partnership",
-        bullets: [
-          "PM Modi is in France June 13-18, meeting Macron in Nice on June 14 to review bilateral ties.",
-          "India-France relations were elevated to a 'special global strategic partnership' earlier this year.",
-          "The visit follows India's record 7.7% GDP growth in FY26, reaffirming its major-economy status."
-        ],
-        source: "TV9 Hindi / Amar Ujala",
-        url: "https://www.tv9hindi.com/india/aaj-ki-taaja-khabar-live-updates-latest-news-hindi-samachar-daily-breaking-13-june-2026-3818645.html"
-      },
-      {
-        emoji: "🎖️",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
-        title: "President Murmu Attends IMA Passing Out Parade in Uttarakhand",
-        bullets: [
-          "President Droupadi Murmu presided over the 158th Regular Course and 141st Technical Graduate Course parade.",
-          "The ceremony at the Indian Military Academy in Uttarakhand commissioned new officers into the army.",
-          "Murmu congratulated graduates and emphasized the importance of national service and discipline."
-        ],
-        source: "Newsonair",
-        url: "https://newsonair.gov.in/"
-      },
-      {
-        emoji: "🏏",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
-        title: "Afghanistan Cricket Team Tours India for Test and ODIs Through June 20",
-        bullets: [
-          "Afghanistan's cricket team is touring India from June 6-20, playing one Test and three ODIs.",
-          "The series is seen as a major step for Afghanistan cricket's development on the world stage.",
-          "India's first ODI against Afghanistan drew large crowds ahead of the World Cup tournament."
-        ],
-        source: "Wikipedia / Amar Ujala",
-        url: "https://en.wikipedia.org/wiki/Afghan_cricket_team_in_India_in_2026"
-      },
-      {
-        emoji: "🎓",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
-        title: "Rahul Gandhi Launches Student Conference Series Starting June 17 in Kota",
-        bullets: [
-          "Congress leader Rahul Gandhi will hold large student conferences starting June 17 in Kota.",
-          "Follow-up events are planned in Allahabad on July 10, Patna on July 11, and Delhi on July 14.",
-          "The initiative targets student voters ahead of upcoming state and national electoral cycles."
-        ],
-        source: "Newsonair",
-        url: "https://newsonair.gov.in/"
-      },
-      {
-        emoji: "🤖",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vidhana_Soudha%2C_Bangalore.jpg/1200px-Vidhana_Soudha%2C_Bangalore.jpg",
-        title: "TCS Partners with Anthropic to Scale Enterprise AI Across Global Clients",
-        bullets: [
-          "Tata Consultancy Services partnered with Anthropic to bring Claude AI to enterprise clients worldwide.",
-          "TCS gives Anthropic distribution through its global Fortune 500 customer base across industries.",
-          "The deal signals India's IT services sector is betting big on frontier AI integration."
-        ],
-        source: "Reuters / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      }
-    ]
-  },
-  stocks: {
-    label: "US Stocks", icon: "📈", theme: "theme-stocks", subtitle: "Top 5 market movers",
-    articles: [
-      {
-        emoji: "🚀",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/SpaceX_Dragon_C2%2B_berthing_ISS.jpg/1200px-SpaceX_Dragon_C2%2B_berthing_ISS.jpg",
-        title: "SpaceX (SPCX) Closes 19% Above IPO Price at $161 on Record-Breaking Nasdaq Debut",
-        bullets: [
-          "SpaceX stock opened at $150 and closed at $161.11, a 19% gain from its $135 IPO price.",
-          "At its session high of $168.75, SpaceX's market cap hit $2.21 trillion, near Amazon's $2.54T.",
-          "The IPO raised approximately $75 billion — the largest in market history."
-        ],
-        source: "CNBC / Yahoo Finance",
-        url: "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html"
-      },
-      {
-        emoji: "📈",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
-        title: "S&P 500 Gains 0.5%, Dow +0.7% on SpaceX IPO Boost and Iran Peace Deal Hopes",
-        bullets: [
-          "The S&P 500 gained 0.5%, the Nasdaq rose 0.3%, and the Dow advanced 0.7% on June 12.",
-          "SpaceX's strong debut lifted broader market sentiment alongside Iran peace deal progress reports.",
-          "Stocks were on track for a positive week as geopolitical risk appetite improved."
-        ],
-        source: "Schwab / Bloomberg",
-        url: "https://www.schwab.com/learn/story/stock-market-update-open"
-      },
-      {
-        emoji: "🛢️",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
-        title: "Oil Prices Volatile as Iran Closes Strait of Hormuz, Peace Talks Emerge",
-        bullets: [
-          "Crude oil prices swung sharply as Iran declared Strait of Hormuz closed to shipping.",
-          "Prices pulled back from highs after reports of an imminent US-Iran deal framework emerged.",
-          "Energy analysts warn any deal collapse could push Brent crude to multi-year highs."
-        ],
-        source: "Reuters",
-        url: "https://www.reuters.com/"
-      },
-      {
-        emoji: "💻",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
-        title: "Tech Sector Accounts for Nearly Half of All 2026 S&P 500 Earnings Growth",
-        bullets: [
-          "Technology companies are responsible for nearly half of total expected 2026 S&P 500 earnings growth.",
-          "AI-driven spending on chips, cloud, and software is the primary driver of tech sector outperformance.",
-          "Analysts note that concentration risk in tech remains one of the market's key vulnerabilities."
-        ],
-        source: "Morningstar",
-        url: "https://www.morningstar.com/markets"
-      },
-      {
-        emoji: "📊",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/New_York_Stock_Exchange.jpg/1200px-New_York_Stock_Exchange.jpg",
-        title: "Markets Eye Iran Deal and World Cup Sentiment as Trading Week Wraps Positive",
-        bullets: [
-          "Equity markets closed the week broadly higher, driven by peace deal optimism and the SpaceX IPO.",
-          "Investors are watching Iran negotiations closely as any deal would ease oil and shipping concerns.",
-          "Consumer sentiment may get a lift from US World Cup performance boosting retail and media spending."
-        ],
-        source: "Schwab",
-        url: "https://www.schwab.com/learn/story/stock-market-update-open"
-      }
-    ]
-  },
-  business: {
-    label: "Business", icon: "💼", theme: "theme-business", subtitle: "Top 5 corporate stories",
-    articles: [
-      {
-        emoji: "🚀",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/SpaceX_Dragon_C2%2B_berthing_ISS.jpg/1200px-SpaceX_Dragon_C2%2B_berthing_ISS.jpg",
-        title: "SpaceX IPO Makes Elon Musk World's First Likely Trillionaire; Company Valued at $2.1T",
-        bullets: [
-          "SpaceX's $2.1 trillion market cap after its IPO debut pushed Musk's net worth toward $1 trillion.",
-          "The company raised $75 billion in the largest IPO ever, dwarfing previous records.",
-          "Steve Eisman of 'The Big Short' is avoiding the stock, citing growing capital needs and concerns."
-        ],
-        source: "Yahoo Finance / Bloomberg",
-        url: "https://finance.yahoo.com/markets/stocks/article/spacex-sets-135-ipo-price-ahead-of-friday-nasdaq-debut-101955774.html"
-      },
-      {
-        emoji: "🏗️",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nasdaq_stock_exchange_logo.svg/1200px-Nasdaq_stock_exchange_logo.svg.png",
-        title: "KKR Launches $10B Helix Digital AI Infrastructure Company with Nvidia and Vistra",
-        bullets: [
-          "KKR launched Helix Digital Infrastructure with Nvidia, Vistra, and Kuwait Investment Authority backing.",
-          "Former AWS CEO Adam Selipsky will lead the $10 billion AI data center and power infrastructure firm.",
-          "The company will build data centers, power generation, and connectivity for AI hyperscalers."
-        ],
-        source: "Wall Street Journal / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      },
-      {
-        emoji: "📦",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nasdaq_stock_exchange_logo.svg/1200px-Nasdaq_stock_exchange_logo.svg.png",
-        title: "Amazon Borrows $17.5B from Banks to Fund Surging AI Infrastructure Spending",
-        bullets: [
-          "Amazon signed a deal to borrow $17.5 billion from banks for AI cloud and data center expansion.",
-          "The debt raise signals the scale of investment needed to compete with Microsoft, Google, and Oracle.",
-          "AI demand is reshaping Big Tech economics, turning infrastructure spending into a financing race."
-        ],
-        source: "TechCrunch / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      },
-      {
-        emoji: "💰",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nasdaq_stock_exchange_logo.svg/1200px-Nasdaq_stock_exchange_logo.svg.png",
-        title: "OpenAI Considers Deep Price Cuts as Competition with Anthropic Intensifies",
-        bullets: [
-          "OpenAI is weighing significant price reductions for its AI services to fend off Anthropic competition.",
-          "The move would shift the AI race from model benchmarks to price, distribution, and retention.",
-          "Lower AI pricing could accelerate enterprise adoption but squeeze margins across the sector."
-        ],
-        source: "Wall Street Journal / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      },
-      {
-        emoji: "🇬🇧",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nasdaq_stock_exchange_logo.svg/1200px-Nasdaq_stock_exchange_logo.svg.png",
-        title: "UK Consumer Confidence Falls Fastest Since 2022 as Middle East Conflict Bites",
-        bullets: [
-          "UK consumer confidence fell at its fastest quarterly rate since June 2022 amid Middle East tensions.",
-          "British households are bracing for renewed financial pressure as conflict dampens economic outlook.",
-          "Higher energy prices linked to the Strait of Hormuz closure are the primary concern for UK consumers."
-        ],
-        source: "Reuters",
-        url: "https://www.reuters.com/"
-      }
-    ]
-  },
-  tech: {
-    label: "Tech", icon: "💡", theme: "theme-tech", subtitle: "Top 5 in technology",
-    articles: [
-      {
-        emoji: "📊",
-        img: "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
-        title: "77% of Americans Fear AI Data Centers Will Raise Electricity Bills, Poll Finds",
-        bullets: [
-          "Reuters/Ipsos poll: only 33% of Americans approve of rapid AI data center construction nationwide.",
-          "77% worry data centers will drive up electricity costs; just 14% would welcome one near their community.",
-          "14 states have considered moratoriums as local opposition delays projects across the country."
-        ],
-        source: "Reuters / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      },
-      {
-        emoji: "📱",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
-        title: "EU Orders Meta to Open WhatsApp Business API to Rival AI Chatbots Within 5 Days",
-        bullets: [
-          "The European Commission issued interim measures requiring Meta to restore WhatsApp API access for AI rivals.",
-          "OpenAI and Anthropic assistants must be allowed access under the order; Meta plans to appeal.",
-          "The ruling aims to prevent dominant platforms from locking users into proprietary AI ecosystems."
-        ],
-        source: "BBC / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      },
-      {
-        emoji: "🏗️",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
-        title: "KKR and Nvidia Launch $10B Helix AI Infrastructure Company; Adam Selipsky CEO",
-        bullets: [
-          "KKR's Helix Digital Infrastructure will build the integrated backbone AI hyperscalers now need.",
-          "Former AWS CEO Adam Selipsky leads the venture backed by Nvidia, Vistra, and Kuwait sovereign wealth.",
-          "The $10B company will focus on AI data centers, power, and connectivity infrastructure at scale."
-        ],
-        source: "Wall Street Journal / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      },
-      {
-        emoji: "🍁",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
-        title: "Canada Proposes Bill to Ban Social Media for Under-16s and Regulate AI Chatbots",
-        bullets: [
-          "Canada introduced legislation that would ban social media for children under 16.",
-          "The bill also targets AI chatbot regulation, adding Canada to growing list of countries acting on youth safety.",
-          "Age verification, parental consent, and AI chatbot safeguards are all contested elements of the proposal."
-        ],
-        source: "Reuters / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      },
-      {
-        emoji: "🌐",
-        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1200px-OpenAI_Logo.svg.png",
-        title: "OpenAI: Chinese Influence Operations Used ChatGPT to Spread Content on US Tariffs",
-        bullets: [
-          "OpenAI uncovered covert Chinese influence operations using ChatGPT for US social media content.",
-          "Campaigns pushed claims about AI data centers raising electricity prices and framed tariffs geopolitically.",
-          "The report highlights generative AI's growing role as a tool in geopolitical influence operations."
-        ],
-        source: "CyberScoop / TechStartups",
-        url: "https://techstartups.com/2026/06/11/top-tech-news-today-june-11-2026/"
-      }
-    ]
-  }
+const CAT_META = {
+  us:       { icon: '🇺🇸', theme: 'theme-us' },
+  global:   { icon: '🌍', theme: 'theme-global' },
+  india:    { icon: '🇮🇳', theme: 'theme-india' },
+  stocks:   { icon: '📈', theme: 'theme-stocks' },
+  business: { icon: '💼', theme: 'theme-business' },
+  tech:     { icon: '💡', theme: 'theme-tech' },
 };
-// ── END NEWS DATA ────────────────────────────────────────────────────────────────────
-const CAT_ORDER = ['us','global','india','stocks','business','tech'];
-let currentCat = 'all';
+const CAT_ORDER = ['us', 'global', 'india', 'stocks', 'business', 'tech'];
+const CAT_LABELS = {
+  us: '🇺🇸 US News', global: '🌍 Global', india: '🇮🇳 India',
+  stocks: '📈 Stocks', business: '💼 Business', tech: '💡 Tech',
+};
+const MAX_HISTORY_ITEMS = 5;
 
 const THEME_COLORS = {
   'theme-us':       {c:'#3182ce', l:'#ebf8ff'},
@@ -561,6 +178,13 @@ const THEME_COLORS = {
   'theme-tech':     {c:'#e53e3e', l:'#fff5f5'},
 };
 
+let currentCat = 'all';
+
+function esc(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
 function cardSvg(emoji, theme) {
   const t = THEME_COLORS[theme] || {c:'#666', l:'#f0f0f0'};
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160">
@@ -569,73 +193,137 @@ function cardSvg(emoji, theme) {
     <circle cx="30" cy="180" r="90" fill="${t.c}" fill-opacity="0.09"/>
     <circle cx="200" cy="80" r="50" fill="${t.c}" fill-opacity="0.06"/>
     <rect x="0" y="130" width="400" height="30" fill="${t.c}" fill-opacity="0.08"/>
-    <text x="200" y="88" font-size="62" text-anchor="middle" dominant-baseline="middle">${emoji}</text>
+    <text x="200" y="88" font-size="62" text-anchor="middle" dominant-baseline="middle">${emoji || '📰'}</text>
   </svg>`;
   return 'data:image/svg+xml,' + encodeURIComponent(svg);
 }
 
-function showCat(cat, btn) {
+function showCat(cat) {
   currentCat = cat;
-  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
-  if (btn) btn.classList.add('active');
+  document.querySelectorAll('.cat-btn').forEach(b => b.classList.toggle('active', b.dataset.cat === cat));
   document.querySelectorAll('.category-section').forEach(s => {
     s.classList.toggle('visible', cat === 'all' || s.dataset.cat === cat);
   });
 }
 
-function esc(s) {
-  if (!s) return '';
-  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+function buildNav(categories) {
+  const nav = document.getElementById('category-nav');
+  const keys = CAT_ORDER.filter(k => categories[k]);
+  nav.innerHTML = '<button class="cat-btn active" data-cat="all">🌐 All</button>' +
+    keys.map(k => `<button class="cat-btn" data-cat="${k}">${esc(CAT_LABELS[k] || k)}</button>`).join('');
+  nav.querySelectorAll('.cat-btn').forEach(btn => {
+    btn.addEventListener('click', () => showCat(btn.dataset.cat));
+  });
 }
 
-function render() {
+function renderNews(data) {
+  const categories = data.categories || {};
+  buildNav(categories);
+  currentCat = 'all';
+
   const main = document.getElementById('main');
-  main.innerHTML = CAT_ORDER.map(id => {
-    const cat = NEWS[id];
-    const cards = cat.articles.map(a => `
-      <div class="news-card ${cat.theme}">
-        <div class="card-image ${cat.theme}">
-          ${a.img
-            ? `<img class="svg-card" src="${esc(a.img)}" alt="${esc(a.title)}" onerror="this.onerror=null;this.src='${cardSvg(a.emoji, cat.theme)}'">`
-            : `<img class="svg-card" src="${cardSvg(a.emoji, cat.theme)}" alt="${esc(a.title)}">`
-          }
-        </div>
-        <div class="card-body">
-          <span class="card-category-tag">${esc(cat.label)}</span>
-          <h3 class="card-title">${esc(a.title)}</h3>
-          <ul class="card-bullets">
-            ${a.bullets.map(b=>`<li>${esc(b)}</li>`).join('')}
-          </ul>
-          <div class="card-footer">
-            <span class="card-source">${esc(a.source)}</span>
-            ${a.url ? `<a class="card-link" href="${esc(a.url)}" target="_blank" rel="noopener">Read more →</a>` : ''}
-          </div>
-        </div>
-      </div>`).join('');
-    return `
-      <section class="category-section visible" data-cat="${id}">
-        <div class="section-header">
-          <div class="section-icon ${cat.theme}">${cat.icon}</div>
-          <div>
-            <div class="section-title">${cat.label}</div>
-            <div class="section-subtitle">${cat.subtitle}</div>
-          </div>
-        </div>
-        <div class="cards-grid">${cards}</div>
-      </section>`;
-  }).join('');
+  const keys = CAT_ORDER.filter(k => categories[k]);
 
-  document.getElementById('last-updated').textContent = `📅 ${FEED_DATE}`;
+  if (keys.length === 0) {
+    main.innerHTML = '<div class="empty-state">No news data available for this date.</div>';
+  } else {
+    main.innerHTML = keys.map(id => {
+      const cat = categories[id];
+      const theme = CAT_META[id]?.theme || 'theme-tech';
+      const icon = cat.icon || CAT_META[id]?.icon || '📰';
+      const cards = (cat.articles || []).map(a => `
+        <div class="news-card ${theme}">
+          <div class="card-image ${theme}">
+            <img src="${cardSvg(a.emoji, theme)}" alt="${esc(a.title)}">
+          </div>
+          <div class="card-body">
+            <span class="card-category-tag">${esc(cat.label || id)}</span>
+            <h3 class="card-title">${esc(a.title)}</h3>
+            <ul class="card-bullets">
+              ${(a.bullets || []).map(b => `<li>${esc(b)}</li>`).join('')}
+            </ul>
+            <div class="card-footer">
+              <span class="card-source">${esc(a.source)}</span>
+              ${a.url ? `<a class="card-link" href="${esc(a.url)}" target="_blank" rel="noopener">Read more →</a>` : ''}
+            </div>
+          </div>
+        </div>`).join('');
+      return `
+        <section class="category-section visible" data-cat="${id}">
+          <div class="section-header">
+            <div class="section-icon ${theme}">${icon}</div>
+            <div>
+              <div class="section-title">${esc(cat.label || id)}</div>
+              <div class="section-subtitle">${esc(cat.subtitle || '')}</div>
+            </div>
+          </div>
+          <div class="cards-grid">${cards}</div>
+        </section>`;
+    }).join('');
+  }
 
-  // Show stale banner if feed is from a previous calendar day
-  const feedDay = new Date(FEED_DATE).toDateString();
-  const today   = new Date().toDateString();
-  if (feedDay !== today) {
-    document.getElementById('stale-banner').style.display = 'block';
+  document.getElementById('last-updated').textContent = `📅 ${data.displayDate || data.date || ''}`;
+
+  const staleBanner = document.getElementById('stale-banner');
+  const isLatestSelected = document.getElementById('history-select').value === (window.__latestDate || '');
+  if (isLatestSelected && data.date) {
+    const feedDay = new Date(`${data.date}T00:00:00`).toDateString();
+    const today = new Date().toDateString();
+    staleBanner.style.display = (feedDay !== today) ? 'block' : 'none';
+  } else {
+    staleBanner.style.display = 'none';
   }
 }
 
-render();
+function showError(message) {
+  const banner = document.getElementById('error-banner');
+  banner.textContent = `⚠️ ${message}`;
+  banner.style.display = 'block';
+  document.getElementById('main').innerHTML = '<div class="empty-state">Unable to load news right now. Please try again later.</div>';
+}
+
+function formatDateLabel(isoDate, isLatest) {
+  const d = new Date(`${isoDate}T00:00:00`);
+  const label = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' });
+  return isLatest ? `Today · ${label}` : label;
+}
+
+async function loadDate(isoDate) {
+  try {
+    const res = await fetch(`data/history/${isoDate}.json`, { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    document.getElementById('error-banner').style.display = 'none';
+    renderNews(data);
+  } catch (err) {
+    showError(`Couldn't load news for ${isoDate}. ${err.message || ''}`);
+  }
+}
+
+async function init() {
+  try {
+    const res = await fetch('data/index.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const manifest = await res.json();
+    const dates = (manifest.dates || []).slice(0, MAX_HISTORY_ITEMS);
+
+    if (dates.length === 0) throw new Error('No history entries found.');
+
+    window.__latestDate = dates[0];
+
+    const select = document.getElementById('history-select');
+    select.innerHTML = dates.map((d, i) =>
+      `<option value="${d}">${esc(formatDateLabel(d, i === 0))}</option>`
+    ).join('');
+    select.addEventListener('change', () => loadDate(select.value));
+
+    await loadDate(dates[0]);
+  } catch (err) {
+    showError(`Couldn't load the news archive. ${err.message || ''}`);
+  }
+}
+
+init();
 </script>
 </body>
 </html>
