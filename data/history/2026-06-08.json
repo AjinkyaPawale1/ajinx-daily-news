@@ -1,0 +1,384 @@
+{
+  "date": "2026-06-08",
+  "displayDate": "Monday, June 08, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "theme": "theme-us",
+      "subtitle": "Top 5 domestic stories",
+      "articles": [
+        {
+          "emoji": "🛡️",
+          "title": "Trump Urges Restraint as Iran-Israel Conflict Escalates to Day 101",
+          "bullets": [
+            "Iran fired a wave of missiles at northern Israel after Israel attacked Beirut's Dahiyeh suburb.",
+            "President Trump urged Netanyahu not to retaliate, warning it could derail ongoing Iran peace talks.",
+            "Israel launched strikes on Tehran, Tabriz, and Isfahan; Trump told FT he 'calls all the shots.'"
+          ],
+          "source": "Al Jazeera / NPR",
+          "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
+        },
+        {
+          "emoji": "🔫",
+          "title": "Gunfire at Ohio Street Festival Wounds at Least 12 People",
+          "bullets": [
+            "Shots erupted Saturday near a busy Ohio street festival, wounding at least 12 people.",
+            "No fatalities reported; several victims were transported to area hospitals.",
+            "Police are investigating; suspect believed to have fled the scene after the shooting."
+          ],
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/"
+        },
+        {
+          "emoji": "💼",
+          "title": "May Jobs Report: US Employers Add Surprising 172,000 Positions",
+          "bullets": [
+            "Nonfarm payrolls rose by 172,000 in May, roughly double analyst consensus forecasts.",
+            "Unemployment remained at 4.3%; strong data pushed Federal Reserve rate-hike odds higher.",
+            "Stock markets slid as yields rose sharply, with the Nasdaq suffering its worst day since April 2025."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/07/the-6-big-things-were-watching-in-the-stock-market-this-week.html"
+        },
+        {
+          "emoji": "🏥",
+          "title": "2026 Measles Surge: 30 New Outbreaks as US Reviews Elimination Status",
+          "bullets": [
+            "The US has recorded 30 new measles outbreaks in 2026, threatening the nation's elimination status.",
+            "Officials are preparing a formal review of elimination status at the CDC.",
+            "Health authorities urge vaccination as the outbreak is the worst in recent years."
+          ],
+          "source": "US News",
+          "url": "https://www.usnews.com/"
+        },
+        {
+          "emoji": "🎭",
+          "title": "Tony Awards 2026: 'Schmigadoon!' Wins Best Musical, 'Liberation' Best Play",
+          "bullets": [
+            "'Schmigadoon!' took home the Tony Award for Best Musical at the 2026 ceremony.",
+            "'Liberation' won Best Play, capping a strong comeback year for Broadway.",
+            "The Tony Awards recognized a record number of productions this season."
+          ],
+          "source": "AP",
+          "url": "https://www.cbsnews.com/"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "theme": "theme-global",
+      "subtitle": "Top 5 trending worldwide",
+      "articles": [
+        {
+          "emoji": "💥",
+          "title": "Iran-Israel War Day 101: Missiles Fly as New Full-Scale War Fears Rise",
+          "bullets": [
+            "Israel struck Tehran, Tabriz, and Isfahan; Iran responded with a second wave of missiles at northern Israel.",
+            "Explosions rocked Iran's capital and major cities following Israeli air attacks over the weekend.",
+            "Trump called both leaders urging a stop to hostilities; ceasefire negotiations remain fragile."
+          ],
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel"
+        },
+        {
+          "emoji": "🇺🇦",
+          "title": "Zelenskyy Meets Starmer, Macron, Merz in London Over Ukraine Air Defenses",
+          "bullets": [
+            "Leaders discussed the 'urgent need to scale up' Ukraine's air defenses and deep-strike capabilities.",
+            "Russia fired hypersonic Oreshnik weapons at Ukraine; a drone hit near the Chornobyl nuclear site.",
+            "Zelenskyy warned Ukraine is 'very close' to producing its own ballistic missile to strike Russia."
+          ],
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
+        },
+        {
+          "emoji": "⛪",
+          "title": "Pope Leo XIV Presides Over Corpus Christi Mass in Spain — First Papal Visit in 15 Years",
+          "bullets": [
+            "Pope Leo XIV led a Corpus Christi Mass in Madrid during the first papal visit to Spain in 15 years.",
+            "The visit drew large crowds and significant international media attention.",
+            "The new pope has made outreach to Europe a cornerstone of his early pontificate."
+          ],
+          "source": "NPR",
+          "url": "https://www.npr.org/sections/world/"
+        },
+        {
+          "emoji": "🌍",
+          "title": "PEPFAR Funding Cuts Already Costing Lives in South Africa and Mozambique",
+          "bullets": [
+            "Health care providers say US PEPFAR funding cancellations under Trump are endangering vulnerable patients.",
+            "Redirected funding has forced clinic closures and supply shortages in two African nations.",
+            "Aid groups warn the cuts could reverse decades of progress against HIV/AIDS in sub-Saharan Africa."
+          ],
+          "source": "NPR",
+          "url": "https://www.npr.org/sections/world/"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Peru Presidential Election: Tight Race Between Fujimori and Leftist Sanchez",
+          "bullets": [
+            "Polls suggest a polarized but close race between hard-right Keiko Fujimori and leftist Roberto Sanchez.",
+            "The election could reshape Peru's relations with the US and China amid ongoing economic turbulence.",
+            "Voter turnout is expected to be high despite widespread distrust of both leading candidates."
+          ],
+          "source": "ABC News",
+          "url": "https://abcnews.com/International"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "theme": "theme-india",
+      "subtitle": "Top 5 from India",
+      "articles": [
+        {
+          "emoji": "🌡️",
+          "title": "Delhi Heat Wave: Heat Index Hits 45.1°C; Monsoon Expected June 25-30",
+          "bullets": [
+            "Delhi's heat index breached 45.1°C Sunday despite an actual max temperature of 41.6°C.",
+            "IMD forecasts light rainfall with winds up to 60 kmph on June 11-12 for the region.",
+            "Southwest monsoon is expected to reach Delhi-NCR between June 25 and June 30."
+          ],
+          "source": "India.com / IMD",
+          "url": "https://www.india.com/news/india/delhi-weather-live-update-june-8-imd-rains-heatwave-monsoon-noida-ghaziabad-faridabad-gurugram-greater-noida-safdarjung-mumbai-maharashtra-8439686/"
+        },
+        {
+          "emoji": "📦",
+          "title": "India Faces 50% US Tariffs Over Russian Crude Purchases and Stalled Trade Deal",
+          "bullets": [
+            "Trump imposed 50% tariffs on India after New Delhi continued purchasing Russian crude oil.",
+            "A bilateral trade deal failed to meet its agreed deadline, triggering the tariff escalation.",
+            "Modi government faces hard choices as foreign policy setbacks compound domestic pressures."
+          ],
+          "source": "Chatham House",
+          "url": "https://www.chathamhouse.org/2026/01/lines-between-indias-foreign-policy-domestic-politics-and-economy-will-become-increasingly"
+        },
+        {
+          "emoji": "⚽",
+          "title": "ZEE Secures India Media Rights for 39 FIFA Events Through 2034 Including World Cup",
+          "bullets": [
+            "ZEE Entertainment won exclusive India media rights for 39 FIFA events from 2026 through 2034.",
+            "Rights package includes FIFA World Cup 2026, FIFA World Cup 2030, and other major tournaments.",
+            "The deal marks a major victory for ZEE as streaming competition in India intensifies."
+          ],
+          "source": "BestMediaInfo",
+          "url": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-june-8-2026-12012457"
+        },
+        {
+          "emoji": "📈",
+          "title": "India Remains World's Fastest-Growing Major Economy With 8.2% GDP Growth",
+          "bullets": [
+            "India's economy grew 8.2% between July and September 2025, outpacing all other major economies.",
+            "Modi government points to GST reforms, new labour codes, and free trade deals with UK and Oman.",
+            "US tariffs and geopolitical headwinds pose the key risks to India's 2026 growth outlook."
+          ],
+          "source": "Chatham House",
+          "url": "https://www.chathamhouse.org/2026/01/lines-between-indias-foreign-policy-domestic-politics-and-economy-will-become-increasingly"
+        },
+        {
+          "emoji": "🤝",
+          "title": "India to Host BRICS Summit and Quad Summit in 2026 Amid Global Tensions",
+          "bullets": [
+            "India is scheduled to host both the BRICS Summit and the Quad Summit in 2026.",
+            "The back-to-back summits position India as a key diplomatic hub amid US-China rivalry.",
+            "Earlier this year India hosted the AI Impact Summit in February, drawing global tech leaders."
+          ],
+          "source": "Chatham House",
+          "url": "https://www.chathamhouse.org/2026/01/lines-between-indias-foreign-policy-domestic-politics-and-economy-will-become-increasingly"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "theme": "theme-stocks",
+      "subtitle": "Top 5 market movers",
+      "articles": [
+        {
+          "emoji": "📉",
+          "title": "Nasdaq Drops 4.2% Friday — Worst Session Since April 2025 on Jobs Shock",
+          "bullets": [
+            "The Nasdaq fell 4.2% on June 6, its worst single-day drop since April 2025.",
+            "The S&P 500 lost 2.6% and the Dow shed 1.4% in a broad selloff driven by semiconductor weakness.",
+            "Strong May jobs data (172,000 new hires) erased rate-cut hopes and rattled markets."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/07/the-6-big-things-were-watching-in-the-stock-market-this-week.html"
+        },
+        {
+          "emoji": "💹",
+          "title": "Marvell Technology Surges 9% Premarket as New S&P 500 Addition Announced",
+          "bullets": [
+            "Marvell Technology (MRVL) jumped 9% to $287.05 in premarket after joining the S&P 500.",
+            "Flex (FLEX) also rose 4.3% to $158.50 on its own S&P 500 inclusion announcement.",
+            "Index additions typically boost stocks as passive funds must buy shares to track the index."
+          ],
+          "source": "The Street",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-08-2026"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Crude Oil Prices Surge as Iran-Israel Strikes Escalate Middle East Tensions",
+          "bullets": [
+            "Crude oil spiked sharply after Iran fired missiles at Israel and Israel struck Iranian cities.",
+            "Energy analysts warn sustained Middle East conflict could push Brent above key resistance levels.",
+            "The Dow is poised to weaken while the Nasdaq may rise as geopolitical risk reshapes sector rotation."
+          ],
+          "source": "Schwab",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "emoji": "🇰🇷",
+          "title": "South Korea KOSPI Plunges 9% on Monday, Circuit Breakers Triggered",
+          "bullets": [
+            "South Korea's KOSPI index fell nearly 9% on Monday, triggering automatic circuit breakers.",
+            "The selloff was driven by US jobs data fueling Fed rate-hike fears, hitting tech stocks hardest.",
+            "Asian markets broadly fell as investors reassessed risk following Friday's US market rout."
+          ],
+          "source": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
+        },
+        {
+          "emoji": "📊",
+          "title": "Rate Hike Odds Climb After Surprise May Payrolls Beat; Fed Watch Intensifies",
+          "bullets": [
+            "May's 172,000 payroll gain, double the forecast, caused rate-hike probability to climb sharply.",
+            "Yields rose as investors repriced the Fed path, unwinding previous rate-cut bets.",
+            "Key events this week include CPI data June 10 and earnings from Oracle and Chewy."
+          ],
+          "source": "Schwab",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "theme": "theme-business",
+      "subtitle": "Top 5 corporate stories",
+      "articles": [
+        {
+          "emoji": "🍎",
+          "title": "Apple WWDC: Gemini-Powered Siri Unveiled in $1B/Year Google Deal; Tim Cook's Last Keynote",
+          "bullets": [
+            "Apple's new Siri runs on a custom Google Gemini model under a $1 billion per year licensing deal.",
+            "iOS 27 Extensions let users choose ChatGPT, Gemini, or Claude as their default AI assistant.",
+            "CEO Tim Cook delivered his final WWDC keynote; John Ternus takes over as CEO on September 1."
+          ],
+          "source": "MacRumors / Bloomberg",
+          "url": "https://www.macrumors.com/guide/wwdc-2026-what-to-expect/"
+        },
+        {
+          "emoji": "🚀",
+          "title": "SpaceX IPO Pricing Set for June 11 at $1.75 Trillion Valuation — Largest IPO in History",
+          "bullets": [
+            "SpaceX targets $75 billion in proceeds at a $1.75 trillion valuation when it prices on June 11.",
+            "Trading opens on Nasdaq under ticker SPCX on Friday June 12; book is reportedly oversubscribed.",
+            "Thirty percent of the float is allocated to retail investors through Robinhood, Fidelity, and Schwab."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026"
+        },
+        {
+          "emoji": "🤖",
+          "title": "Anthropic Files Confidential IPO at $965 Billion Valuation; $44B Annualized Revenue",
+          "bullets": [
+            "Anthropic submitted a confidential IPO filing on June 1 at a $965 billion valuation.",
+            "The company reports $44 billion in annualized revenue and is on track for its first operating profit.",
+            "IPO proceeds will help fund Anthropic's $1.25 billion per month SpaceX compute bill."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026"
+        },
+        {
+          "emoji": "🍲",
+          "title": "Campbell Soup Reports Q3 Earnings Before Bell; Smucker and Casey's Up Next",
+          "bullets": [
+            "Campbell's (CPB) is reporting quarterly earnings before the market opens on Monday June 8.",
+            "J.M. Smucker (SJM) and Casey's General Stores (CASY) report earnings on Tuesday June 9.",
+            "Chewy (CHWY) and Oracle report Wednesday June 10, the same day May CPI data drops."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/07/the-6-big-things-were-watching-in-the-stock-market-this-week.html"
+        },
+        {
+          "emoji": "🖥️",
+          "title": "Microsoft Foundry Reaches 11,000+ AI Models; Claude Comes to Excel Agent Mode",
+          "bullets": [
+            "Microsoft Build 2026 expanded the Foundry model catalog to over 11,000 models from all major labs.",
+            "Claude Opus 4.8 is now available in Foundry; Claude also debuts in Excel Agent Mode for 750M users.",
+            "Microsoft's own MAI-Thinking-1 is claimed to match Claude Opus 4.6 on coding benchmarks."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💡",
+      "theme": "theme-tech",
+      "subtitle": "Top 5 in technology",
+      "articles": [
+        {
+          "emoji": "🍎",
+          "title": "Apple WWDC 2026: Claude Becomes an iPhone Option via iOS 27 Extensions",
+          "bullets": [
+            "iOS 27 introduces AI Extensions letting users choose ChatGPT, Google Gemini, or Claude as their assistant.",
+            "Gemini is the default; each model has a distinct voice so users know which AI responded.",
+            "Anthropic gains access to 2.2 billion active Apple devices — potentially doubling its user base."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026"
+        },
+        {
+          "emoji": "📊",
+          "title": "Claude AI Surges 306% in One Quarter — Now 8.2% of Global Chatbot Web Traffic",
+          "bullets": [
+            "Claude's web visits grew from 203 million in January to 824 million in April 2026, up 306%.",
+            "ChatGPT still leads at 54.7% of global chatbot web visits; Gemini is second at 27.4%.",
+            "In the US specifically, Claude holds 12.5% web-visit market share, ahead of its global average."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "EU AI Act Enforcement Begins August 2 — 55 Days Away for High-Risk AI Systems",
+          "bullets": [
+            "The EU AI Act's high-risk system requirements take full effect August 2, 2026.",
+            "Fines reach up to 35 million euros or 7% of global annual turnover for the most serious violations.",
+            "Models trained on more than 10^25 FLOPs — including GPT-5.5, Claude Opus 4.8 — face extra obligations."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Colorado AI Act Takes Effect June 30 — First Real US AI Enforcement Deadline",
+          "bullets": [
+            "The Colorado Consumer Protections for AI Act takes effect June 30, covering high-risk AI in 6 sectors.",
+            "Requirements include risk management programs, annual impact assessments, and user appeals rights.",
+            "A proposed federal preemption bill has not passed; the June 30 deadline is legally active."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026"
+        },
+        {
+          "emoji": "⚛️",
+          "title": "Microsoft Majorana 2 Quantum Chip Is 1,000x More Reliable Than Its Predecessor",
+          "bullets": [
+            "Microsoft announced Majorana 2, a quantum chip 1,000 times more reliable than the original Majorana.",
+            "The chip uses topological qubits, a fundamentally different approach from Google and IBM.",
+            "Microsoft says the milestone brings it within striking distance of a commercially useful quantum computer."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "date": "2026-06-07",
+  "displayDate": "Sunday, June 07, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "theme": "theme-us",
+      "subtitle": "Top 5 domestic stories",
+      "articles": [
+        {
+          "emoji": "⚔️",
+          "title": "100 Days Into the Iran War, Trump Fails to Rally US Support",
+          "bullets": [
+            "Sunday marks 100 days of the US-Israel war against Iran, still overwhelmingly unpopular domestically.",
+            "Polls show most Americans opposed bombing Iran before it started and support hasn't improved since.",
+            "Experts warn lack of public backing could weaken Trump politically heading into midterms."
+          ],
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support"
+        },
+        {
+          "emoji": "🕵️",
+          "title": "Pentagon Raises Israel Espionage Threat to 'Critical' Level",
+          "bullets": [
+            "DIA reports Israel stepped up efforts to eavesdrop on senior US officials, including top Iran negotiator Steve Witkoff.",
+            "Counterintelligence threat level from Israel raised from 'high' to 'critical' — the top tier.",
+            "Israel reportedly intercepting communications from Pentagon policy chief Elbridge Colby and deputies."
+          ],
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html"
+        },
+        {
+          "emoji": "🇨🇺",
+          "title": "Foreign Businesses Flee Cuba as Economy Collapses Under Trump Pressure",
+          "bullets": [
+            "Mastercard and Visa suspended transactions by non-US foreign visitors in Cuba starting Saturday.",
+            "Spanish hotel giants Iberostar and Meliá each giving up management of at least a dozen Cuban hotels.",
+            "Major airlines canceled Cuba flights due to jet-fuel shortages; Canadian miner Sherritt suspended operations."
+          ],
+          "source": "Wall Street Journal",
+          "url": "https://www.wsj.com/world/americas/international-businesses-abandon-cuba-economy-trump"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Xavier Becerra Clinches Top Spot on California Governor's Ballot",
+          "bullets": [
+            "Former HHS Secretary Becerra topped the California gubernatorial primary ballot heading to November.",
+            "California race is one of the most watched 2026 gubernatorial contests nationally.",
+            "Race seen as a key test of Democratic Party strength in the post-Biden era."
+          ],
+          "source": "NPR",
+          "url": "https://www.npr.org/sections/news/"
+        },
+        {
+          "emoji": "💵",
+          "title": "Trump May Appear on New $250 Bill in Latest Break With US Tradition",
+          "bullets": [
+            "Republicans are pushing legislation to put President Trump's face on a new $250 denomination bill.",
+            "Move is part of a broader effort to stamp Trump's personal image on national institutions.",
+            "Critics call it an unprecedented departure from the tradition of putting deceased figures on currency."
+          ],
+          "source": "Reuters",
+          "url": "https://www.golocalprov.com/news/5-big-news-stories-overnight-sunday-june-7-2026"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "theme": "theme-global",
+      "subtitle": "Top 5 trending worldwide",
+      "articles": [
+        {
+          "emoji": "🚀",
+          "title": "Ukraine Drones Strike St. Petersburg Naval Bases in Second Wave Attack",
+          "bullets": [
+            "Hundreds of Ukrainian drones targeted Russian naval arsenals and Kronstadt naval base near St. Petersburg.",
+            "One person killed, oil depot set ablaze; Russia briefly closed maritime access to Kronstadt.",
+            "Wider drone attacks also hit oil infrastructure in Krasnodar Krai in southern Russia."
+          ],
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/06/06/ukraine-drones-russia-military-targets-st-petersburg/"
+        },
+        {
+          "emoji": "💥",
+          "title": "Iranian Missiles Target Kuwait and Bahrain After US-Iran Clash Escalates",
+          "bullets": [
+            "Iran fired missiles at US-allied Gulf states Kuwait and Bahrain following exchange of strikes with US forces.",
+            "Pope Leo XIV declared the Iran war does not qualify as a 'just war' under Catholic teaching.",
+            "UN reports 1.4 million people need humanitarian aid in Lebanon amid ongoing Israeli attacks."
+          ],
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Peru Holds Presidential Election Amid Polarized Race Between Fujimori and Sánchez",
+          "bullets": [
+            "Peruvians voted Sunday in a tight presidential race between hard-right Keiko Fujimori and leftist Roberto Sánchez.",
+            "Polls showed a highly polarized electorate with no clear frontrunner in final days.",
+            "Outcome will shape Peru's economic and foreign policy direction for the next five years."
+          ],
+          "source": "Reuters",
+          "url": "https://www.aljazeera.com/news/2026/6/6"
+        },
+        {
+          "emoji": "🌐",
+          "title": "Armenia Votes in Pivotal Election Deciding EU vs Russia Alignment",
+          "bullets": [
+            "Armenians headed to polls Sunday with both the EU and US backing PM Pashinyan's pro-Western drive.",
+            "Russia applied economic and political pressure on Yerevan to keep Armenia within its orbit.",
+            "Result will define Armenia's geopolitical trajectory as Russia-West competition intensifies in the Caucasus."
+          ],
+          "source": "Euronews",
+          "url": "https://www.euronews.com/"
+        },
+        {
+          "emoji": "🦈",
+          "title": "Spearfisherman Killed by 15-Foot Shark in Third Fatal Attack in Under a Month",
+          "bullets": [
+            "A 35-year-old spearfisherman was killed off Western Australia by a suspected 15-foot great white shark.",
+            "The attack is the third fatal shark incident in the region in less than a month.",
+            "Authorities have closed nearby beaches and launched an investigation into the surge of attacks."
+          ],
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/world/spearfisherman-killed-suspected-15-foot-shark-third-fatal-attack-less-month"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "theme": "theme-india",
+      "subtitle": "Top 5 from India",
+      "articles": [
+        {
+          "emoji": "📉",
+          "title": "Modi Paradox: Political Dominance Alongside Worsening Economic Slide",
+          "bullets": [
+            "BJP now rules 21 states covering ~75% of India's population, its strongest position since 2019.",
+            "Economy faces rising inflation, rupee weakness, and WPI inflation above 8% in April 2026.",
+            "Private investment declining; growth driven mostly by debt-financed public spending."
+          ],
+          "source": "The Print",
+          "url": "https://theprint.in/opinion/between-political-lines/the-modi-paradox-in-2026/2947630/"
+        },
+        {
+          "emoji": "🔥",
+          "title": "LPG Prices Hiked Across India on June 7; Delhi, Mumbai Among Cities Affected",
+          "bullets": [
+            "Cooking gas cylinder prices revised upward today in Delhi, Mumbai, Kolkata, Chennai, and Bangalore.",
+            "The hike follows earlier fuel and diesel price increases that pushed industrial costs higher.",
+            "Secondary inflation effects from fuel costs are expected to drive WPI higher in coming weeks."
+          ],
+          "source": "NewsX",
+          "url": "https://www.newsx.com/business/lpg-price-hike-7-june-2026-check-latest-gas-cylinder-rates-in-delhi-mumbai-bangalore-kolkata-chennai-231287/"
+        },
+        {
+          "emoji": "✊",
+          "title": "'I'm a Cockroach': Gen Z Protest Movement Reaches Indian Capital",
+          "bullets": [
+            "A viral Gen Z protest movement using the 'cockroach' identity has spread from social media to Delhi streets.",
+            "Demonstrators say they embrace the label as resilience against economic hardship and political apathy.",
+            "Movement mirrors similar youth protest waves seen recently in Kenya and Bangladesh."
+          ],
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital"
+        },
+        {
+          "emoji": "⛈️",
+          "title": "14 States Under Thunderstorm Alert as Pre-Monsoon Intensifies Across North India",
+          "bullets": [
+            "IMD issued thunderstorm and lightning alerts for Delhi-NCR, UP, Uttarakhand, Punjab, Haryana, and Rajasthan.",
+            "Winds expected to reach 60–80 km/h in affected areas; risk of waterlogging and power outages.",
+            "Southwest Monsoon advancing toward southern and central India ahead of normal schedule."
+          ],
+          "source": "NewsX",
+          "url": "https://www.newsx.com/india/north-india-weather-today-7-june-2026-delhi-uttarakhand-punjab-haryana-among-14-states-under-thunderstorm-alert-check-15-day-forecast-231268/"
+        },
+        {
+          "emoji": "🌧️",
+          "title": "Southwest Monsoon Advances Toward Central India Ahead of Schedule",
+          "bullets": [
+            "IMD confirmed the monsoon is progressing into southern and central India with widespread rainfall expected.",
+            "Mumbai, Hyderabad, and Chennai all seeing elevated temperatures before monsoon arrival.",
+            "Early arrival forecast to benefit kharif crop sowing season and ease reservoir levels in affected states."
+          ],
+          "source": "Sunday Guardian",
+          "url": "https://sundayguardianlive.com/india/india-weather-today-june-7-2026-check-current-temperature-of-delhi-mumbai-hyderabad-bangalore-chennai-kolkata-ahmedabad-202589/"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "theme": "theme-stocks",
+      "subtitle": "Top 5 market movers",
+      "articles": [
+        {
+          "emoji": "📉",
+          "title": "Nasdaq Plunges 4.18% in Worst Market Day of the Year as AI Stocks Crash",
+          "bullets": [
+            "Nasdaq fell 4.18% to 25,709, S&P 500 dropped 2.64% to 7,383, Dow lost 695 points on Friday.",
+            "Sell-off driven by violent collapse in chip and AI stocks on disappointing guidance.",
+            "CNN/CNBC called it the market's worst single-day performance since October 2025."
+          ],
+          "source": "CNN Business",
+          "url": "https://www.cnn.com/2026/06/05/markets/stock-market-sell-off-fed"
+        },
+        {
+          "emoji": "💼",
+          "title": "Strong Jobs Report Sparks Fed Rate-Hike Fears, Triggering Market Selloff",
+          "bullets": [
+            "May jobs report showed 172,000 new jobs added — roughly double analyst expectations.",
+            "Unemployment held at 4.3%; markets reacted in 'good news is bad news' fashion on rate hike fears.",
+            "10-year Treasury yield surged to 4.54% and 2-year jumped to 4.16% immediately after the report."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html"
+        },
+        {
+          "emoji": "💻",
+          "title": "Nvidia -6.2%, Broadcom -7.9%, Micron -13.3% as Chip Stocks Lead Market Rout",
+          "bullets": [
+            "Nvidia fell 6.2% and Broadcom dropped 7.9% after Broadcom failed to raise its AI chip revenue outlook.",
+            "Micron Technology slid 13.3%, the steepest single-day drop among large-cap semiconductor names.",
+            "The AI chip group's losses dragged the broader Nasdaq into its worst session of 2026."
+          ],
+          "source": "BNN Bloomberg",
+          "url": "https://www.bnnbloomberg.ca/markets/2026/06/05/stocks-slip-on-wall-street-big-tech-falls/"
+        },
+        {
+          "emoji": "📊",
+          "title": "Treasury Yields Spike After Jobs Data; 10-Year Hits 4.54%",
+          "bullets": [
+            "10-year Treasury yield jumped from 4.50% to 4.54% and 2-year spiked from 4.04% to 4.16% post-report.",
+            "Rising yields reflect growing market conviction that the Fed will hike rates at least once in 2026.",
+            "New Fed Chairman Kevin Warsh is scheduled to speak publicly on June 17, his first major policy signal."
+          ],
+          "source": "Charles Schwab",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "emoji": "🍎",
+          "title": "Apple Bucks Selloff, Climbs 0.5% as WWDC 2026 Kicks Off Monday",
+          "bullets": [
+            "Apple rose 0.5% Friday, remaining near all-time highs, as investors await Monday's WWDC keynote.",
+            "Market expects Apple to unveil a major AI-powered Siri overhaul and new iOS 27 at the conference.",
+            "CVS Health also rose after announcing it will cover Eli Lilly's Zepbound weight-loss injectable."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/business/"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "theme": "theme-business",
+      "subtitle": "Top 5 corporate stories",
+      "articles": [
+        {
+          "emoji": "🍎",
+          "title": "Apple WWDC 2026 Opens Monday: Major Siri AI Overhaul and iOS 27 Expected",
+          "bullets": [
+            "Apple's Worldwide Developers Conference keynote begins June 8 at 10am PT with major AI announcements.",
+            "Siri to be overhauled using Google's Gemini technology for contextual, multi-step task handling.",
+            "iOS 27, macOS 27, and an AI agent integration with the App Store also expected at the event."
+          ],
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+        },
+        {
+          "emoji": "🚀",
+          "title": "SpaceX IPO Roadshow Underway; $75B Raise Would Be Largest IPO in History",
+          "bullets": [
+            "SpaceX investor roadshow launched June 4; pricing set for June 11, trading on Nasdaq (SPCX) June 12.",
+            "Company targeting $75B raise at ~$1.75T valuation, surpassing Saudi Aramco's 2019 record IPO.",
+            "30% of float routed directly to retail investors via Robinhood, Fidelity, and Charles Schwab."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026"
+        },
+        {
+          "emoji": "🤖",
+          "title": "Anthropic Files Confidential IPO Paperwork at $965B Valuation",
+          "bullets": [
+            "Anthropic filed a confidential draft S-1 with the SEC on June 1, 2026, starting the formal IPO clock.",
+            "Revenue run-rate hit approximately $47B in May 2026, up ~5x year-over-year.",
+            "Post-money valuation stands at $965B following the $65B Series H; trillion-dollar listing seen as likely."
+          ],
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
+        },
+        {
+          "emoji": "💊",
+          "title": "CVS to Cover Eli Lilly's Zepbound Weight-Loss Drug, Boosting Lilly Shares",
+          "bullets": [
+            "CVS Health announced it will cover Lilly's Zepbound injectable weight-loss medication for plan members.",
+            "CVS also resumed coverage of Lilly's newer weight-loss pill, expanding access to GLP-1 treatments.",
+            "Eli Lilly shares rose on the news, extending its outperformance in the healthcare sector this year."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/business/"
+        },
+        {
+          "emoji": "🏦",
+          "title": "New Fed Chair Kevin Warsh to Deliver First Major Policy Signal on June 17",
+          "bullets": [
+            "Fed Chairman Kevin Warsh is scheduled to speak publicly on June 17 — his first major podium appearance.",
+            "Markets will watch closely for signals on rate policy after Friday's stronger-than-expected jobs data.",
+            "Wall Street pricing in rising odds of at least one Fed rate hike before end of 2026."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/business/"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💡",
+      "theme": "theme-tech",
+      "subtitle": "Top 5 in technology",
+      "articles": [
+        {
+          "emoji": "🧠",
+          "title": "OpenAI Launches ChatGPT Dreaming V3: AI Memory That Updates Itself Automatically",
+          "bullets": [
+            "Dreaming V3 runs background memory synthesis after conversations, automatically updating user context.",
+            "5x more compute-efficient than prior memory system; rolling out to Plus/Pro users in US from June 4.",
+            "Privacy researchers flag concerns: 96% of ChatGPT memories in a study were created unilaterally by the system."
+          ],
+          "source": "Build Fast with AI",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026"
+        },
+        {
+          "emoji": "🎮",
+          "title": "NVIDIA Unveils RTX Spark Superchip at Computex, Targets Intel and AMD Laptops",
+          "bullets": [
+            "RTX Spark is an Arm-based chip integrating AI agents, gaming, and content creation for Windows laptops.",
+            "Adobe is rebuilding Photoshop and Premiere Pro natively for the RTX Spark architecture.",
+            "Consumer laptops expected in autumn 2026; AMD, Intel, and Qualcomm shares fell on the announcement."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/02/nvidias-new-pc-chips-are-ceos-bid-to-own-every-part-of-ai-stack.html"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Congress Drops 269-Page 'Great American AI Act' with 3-Year State Law Preemption",
+          "bullets": [
+            "Bipartisan bill from Reps. Obernolte and Trahan would freeze all state AI laws for three years.",
+            "Requires companies with $500M+ revenue to publish AI governance frameworks and report safety incidents.",
+            "Labor unions including AFL-CIO rejected the bill, calling it 'a giveaway to the AI industry.'"
+          ],
+          "source": "Roll Call",
+          "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act"
+        },
+        {
+          "emoji": "🏭",
+          "title": "Microsoft Unveils 7 Proprietary MAI Models at Build 2026, Reducing OpenAI Dependence",
+          "bullets": [
+            "Microsoft launched MAI-Thinking-1, MAI-Code-1-Flash, MAI-Image-2.5, MAI-Transcribe-1.5, and MAI-Voice-2.",
+            "MAI-Transcribe-1.5 beats OpenAI and Gemini transcription models across 43 languages at 5x faster speed.",
+            "Move positions Microsoft's Copilot as a model-agnostic platform independent of OpenAI's roadmap."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html"
+        },
+        {
+          "emoji": "📱",
+          "title": "Apple WWDC 2026: Siri Gets Gemini AI Upgrade, iOS 27 and App Store AI Agents Unveiled",
+          "bullets": [
+            "Siri to gain conversational, multi-step task handling powered by Google Gemini integration.",
+            "AI agents in the App Store will let users delegate tasks like booking reservations and editing documents.",
+            "New Visual Intelligence camera mode, intelligent photo editing, and automatic object removal also expected."
+          ],
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+        }
+      ]
+    }
+  }
+}
