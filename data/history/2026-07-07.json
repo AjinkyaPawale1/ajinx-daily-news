@@ -5,124 +5,124 @@
     "us": {
       "label": "US News",
       "icon": "🇺🇸",
-      "subtitle": "Top domestic stories from the last 1–2 days",
+      "subtitle": "Top domestic and U.S.-policy stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "📊",
-          "title": "AP-NORC poll finds US support for Israel weakening among Democrats",
+          "emoji": "🛡️",
+          "title": "Trump meets NATO leaders in Ankara as allies pitch higher defense spending",
           "bullets": [
-            "About one-third of US adults said Israel has committed genocide in Gaza.",
-            "Roughly 58% of Democrats said the US is too supportive of Israel.",
-            "The poll was conducted June 11–17 among 3,040 adults."
+            "President Trump met NATO leaders Tuesday at a two-day summit in Ankara, Turkey.",
+            "Allies are showcasing military projects worth billions of dollars to show stronger European defense commitments.",
+            "The summit follows Trump’s repeated criticism of NATO burden-sharing and U.S. troop commitments in Europe."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/b91cdc0aaf31f6bc226a0584115b886f"
+          "url": "https://apnews.com/article/3f5033e82933afe6d70d8bb3cbf9fd1d"
         },
         {
           "emoji": "⚠️",
-          "title": "Trump warns Iran of renewed US action if nuclear deal fails",
+          "title": "Trump renews warning to Iran, saying U.S. will make a deal or “finish the job”",
           "bullets": [
-            "Trump said the US would either reach a deal with Iran or “finish the job.”",
-            "Indirect US-Iran talks ended last week without public signs of progress.",
-            "Iranian officials rejected Trump’s threat and called for respectful dialogue."
-          ],
-          "source": "Reuters via AOL",
-          "url": "https://www.aol.com/articles/trump-says-either-deal-iran-155342000.html"
-        },
-        {
-          "emoji": "🚗",
-          "title": "Ford recalls more than 110,000 US Mustangs over wiper and drivetrain issues",
-          "bullets": [
-            "NHTSA said Ford is recalling 110,626 US vehicles in two separate actions.",
-            "One recall covers Mustang and Mustang GTD wiper and washer problems.",
-            "Another covers Mustang Mach-E vehicles with a possible rear pinion shaft fracture."
-          ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/Ford%2Bto%2Brecall%2Bover%2B110%2C000%2BUS%2Bvehicles%2Bover%2Bwiper%2C%2Bpinion%2Bshaft%2Bissues%2C%2BNHTSA%2Bsays/26737393.html"
-        },
-        {
-          "emoji": "✈️",
-          "title": "United Airlines must face lawsuit over window seats without windows",
-          "bullets": [
-            "A federal judge rejected United’s bid to dismiss the proposed class action.",
-            "Passengers say they paid extra for window seats that had no window views.",
-            "United said it added more detail to its seat-selection process."
+            "Trump said Monday the U.S. would either reach a deal with Iran or take further military action.",
+            "Indirect U.S.-Iran talks ended last week without public signs of a lasting agreement.",
+            "The comments came after Iran held funeral ceremonies for Supreme Leader Ayatollah Ali Khamenei."
           ],
           "source": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/united-airlines-must-face-lawsuit-over-window-seats-that-lack-windows-4777462"
+          "url": "https://www.investing.com/news/commodities-news/trump-says-there-will-either-be-a-deal-with-iran-or-us-will-finish-the-job-4777039"
         },
         {
-          "emoji": "🏭",
-          "title": "Toyota plans $3.6 billion Texas plant and shifts some Tacoma output from Mexico",
+          "emoji": "🔫",
+          "title": "Fourth of July weekend gun violence leaves dozens dead across the U.S.",
           "bullets": [
-            "Toyota said it will build a new plant on its San Antonio manufacturing campus.",
-            "The facility is expected to open by 2030 and create about 2,000 jobs.",
-            "Toyota will shift some Tacoma pickup production from Baja California to Texas."
+            "The Guardian reported at least 43 deaths during the holiday weekend’s gun violence.",
+            "Shootings were reported in multiple cities, including Los Angeles, Austin, Augusta and Chicago.",
+            "The violence marred celebrations of the United States’ 250th anniversary."
+          ],
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/06/shootings-fourth-of-july-weekend"
+        },
+        {
+          "emoji": "🌡️",
+          "title": "Deadly heat and storms disrupt July Fourth events across several states",
+          "bullets": [
+            "CBS/AP reported at least 25 suspected heat-related deaths in New Jersey.",
+            "Extreme heat and severe storms disrupted events including National Mall celebrations in Washington.",
+            "Forecasters warned millions about flooding risks after the holiday weekend."
+          ],
+          "source": "CBS News / AP",
+          "url": "https://www.cbsnews.com/news/heat-storms-july-fourth-celebrations-power-outage/"
+        },
+        {
+          "emoji": "💼",
+          "title": "Microsoft cuts 4,800 jobs as Xbox and commercial units restructure",
+          "bullets": [
+            "Microsoft said it is cutting about 2.1% of its global workforce.",
+            "The reductions affect commercial operations and Xbox, with 1,600 Xbox jobs cut immediately.",
+            "The company said AI is changing work patterns but said affected roles are not simply being replaced by AI."
           ],
           "source": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/toyota-to-build-36-billion-texas-plant-shift-some-truck-production-from-mexico-4777505"
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-joins-aidriven-tech-layoff-wave-with-4800-job-cuts-4776805"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Major worldwide developments from the last 1–2 days",
+      "subtitle": "Major worldwide stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🦠",
-          "title": "WHO says Congo Ebola outbreak remains in expansion phase",
+          "emoji": "🛡️",
+          "title": "NATO summit opens in Turkey with focus on defense spending and Ukraine",
           "bullets": [
-            "WHO said the outbreak has not stabilized and is still expanding.",
-            "Congo has confirmed 1,561 cases and 506 deaths.",
-            "The outbreak involves the Bundibugyo species of Ebola."
+            "NATO leaders gathered in Ankara for a two-day summit beginning Tuesday.",
+            "European allies are highlighting new military projects to show they can shoulder more defense responsibility.",
+            "Trump is also expected to meet Ukrainian President Volodymyr Zelenskyy during the summit."
           ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/Ebola%2Boutbreak%2Bin%2BCongo%2Bstill%2Bin%2B%27expansion%2Bphase%27%2C%2BWHO%2Bsays/26737603.html"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/3f5033e82933afe6d70d8bb3cbf9fd1d"
         },
         {
-          "emoji": "🚨",
-          "title": "Nine Pakistani policemen killed in Balochistan militant clash",
+          "emoji": "🚀",
+          "title": "China’s submarine-launched missile test raises alarm across the Pacific",
           "bullets": [
-            "Authorities said nine policemen and 15 militants were killed overnight.",
-            "The Pakistani Taliban claimed responsibility for the attack in Ziarat district.",
-            "Five officers were still missing after the clash."
+            "China test-fired a long-range ballistic missile from a nuclear-powered submarine Monday.",
+            "The missile carried a dummy warhead and landed in the South Pacific, according to official Chinese media.",
+            "Japan, Australia, New Zealand, Taiwan and the U.S. raised concerns about the launch."
           ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/Nine%2Bpolicemen%2Bkilled%2Bin%2Bclash%2Bwith%2Bmilitants%2Bin%2BPakistan%27s%2BBalochistan/26737573.html"
-        },
-        {
-          "emoji": "🛢️",
-          "title": "NATO allies discuss Hormuz tensions with Gulf Arab ministers",
-          "bullets": [
-            "NATO ministers met Gulf Arab counterparts on the sidelines of the Ankara summit.",
-            "A Franco-British maritime mission proposal was discussed.",
-            "UKMTO reported a tanker was struck east of Oman."
-          ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/NATO%2Ballies%2Bto%2Bdiscuss%2BHormuz%2Btensions%2C%2Bmission%2Bwith%2BGulf%2BArabs/26737535.html"
-        },
-        {
-          "emoji": "🌪️",
-          "title": "Tornadoes hit central China as Typhoon Bavi approaches offshore",
-          "bullets": [
-            "Severe storms damaged parts of central China.",
-            "Authorities were monitoring Typhoon Bavi offshore.",
-            "The weather system added pressure after days of hazardous conditions."
-          ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/Tornadoes%2Bwreak%2Bhavoc%2Bacross%2Bcentral%2BChina%2Bas%2BTyphoon%2BBavi%2Blooms%2Boffshore/26737210.html"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/36963889390c8a08079165d8a63e4960"
         },
         {
           "emoji": "🚢",
-          "title": "China and Japan trade accounts of Senkaku Islands confrontation",
+          "title": "Cargo ship attacked off Yemen as Red Sea security worries return",
           "bullets": [
-            "Beijing and Tokyo issued conflicting accounts of an encounter near the islands.",
-            "The disputed islands are known as Senkaku in Japan and Diaoyu in China.",
-            "The episode added to tensions in the East China Sea."
+            "A bulk carrier reported being attacked southwest of Hodeida, Yemen, on Sunday.",
+            "UK maritime authorities said the ship and crew were safe after armed assailants approached by skiff.",
+            "No group immediately claimed responsibility, though Houthi threats have renewed shipping concerns."
           ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/China%2C%2BJapan%2Btrade%2Bconflicting%2Baccounts%2Bof%2Bconfrontation%2Baround%2BSenkaku%2Bislands/26737391.html"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/9309858ca99481bb7c058ba2fa099036"
+        },
+        {
+          "emoji": "🌊",
+          "title": "Australia and Fiji sign mutual defense pact amid Pacific security tensions",
+          "bullets": [
+            "Australia and Fiji sealed a new mutual defense agreement Monday.",
+            "The pact is part of Australia’s push to deepen Pacific security ties and counter China’s influence.",
+            "The announcement coincided with China’s missile test in the South Pacific."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/7e9adc96413aecfc1307d6ab978998dd"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "NATO and Gulf Arab ministers discuss Strait of Hormuz tensions",
+          "bullets": [
+            "NATO foreign ministers met Gulf Arab counterparts Tuesday on the sidelines of the Ankara summit.",
+            "Talks focused on reopening the Strait of Hormuz and a proposed Franco-British maritime mission.",
+            "Shipping disruption remains a pressure point for oil prices and global supply chains."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/commodities-news/nato-allies-to-discuss-hormuz-tensions-mission-with-gulf-arabs-4778470"
         }
       ]
     },
@@ -133,244 +133,244 @@
       "articles": [
         {
           "emoji": "🚀",
-          "title": "India to supply BrahMos and Astra missiles to Indonesia",
+          "title": "India and Indonesia seal BrahMos and Astra missile deals",
           "bullets": [
-            "An Indian government official said India will supply BrahMos and Astra systems.",
-            "The announcement came during Prime Minister Narendra Modi’s Indonesia visit.",
-            "The deal adds a major defence element to India-Indonesia ties."
+            "Prime Minister Narendra Modi and Indonesian President Prabowo Subianto concluded major defense agreements Tuesday.",
+            "India will supply BrahMos cruise missiles and Astra air-to-air missiles to Indonesia.",
+            "The deals were part of a broader push to deepen Indo-Pacific strategic cooperation."
           ],
-          "source": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/india-to-supply-brahmos-astra-missiles-to-indonesia-india-government-official-says-ce7f5edbdf8ff024"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fa0289510582caaa54122f641d9ed380"
         },
         {
-          "emoji": "🤝",
-          "title": "Modi meets Indonesia’s Prabowo for defence and food-security talks",
+          "emoji": "⛰️",
+          "title": "Wayanad landslide kills at least two as north Kerala faces heavy rain alerts",
           "bullets": [
-            "Modi was scheduled to meet President Prabowo Subianto in Jakarta.",
-            "Officials said talks included defence, health, space, pharmaceuticals and food security.",
-            "Modi’s trip also includes Australia and New Zealand."
+            "A landslide hit the Kalladi tunnel project site in Kerala’s Wayanad district Tuesday.",
+            "Hindustan Times reported at least two deaths and several people missing in live updates.",
+            "IMD issued red alerts for Wayanad and Kozhikode, with extremely heavy rain expected in north Kerala."
           ],
-          "source": "Reuters via AOL",
-          "url": "https://www.aol.com/articles/indias-modi-meet-indonesias-prabowo-000202000.html"
+          "source": "Hindustan Times / PTI",
+          "url": "https://www.hindustantimes.com/india-news/kerala-rain-wayanad-landslide-live-updates-wayanad-tunnel-project-death-toll-injured-kerala-weather-latest-news-101783414218011-amp.html"
         },
         {
-          "emoji": "🏳️‍⚧️",
-          "title": "India’s new transgender rules disrupt access to care, doctors say",
+          "emoji": "🌧️",
+          "title": "Mumbai schools shut and expressway section reopens after heavy rain",
           "bullets": [
-            "Reuters reported clinics have paused or delayed some gender-affirming care.",
-            "The March law narrowed eligibility for legal gender recognition.",
-            "Activists and doctors warned the rules create uncertainty for patients and providers."
+            "Mumbai schools and colleges were closed Tuesday after an IMD orange alert for heavy rain and winds.",
+            "The Mumbai-Pune Expressway Missing Link reopened after a landslide-related closure of nearly 19 hours.",
+            "Authorities also warned tourists to avoid parts of Nashik amid a cloudburst warning."
           ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/Hiding%2Bhis%2Bface%3A%2BIndias%2Bnew%2Btransgender%2Brules%2Bworry%2Bdoctors%2C%2Bdisrupt%2Bcare/26737286.html"
+          "source": "Hindustan Times / PTI / ANI",
+          "url": "https://www.hindustantimes.com/india-news/mumbai-rain-live-updates-weather-today-imd-school-holiday-july-7-maharashtra-pune-thane-flood-landslide-missing-link-101783387608006-amp.html"
         },
         {
-          "emoji": "🌊",
-          "title": "Search continues for six Andhra fishermen after boat capsizes",
+          "emoji": "🛕",
+          "title": "Ram Temple Trust accepts key resignations amid donation irregularity allegations",
           "bullets": [
-            "One fisherman swam for about two hours and reached a merchant vessel.",
-            "The Navy airlifted him to Visakhapatnam for medical observation.",
-            "Coast Guard and Navy teams continued searching for six missing crew members."
+            "The Shri Ram Janmabhoomi Teerth Kshetra Trust accepted Champat Rai’s resignation as general secretary.",
+            "Trustee Anil Mishra also resigned, and administrator Gopal Rao was removed.",
+            "The moves follow allegations of irregularities involving temple donations that surfaced last month."
           ],
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/capsized-boat-6-missing-crew-one-mans-2-hour-swim-in-rough-seas-search-on-for-andhra-fishermen-10774587/"
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ram-temple-trust-sets-overhaul-in-motion-as-it-accepts-rais-resignation-forms-panel-to-pick-new-ceo-101783384958089-amp.html"
         },
         {
-          "emoji": "🏝️",
-          "title": "Clearance sought for Indira Point lighthouse protection and tourism facilities",
+          "emoji": "🌾",
+          "title": "Kharif sowing improves as July rains narrow India’s monsoon deficit",
           "bullets": [
-            "Officials sought approvals for work at India’s southernmost point on Great Nicobar.",
-            "Plans include lighthouse protection, a convention centre and a museum.",
-            "The proposal falls within ecologically sensitive coastal regulation zones."
+            "Agriculture ministry data showed Kharif acreage at 44.3 million hectares as of July 5.",
+            "The weekly acreage deficit narrowed to 20.8% from 22.7% the prior week.",
+            "A stronger July monsoon helped reduce the countrywide rainfall deficit after a dry June."
           ],
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/indira-point-lighthouse-development-andaman-and-nicobar-project-10774605/"
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/acreage-gap-narrows-as-kharif-sowing-picks-up-101783366124709-amp.html"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
       "icon": "📈",
-      "subtitle": "Key US market movers and trading stories",
+      "subtitle": "Top U.S.-listed market movers and stock catalysts",
       "articles": [
         {
-          "emoji": "💹",
-          "title": "S&P 500 and Nasdaq rise sharply as Broadcom leads chip rally",
+          "emoji": "🍎",
+          "title": "Broadcom rallies after extending Apple chip partnership through 2031",
           "bullets": [
-            "The S&P 500 and Nasdaq ended sharply higher Monday.",
-            "Broadcom jumped 3.7% after extending its Apple chip deal.",
-            "The Philadelphia semiconductor index rose 2.2% after two losing sessions."
+            "Broadcom said it will expand its Apple chip supply partnership through 2031.",
+            "Reuters reported Broadcom shares rose nearly 4% in premarket trading after the announcement.",
+            "The deal covers custom chips used across multiple Apple product generations."
           ],
-          "source": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-rise-as-chips-recover-broadcom-gains-on-apple-deal-ce7f5edbdb81fe20"
-        },
-        {
-          "emoji": "🧠",
-          "title": "Nasdaq futures fall as Samsung results fail to calm AI-chip concerns",
-          "bullets": [
-            "Nasdaq futures dropped Tuesday as chip shares weakened.",
-            "Micron, Western Digital and Sandisk fell in premarket trading.",
-            "SpaceX shares also slipped ahead of their Nasdaq-100 debut."
-          ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/Nasdaq%2Bfutures%2Bfall%2Bafter%2BSamsung%27s%2Brecord%2Bprofit%2Bfails%2Bto%2Ballay%2Bchip%2Bjitters/26737604.html"
-        },
-        {
-          "emoji": "🚙",
-          "title": "Rivian shares fall after 75-million-share offering plan",
-          "bullets": [
-            "Rivian slipped in extended trading after announcing a public share offering.",
-            "The company also forecast second-quarter revenue above analyst estimates.",
-            "The offering raised investor concerns about dilution."
-          ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/Reuters/Rivian%2Bshares%2Bfall%2Bafter%2Bpublic%2Boffering%2Bplan%2Bovershadows%2Bupbeat%2Brevenue%2Bforecast/26736693.html"
-        },
-        {
-          "emoji": "💳",
-          "title": "Fiserv rises after talks to sell debit network to major US banks",
-          "bullets": [
-            "Fiserv held talks with banks including JPMorgan and Bank of America.",
-            "The talks involve its STAR debit and ATM network business.",
-            "Fiserv shares rose in after-hours trading after the report."
-          ],
-          "source": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/big-us-banks-explore-fiserv-network-deal-wsj-reports-ce7f5edbdc8df42d"
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/broadcom-apple-extend-chip-partnership-through-2031-4776457"
         },
         {
           "emoji": "💊",
-          "title": "Crinetics doubles after Vertex agrees to $10 billion takeover",
+          "title": "Crinetics surges after Vertex announces $10 billion takeover",
           "bullets": [
-            "Vertex offered $85 per Crinetics share in cash.",
-            "The price represents a 102% premium to Crinetics’ Monday close.",
-            "Vertex shares slipped after hours while Crinetics doubled."
+            "Vertex Pharmaceuticals agreed to buy Crinetics Pharmaceuticals for about $10 billion.",
+            "TipRanks listed Crinetics as the top premarket gainer Tuesday, up nearly 99%.",
+            "The deal made Crinetics one of the day’s biggest single-stock movers."
           ],
-          "source": "Reuters via MarketScreener",
-          "url": "https://ca.marketscreener.com/news/vertex-to-buy-crinetics-for-10-billion-to-expand-rare-disease-business-ce7f5edbdd89f12c"
+          "source": "Reuters via Investing.com / TipRanks",
+          "url": "https://www.investing.com/news/stock-market-news/vertex-to-buy-crinetics-in-10-billion-deal-4777406"
+        },
+        {
+          "emoji": "🧠",
+          "title": "AI chip rally lifts Tesla, AMD and Dell",
+          "bullets": [
+            "Tesla and AMD each rose more than 6% Monday as AI-linked shares rebounded.",
+            "Dell gained more than 4% after President Trump publicly endorsed buying Dell computers.",
+            "The SOXX semiconductor ETF advanced 2.68%, recovering part of the prior week’s slide."
+          ],
+          "source": "StartupHub.ai",
+          "url": "https://www.startuphub.ai/ai-news/ai-stocks-daily/2026/ai-stocks-2026-07-06"
+        },
+        {
+          "emoji": "💾",
+          "title": "Memory and storage stocks jump in semiconductor rebound",
+          "bullets": [
+            "Western Digital rose more than 9% and Seagate gained nearly 6% in Monday’s chip rally.",
+            "KuCoin cited broad gains across AMD, Broadcom, Arm, Qualcomm, TSMC, Intel and Marvell.",
+            "The rebound followed renewed investor interest in AI and memory-chip demand."
+          ],
+          "source": "KuCoin News",
+          "url": "https://www.kucoin.com/news/flash/us-chip-optical-communication-and-storage-stocks-rally-on-july-6"
+        },
+        {
+          "emoji": "🪟",
+          "title": "Microsoft shares slip after 4,800 job-cut plan",
+          "bullets": [
+            "Microsoft stock fell after the company announced workforce reductions of about 2.1%.",
+            "The cuts focus on commercial operations and Xbox restructuring.",
+            "The move came as investors weighed heavy AI spending against cost controls."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/microsoft-joins-aidriven-tech-layoff-wave-with-4800-job-cuts-4776805"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Major corporate and deal news",
+      "subtitle": "Major corporate and deal stories from the last 1–2 days",
       "articles": [
         {
+          "emoji": "🎮",
+          "title": "Microsoft launches major Xbox overhaul during companywide layoffs",
+          "bullets": [
+            "Microsoft is cutting 4,800 jobs across its global workforce.",
+            "Xbox will lose 1,600 roles immediately, with more reductions expected during fiscal 2027.",
+            "The company is restructuring gaming and commercial operations to improve focus and profitability."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/5a8f712c531911089dee008b3bbb33c4"
+        },
+        {
+          "emoji": "💊",
+          "title": "Vertex to acquire Crinetics in $10 billion pharmaceutical deal",
+          "bullets": [
+            "Vertex Pharmaceuticals agreed to buy Crinetics Pharmaceuticals for about $10 billion in equity value.",
+            "The companies announced the deal Monday.",
+            "Crinetics shares jumped sharply after the takeover news."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/vertex-to-buy-crinetics-in-10-billion-deal-4777406"
+        },
+        {
+          "emoji": "🍎",
+          "title": "Apple secures long-term Broadcom chip supply through 2031",
+          "bullets": [
+            "Broadcom will continue developing and supplying custom chips for Apple under a new multi-year agreement.",
+            "Analysts estimate Apple accounts for about 20% of Broadcom’s annual revenue.",
+            "The arrangement strengthens Apple’s supply-chain planning for wireless and radio-frequency components."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/broadcom-apple-extend-chip-partnership-through-2031-4776457"
+        },
+        {
           "emoji": "🏭",
-          "title": "Toyota announces $3.6 billion Texas expansion",
+          "title": "SK Hynix launches massive U.S. listing to fund AI memory expansion",
           "bullets": [
-            "Toyota will build a new 2.5-million-square-foot facility in San Antonio.",
-            "The company expects the plant to open by 2030.",
-            "Some Tacoma production will move from Mexico to Texas."
+            "SK Hynix is launching an approximately $28 billion U.S. listing, according to Reuters.",
+            "The offering is among the world’s largest new share sales.",
+            "The South Korean memory-chip maker is seeking to capitalize on investor demand tied to AI infrastructure."
           ],
           "source": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/toyota-to-build-36-billion-texas-plant-shift-some-truck-production-from-mexico-4777505"
+          "url": "https://www.investing.com/news/stock-market-news/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave-4775503"
         },
         {
-          "emoji": "🧬",
-          "title": "Vertex to buy Crinetics for $10 billion in rare-disease expansion",
+          "emoji": "💽",
+          "title": "Samsung forecasts 19-fold jump in quarterly operating profit",
           "bullets": [
-            "The deal adds rare hormonal-disease treatments to Vertex’s portfolio.",
-            "Crinetics shareholders will receive $85 per share in cash.",
-            "The companies said the assets could exceed $5 billion in peak annual sales."
+            "Samsung Electronics forecast a 1,810% year-over-year rise in second-quarter operating profit.",
+            "Reuters said AI-driven demand continued to lift memory-chip prices.",
+            "The preliminary result beat expectations but came amid market debate over the durability of the AI rally."
           ],
-          "source": "Reuters via MarketScreener",
-          "url": "https://ca.marketscreener.com/news/vertex-to-buy-crinetics-for-10-billion-to-expand-rare-disease-business-ce7f5edbdd89f12c"
-        },
-        {
-          "emoji": "🛒",
-          "title": "Walmart cuts barbecue staple prices after Trump says retailer acted at his request",
-          "bullets": [
-            "Walmart said it would reduce prices on meat, chips and soda.",
-            "Trump said Walmart acted at his administration’s request.",
-            "Walmart cited a drop in a one-pound 73% ground beef roll price."
-          ],
-          "source": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/walmart-rolls-back-barbecue-staple-prices-after-trump-says-retailer-acted-at-his-request-ce7f5edbdd80f027"
-        },
-        {
-          "emoji": "💳",
-          "title": "Fiserv explores sale of debit-card network to big US banks",
-          "bullets": [
-            "Talks have included JPMorgan, Bank of America, Wells Fargo and PNC.",
-            "The STAR Network handles debit, ATM and e-commerce routing.",
-            "Reuters reported no deal is certain and discussions could fall apart."
-          ],
-          "source": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/big-us-banks-explore-fiserv-network-deal-wsj-reports-ce7f5edbdc8df42d"
-        },
-        {
-          "emoji": "✈️",
-          "title": "United faces lawsuit over paid window seats that lacked windows",
-          "bullets": [
-            "A judge allowed passengers’ breach claims to proceed.",
-            "The lawsuits seek damages for more than 1 million passengers per carrier.",
-            "Delta is facing a related case in federal court in Brooklyn."
-          ],
-          "source": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/united-airlines-must-face-lawsuit-over-window-seats-that-lack-windows-4777462"
+          "source": "Reuters via WHTC",
+          "url": "https://whtc.com/2026/07/06/samsung-estimates-19-fold-rise-in-q2-operating-profit-beating-expectations/"
         }
       ]
     },
     "tech": {
       "label": "Tech",
       "icon": "💻",
-      "subtitle": "Technology and AI developments",
+      "subtitle": "Top technology stories and platform developments",
       "articles": [
         {
-          "emoji": "🧠",
-          "title": "Samsung flags 19-fold profit jump, but shares slump on AI-boom doubts",
+          "emoji": "💽",
+          "title": "Samsung’s AI memory boom drives record profit guidance",
           "bullets": [
-            "Samsung estimated second-quarter operating profit at 89.4 trillion won.",
-            "The figure beat LSEG SmartEstimate expectations.",
-            "Samsung shares fell as investors questioned AI-chip demand durability."
+            "Samsung projected second-quarter operating profit of about 89.4 trillion won.",
+            "Reuters said the result would mark a third straight quarter of record operating profit.",
+            "Strong AI memory demand and higher chip prices powered the surge."
           ],
           "source": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/samsung-estimates-19-fold-rise-in-q2-operating-profit-beating-expectations-ce7f5edbdc8af427"
+          "url": "https://www.marketscreener.com/news/samsung-profit-jumps-19-fold-shares-slide-on-ai-worries-ce7f5edbdf8afe22"
         },
         {
-          "emoji": "📱",
-          "title": "Meta says four US states seek $1.4 trillion in youth-safety penalties",
+          "emoji": "🛡️",
+          "title": "Researchers report first documented agentic ransomware operation",
           "bullets": [
-            "Meta disclosed the figure in a court filing ahead of an August trial.",
-            "The states allege Facebook and Instagram were designed to addict young users.",
-            "Meta’s filing said the requested penalties approach its market capitalization."
+            "Sysdig researchers said an AI agent called JadePuffer carried out an end-to-end ransomware intrusion.",
+            "The agent exploited a vulnerable Langflow server, harvested credentials and moved laterally through systems.",
+            "TechCrunch reported a human was still involved outside the technical execution of the attack."
           ],
-          "source": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/meta-says-us-states-are-seeking-14-trillion-in-penalties-in-august-youth-safety-trial-4778202"
+          "source": "TechCrunch / Sysdig",
+          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
         },
         {
-          "emoji": "⚡",
-          "title": "Google and RWE back Proxima Fusion’s €411 million financing round",
+          "emoji": "🎮",
+          "title": "Nintendo to stop selling original Switch models in Europe in 2027",
           "bullets": [
-            "Proxima Fusion raised €411 million from investors including Google and RWE.",
-            "The round valued the Munich-based startup at €2.4 billion.",
-            "RWE will partner on a stellarator fusion plant site in Bavaria."
+            "Nintendo plans to stop selling Switch, Switch Lite and Switch OLED hardware in Europe after mid-February 2027.",
+            "The move is tied to European battery rules requiring user-replaceable batteries for certain devices.",
+            "Existing consoles will continue working, and the decision has not been announced for North America."
           ],
-          "source": "Reuters via MarketScreener",
-          "url": "https://ca.marketscreener.com/news/google-rwe-back-proxima-fusion-in-eur411-million-financing-round-ce7f5edbde8af52d"
-        },
-        {
-          "emoji": "🧩",
-          "title": "Synopsys shifts away from chip-fab control software toward AI design",
-          "bullets": [
-            "Sources said Synopsys plans to stop offering some manufacturing control software.",
-            "The affected products are used by major semiconductor makers.",
-            "Synopsys said it is focusing resources on higher-value products."
-          ],
-          "source": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/synopsys-to-cut-chip-fab-manufacturing-control-software-in-shift-to-ai-design-sources-say-4778248"
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/original-nintendo-switch-will-be-discontinued-in-europe/"
         },
         {
           "emoji": "🍎",
-          "title": "Broadcom shares rise after Apple silicon partnership extended through 2031",
+          "title": "Apple and Broadcom extend custom-chip partnership to 2031",
           "bullets": [
-            "Broadcom and Apple expanded a long-running custom silicon collaboration.",
-            "Broadcom shares closed 3.7% higher Monday after the announcement.",
-            "The deal covers custom ASIC silicon products for future Apple devices."
+            "Broadcom will supply Apple with custom chips under expanded long-term agreements.",
+            "The partnership includes components such as radio-frequency, Wi-Fi, Bluetooth and networking semiconductors.",
+            "The deal supports Apple’s supply-chain resilience even as it designs more chips in-house."
           ],
-          "source": "Investing.com / Reuters",
-          "url": "https://www.investing.com/news/stock-market-news/broadcom-stock-pops-4-as-apple-silicon-deal-gets-extended-through-2031-4776581"
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/broadcom-apple-extend-chip-partnership-through-2031-4776457"
+        },
+        {
+          "emoji": "🧑‍💻",
+          "title": "Microsoft cuts nearly 5,000 roles as AI-era restructuring continues",
+          "bullets": [
+            "Microsoft eliminated about 4,800 roles across Xbox, commercial sales and other operations.",
+            "TechCrunch reported Xbox will cut 1,600 workers immediately and about 3,200 through fiscal 2027.",
+            "The layoffs coincide with Microsoft’s increased spending on AI deployment and customer engineering."
+          ],
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/"
         }
       ]
     }
