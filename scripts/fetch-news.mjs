@@ -23,7 +23,7 @@ const LATEST_PATH = path.join(DATA_DIR, "latest.json");
 const INDEX_PATH = path.join(DATA_DIR, "index.json");
 
 const MODEL = "gpt-5.5";
-const REASONING_EFFORT = "medium";
+const REASONING_EFFORT = "low";
 const MAX_HISTORY_ITEMS = 5;
 
 const CAT_ORDER = ["us", "global", "india", "stocks", "business", "tech"];
@@ -116,13 +116,29 @@ ${categoryList}
 For every story provide:
 - emoji: one emoji that represents the story
 - title: a concise, informative headline (not clickbait)
-- bullets: exactly 3 short factual bullet points summarizing the story (no speculation)
+- bullets: exactly 3 short factual bullet points summarizing the story (no speculation), each under ~20 words
 - source: the real publication name(s) you found this from
 - url: a real, working URL to the source article (never invent or guess a URL)
 
-Only include stories you found via web search with real sources and real URLs. Do not fabricate articles, sources, or URLs. Prefer reputable outlets (Reuters, AP, BBC, NPR, CNBC, Bloomberg, major national papers, etc).
+Search efficiently: run at most 1-2 web searches per category (e.g. a broad "top news today" or headlines-roundup query per category), and pull your 5 stories per category from those results rather than searching separately for each individual story. Only include stories you found via web search with real sources and real URLs. Do not fabricate articles, sources, or URLs. Prefer reputable outlets (Reuters, AP, BBC, NPR, CNBC, Bloomberg, major national papers, etc).
 
 Set "date" to "${iso}" and "displayDate" to "${display}".`;
+}
+
+function logUsage(usage) {
+  if (!usage) {
+    console.log("No usage data returned with this response.");
+    return;
+  }
+  const reasoningTokens = usage.output_tokens_details?.reasoning_tokens;
+  const cachedTokens = usage.input_tokens_details?.cached_tokens;
+  console.log(
+    `Token usage — input: ${usage.input_tokens ?? "?"}` +
+      (cachedTokens ? ` (cached: ${cachedTokens})` : "") +
+      `, output: ${usage.output_tokens ?? "?"}` +
+      (reasoningTokens != null ? ` (reasoning: ${reasoningTokens})` : "") +
+      `, total: ${usage.total_tokens ?? "?"}`
+  );
 }
 
 async function generateNewsData() {
@@ -145,6 +161,8 @@ async function generateNewsData() {
     },
     input: buildPrompt({ iso, display }),
   });
+
+  logUsage(response.usage);
 
   if (response.status === "failed") {
     throw new Error(`Request failed: ${JSON.stringify(response.error)}`);
@@ -228,37 +246,44 @@ function validateNewsData(data) {
   }
 }
 
-function readManifest() {
-  if (!fs.existsSync(INDEX_PATH)) return { dates: [] };
+function readManifest(indexPath = INDEX_PATH) {
+  if (!fs.existsSync(indexPath)) return { dates: [] };
   try {
-    return JSON.parse(fs.readFileSync(INDEX_PATH, "utf8"));
+    return JSON.parse(fs.readFileSync(indexPath, "utf8"));
   } catch {
     return { dates: [] };
   }
 }
 
-function persistNewsData(data) {
-  fs.mkdirSync(HISTORY_DIR, { recursive: true });
+function persistNewsData(data, opts = {}) {
+  const {
+    historyDir = HISTORY_DIR,
+    latestPath = LATEST_PATH,
+    indexPath = INDEX_PATH,
+    maxHistoryItems = MAX_HISTORY_ITEMS,
+  } = opts;
+
+  fs.mkdirSync(historyDir, { recursive: true });
 
   const json = JSON.stringify(data, null, 2) + "\n";
-  const historyPath = path.join(HISTORY_DIR, `${data.date}.json`);
+  const historyPath = path.join(historyDir, `${data.date}.json`);
   fs.writeFileSync(historyPath, json);
-  fs.writeFileSync(LATEST_PATH, json);
+  fs.writeFileSync(latestPath, json);
 
-  const manifest = readManifest();
+  const manifest = readManifest(indexPath);
   const dates = Array.from(new Set([data.date, ...(manifest.dates || [])]))
     .sort()
     .reverse()
-    .slice(0, MAX_HISTORY_ITEMS);
+    .slice(0, maxHistoryItems);
 
-  fs.writeFileSync(INDEX_PATH, JSON.stringify({ dates }, null, 2) + "\n");
+  fs.writeFileSync(indexPath, JSON.stringify({ dates }, null, 2) + "\n");
 
   // Prune history files that fell out of the retention window.
   const keep = new Set(dates);
-  for (const file of fs.readdirSync(HISTORY_DIR)) {
+  for (const file of fs.readdirSync(historyDir)) {
     const match = file.match(/^(\d{4}-\d{2}-\d{2})\.json$/);
     if (match && !keep.has(match[1])) {
-      fs.unlinkSync(path.join(HISTORY_DIR, file));
+      fs.unlinkSync(path.join(historyDir, file));
       console.log(`Pruned old history file: ${file}`);
     }
   }
@@ -281,7 +306,29 @@ async function main() {
   console.log(`Manifest now tracks ${dates.length} date(s): ${dates.join(", ")}`);
 }
 
-main().catch((err) => {
-  console.error(err.stack || err.message || err);
-  process.exit(1);
-});
+const isMainModule = import.meta.url === `file://${process.argv[1]}`;
+if (isMainModule) {
+  main().catch((err) => {
+    console.error(err.stack || err.message || err);
+    process.exit(1);
+  });
+}
+
+export {
+  CAT_ORDER,
+  CAT_SPEC,
+  MAX_HISTORY_ITEMS,
+  DATA_DIR,
+  HISTORY_DIR,
+  LATEST_PATH,
+  INDEX_PATH,
+  nyDateParts,
+  articleSchema,
+  categorySchema,
+  newsSchema,
+  buildPrompt,
+  mockNewsData,
+  validateNewsData,
+  readManifest,
+  persistNewsData,
+};
