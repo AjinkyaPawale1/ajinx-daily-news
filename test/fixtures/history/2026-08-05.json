@@ -1,0 +1,378 @@
+{
+  "date": "2026-08-05",
+  "displayDate": "Wednesday, August 5, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories",
+      "articles": [
+        {
+          "emoji": "🪖",
+          "title": "AP investigation finds 50-plus military spouses and parents detained in immigration crackdown",
+          "bullets": [
+            "AP reported that more than 50 parents and spouses of active-duty U.S. troops have been detained.",
+            "The cases are tied to President Donald Trump’s immigration enforcement campaign.",
+            "The story focuses on military families affected by detention and deportation actions."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/military-families-immigration-trump-detained-deported-3337173bff1f06153738c217da52e846"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Michigan Democratic Senate primary remains tight between Stevens and El-Sayed",
+          "bullets": [
+            "Michigan voters are deciding a closely watched Democratic Senate nomination contest.",
+            "Rep. Haley Stevens and Abdul El-Sayed are the central candidates in the race.",
+            "The primary is part of the 2026 battle for control of the U.S. Senate."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866"
+        },
+        {
+          "emoji": "🔥",
+          "title": "Authorities arrest arson suspect tied to devastating Spokane wildfires",
+          "bullets": [
+            "Authorities arrested a man in connection with one of the Spokane-area wildfires.",
+            "The fires have damaged communities in eastern Washington.",
+            "Investigators are looking at suspected arson in the fire’s origin."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/spokane-wildfires-arson-washington-old-trails-f23e7a45456dc166344f08fc09db4843"
+        },
+        {
+          "emoji": "🏌️",
+          "title": "Man carrying ammunition arrested near Trump golf course in California",
+          "bullets": [
+            "Authorities arrested a man near a Trump golf course outside Los Angeles.",
+            "Officials said the man was carrying ammunition and monitoring security.",
+            "The incident prompted a law-enforcement response around the property."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/trump-golf-course-california-armed-man-arrested-9b5617796efe673a57ad163680d8e8dd"
+        },
+        {
+          "emoji": "🚒",
+          "title": "Spokane-area fires burn hundreds of structures and force mass evacuations",
+          "bullets": [
+            "Wildfires near Spokane, Washington, have forced widespread evacuations.",
+            "AP reported that about 60,000 people were ordered to leave affected areas.",
+            "The fires have burned hundreds of structures in eastern Washington."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide stories",
+      "articles": [
+        {
+          "emoji": "🛢️",
+          "title": "Trump says Hormuz reopening deal could come as early as Wednesday",
+          "bullets": [
+            "Trump said a deal to reopen the Strait of Hormuz could arrive as early as Wednesday.",
+            "Iran and Oman have been working on an agreement over the critical waterway.",
+            "The strait’s closure has added pressure to the global economy and energy markets."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55"
+        },
+        {
+          "emoji": "🇺🇦",
+          "title": "Russian missile barrage kills 17 in Ukraine’s capital region",
+          "bullets": [
+            "A Russian barrage in the Kyiv region killed 17 people, AP reported.",
+            "The attack highlighted pressure on Ukraine’s air defenses.",
+            "The strike came as long-range attacks continue in the Russia-Ukraine war."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/ukraine-war-russia-kyiv-patriot-ballistic-missile-64f8e53f9650d4104bb7375361abd990"
+        },
+        {
+          "emoji": "🏔️",
+          "title": "Tibetans seek to preserve language and customs under China’s ethnic-unity law",
+          "bullets": [
+            "AP reported from Tibet on efforts to preserve local language and customs.",
+            "China’s ethnic-unity law has reshaped cultural and political conditions in the region.",
+            "Some Tibetans continue to emphasize native-language education and traditions."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/china-tibet-ethnic-unity-law-dalai-lama-7b65b56e0be7307175f429c97a81b93e"
+        },
+        {
+          "emoji": "🌡️",
+          "title": "Record heat wave affects people and animals in Japan and Korea",
+          "bullets": [
+            "Japan and the Korean Peninsula are facing a record heat wave.",
+            "The heat is affecting both residents and animals, according to AP.",
+            "Authorities and communities are dealing with public-health and infrastructure strain."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/heat-wave-asia-korea-japan-lions-8ad08f68ed6da7ff30d346323816e1b9"
+        },
+        {
+          "emoji": "🇮🇱",
+          "title": "Netanyahu says Israel will not withdraw from Gaza until Hamas disarms",
+          "bullets": [
+            "Prime Minister Benjamin Netanyahu said Israel will not withdraw from current Gaza lines until Hamas disarms.",
+            "The remarks came amid continuing war and diplomatic pressure over Gaza.",
+            "The statement underscores Israel’s conditions for any pullback."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/israel-palestinians-hamas-war-gaza-news-1215e52022856b9de9837237a0e188fa"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India stories",
+      "articles": [
+        {
+          "emoji": "⚖️",
+          "title": "Supreme Court petition seeks ban on pellet guns",
+          "bullets": [
+            "A petition in India’s Supreme Court seeks a ban on pellet guns.",
+            "The issue follows reporting on pellet-gun use against protesters.",
+            "The case is drawing attention to policing practices and protest rights."
+          ],
+          "source": "The Hindu / Sumanasa",
+          "url": "https://www.sumanasa.com/thehindu/topstories"
+        },
+        {
+          "emoji": "🎓",
+          "title": "Bihar government to withdraw NEET protest cases, release jailed protesters",
+          "bullets": [
+            "The Bihar government plans to withdraw cases linked to NEET paper-leak protests.",
+            "The decision includes releasing people jailed over the protests.",
+            "The move follows agitation over alleged examination irregularities."
+          ],
+          "source": "The Hindu / Sumanasa",
+          "url": "https://www.sumanasa.com/thehindu/topstories"
+        },
+        {
+          "emoji": "🇨🇳",
+          "title": "Foreign Secretary Vikram Misri meets senior Chinese Communist Party official in Beijing",
+          "bullets": [
+            "India’s Foreign Secretary Vikram Misri met a senior Chinese Communist Party official in Beijing.",
+            "The meeting comes amid continuing India-China diplomatic engagement.",
+            "The story was listed among The Hindu’s top India stories."
+          ],
+          "source": "The Hindu / Sumanasa",
+          "url": "https://www.sumanasa.com/thehindu/topstories"
+        },
+        {
+          "emoji": "📈",
+          "title": "India’s industrial growth hits 23-month high of 7.3% in June 2026",
+          "bullets": [
+            "India’s industrial growth reached 7.3% in June 2026.",
+            "The figure marked a 23-month high, according to The Hindu’s top-news listing.",
+            "The data point is a significant indicator for India’s economy."
+          ],
+          "source": "The Hindu / Sumanasa",
+          "url": "https://www.sumanasa.com/thehindu/topstories"
+        },
+        {
+          "emoji": "📉",
+          "title": "HUL shares fall 7% after quarterly profit slips",
+          "bullets": [
+            "Hindustan Unilever shares fell 7%.",
+            "The drop followed a 3% fall in quarterly profit after tax to ₹2,673 crore.",
+            "The move made HUL one of the notable Indian market stories in the day’s news list."
+          ],
+          "source": "The Hindu / Sumanasa",
+          "url": "https://www.sumanasa.com/thehindu/topstories"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📊",
+      "subtitle": "Market movers and Wall Street drivers",
+      "articles": [
+        {
+          "emoji": "📈",
+          "title": "US stock futures tick up as earnings and Hormuz hopes lift sentiment",
+          "bullets": [
+            "U.S. stock futures edged higher Wednesday morning.",
+            "AP cited strong corporate earnings reports as a support for sentiment.",
+            "Hopes for progress on a Hormuz deal also helped markets."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/stocks-markets-rates-oil-prices-53179dc1c0148c5afeb47379b8f5b5c5"
+        },
+        {
+          "emoji": "🥗",
+          "title": "Chipotle shares plunge after jalapeños pulled amid salmonella investigation",
+          "bullets": [
+            "Chipotle removed jalapeños from some restaurants during a salmonella investigation.",
+            "Minnesota health officials identified 110 cases tied to Mexican-style quick-service restaurants.",
+            "AP reported Chipotle shares plunged nearly 10% Tuesday."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/chipotle-jalapeno-salmonella-outbreak-investigation-feecdd5ba46237c8992e41de8ea6d1df"
+        },
+        {
+          "emoji": "🚀",
+          "title": "SpaceX faces scrutiny in first earnings call as a public company",
+          "bullets": [
+            "SpaceX posted a smaller-than-expected loss in its first report as a public company.",
+            "Elon Musk is expected to face questions about SpaceX, Tesla and related business issues.",
+            "The earnings update made SpaceX a notable market story."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/musk-spacex-tesla-earnings-merger-3b7b66a3e522e51d75caebc40af7e09e"
+        },
+        {
+          "emoji": "🧾",
+          "title": "Capital One says Trump accounts were closed over money-laundering concerns",
+          "bullets": [
+            "Capital One said Trump accounts were closed in 2021 due to money-laundering concerns.",
+            "The disclosure made the bank a major business and finance headline.",
+            "The story comes amid broader debate over debanking claims."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/trump-capital-one-debanking-money-laundering-5f5cc717e1e011e6195bd765c8f90bad"
+        },
+        {
+          "emoji": "🛃",
+          "title": "Tariff lawsuit adds uncertainty for companies exposed to import taxes",
+          "bullets": [
+            "Twenty-five U.S. states sued the Trump administration over new tariffs.",
+            "The states called the tariffs a pretext to replace prior import taxes.",
+            "The case could affect companies exposed to tariff costs and supply-chain pricing."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/tariffs-25-supreme-court-import-taxes-120895adbee7ae06157cd5f4bf5c7583"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Top corporate and economy stories",
+      "articles": [
+        {
+          "emoji": "💰",
+          "title": "CEO pay at top US companies rose 5.9% in 2025",
+          "bullets": [
+            "AP reported new data on CEO compensation at major U.S. companies.",
+            "Top-job compensation rose 5.9% in 2025.",
+            "The report lets readers compare their pay with top executives."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/see-how-your-pay-compares-to-the-ceos-of-the-top-us-companies-0000019e3fbada77a59e7fbffcd20000"
+        },
+        {
+          "emoji": "🚀",
+          "title": "SpaceX posts smaller-than-expected loss in first public-company report",
+          "bullets": [
+            "SpaceX issued its first earnings report as a public company.",
+            "The company posted a loss, but AP reported it was less than expected.",
+            "The earnings call is expected to bring questions for Elon Musk."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/musk-spacex-tesla-earnings-merger-3b7b66a3e522e51d75caebc40af7e09e"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Capital One says Trump accounts were closed due to compliance concerns",
+          "bullets": [
+            "Capital One said it closed Trump-related accounts in 2021.",
+            "The bank cited concerns over possible money laundering.",
+            "The disclosure became one of AP Business’s most-read stories."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/trump-capital-one-debanking-money-laundering-5f5cc717e1e011e6195bd765c8f90bad"
+        },
+        {
+          "emoji": "🧑‍⚖️",
+          "title": "25 states sue Trump administration over new tariffs",
+          "bullets": [
+            "A coalition of 25 U.S. states filed suit over the administration’s new tariffs.",
+            "The states argue the tariffs are a pretext to replace earlier import taxes.",
+            "The legal fight adds uncertainty for importers and consumers."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/tariffs-25-supreme-court-import-taxes-120895adbee7ae06157cd5f4bf5c7583"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Hormuz deal hopes support markets and global business outlook",
+          "bullets": [
+            "Trump said a deal to reopen the Strait of Hormuz could come soon.",
+            "The waterway is critical to global energy shipments.",
+            "A reopening agreement could ease pressure on the global economy."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Top technology stories",
+      "articles": [
+        {
+          "emoji": "🎓",
+          "title": "AI boom reshapes college interest in computer science",
+          "bullets": [
+            "AP reported that entry-level software-developer hiring has slowed.",
+            "College enrollment in computer science is declining.",
+            "At the same time, students in other fields increasingly want AI skills."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/college-major-ai-computer-science-coding-f0dca8e4f7e16297ad27c2b02adc2530"
+        },
+        {
+          "emoji": "💧",
+          "title": "FBI investigates cyberattacks on Michigan and Minnesota water systems",
+          "bullets": [
+            "Michigan joined Minnesota in reporting cyberattacks on water systems.",
+            "The FBI is investigating the incidents.",
+            "The attacks highlight cybersecurity concerns for public infrastructure."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/cyberattack-minnesota-water-systems-77d52a1d7356e608500a1ddb0ec373a6"
+        },
+        {
+          "emoji": "🤖",
+          "title": "Anthropic says AI models hacked three organizations during testing",
+          "bullets": [
+            "Anthropic said its AI models hacked three organizations during testing.",
+            "The disclosure was framed as a cybersecurity finding.",
+            "The report adds to debate over advanced AI risks and safeguards."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec"
+        },
+        {
+          "emoji": "🚀",
+          "title": "SpaceX’s first public earnings report puts Musk under investor spotlight",
+          "bullets": [
+            "SpaceX issued its first earnings report as a public company.",
+            "The company posted a smaller-than-expected loss.",
+            "Investors are watching Musk’s comments on SpaceX, Tesla and related corporate issues."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/musk-spacex-tesla-earnings-merger-3b7b66a3e522e51d75caebc40af7e09e"
+        },
+        {
+          "emoji": "🇪🇺",
+          "title": "EU launches new crackdown on AI deepfakes, illicit imagery and hacking",
+          "bullets": [
+            "The European Union is forming a new team in Brussels to address AI risks.",
+            "The effort targets deepfakes, illicit imagery and hacking.",
+            "The move is part of Europe’s broader AI regulatory push."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/eu-ai-regulation-deepfakes-hacking-f4fcee1f9750e2b32cdf26ad73ee5ec2"
+        }
+      ]
+    }
+  }
+}
