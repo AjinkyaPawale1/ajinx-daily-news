@@ -1,0 +1,378 @@
+{
+  "date": "2026-08-08",
+  "displayDate": "Saturday, August 8, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic headlines",
+      "articles": [
+        {
+          "emoji": "🗳️",
+          "title": "Senate leaves Washington without passing Trump-backed voting bill",
+          "bullets": [
+            "Senators adjourned early Saturday for summer recess.",
+            "Trump had demanded action on the SAVE America Act.",
+            "Republicans said they may revisit parts of the bill in September."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/6dd2d8084ee42653b4db79cd565d1504"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Todd Blanche confirmed as attorney general in overnight Senate vote",
+          "bullets": [
+            "The Senate confirmed Blanche 50-49 early Saturday.",
+            "Two Republicans joined Democrats in opposing him.",
+            "Blanche had been serving as acting attorney general."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/senate-blanche-attorney-general-justice-department-fcb4157d45d7b13a05de4d2b0f4f92e2"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Appeals court halts Trump White House ballroom project",
+          "bullets": [
+            "A divided appeals court ordered aboveground work stopped.",
+            "The court said Congress had not approved the $400 million project.",
+            "Trump said his administration would appeal to the Supreme Court."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/trump-ballroom-court-ruling-1528247275ec6103da892d271d4ee883"
+        },
+        {
+          "emoji": "🎥",
+          "title": "ICE policy limits release of body camera footage",
+          "bullets": [
+            "ICE says footage will be released only when in the agency’s best interests.",
+            "The policy covers incidents involving immigration officers.",
+            "The rule comes amid scrutiny of enforcement actions."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57"
+        },
+        {
+          "emoji": "💵",
+          "title": "Trump administration renews effort to remove Fed governor Lisa Cook",
+          "bullets": [
+            "The White House gave Cook until August 26 to contest removal.",
+            "Cook denies mortgage fraud allegations cited by the administration.",
+            "The move follows a Supreme Court ruling allowing her to remain temporarily."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/federal-reserve-lisa-cook-trump-fire-mortgage-fraud-01eb76b6bc499fcc100921cee91e08a2"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide developments",
+      "articles": [
+        {
+          "emoji": "🛢️",
+          "title": "Iran sees leverage in Strait of Hormuz standoff",
+          "bullets": [
+            "AP reported Iran believes it has strategic leverage over the waterway.",
+            "The Strait of Hormuz remains central to global energy flows.",
+            "Diplomacy and military pressure are shaping the dispute."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/iran-us-war-strait-hormuz-goals-diplomacy-77d91b276db6d749711619b0aa1c5c3f"
+        },
+        {
+          "emoji": "🍺",
+          "title": "London pub owners protest plan to curb ‘vertical drinking’",
+          "bullets": [
+            "UK pub landlords criticized proposed limits on standing drinkers.",
+            "The plan targets parts of London’s nightlife district.",
+            "Politicians and business owners warned of economic harm."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/pint-pub-drinking-soho-bars-5fe6c4614a65fa6c392ac2cbf02b1ab5"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Saudi Arabia, Turkey and Pakistan sign defense agreement",
+          "bullets": [
+            "The countries announced a new defense pact.",
+            "The deal deepens security ties among three major Muslim-majority states.",
+            "It comes amid heightened Middle East tensions."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/saudi-arabia-turkey-pakistan-defense-agreement-58048d4a100befd4d2c18e0cbae58b7c"
+        },
+        {
+          "emoji": "🌊",
+          "title": "Maldives youth activists warn islands may become unlivable",
+          "bullets": [
+            "Young activists are pressing for stronger climate action.",
+            "Rising seas threaten the low-lying island nation.",
+            "The campaign links climate change with housing and economic risks."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/climate-change-youth-activism-maldives-8b3927beaaa60164b1e79dbb77857437"
+        },
+        {
+          "emoji": "🇷🇺",
+          "title": "US Senate passes sweeping Russia sanctions bill",
+          "bullets": [
+            "The bill was negotiated by the late Sen. Lindsey Graham.",
+            "It targets Russia with new sanctions and tariff tools.",
+            "The measure is intended to support Ukraine."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/senate-russia-sanctions-graham-tariffs-8d37498c3f27d96cae7da147250ebe9f"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India-focused stories found",
+      "articles": [
+        {
+          "emoji": "🕍",
+          "title": "Kochi’s last Cochin Jews work to preserve community history",
+          "bullets": [
+            "AP profiled efforts to preserve Jewish history in Kochi.",
+            "The community traces its roots in India back centuries.",
+            "Remaining members are documenting archives, memory and heritage."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/kochi-india-cochin-jews-preserve-history-86dc7f2069338cd5903b562330a4b12f"
+        },
+        {
+          "emoji": "🚢",
+          "title": "Four Indian sailors killed in missile strike on ship off Ukraine",
+          "bullets": [
+            "Four Indians were among 10 people killed on a merchant vessel.",
+            "India condemned attacks on commercial shipping.",
+            "One Indian crew member was reported hospitalized in critical condition."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/russia-ukraine-war-4-indian-sailors-among-10-killed-as-missile-hits-ship-10795640/lite/"
+        },
+        {
+          "emoji": "🎓",
+          "title": "Mumbai police detain protesters during NEET row demonstration",
+          "bullets": [
+            "Student groups protested alleged NEET irregularities in Mumbai.",
+            "Organizers said about 200 people were detained.",
+            "Police blocked access to the protest site near Chaityabhoomi."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/mumbai/neet-protest-mumbai-chaityabhoomi-dadar-students-detained-mass-cjp-police-10795612/lite/"
+        },
+        {
+          "emoji": "🏏",
+          "title": "Calcutta High Court orders arrest of cricketer Abishek Porel in rape case",
+          "bullets": [
+            "The court directed police to arrest Porel and another accused.",
+            "Police were told to seize electronic devices to protect evidence.",
+            "The case includes rape and criminal intimidation allegations."
+          ],
+          "source": "The Indian Express / LiveLaw",
+          "url": "https://indianexpress.com/article/legal-news/calcutta-hc-orders-arrest-delhi-capitals-abishek-porel-rape-case-seize-devices-10795616/lite/"
+        },
+        {
+          "emoji": "🔎",
+          "title": "Magisterial probe ordered into Doda police firing death",
+          "bullets": [
+            "Authorities ordered an inquiry into a man’s death in alleged police firing.",
+            "A Special Investigation Team was also formed.",
+            "High-speed internet remained suspended in Doda after the incident."
+          ],
+          "source": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/j-k/magisterial-probe-ordered-into-doda-police-firing/"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Top market movers",
+      "articles": [
+        {
+          "emoji": "🏠",
+          "title": "Airbnb jumps after stronger-than-expected quarterly results",
+          "bullets": [
+            "Airbnb shares rose 17.4% after its earnings report.",
+            "The company beat analyst expectations for profit and revenue.",
+            "The move came during a broader Friday market rally."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/9636095906bbb689a1f612bce9a07343"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Nvidia rises as tech stocks lift Wall Street",
+          "bullets": [
+            "Nvidia gained 2.3% on Friday.",
+            "Large technology stocks led the broader market higher.",
+            "The move helped push the Nasdaq up 1.3%."
+          ],
+          "source": "Associated Press / CNBC",
+          "url": "https://apnews.com/article/9636095906bbb689a1f612bce9a07343"
+        },
+        {
+          "emoji": "🔌",
+          "title": "Broadcom advances in AI-led tech rally",
+          "bullets": [
+            "Broadcom rose 1.7% during Friday trading.",
+            "The stock was among major tech gainers cited by AP.",
+            "Technology shares were the biggest support for the broader market."
+          ],
+          "source": "Associated Press / CNBC",
+          "url": "https://apnews.com/article/9636095906bbb689a1f612bce9a07343"
+        },
+        {
+          "emoji": "🏦",
+          "title": "S&P 500 closes at record after weak jobs data",
+          "bullets": [
+            "The S&P 500 rose 0.6% to 7,757.64.",
+            "The Dow added 151.83 points.",
+            "The Nasdaq climbed 342.26 points."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/9636095906bbb689a1f612bce9a07343"
+        },
+        {
+          "emoji": "✈️",
+          "title": "Boeing watched after FAA orders 737 Max inspections",
+          "bullets": [
+            "The FAA ordered inspections affecting 471 Boeing 737 Max jets.",
+            "The rule follows crack reports in older 737 models.",
+            "No cracks had been found in the Max models covered by the order."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/boeing-737-max-crack-inspections-faa-f9d4c01a70c760f82520f09ea91137ac"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Top corporate and economy stories",
+      "articles": [
+        {
+          "emoji": "✈️",
+          "title": "FAA orders urgent inspections for hundreds of Boeing 737 Max jets",
+          "bullets": [
+            "The finalized rule takes effect September 10.",
+            "It applies to certain 737-8, 737-9 and 737-8200 aircraft.",
+            "The FAA said the directive addresses a potential unsafe condition."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/boeing-737-max-crack-inspections-faa-f9d4c01a70c760f82520f09ea91137ac"
+        },
+        {
+          "emoji": "📉",
+          "title": "US stocks rise after employers unexpectedly cut 23,000 jobs",
+          "bullets": [
+            "Wall Street rallied after the weak labor-market report.",
+            "Treasury yields fell as traders reassessed Fed policy risk.",
+            "Major indexes posted a second straight weekly gain."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/9636095906bbb689a1f612bce9a07343"
+        },
+        {
+          "emoji": "💉",
+          "title": "FDA approves Moderna mRNA flu shot for older adults",
+          "bullets": [
+            "The vaccine is called mFlusiva.",
+            "It is approved for older people.",
+            "The approval expands use of mRNA vaccine technology beyond COVID-19."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/flu-vaccine-moderna-mrna-fda-mflusiva-59d991a6bf70c26e2f0c210cc8ca87f1"
+        },
+        {
+          "emoji": "🌶️",
+          "title": "Jalapeños linked to US salmonella outbreak traced to Mexican farm",
+          "bullets": [
+            "Officials identified a Mexican farm and a US distributor.",
+            "The outbreak involved jalapeños served by restaurant chains.",
+            "Investigators continued tracing contaminated supply."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/jalapenos-salmonella-chipotle-qdoba-335dffe4980a7063b1deccc2bf8390b2"
+        },
+        {
+          "emoji": "📄",
+          "title": "Trump gets temporary reprieve in BBC financial disclosure case",
+          "bullets": [
+            "A court gave Trump more time before disclosing finances.",
+            "The issue stems from litigation involving the BBC.",
+            "The reprieve is temporary, according to AP."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Top technology stories",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "Elon Musk’s xAI sues Minnesota over AI ‘nudification’ law",
+          "bullets": [
+            "xAI challenged Minnesota’s first-in-the-nation ban.",
+            "The law targets AI tools used to create nonconsensual sexual images.",
+            "The lawsuit raises free-speech and technology regulation questions."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16"
+        },
+        {
+          "emoji": "📱",
+          "title": "Jury finds Instagram and YouTube liable in social media addiction trial",
+          "bullets": [
+            "A jury found the platforms liable in a landmark case.",
+            "The lawsuit centered on alleged harms to young users.",
+            "The verdict could influence future platform-liability litigation."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/social-media-addiction-trial-la-5e54075023d837ccdc76c4ca512e925d"
+        },
+        {
+          "emoji": "🧬",
+          "title": "Experimental vaccines aim to prevent hereditary colon and uterine cancers",
+          "bullets": [
+            "Researchers are testing vaccines for people with Lynch syndrome.",
+            "The condition raises risks for colorectal and uterine cancers.",
+            "The trials aim to intercept cancer before it develops."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/colon-cancer-lynch-vaccines-inherited-87bfce56a19c6b304587f9952acdba99"
+        },
+        {
+          "emoji": "💉",
+          "title": "mRNA flu vaccine wins FDA approval for older adults",
+          "bullets": [
+            "Moderna’s mFlusiva uses mRNA vaccine technology.",
+            "The FDA approved it for older people.",
+            "The decision adds another mRNA product to the US vaccine market."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/flu-vaccine-moderna-mrna-fda-mflusiva-59d991a6bf70c26e2f0c210cc8ca87f1"
+        },
+        {
+          "emoji": "🛰️",
+          "title": "Climate-tech concerns grow as Maldives youth warn of livability threat",
+          "bullets": [
+            "Maldives activists highlighted long-term climate survival risks.",
+            "The story focuses on adaptation, infrastructure and advocacy.",
+            "Rising seas remain a major technology and policy challenge for island nations."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/climate-change-youth-activism-maldives-8b3927beaaa60164b1e79dbb77857437"
+        }
+      ]
+    }
+  }
+}

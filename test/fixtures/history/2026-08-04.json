@@ -1,0 +1,378 @@
+{
+  "date": "2026-08-04",
+  "displayDate": "Tuesday, August 4, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "⚖️",
+          "title": "25 states sue Trump administration over new tariffs",
+          "bullets": [
+            "Twenty-five states challenged the latest Trump tariffs in court.",
+            "The lawsuit says the tariffs are a pretext to replace levies struck down by the Supreme Court.",
+            "The White House says the tariffs use lawful Section 301 authority tied to forced-labor imports."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/120895adbee7ae06157cd5f4bf5c7583"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "US markets set to rise as oil drops after Trump criticizes Big Oil",
+          "bullets": [
+            "US stock futures pointed higher early Tuesday.",
+            "Oil prices fell sharply after Trump criticized energy companies’ profits.",
+            "ExxonMobil, ConocoPhillips and Chevron shares fell before the opening bell."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fbbe6128d618509e33d45a493c2615b1"
+        },
+        {
+          "emoji": "🕊️",
+          "title": "Trump calls new Iran talks the ‘last chance’ to avoid escalation",
+          "bullets": [
+            "Trump said new talks with Tehran would focus first on reopening the Strait of Hormuz.",
+            "He said he held off on major new US strikes after appeals from Gulf allies.",
+            "The president said denuclearization would be a later phase of any deal."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fb81a68f999f4a7b0498ae71cbffe8e5"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Trump’s latest tariff fight expands after earlier business lawsuits",
+          "bullets": [
+            "Small businesses had already sued over the new tariff program.",
+            "The broader state lawsuit adds pressure on the administration’s trade strategy.",
+            "The legal fight centers on whether the government met Section 301 requirements."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fd55d81461c38892a03c322bfcc46e95"
+        },
+        {
+          "emoji": "📊",
+          "title": "AP-NORC poll shows most Americans say Iran war not worth fighting",
+          "bullets": [
+            "An AP-NORC poll found broad public skepticism about the Iran war.",
+            "Trump’s approval on Iran slipped from the prior month.",
+            "Only about 2 in 10 US adults favored continued military action."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/55e9c80afec521d87f131393a59674c0"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide developments",
+      "articles": [
+        {
+          "emoji": "🕊️",
+          "title": "Gaza transition envoy meets Netanyahu on Hamas disarmament plan",
+          "bullets": [
+            "A Board of Peace official met with Israeli Prime Minister Benjamin Netanyahu.",
+            "The talks focused partly on a Gaza disarmament deal with Hamas.",
+            "The envoy also urged Israel to halt strikes in Gaza."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/d8474a47662a53aceacebc1ad331c912"
+        },
+        {
+          "emoji": "🛑",
+          "title": "Israel raises concerns over Gaza disarmament deal",
+          "bullets": [
+            "Israel said it had serious concerns about the Hamas disarmament framework.",
+            "US officials said Israel had been consulted during negotiations.",
+            "The plan remains politically difficult for Netanyahu’s government."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/72b1493ca75bb9d4cf195f325d8dc425"
+        },
+        {
+          "emoji": "⛽",
+          "title": "US-Iran talks aim to reopen Strait of Hormuz",
+          "bullets": [
+            "Trump said renewed talks could help restart normal shipping through Hormuz.",
+            "The strait is a critical route for global oil and gas trade.",
+            "Iranian officials publicly disputed parts of Trump’s account of the talks."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/3b92568b6f2eec283eb51d0327ee682a"
+        },
+        {
+          "emoji": "✈️",
+          "title": "Trump’s repeated Iran strike pauses face scrutiny",
+          "bullets": [
+            "Trump again said he was halting planned attacks while talks proceed.",
+            "AP reviewed prior moments when strike pauses were followed by renewed fighting.",
+            "The war has affected oil prices and shipping through the Gulf."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/670f077d2cf5de7614cfce4ad40e4aaa"
+        },
+        {
+          "emoji": "📜",
+          "title": "Full text released for Hamas disarmament and Israeli withdrawal roadmap",
+          "bullets": [
+            "The published text lays out phased implementation of the Gaza plan.",
+            "It calls for Hamas disarmament and eventual Israeli withdrawal.",
+            "The framework references monitoring by a Board of Peace-linked mechanism."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/7347ef0f3b745f22c12b67f786b70f0f"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India stories and India-focused developments",
+      "articles": [
+        {
+          "emoji": "🪧",
+          "title": "India’s Gen Z ‘Cockroach’ movement dents Modi’s political image",
+          "bullets": [
+            "Youth protesters forced the resignation of Education Minister Dharmendra Pradhan.",
+            "The movement began over exam paper leaks and broadened into accountability demands.",
+            "Analysts said the protests challenged Modi’s image of political invulnerability."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/4358744e9d890b92ffdd2477bbd99e8a"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Indian Parliament monsoon session focuses on exams and MSMEs",
+          "bullets": [
+            "NDTV reported key bills on public examinations and MSMEs were on Parliament’s agenda.",
+            "The agenda follows weeks of public anger over exam paper leaks.",
+            "The session comes amid heightened scrutiny of education governance."
+          ],
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india?pfrom=home-ndtv_mainnavigation"
+        },
+        {
+          "emoji": "🌧️",
+          "title": "Assam flood situation improves but lakhs remain affected",
+          "bullets": [
+            "NDTV reported no fresh flood deaths in Assam in the latest official update.",
+            "About 4.45 lakh people remained affected across six districts.",
+            "The report said the flood situation improved marginally."
+          ],
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india?pfrom=home-ndtv_mainnavigation"
+        },
+        {
+          "emoji": "🚆",
+          "title": "Centre approves new rail lines on Karnataka-Andhra route",
+          "bullets": [
+            "NDTV listed approval for third and fourth rail lines on a key route.",
+            "The project concerns connectivity between Karnataka and Andhra Pradesh.",
+            "The approval was carried by Press Trust of India on NDTV."
+          ],
+          "source": "NDTV / Press Trust of India",
+          "url": "https://www.ndtv.com/top-stories"
+        },
+        {
+          "emoji": "💼",
+          "title": "8th Pay Commission talks restart with August meetings planned",
+          "bullets": [
+            "NDTV reported fresh August meeting dates for 8th Pay Commission talks.",
+            "The process is closely watched by central government employees and pensioners.",
+            "The update appeared among NDTV’s top national stories."
+          ],
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/top-stories"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Key US market movers",
+      "articles": [
+        {
+          "emoji": "🛢️",
+          "title": "ExxonMobil slips premarket as oil prices fall",
+          "bullets": [
+            "ExxonMobil shares fell about 1% before the bell.",
+            "The move followed a drop of nearly 3% in oil prices.",
+            "Trump criticized major oil companies for high profits during the Iran conflict."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fbbe6128d618509e33d45a493c2615b1"
+        },
+        {
+          "emoji": "⛽",
+          "title": "Chevron falls after Trump criticizes energy-company profits",
+          "bullets": [
+            "Chevron shares were lower in premarket trading.",
+            "Trump singled out Chevron and ExxonMobil while urging lower retail prices.",
+            "The pullback came as crude prices reversed into losses."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fbbe6128d618509e33d45a493c2615b1"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "ConocoPhillips joins energy-stock pullback",
+          "bullets": [
+            "ConocoPhillips fell around 1% before the open.",
+            "Energy stocks were pressured by lower crude prices.",
+            "Investors also watched renewed US-Iran talks over the Strait of Hormuz."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fbbe6128d618509e33d45a493c2615b1"
+        },
+        {
+          "emoji": "🏭",
+          "title": "Dow futures jump as Wall Street looks higher",
+          "bullets": [
+            "Dow Jones Industrial Average futures rose about 1.2%.",
+            "The broader market was helped by easing oil-price pressure.",
+            "Investors watched Iran diplomacy and tariff litigation."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fbbe6128d618509e33d45a493c2615b1"
+        },
+        {
+          "emoji": "💻",
+          "title": "Nasdaq futures rise as tech sentiment improves premarket",
+          "bullets": [
+            "Nasdaq futures gained about 1.1% early Tuesday.",
+            "The move came alongside higher S&P 500 futures.",
+            "Lower oil prices helped ease inflation concerns for investors."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fbbe6128d618509e33d45a493c2615b1"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economic stories",
+      "articles": [
+        {
+          "emoji": "🧾",
+          "title": "States’ tariff lawsuit raises stakes for importers and retailers",
+          "bullets": [
+            "The new lawsuit targets tariffs covering countries that supply most US imports.",
+            "Importers face uncertainty while litigation proceeds.",
+            "The administration says the levies address forced-labor enforcement abroad."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/120895adbee7ae06157cd5f4bf5c7583"
+        },
+        {
+          "emoji": "🏪",
+          "title": "Small businesses challenge Trump’s new sweeping tariffs",
+          "bullets": [
+            "Two lawsuits by small businesses preceded the states’ challenge.",
+            "Plaintiffs argue the government did not meet Section 301 requirements.",
+            "The White House’s tariff strategy faces multiple legal tests."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fd55d81461c38892a03c322bfcc46e95"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Energy companies come under White House pressure over prices",
+          "bullets": [
+            "Trump said oil companies had made too much money during the Iran conflict.",
+            "He urged companies to cut retail prices.",
+            "Energy shares fell as crude prices slid."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fbbe6128d618509e33d45a493c2615b1"
+        },
+        {
+          "emoji": "📦",
+          "title": "Tariff uncertainty remains central issue for US companies",
+          "bullets": [
+            "Trump’s new tariffs took effect after temporary global tariffs expired.",
+            "The administration shifted to Section 301 after an earlier Supreme Court defeat.",
+            "Businesses are weighing legal risk, import costs and supply-chain impacts."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/120895adbee7ae06157cd5f4bf5c7583"
+        },
+        {
+          "emoji": "🌐",
+          "title": "Shipping and energy markets watch US-Iran diplomacy",
+          "bullets": [
+            "Talks over the Strait of Hormuz could affect global oil and gas flows.",
+            "Treasury Secretary Scott Bessent said there was a chance of a deal soon.",
+            "Oil prices fell as investors assessed the diplomatic opening."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fbbe6128d618509e33d45a493c2615b1"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI developments",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "xAI co-founder Igor Babuschkin leaves Elon Musk’s AI company",
+          "bullets": [
+            "Babuschkin announced he had left xAI.",
+            "He said he planned to launch an AI-safety-focused investment firm.",
+            "The exit added to scrutiny of leadership turnover at Musk’s AI startup."
+          ],
+          "source": "Reuters via Investing.com / TechCrunch",
+          "url": "https://www.investing.com/news/stock-market-news/xai-cofounder-babuschkin-departs-to-launch-ai-safety-investment-firm-4190463"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Big US companies expand AI use in workplace efficiency drives",
+          "bullets": [
+            "CNBC examined how major companies are using AI tools internally.",
+            "Reported use cases include customer service, software development and supply-chain operations.",
+            "Some companies frame AI as productivity support rather than direct job replacement."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2025/07/20/in-job-losses-ais-role-may-be-bigger-than-companies-say.html"
+        },
+        {
+          "emoji": "🔍",
+          "title": "Google faces renewed Chrome and search antitrust pressure",
+          "bullets": [
+            "CNBC reported on possible remedies in Google’s search antitrust case.",
+            "Potential outcomes include limits on search-distribution payments.",
+            "Analysts debated whether Chrome-related remedies would materially change competition."
+          ],
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2025/08/27/google-search-antitrust-decision-apple.html"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Trump AI order creates voluntary national-security review process",
+          "bullets": [
+            "The order invites frontier AI labs to share advanced models for review.",
+            "The review window is limited to up to 30 days before public release.",
+            "OpenAI, Anthropic and Google were among companies referenced in the policy discussion."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/e41af74f7b0865482f07d10fe7a50fe3"
+        },
+        {
+          "emoji": "📜",
+          "title": "White House urges light-touch federal AI regulation",
+          "bullets": [
+            "The White House blueprint asks Congress to preempt burdensome state AI laws.",
+            "The plan emphasizes innovation, child safety, electricity costs and copyright issues.",
+            "State officials and AI safety advocates remain divided over the approach."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/479eb3d0a50fe7237678a9bfb146ac7a"
+        }
+      ]
+    }
+  }
+}
