@@ -1,0 +1,378 @@
+{
+  "date": "2026-10-12",
+  "displayDate": "Monday, October 12, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic headlines from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "⚖️",
+          "title": "Judge orders Trump administration to cancel taxpayer-funded promotional TV ads",
+          "bullets": [
+            "A federal judge granted a temporary restraining order.",
+            "The challenge alleged misuse of taxpayer funds for political messaging.",
+            "The White House said the ad campaign was already ending."
+          ],
+          "source": "AP via WV News",
+          "url": "https://www.wvnews.com/newsfeed/us/ap-news-summary-at-12-36-a-m-edt/article_466b3789-0e20-5d34-b525-db977dc0622b.html"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "GOP-led states add voting rules mirroring Trump midterm proposals",
+          "bullets": [
+            "Several Republican-led states changed election rules this year.",
+            "Some measures mirror Trump’s proposals for the midterms.",
+            "The changes could affect voting procedures before November elections."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/afed320c2dba532098b5158d2d0f107c"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Trump returns to Ohio for GOP rally in Youngstown",
+          "bullets": [
+            "Trump was scheduled to campaign in Youngstown, Ohio.",
+            "The rally comes weeks before the 2026 midterms.",
+            "Reuters listed the stop among top US political headlines."
+          ],
+          "source": "Reuters via Lexington Herald Leader",
+          "url": "https://www.kentucky.com/news/nation-world/national/"
+        },
+        {
+          "emoji": "📺",
+          "title": "White House press pool dispute becomes broader free-speech fight",
+          "bullets": [
+            "AP reported tensions over control of White House coverage.",
+            "The press pool rotates outlets covering the president.",
+            "The dispute centers on editorial independence and access."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/711336589fd86b1754a3652b798bbfda"
+        },
+        {
+          "emoji": "🌪️",
+          "title": "Isaias remnants move north after Gulf Coast landfall",
+          "bullets": [
+            "Isaias brought heavy rain into Appalachia and the mid-Atlantic.",
+            "Forecasters warned of flooding risks in affected areas.",
+            "Southern California was also battered by Rachel."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/b647d3e93f2b7bcd41ed1843d5a2a0e9"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🕊️",
+          "title": "Trump says Russia and Ukraine agree to energy ceasefire; Kyiv reports attacks",
+          "bullets": [
+            "Trump said Russia and Ukraine agreed to an energy ceasefire.",
+            "Zelenskyy welcomed the announcement but said attacks continued.",
+            "AP reported strikes on Kyiv and Kharkiv infrastructure."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/f621fa788196f204448e7f75fcc78c68"
+        },
+        {
+          "emoji": "✈️",
+          "title": "Houthi strike hits Riyadh airport again, disrupting flights",
+          "bullets": [
+            "A Houthi strike hit Riyadh’s international airport on October 11.",
+            "It followed another attack that killed at least 12 people.",
+            "Authorities suspended flights after the latest strike."
+          ],
+          "source": "Reuters via Daily 8 News",
+          "url": "https://daily8news.com/?date=2026-10-12"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Oil prices fluctuate amid Russian diesel comments and Saudi attacks",
+          "bullets": [
+            "Oil markets reacted to Trump’s comments on Russian diesel.",
+            "Attacks on Saudi targets added to supply concerns.",
+            "Reuters included the story among October 12 market headlines."
+          ],
+          "source": "Reuters via Lexington Herald Leader",
+          "url": "https://www.kentucky.com/news/nation-world/national/"
+        },
+        {
+          "emoji": "🇬🇧",
+          "title": "UK finance minister urges big economies to control borrowing",
+          "bullets": [
+            "The UK finance minister planned remarks around global borrowing.",
+            "The comments were tied to IMF meetings.",
+            "Reuters listed the story among October 12 international headlines."
+          ],
+          "source": "Reuters via Lexington Herald Leader",
+          "url": "https://www.kentucky.com/news/nation-world/national/"
+        },
+        {
+          "emoji": "🇰🇪",
+          "title": "BBC finds Kenyan mourners killed by police were not part of violence",
+          "bullets": [
+            "BBC reported on deaths at an ex-prime minister’s national farewell.",
+            "The report said killed mourners were not part of violence.",
+            "The story was listed on BBC World News on October 12."
+          ],
+          "source": "BBC News",
+          "url": "https://please.untaint.us/?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India headlines from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🗳️",
+          "title": "Opposition parties march to Supreme Court over voter-list revision",
+          "bullets": [
+            "Hundreds marched in New Delhi on Monday.",
+            "Protesters demanded the election chief’s resignation.",
+            "Reuters said millions of names were removed from voter lists."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/world-news/delhi-shuts-metro-stations-restricts-traffic-as-opposition-marches-against-election-chief-4943566"
+        },
+        {
+          "emoji": "🌧️",
+          "title": "Delhi-NCR hit by heavy rain and thunderstorms; IMD issues red alert",
+          "bullets": [
+            "Delhi-NCR woke to heavy rain and thunderstorms.",
+            "The IMD issued a red alert for the region.",
+            "Temperatures were forecast near 32–34°C on October 13."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-12-october-2026-delhi-ncr-heavy-rain-red-alert-cji-congress-supreme-court-march-rahul-gandhi-congress-cockroach-janta-party-cjp-10917454/lite/"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Supreme Court stresses due process as Delhi protest detentions continue",
+          "bullets": [
+            "About 700 people were detained during Delhi protests Sunday.",
+            "The Supreme Court said detentions must be lawful.",
+            "Opposition groups vowed to continue demonstrations."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-october-12-sc-stresses-due-process-as-delhi-detentions-continue-bjp-slams-rahul-gandhi-101791775344581.html"
+        },
+        {
+          "emoji": "💱",
+          "title": "RBI measures seek to defend rupee near record lows",
+          "bullets": [
+            "Reuters said the rupee has fallen more than 7% this year.",
+            "The RBI opened a special dollar window for oil companies.",
+            "Officials also tightened hedging rules to ease pressure."
+          ],
+          "source": "Reuters via MarketScreener",
+          "url": "https://in.marketscreener.com/news/how-india-has-sought-to-defend-the-slumping-rupee-ce785ddcdc80f323"
+        },
+        {
+          "emoji": "🚨",
+          "title": "ED raids eight Kolkata locations in money-laundering probe",
+          "bullets": [
+            "The Enforcement Directorate raided multiple Kolkata premises Monday.",
+            "Searches included Tollygunge and Sarat Bose Road locations.",
+            "The action was part of a money-laundering investigation."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-12-october-2026-delhi-ncr-heavy-rain-red-alert-cji-congress-supreme-court-march-rahul-gandhi-congress-cockroach-janta-party-cjp-10917454/lite/"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Notable US stock and market movers",
+      "articles": [
+        {
+          "emoji": "🏥",
+          "title": "Humana jumps about 11% in early US trading",
+          "bullets": [
+            "Humana traded at $431.87 around 13:10 UTC.",
+            "The stock was up $43.53 from the prior close.",
+            "CNBC also flagged Humana as a major recent mover."
+          ],
+          "source": "OpenAI Finance / CNBC",
+          "url": "https://archive.ph/2026.10.09-142859/https%3A/www.cnbc.com/2026/10/08/stock-market-today-live-updates.html"
+        },
+        {
+          "emoji": "🍎",
+          "title": "Apple slips as tech stocks remain under pressure",
+          "bullets": [
+            "Apple traded at $336.64 around 13:11 UTC.",
+            "Shares were down about 1.14% from the prior close.",
+            "CNBC listed Apple among notable premarket movers."
+          ],
+          "source": "OpenAI Finance / CNBC",
+          "url": "https://archive.ph/2026.10.09-142859/https%3A/www.cnbc.com/2026/10/08/stock-market-today-live-updates.html"
+        },
+        {
+          "emoji": "🤖",
+          "title": "Nvidia edges lower as AI spending concerns linger",
+          "bullets": [
+            "Nvidia traded at $229.28 around 13:11 UTC.",
+            "Shares were down about 0.49% from the prior close.",
+            "Reuters cited worries over AI spending and elevated yields."
+          ],
+          "source": "OpenAI Finance / Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/tech-stocks-struggle-on-ai-spending-worries-elevated-yields-4940101"
+        },
+        {
+          "emoji": "🏦",
+          "title": "JPMorgan rises ahead of major US bank earnings",
+          "bullets": [
+            "JPMorgan traded at $332.99 around 13:08 UTC.",
+            "Shares were up about 0.48% from the prior close.",
+            "Reuters said JPMorgan reports quarterly results on October 13."
+          ],
+          "source": "OpenAI Finance / Reuters via MarketScreener",
+          "url": "https://in.marketscreener.com/news/us-bank-investors-to-focus-on-impact-of-higher-rates-deals-outlook-in-q3-earnings-ce785dded08bf526"
+        },
+        {
+          "emoji": "🚗",
+          "title": "Tesla gains about 2% in early trading",
+          "bullets": [
+            "Tesla traded at $382.70 around 13:11 UTC.",
+            "Shares were up $7.80 from the prior close.",
+            "The move came amid broader choppy equity trading."
+          ],
+          "source": "OpenAI Finance / Reuters via MarketScreener",
+          "url": "https://uk.marketscreener.com/news/share-markets-choppy-in-asia-as-earnings-loom-oil-slips-ce785ddcdf88f125"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Top corporate and business stories",
+      "articles": [
+        {
+          "emoji": "🏦",
+          "title": "US bank earnings to test effects of higher rates and deal outlook",
+          "bullets": [
+            "JPMorgan, Goldman, Citi and Wells Fargo report October 13.",
+            "Investors will watch funding costs and lending growth.",
+            "Reuters said dealmaking outlook is a key focus."
+          ],
+          "source": "Reuters via MarketScreener",
+          "url": "https://in.marketscreener.com/news/us-bank-investors-to-focus-on-impact-of-higher-rates-deals-outlook-in-q3-earnings-ce785dded08bf526"
+        },
+        {
+          "emoji": "📊",
+          "title": "Global shares choppy as earnings season approaches",
+          "bullets": [
+            "Reuters said markets began Monday erratically.",
+            "Investors are testing high tech valuations.",
+            "Oil slipped amid Russia-Ukraine energy uncertainty."
+          ],
+          "source": "Reuters via MarketScreener",
+          "url": "https://uk.marketscreener.com/news/share-markets-choppy-in-asia-as-earnings-loom-oil-slips-ce785ddcdf88f125"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "European shares rise as oil eases and banks gain",
+          "bullets": [
+            "European shares rose Monday, led by banks.",
+            "Lower oil prices supported sentiment.",
+            "Investors awaited the start of earnings season."
+          ],
+          "source": "Reuters via AOL",
+          "url": "https://www.aol.com/articles/european-shares-rise-lower-oil-071913000.html"
+        },
+        {
+          "emoji": "🤝",
+          "title": "HCLTech signs pact with Anthropic and plans new business unit",
+          "bullets": [
+            "Reuters listed the HCLTech-Anthropic pact on October 12.",
+            "The Indian IT firm plans a dedicated business unit.",
+            "The deal reflects corporate demand for AI services."
+          ],
+          "source": "Reuters via StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "📰",
+          "title": "Thomson Reuters schedules third-quarter earnings webcast",
+          "bullets": [
+            "Thomson Reuters set its Q3 2026 earnings date.",
+            "The webcast is scheduled for November 3, 2026.",
+            "The company recently completed a KKR print-business joint venture."
+          ],
+          "source": "Thomson Reuters",
+          "url": "https://investors.thomsonreuters.com/news-and-events/press-releases"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Top technology headlines",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "Silicon Valley AI founders cheer Trump’s self-policing approach",
+          "bullets": [
+            "AP reported AI founders supported lighter federal regulation.",
+            "The story was tied to San Francisco Tech Week.",
+            "Trump has favored industry-led AI safety approaches."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/32064fde8ad68c68f71d82336f7db525"
+        },
+        {
+          "emoji": "🕵️",
+          "title": "FBI seizes tools used by Chinese-linked hackers",
+          "bullets": [
+            "Officials said seized tools enabled scanning and phishing.",
+            "The hacking group was associated with China’s government.",
+            "Targets included power, academia and critical infrastructure."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/8948c5d83180675bcf21cd98426eabf7"
+        },
+        {
+          "emoji": "🧠",
+          "title": "AP-NORC poll finds most Americans say AI is developing too fast",
+          "bullets": [
+            "The poll found AI concerns cut across party lines.",
+            "Respondents prioritized human control and worker protections.",
+            "Trump has warned against slowing AI development."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/9ce5531b7ea53234c4e600f8c0e9cf27"
+        },
+        {
+          "emoji": "🌐",
+          "title": "Ukraine drone attack shuts down Yandex data center in Vladimir",
+          "bullets": [
+            "AP reported the attack east of Moscow.",
+            "The facility was run by Russian tech giant Yandex.",
+            "The strike came amid wider Russia-Ukraine infrastructure attacks."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/f621fa788196f204448e7f75fcc78c68"
+        },
+        {
+          "emoji": "🖥️",
+          "title": "Super Micro contractor pleads guilty in AI server diversion scheme",
+          "bullets": [
+            "The contractor pleaded guilty in US federal court.",
+            "The case involved advanced AI servers with Nvidia chips.",
+            "Authorities said servers were diverted to Chinese entities."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-12-october-2026-delhi-ncr-heavy-rain-red-alert-cji-congress-supreme-court-march-rahul-gandhi-congress-cockroach-janta-party-cjp-10917454/lite/"
+        }
+      ]
+    }
+  }
+}
