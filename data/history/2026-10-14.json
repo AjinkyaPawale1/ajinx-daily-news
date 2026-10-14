@@ -1,0 +1,378 @@
+{
+  "date": "2026-10-14",
+  "displayDate": "Wednesday, October 14, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic headlines from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "⚖️",
+          "title": "Federal judge extends order blocking White House reporter ban",
+          "bullets": [
+            "A federal judge extended an order Tuesday blocking the administration’s reporter ban.",
+            "The case involves three news outlets covering the White House.",
+            "The dispute continues as a major press-access legal fight."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/0b0d871b2ac233895f0fa3e66e9418a2"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Republicans retreat from some front-line House districts",
+          "bullets": [
+            "AP reported shifting battle lines in House races ahead of midterms.",
+            "Republicans are pulling back from some front-line districts.",
+            "The moves reflect changing campaign calculations late in the cycle."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/0b0d871b2ac233895f0fa3e66e9418a2"
+        },
+        {
+          "emoji": "✈️",
+          "title": "Trump heads to Alaska for GOP campaign push",
+          "bullets": [
+            "Trump traveled to Alaska to campaign for Republican candidates.",
+            "The trip is part of a pre-midterms campaign blitz.",
+            "AP reported the visit on Tuesday, October 13."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/aa4ec095692c57a851a942c0f21624f7"
+        },
+        {
+          "emoji": "🌎",
+          "title": "US recalls top envoy to Nicaragua after ambassador rejection",
+          "bullets": [
+            "Secretary of State Marco Rubio recalled the top US envoy to Nicaragua.",
+            "Nicaragua rejected the administration’s ambassador nominee.",
+            "The envoy was recalled for consultations, AP reported."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/aa4ec095692c57a851a942c0f21624f7"
+        },
+        {
+          "emoji": "🏠",
+          "title": "US existing home sales rise in September",
+          "bullets": [
+            "Existing home sales rose 1.5% from August, CNBC TV18 reported.",
+            "Sales reached a seasonally adjusted annual rate of 3.99 million units.",
+            "August sales were revised lower, contributing to the monthly gain."
+          ],
+          "source": "CNBC TV18 / TradingView",
+          "url": "https://www.tradingview.com/news/cnbctv%3Ab6a4877cd094b%3A0/"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide developments",
+      "articles": [
+        {
+          "emoji": "⚡",
+          "title": "Zelenskyy says Russia still hitting Ukraine energy sites",
+          "bullets": [
+            "Zelenskyy accused Russia of continuing aerial strikes on energy infrastructure.",
+            "The attacks came despite Trump’s ceasefire push.",
+            "AP reported the remarks from Kyiv on Wednesday."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/9fe44ec1bb361f19d46dfafb58da46f6"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Trump says Russia-Ukraine energy ceasefire agreed, Kyiv reports attacks",
+          "bullets": [
+            "Trump said Russia and Ukraine agreed to an energy ceasefire.",
+            "Kyiv said Russian attacks on energy infrastructure continued.",
+            "Zelenskyy said Ukraine welcomed the announcement but faced drone attacks."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/f621fa788196f204448e7f75fcc78c68"
+        },
+        {
+          "emoji": "🚢",
+          "title": "Oil jumps after vessels struck in Strait of Hormuz",
+          "bullets": [
+            "Oil rose after two vessels were struck in the Strait of Hormuz.",
+            "Reuters reported prices near $106 a barrel in the India market wrap.",
+            "Iranian officials said they were deploying new tactics targeting ships."
+          ],
+          "source": "Reuters / MarketScreener",
+          "url": "https://www.marketscreener.com/news/indian-shares-muted-as-oil-prices-foreign-outflows-offset-it-rebound-ce785dd2db8bf521"
+        },
+        {
+          "emoji": "🛰️",
+          "title": "Poland questions Musk over Starlink limits in Ukraine",
+          "bullets": [
+            "Poland’s foreign minister asked Elon Musk if he was playing politics.",
+            "Kyiv said SpaceX limited some Starlink services.",
+            "Reuters reported the disruption affected Ukrainian combat drone missions."
+          ],
+          "source": "Reuters / Raleigh News & Observer",
+          "url": "https://www.newsobserver.com/news/nation-world/world/"
+        },
+        {
+          "emoji": "🕵️",
+          "title": "Russia arrests Japanese journalist on spying allegations",
+          "bullets": [
+            "Russia’s FSB said it arrested a Japanese journalist on Sakhalin.",
+            "Authorities alleged he collected information on Russian defenses.",
+            "The Guardian listed the case among October 14 world headlines."
+          ],
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/14/all"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India headlines",
+      "articles": [
+        {
+          "emoji": "🤝",
+          "title": "India hosts first BIMSTEC Home Ministers’ meeting",
+          "bullets": [
+            "India hosted the first BIMSTEC Home Ministers’ meeting.",
+            "The Delhi Declaration was adopted at the meeting.",
+            "The Indian Express listed it among October 14 India stories."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/archive/2026/10/14/"
+        },
+        {
+          "emoji": "📞",
+          "title": "Modi speaks with Canadian PM Mark Carney before likely visit",
+          "bullets": [
+            "Prime Minister Modi spoke with Mark Carney, The Indian Express reported.",
+            "They discussed trade, technology, defense and an economic pact.",
+            "The call came ahead of a likely Canada visit."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/archive/2026/10/14/"
+        },
+        {
+          "emoji": "🗺️",
+          "title": "India rejects China objection over Ladakh naming",
+          "bullets": [
+            "Delhi said Ladakh is an integral and inalienable part of India.",
+            "The response followed China’s objection over place names.",
+            "The item appeared in October 14 Indian news roundups."
+          ],
+          "source": "The Indian Express / NEXT IAS",
+          "url": "https://www.nextias.com/ca/headlines-of-the-day/14-10-2026/86756/"
+        },
+        {
+          "emoji": "💳",
+          "title": "UPI fee on transactions above ₹2,000 postponed",
+          "bullets": [
+            "A planned 0.4% merchant discount rate was deferred.",
+            "The change concerned UPI transactions above ₹2,000.",
+            "The New Indian Express reported implementation will follow Diwali."
+          ],
+          "source": "The New Indian Express",
+          "url": "https://epaper.newindianexpress.com/4209878/The-New-Indian-Express-Tiruchy/14-10-2026"
+        },
+        {
+          "emoji": "📉",
+          "title": "Indian shares close lower as oil and outflows weigh",
+          "bullets": [
+            "Nifty 50 fell 0.44% to 22,622.70.",
+            "Sensex declined 0.34% to 72,781.89.",
+            "Reuters cited higher oil prices and foreign outflows."
+          ],
+          "source": "Reuters / MarketScreener",
+          "url": "https://www.marketscreener.com/news/indian-shares-muted-as-oil-prices-foreign-outflows-offset-it-rebound-ce785dd2db8bf521"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and trading themes",
+      "articles": [
+        {
+          "emoji": "🏦",
+          "title": "Bank of America slips premarket after $1.21 billion fine disclosure",
+          "bullets": [
+            "Bank of America shares fell 1.5% in premarket trading.",
+            "Reuters said the bank disclosed a $1.21 billion regulatory fine.",
+            "The charge could weigh on third-quarter results."
+          ],
+          "source": "Reuters / AOL",
+          "url": "https://www.aol.com/articles/p-500-dow-futures-rise-100433000.html"
+        },
+        {
+          "emoji": "💼",
+          "title": "Morgan Stanley edges higher before earnings",
+          "bullets": [
+            "Morgan Stanley shares rose 0.7% premarket, Reuters reported.",
+            "The bank was set to report before Wednesday’s open.",
+            "Investors were watching another round of bank earnings."
+          ],
+          "source": "Reuters / AOL",
+          "url": "https://www.aol.com/articles/p-500-dow-futures-rise-100433000.html"
+        },
+        {
+          "emoji": "💊",
+          "title": "Johnson & Johnson drops despite profit beat",
+          "bullets": [
+            "Johnson & Johnson fell 6.8% on Tuesday.",
+            "Reuters said healthcare was the biggest S&P 500 drag.",
+            "The decline came despite profit estimates being topped."
+          ],
+          "source": "Reuters / Business Recorder",
+          "url": "https://www.brecorder.com/news/amp/40444091"
+        },
+        {
+          "emoji": "💾",
+          "title": "Micron falls as chip stocks sell off",
+          "bullets": [
+            "Micron Technology lost 4.6% in Tuesday trading.",
+            "Chip stocks faced pressure after China CXMT progress reports.",
+            "Broadcom CEO comments also hurt AI-stock sentiment."
+          ],
+          "source": "Reuters / Business Recorder",
+          "url": "https://www.brecorder.com/news/amp/40444091"
+        },
+        {
+          "emoji": "🍎",
+          "title": "Apple hits record high during mixed tech trading",
+          "bullets": [
+            "Apple reached a record high Tuesday, Reuters reported.",
+            "Microsoft also rose 0.9% during choppy trading.",
+            "Gains offset weakness in some semiconductor names."
+          ],
+          "source": "Reuters / Business Recorder",
+          "url": "https://www.brecorder.com/news/amp/40444091"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economy headlines",
+      "articles": [
+        {
+          "emoji": "🏛️",
+          "title": "Wall Street awaits big bank earnings and CPI data",
+          "bullets": [
+            "Bank of America, Morgan Stanley, BlackRock and State Street were due to report.",
+            "Investors also awaited key US inflation data.",
+            "Reuters said oil prices kept markets cautious."
+          ],
+          "source": "Reuters / AOL",
+          "url": "https://www.aol.com/articles/p-500-dow-futures-rise-100433000.html"
+        },
+        {
+          "emoji": "🏦",
+          "title": "JPMorgan kicks off bank earnings wave",
+          "bullets": [
+            "JPMorgan released third-quarter 2026 results on October 13.",
+            "The report came as earnings season moved into high gear.",
+            "MarketAlleys cited Yahoo and CNBC updates on the results."
+          ],
+          "source": "CNBC / Yahoo / MarketAlleys",
+          "url": "https://www.marketalleys.com/post/cnbc-publishes-late-morning-rundown-on-oct-13-2026-2026-10-13"
+        },
+        {
+          "emoji": "📊",
+          "title": "Goldman, Wells Fargo and Citigroup report amid earnings rush",
+          "bullets": [
+            "Major Wall Street lenders reported results Tuesday.",
+            "Reuters described the bank earnings as a mixed bag.",
+            "Investors parsed financial-sector results before more reports Wednesday."
+          ],
+          "source": "Reuters / Business Recorder",
+          "url": "https://www.brecorder.com/news/amp/40444091"
+        },
+        {
+          "emoji": "🏭",
+          "title": "ASML profit beats expectations as long-term order interest grows",
+          "bullets": [
+            "ASML reported third-quarter net sales of €11.66 billion.",
+            "CNBC said profit beat expectations.",
+            "The company cited order interest reaching into 2029 and 2030."
+          ],
+          "source": "CNBC / Techmeme",
+          "url": "https://techmeme.com/river"
+        },
+        {
+          "emoji": "🧪",
+          "title": "Bengaluru chemicals startup Scimplify raises $25 million",
+          "bullets": [
+            "Scimplify raised $25 million led by Hitachi Ventures.",
+            "The startup uses AI agents to speed chemical production.",
+            "TechCrunch reported it works with 500-plus partner facilities."
+          ],
+          "source": "TechCrunch / Techmeme",
+          "url": "https://techmeme.com/river"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI headlines",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "EU opens AI Act probes into OpenAI and Anthropic",
+          "bullets": [
+            "The EU AI Office launched formal AI Act probes.",
+            "The probes concern AI agent hacks, Euronews reported.",
+            "Experts noted the law includes an R&D exemption."
+          ],
+          "source": "Euronews / Techmeme",
+          "url": "https://techmeme.com/river"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Nvidia pledges $250 million for UK AI safety research",
+          "bullets": [
+            "Jensen Huang announced Nvidia’s five-year pledge.",
+            "The resources target AI security and agentic safety research.",
+            "Reuters reported the commitment on October 14."
+          ],
+          "source": "Reuters / Techmeme",
+          "url": "https://techmeme.com/river"
+        },
+        {
+          "emoji": "🎮",
+          "title": "Rockstar’s GTA VI expected to generate billions after launch",
+          "bullets": [
+            "Bloomberg reported on GTA VI’s development and expectations.",
+            "Analysts expect 40 million sales in four months.",
+            "Projected early revenue exceeds $3 billion."
+          ],
+          "source": "Bloomberg / Techmeme",
+          "url": "https://techmeme.com/river"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "AI safety groups spend $48 million in midterm cycle",
+          "bullets": [
+            "Axios analyzed AI safety spending in bipartisan races.",
+            "The money backs candidates favoring AI regulation.",
+            "Spending reached $48 million in the midterm cycle."
+          ],
+          "source": "Axios / Techmeme",
+          "url": "https://techmeme.com/river"
+        },
+        {
+          "emoji": "📉",
+          "title": "Character.AI files for Chapter 11 with Disney as opening bidder",
+          "bullets": [
+            "Character Technologies filed for Chapter 11 in Delaware.",
+            "Disney agreed to a $20 million stalking-horse bid.",
+            "Reuters said the chatbot platform aims to keep operating."
+          ],
+          "source": "Reuters / Daily 8 News",
+          "url": "https://www.daily8news.com/?date=2026-10-14"
+        }
+      ]
+    }
+  }
+}
