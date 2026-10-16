@@ -1,376 +1,376 @@
 {
-  "date": "2026-10-15",
-  "displayDate": "Thursday, October 15, 2026",
+  "date": "2026-10-16",
+  "displayDate": "Friday, October 16, 2026",
   "categories": {
     "us": {
       "label": "US News",
       "icon": "🇺🇸",
-      "subtitle": "Top domestic headlines from the past 1–2 days",
+      "subtitle": "Top domestic headlines from the last 1–2 days",
       "articles": [
         {
           "emoji": "🗳️",
-          "title": "AP-NORC poll finds voters want major change before midterms",
+          "title": "Trump dominates midterm advertising as Democrats tie GOP candidates to him",
           "bullets": [
-            "A strong majority says Trump is falling short domestically and abroad.",
-            "About half want substantial change in how the country is run.",
-            "Democrats show stronger voter enthusiasm than Republicans before November elections."
+            "AP analyzed AdImpact data since September 1.",
+            "Democrats spent over $163 million on ads mentioning Trump.",
+            "Republican ads mentioned Trump far less often."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/e12dd9b19013c75a3d4ede01c1b9d0c3"
+          "url": "https://apnews.com/article/158c022f4aa225ea1bb84ef92a0eed5b"
         },
         {
-          "emoji": "💼",
-          "title": "US jobless claims remain below 200,000",
+          "emoji": "✉️",
+          "title": "Federal authorities investigate suspicious letters sent to election and congressional offices",
           "bullets": [
-            "Initial claims rose by 1,000 to 199,000 for the week ending October 10.",
-            "Layoffs remain historically low, according to Labor Department data.",
-            "The report suggests most workers still have strong job security."
+            "The FBI, postal inspectors and Capitol Police are investigating.",
+            "Senate offices were warned to treat mailings as hazardous.",
+            "Authorities are working to intercept additional letters."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/bd04e6fd3f9f191e10d95f921e2b4084"
-        },
-        {
-          "emoji": "📈",
-          "title": "Wholesale inflation jumps as fuel costs rise",
-          "bullets": [
-            "Producer prices rose 6.3% year over year in September.",
-            "The increase was the largest since December 2022.",
-            "Higher fuel costs drove much of the acceleration."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/18131f88e983086649e6bf9928cb50f5"
-        },
-        {
-          "emoji": "✈️",
-          "title": "Trump defends Qatar-gifted jet during campaign swing",
-          "bullets": [
-            "Trump defended accepting a luxury jet from Qatar for Air Force One use.",
-            "He also pitched Republicans as protectors of gun rights.",
-            "The appearances came during rallies in Arizona and Montana."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/e47553b45b0401455899e08caf80d9e6"
+          "url": "https://apnews.com/article/c90253b9873a27471e63c6f1dcf979e9"
         },
         {
           "emoji": "⚖️",
-          "title": "Appeals court scrutinizes Trump’s DC National Guard deployment",
+          "title": "Trump administration sues California over alleged noncitizen mail-in ballots",
           "bullets": [
-            "Federal judges questioned limits on presidential authority over Guard deployments.",
-            "The case challenges Trump’s deployment of troops in Washington, DC.",
-            "The hearing occurred more than a year after patrols began."
+            "The Justice Department sued California election officials Thursday.",
+            "The lawsuit targets ballots from people deemed likely noncitizens.",
+            "California officials said evidence was not provided."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/79578459490a2fa1a18d5460cff69029"
+          "url": "https://apnews.com/article/12c62cf12a7db6480c60975b6dea49b8"
+        },
+        {
+          "emoji": "🏥",
+          "title": "HHS advances plan allowing specialty pharmacies to produce some peptide drugs",
+          "bullets": [
+            "HHS sent an interim access policy for White House review.",
+            "The plan concerns peptide injections popular in wellness circles.",
+            "Officials did not immediately comment on details."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fb12641dfe791f443f7b7d1eb3bd4a0a"
+        },
+        {
+          "emoji": "🏠",
+          "title": "Average 30-year US mortgage rate holds at 7.4%",
+          "bullets": [
+            "Freddie Mac said the benchmark rate was unchanged this week.",
+            "The rate remains near a three-year high.",
+            "The 15-year mortgage average eased to 6.71%."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/ae938216d9d45a4e2c829845b40d83f5"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Major worldwide developments",
+      "subtitle": "Major worldwide stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🚀",
-          "title": "Saudi Arabia says it thwarted missile strike on Medina",
-          "bullets": [
-            "The Saudi-led coalition said it intercepted a cruise missile over Medina province.",
-            "Officials also reported another attempted attack in eastern Saudi Arabia.",
-            "Houthis denied responsibility for the Medina missile attempt."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/ffa2a29fe8f91f400b0b75067d269ad3"
-        },
-        {
-          "emoji": "🛢️",
-          "title": "Houthis strike Saudi Aramco headquarters, officials say",
-          "bullets": [
-            "Officials said the attack damaged top floors of Aramco’s Dhahran headquarters.",
-            "No casualties were reported in the strike.",
-            "The attack highlighted Houthis’ ability to hit high-profile Saudi targets."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/c81a91347c00b17097c8fafde7e4eeec"
-        },
-        {
           "emoji": "🇺🇦",
-          "title": "Ukraine resumes attacks on Russian oil refineries",
+          "title": "Russia strikes nine Ukrainian regions as Kyiv-Washington tensions grow",
           "bullets": [
-            "Ukrainian drones hit a refinery in Russia’s Ryazan region, officials said.",
-            "The strike came after Kyiv said a brief truce was over.",
-            "The attack may further strain Ukraine’s relations with Washington."
+            "Ukrainian officials reported attacks across nine regions.",
+            "Emergency power outages affected hundreds of thousands of households.",
+            "At least 15 people were wounded, AP reported."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/0071b4f3792c9912b977b0ee73505b18"
+          "url": "https://apnews.com/article/025bdb5cebc0be727a6197ce37f2c365"
         },
         {
-          "emoji": "⛪",
-          "title": "South Americans pray for Pope Leo XIV after cancer diagnosis",
+          "emoji": "🛫",
+          "title": "Italy air traffic disrupted by technical fault",
           "bullets": [
-            "Catholics across South America offered prayers after Pope Leo’s lung cancer diagnosis.",
-            "The Vatican said he was recovering as expected after surgery.",
-            "Questions remain about his planned November trip to the region."
+            "Reuters reported delays and cancellations across Italy.",
+            "The disruption followed a technical fault.",
+            "Travelers faced air-service interruptions Friday."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/abd461cd7de8c6381018b86055b19a07"
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
         },
         {
-          "emoji": "🏦",
-          "title": "IMF-World Bank meetings draw protests in Bangkok",
+          "emoji": "🇸🇦",
+          "title": "Saudi diplomat says Iran is encouraging Houthi escalation",
           "bullets": [
-            "Dozens marched near the IMF and World Bank autumn meetings in Bangkok.",
-            "Protesters cited poverty, pollution and rising inequality.",
-            "More than 15,000 officials and experts attended the meetings."
+            "A Saudi diplomat accused Iran of encouraging attacks.",
+            "The comments followed increased Houthi strikes on Saudi targets.",
+            "The remarks came amid wider US-Iran conflict tensions."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/8fd7f0f1b10ac0a3c13c2210110db288"
+          "url": "https://apnews.com/article/bb1950959d1118d790556584d2b51f75"
+        },
+        {
+          "emoji": "🌋",
+          "title": "Magnitude 7 earthquake reported off Russia’s Kamchatka Peninsula",
+          "bullets": [
+            "Reuters cited EMSC reporting a magnitude 7 quake.",
+            "The earthquake was listed near Russia’s Kamchatka Peninsula.",
+            "The report appeared among Friday’s global alerts."
+          ],
+          "source": "Reuters / Rumor.Press",
+          "url": "https://rumor.press/business"
+        },
+        {
+          "emoji": "🚢",
+          "title": "UKMTO warns of severe shipping threat in Strait of Hormuz",
+          "bullets": [
+            "Indian Express carried live updates on the warning.",
+            "The alert concerned shipping through the Strait of Hormuz.",
+            "The waterway remains central to Gulf energy flows."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/archive/2026/10/16/"
         }
       ]
     },
     "india": {
       "label": "India News",
       "icon": "🇮🇳",
-      "subtitle": "Top India-focused stories",
+      "subtitle": "Top India stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🤝",
-          "title": "India says first phase of US trade deal is finalized",
+          "emoji": "🚔",
+          "title": "Delhi police serve notice ahead of fresh CJP protest march",
           "bullets": [
-            "India’s trade secretary said the first phase has been finalized.",
-            "The agreement is now undergoing legal drafting.",
-            "The deal covers a major phase in US-India trade negotiations."
+            "Indian Express reported heavy Delhi security arrangements.",
+            "Around 25,000 personnel were listed on duty.",
+            "CCTV surveillance was part of the deployment."
           ],
-          "source": "Reuters / Northland News Radio",
-          "url": "https://northlandnewsradio.com/2026/10/15/india-says-first-phase-of-us-trade-deal-finalised/"
-        },
-        {
-          "emoji": "🛰️",
-          "title": "Musk vows affordable Starlink in India before Jio IPO",
-          "bullets": [
-            "Musk pledged affordable Starlink service in India.",
-            "The remarks came days before Ambani’s record Jio IPO.",
-            "Satellite internet remains a major competitive issue in India."
-          ],
-          "source": "Reuters / The Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/archive/2026/10/16/"
         },
         {
           "emoji": "⚖️",
-          "title": "Supreme Court considers order on Delhi voter Form 6 plea",
+          "title": "Prashant Bhushan says protesters want regime change; BJP attacks remarks",
           "bullets": [
-            "The Supreme Court heard a plea related to Delhi’s voter Form 6 process.",
-            "The court indicated it was thinking of passing an order.",
-            "The matter is tied to election-roll procedures."
+            "Bhushan’s comments drew a BJP response.",
+            "The BJP accused him of seeking a coup.",
+            "The story appeared in Indian Express national coverage."
           ],
           "source": "The Indian Express",
-          "url": "https://indianexpress.com/archive/2026/10/15/"
+          "url": "https://indianexpress.com/archive/2026/10/16/"
         },
         {
-          "emoji": "🚆",
-          "title": "Supreme Court mandates insurance for offline train tickets",
+          "emoji": "🏛️",
+          "title": "Jammu and Kashmir government may move bill adding Punjabi as official language",
           "bullets": [
-            "The court ordered insurance for passengers buying offline train tickets.",
-            "The ruling affects Indian Railways’ ticketing practices.",
-            "The decision was listed among October 15 national headlines."
+            "The proposal concerns Jammu and Kashmir’s official languages.",
+            "Indian Express reported the government may move a bill.",
+            "Punjabi inclusion is the measure’s focus."
           ],
           "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-october-15-2026-sc-makes-insurance-compulsory-for-all-train-tickets-10920839/lite/"
+          "url": "https://indianexpress.com/archive/2026/10/16/"
         },
         {
-          "emoji": "🗣️",
-          "title": "Rahul Gandhi backs protesting students, criticizes Modi government",
+          "emoji": "💻",
+          "title": "CERT-In says AI agents bypassed firewalls and accessed Indian company data",
           "bullets": [
-            "Rahul Gandhi told students Congress would stand behind them.",
-            "He called protesting students India’s voice.",
-            "Opposition leaders criticized recent arrests of young protesters."
+            "The report was listed in Indian Express business coverage.",
+            "CERT-In flagged AI agents accessing company data.",
+            "The issue involved bypassing firewalls."
           ],
           "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/?productID=376"
+          "url": "https://indianexpress.com/archive/2026/10/16/"
+        },
+        {
+          "emoji": "👮",
+          "title": "JNU sexual harassment complaint: Congress MP appears before police",
+          "bullets": [
+            "Congress MP Angomcha Bimol Akoijam appeared before police.",
+            "The matter relates to a JNU sexual harassment complaint.",
+            "Indian Express listed the case in Delhi coverage."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/archive/2026/10/16/"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
-      "icon": "📊",
-      "subtitle": "Market movers and trading themes",
+      "icon": "📈",
+      "subtitle": "Market movers and Wall Street themes from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🤖",
-          "title": "AI stock anxiety weighs on markets for a second day",
+          "emoji": "🚗",
+          "title": "Tesla gains premarket after redesigned Roadster reveal",
           "bullets": [
-            "Tech stocks pointed to another sell-off before the opening bell.",
-            "Inflation anxiety hit high-growth AI names.",
-            "Investors looked ahead to US earnings season."
+            "Reuters said Tesla rose 4.4% in premarket trading.",
+            "The redesigned Roadster uses SpaceX-linked thruster technology.",
+            "The move supported otherwise mixed US futures."
+          ],
+          "source": "Reuters / Investing.com",
+          "url": "https://www.investing.com/news/economy-news/wall-st-futures-mixed-as-tech-wobbles-again-tesla-gains-4953758"
+        },
+        {
+          "emoji": "🧠",
+          "title": "CoreWeave slips as AI infrastructure debt concerns linger",
+          "bullets": [
+            "Reuters reported CoreWeave down 4.1% premarket Friday.",
+            "Concerns centered on the data-center operator’s debt load.",
+            "The decline followed Thursday’s rebound."
+          ],
+          "source": "Reuters / Investing.com",
+          "url": "https://www.investing.com/news/economy-news/wall-st-futures-mixed-as-tech-wobbles-again-tesla-gains-4953758"
+        },
+        {
+          "emoji": "💾",
+          "title": "AI and chip stocks remain choppy after selloff",
+          "bullets": [
+            "AP said Nvidia was flat before Friday’s open.",
+            "Broadcom declined 0.7% premarket.",
+            "AMD fell 1.8% before the open."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/d2655f64db7ec8ae450525d58f97b628"
+        },
+        {
+          "emoji": "🏢",
+          "title": "Marsh rallies after stronger summer profit",
+          "bullets": [
+            "AP said Marsh & McLennan rallied 4.6%.",
+            "The company reported stronger profit than analysts expected.",
+            "The gain helped lift broader US stocks Thursday."
           ],
           "source": "Associated Press",
           "url": "https://apnews.com/article/e889ad7dee2b7dd959f1b8bc87366914"
         },
         {
-          "emoji": "🏦",
-          "title": "Wall Street edges lower as investors assess big bank earnings",
+          "emoji": "📊",
+          "title": "Dow jumps as S&P 500 and Nasdaq recover from early weakness",
           "bullets": [
-            "The S&P 500 and Nasdaq inched lower Tuesday.",
-            "Investors parsed mixed quarterly results from major banks.",
-            "Chip stocks added pressure on broader indexes."
-          ],
-          "source": "Reuters / Business Recorder",
-          "url": "https://www.brecorder.com/news/amp/40444091"
-        },
-        {
-          "emoji": "💾",
-          "title": "Micron slides as chip stocks face selling pressure",
-          "bullets": [
-            "Micron Technology fell 4.6% during the chip-sector selloff.",
-            "Western Digital and Seagate also slipped between 1% and 2%.",
-            "Semiconductor weakness weighed on the Nasdaq."
-          ],
-          "source": "Reuters / Business Recorder",
-          "url": "https://www.brecorder.com/news/amp/40444091"
-        },
-        {
-          "emoji": "📉",
-          "title": "Wednesday’s major US indexes closed lower",
-          "bullets": [
-            "AP reported how major US stock indexes fared on Wednesday.",
-            "The update covered trading for October 14, 2026.",
-            "Indexes reflected pressure from inflation and tech-sector weakness."
+            "The Dow rose 556.21 points Thursday.",
+            "The S&P 500 gained 0.3%.",
+            "The Nasdaq added 0.1% after AI-sector pressure eased."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/224008b0bae0921d1e2867a4b1ecf511"
-        },
-        {
-          "emoji": "🇮🇳",
-          "title": "Indian shares rise on IT, financials and Reliance strength",
-          "bullets": [
-            "Indian benchmarks rose Thursday on earnings-season optimism.",
-            "IT, financials and Reliance Industries led gains.",
-            "Hot US inflation limited broader upside."
-          ],
-          "source": "Reuters / MarketScreener",
-          "url": "https://www.marketscreener.com/news/it-financials-lead-indian-shares-higher-hot-us-inflation-caps-gains-ce785dd3d981f526"
+          "url": "https://apnews.com/article/f0a4f8aa60a6a24237c419aba38f31fd"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Corporate and economic stories",
+      "subtitle": "Corporate and economic stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "💕",
-          "title": "Bumble agrees to $1.3 billion go-private deal",
+          "emoji": "🥤",
+          "title": "KFC USA to switch from Pepsi to Coca-Cola across 3,700-plus restaurants",
           "bullets": [
-            "Bumble struck a $1.3 billion deal to go private.",
-            "The agreement comes amid an online dating industry reset.",
-            "Its market value had fallen sharply from its 2021 IPO valuation."
+            "Reuters reported Coca-Cola products will arrive by spring 2027.",
+            "The change ends a major fast-food beverage partnership.",
+            "KFC USA operates more than 3,700 restaurants."
           ],
-          "source": "Reuters / The Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Reuters / NDTV",
+          "url": "https://www.ndtv.com/authors/reuters-83"
         },
         {
-          "emoji": "🛢️",
-          "title": "Aramco headquarters damaged in Houthi strike",
+          "emoji": "✈️",
+          "title": "Aviation Capital Group orders 75 Airbus A320neo jets",
           "bullets": [
-            "Officials said Aramco’s Dhahran headquarters was hit overnight.",
-            "The CEO offices and other senior areas were damaged.",
-            "No casualties were reported by officials."
+            "Reuters said ACG placed its largest purchase yet.",
+            "The order covers 75 Airbus A320neo aircraft.",
+            "The lessor’s deal was reported Friday."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/c81a91347c00b17097c8fafde7e4eeec"
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
         },
         {
-          "emoji": "💱",
-          "title": "Indian rupee extends winning streak as dollar and oil ease",
+          "emoji": "🔌",
+          "title": "Schneider Electric raises 2026 targets on data-center demand",
           "bullets": [
-            "The rupee gained as the dollar and oil prices eased.",
-            "Indian stocks also rallied, supporting sentiment.",
-            "India’s September merchandise trade deficit was $30.21 billion."
+            "Reuters reported Schneider lifted targets again Friday.",
+            "Booming data-center demand drove the upgrade.",
+            "The company cited stronger core earnings expectations."
           ],
-          "source": "Reuters / Business Recorder",
-          "url": "https://www.brecorder.com/news/amp/40444370"
-        },
-        {
-          "emoji": "🏭",
-          "title": "Wholesale inflation jump pressures businesses and consumers",
-          "bullets": [
-            "Producer prices rose faster than expected in September.",
-            "Fuel costs were a major contributor to the increase.",
-            "The data raised pressure on the Federal Reserve."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/18131f88e983086649e6bf9928cb50f5"
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
         },
         {
           "emoji": "🏦",
-          "title": "IMF-World Bank meetings open amid inequality protests",
+          "title": "Wise raises revenue growth outlook as cross-border volumes jump",
           "bullets": [
-            "World financial leaders gathered in Bangkok for autumn meetings.",
-            "Protesters highlighted debt, poverty and environmental damage.",
-            "The meetings drew more than 15,000 participants."
+            "Reuters said Wise raised its full-year revenue outlook.",
+            "The company benefited from higher cross-border volumes.",
+            "The update was reported Thursday."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/8fd7f0f1b10ac0a3c13c2210110db288"
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+        },
+        {
+          "emoji": "🚙",
+          "title": "Geely vehicles outside China to get Google built-in services",
+          "bullets": [
+            "Reuters reported the Geely-Google services plan Friday.",
+            "The rollout applies to vehicles outside China.",
+            "Google built-in services will be included across portfolio brands."
+          ],
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
         }
       ]
     },
     "tech": {
       "label": "Tech",
       "icon": "💻",
-      "subtitle": "Technology and AI developments",
+      "subtitle": "Technology and AI stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🛰️",
-          "title": "SpaceX’s Starlink affordability push targets India",
+          "emoji": "🤖",
+          "title": "Anthropic grants METR employee-level access for AI safety evaluation",
           "bullets": [
-            "Elon Musk pledged affordable Starlink access in India.",
-            "The comments came before Reliance Jio’s planned IPO.",
-            "Satellite internet competition remains politically and commercially sensitive."
+            "Reuters reported the outside-evaluator access Friday.",
+            "METR will receive employee-level access.",
+            "Anthropic is also working with SecureBio and Faculty."
           ],
-          "source": "Reuters / The Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Reuters / NDTV",
+          "url": "https://www.ndtv.com/authors/reuters-83"
+        },
+        {
+          "emoji": "🧑‍💻",
+          "title": "Meta releases open-weight Muse Spark model for coding and agents",
+          "bullets": [
+            "Meta released an open-weight Muse Spark version Thursday.",
+            "The model targets coding and agentic tasks.",
+            "Developers can download and use the model."
+          ],
+          "source": "Reuters / NDTV",
+          "url": "https://www.ndtv.com/authors/reuters-83"
         },
         {
           "emoji": "🛡️",
-          "title": "SpaceX’s Starshield draws attention as military satellite unit",
+          "title": "G7 finance leaders plan exercises against AI cyberattacks",
           "bullets": [
-            "Starshield develops military and intelligence satellite systems.",
-            "The business unit works with the Pentagon.",
-            "Its role differs from consumer-focused Starlink services."
+            "Reuters said G7 leaders agreed on tabletop exercises.",
+            "The drills target AI-related cyberattack risks.",
+            "The decision came during Bangkok financial meetings."
           ],
-          "source": "Reuters / The Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
         },
         {
-          "emoji": "🤖",
-          "title": "DeepMind’s Hassabis calls AI hacks early warning shots",
+          "emoji": "⚠️",
+          "title": "IMF chief warns AI risks may exceed opportunities without safeguards",
           "bullets": [
-            "Demis Hassabis warned AI hacks show security gaps.",
-            "He urged stronger practices for critical AI systems.",
-            "He compared needed safeguards to biology and nuclear-sector standards."
+            "Kristalina Georgieva spoke at IMF-World Bank meetings.",
+            "She backed safeguards and ethical frameworks for AI.",
+            "Reuters said AI dominated the Bangkok meetings."
           ],
-          "source": "Reuters / The Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Reuters / Investing.com",
+          "url": "https://www.investing.com/news/economy-news/imf-chief-says-ai-risks-may-exceed-opportunities-without-safeguards-and-ethical-framework-4953345"
         },
         {
-          "emoji": "🌐",
-          "title": "Scientists call for international oversight body for advanced AI",
+          "emoji": "🪪",
+          "title": "Microsoft president warns green-card curbs could hurt US tech sector",
           "bullets": [
-            "Signatories from 34 countries urged stronger AI containment standards.",
-            "They focused on cyber-capable models and high-assurance safeguards.",
-            "The proposal seeks coordinated global oversight of advanced AI."
+            "Reuters cited Politico reporting Brad Smith’s warning.",
+            "Smith said curbs could cripple US technology competitiveness.",
+            "The concern centers on high-skilled immigration pathways."
           ],
-          "source": "Reuters / The Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
-        },
-        {
-          "emoji": "📉",
-          "title": "Inflation fears hit AI-linked technology stocks",
-          "bullets": [
-            "AI and broader tech stocks faced renewed selling pressure.",
-            "Higher inflation raised concern about interest-rate-sensitive valuations.",
-            "The selloff came ahead of US earnings season."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/e889ad7dee2b7dd959f1b8bc87366914"
+          "source": "Reuters / NDTV",
+          "url": "https://www.ndtv.com/authors/reuters-83"
         }
       ]
     }
