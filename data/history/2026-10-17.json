@@ -1,0 +1,378 @@
+{
+  "date": "2026-10-17",
+  "displayDate": "Saturday, October 17, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic headlines from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🧾",
+          "title": "Trump pauses new Russia sanctions package after signing it",
+          "bullets": [
+            "Trump signed an executive order Friday pausing new Russia sanctions.",
+            "He told Congress the delay was in the national interest.",
+            "The sanctions package targeted broad parts of Russia’s economy."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/e50c561ab805883bb4e484c092d8fadd"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Trump administration warns California officials over suspected noncitizen ballots",
+          "bullets": [
+            "Federal officials warned California election workers about processing suspected noncitizen ballots.",
+            "The Justice Department raised possible criminal-investigation risks.",
+            "The dispute comes before November’s midterm elections."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/c42a8b3497a9529d923274f70cdcbcbb"
+        },
+        {
+          "emoji": "🎤",
+          "title": "Trump rallies with Republicans in Georgia ahead of midterms",
+          "bullets": [
+            "Trump campaigned Friday in battleground Georgia.",
+            "He appeared with top Republican candidates before the midterms.",
+            "Georgia remains central to Trump’s election-fraud claims."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/ff7106bde832ad59f318daff14018dbf"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Speaker Mike Johnson campaigns to protect House GOP majority",
+          "bullets": [
+            "Johnson said he expects Republicans to keep the House.",
+            "He is campaigning as midterm pressure grows.",
+            "The president’s party often loses seats in midterms."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/317fc1aa0cb08a250ed44be323036afa"
+        },
+        {
+          "emoji": "📊",
+          "title": "AP-NORC poll finds voters want major change in Washington",
+          "bullets": [
+            "A new AP-NORC poll showed widespread voter dissatisfaction.",
+            "Majorities said Trump is falling short domestically and abroad.",
+            "The findings raise warning signs for Republicans before midterms."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/e12dd9b19013c75a3d4ede01c1b9d0c3"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide developments from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "North Korea says it tested AI-enabled torpedo system",
+          "bullets": [
+            "North Korea said it tested a new AI-guided torpedo system.",
+            "KCNA identified the weapon as Zam-2.0.",
+            "South Korea’s military did not immediately comment."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/b9856c5697a043f74586719974dad6cc"
+        },
+        {
+          "emoji": "🇨🇳",
+          "title": "China moves to restrict exports of AI, chip and solar technologies",
+          "bullets": [
+            "China proposed curbs covering 40 technology categories.",
+            "The list includes AI, semiconductor and photovoltaic technologies.",
+            "Beijing cited national-security risks for the move."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/5ac381c0c6d6628bbea2e0da7d855a5b"
+        },
+        {
+          "emoji": "🇺🇦",
+          "title": "Italy criticizes Trump’s restrictions on Ukraine support",
+          "bullets": [
+            "An Italian minister told BBC Trump was wrong on Ukraine support.",
+            "The comments followed changes in U.S. backing for Kyiv.",
+            "Ukraine policy remains a major transatlantic flashpoint."
+          ],
+          "source": "BBC News",
+          "url": "https://please.untaint.us/?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld"
+        },
+        {
+          "emoji": "🇫🇷",
+          "title": "Paris protesters clash with police after weeks of demonstrations",
+          "bullets": [
+            "BBC reported clashes at Place de la République in Paris.",
+            "The unrest followed weeks of student demonstrations.",
+            "Police and protesters confronted each other Saturday."
+          ],
+          "source": "BBC News",
+          "url": "https://www.1stheadlines.com/from/668"
+        },
+        {
+          "emoji": "💎",
+          "title": "Rare pink diamond displayed in France after century-old theft",
+          "bullets": [
+            "A French royal jewel went on public display.",
+            "The diamond had been hidden after a 1926 theft.",
+            "BBC reported the display marks its first public showing since recovery."
+          ],
+          "source": "BBC News",
+          "url": "https://www.1stheadlines.com/from/668"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India-focused headlines from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🤝",
+          "title": "US lawmakers urge Rubio to raise CJP protest handling in India visit",
+          "bullets": [
+            "Progressive U.S. lawmakers wrote to Secretary Marco Rubio.",
+            "They urged questions on India’s handling of CJP protests.",
+            "Rubio’s India trip begins amid trade and strategic talks."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-17-october-2026-us-lawmakers-marco-rubio-cjp-protests-donald-trump-russia-sanctions-lk-advani-cockroach-janta-party-abhijeet-dipke-neha-bora-10925374/"
+        },
+        {
+          "emoji": "⚓",
+          "title": "L&T-built INS Samarthak inducted into Indian Navy",
+          "bullets": [
+            "INS Samarthak was inducted into the Indian Navy.",
+            "The vessel was built by Larsen & Toubro.",
+            "The Hindu listed the induction among Saturday’s major stories."
+          ],
+          "source": "The Hindu / Legacy IAS",
+          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
+        },
+        {
+          "emoji": "✈️",
+          "title": "India to publish rules to curb volatile airfares within two weeks",
+          "bullets": [
+            "New airfare rules are expected within two weeks.",
+            "The proposal targets sharp volatility in ticket prices.",
+            "The issue appeared in The Hindu’s October 17 news agenda."
+          ],
+          "source": "The Hindu / Legacy IAS",
+          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
+        },
+        {
+          "emoji": "🏔️",
+          "title": "Ladakh groups reject government proposal",
+          "bullets": [
+            "Ladakh groups rejected a government proposal.",
+            "They called it a departure from earlier assurances.",
+            "The issue remains tied to regional political demands."
+          ],
+          "source": "The Hindu / Legacy IAS",
+          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
+        },
+        {
+          "emoji": "💧",
+          "title": "NGT takes notice of toxic chromium groundwater report",
+          "bullets": [
+            "The National Green Tribunal took suo motu cognisance.",
+            "The case involves hexavalent chromium in groundwater.",
+            "Notices were issued to 14 authorities, including Uttar Pradesh officials."
+          ],
+          "source": "The Hindu / Legacy IAS",
+          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Key U.S. market movers and rotations",
+      "articles": [
+        {
+          "emoji": "📉",
+          "title": "Major U.S. indexes fall as big tech weighs on Wall Street",
+          "bullets": [
+            "U.S. stocks closed lower Friday.",
+            "Big technology shares drove much of the weakness.",
+            "AP reported declines across major indexes."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056"
+        },
+        {
+          "emoji": "🚗",
+          "title": "Tesla gains while broader tech jitters pressure market",
+          "bullets": [
+            "Reuters reported Tesla gains supported sentiment Friday.",
+            "Semiconductor weakness weighed on major indexes.",
+            "The Nasdaq opened lower as AI concerns persisted."
+          ],
+          "source": "Reuters / The Economic Times",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-muted-as-tech-jitters-linger-tesla-gains/articleshow/134996865.cms"
+        },
+        {
+          "emoji": "🧠",
+          "title": "AI-linked stocks sell off as debt concerns hit neocloud names",
+          "bullets": [
+            "AI-hosting and neocloud stocks fell sharply Friday.",
+            "CoreWeave, Nebius and Applied Digital were among decliners.",
+            "The selloff centered on funding costs and credit spreads."
+          ],
+          "source": "The Closing Print",
+          "url": "https://www.theclosingprint.net/2026/10/market-movers-2026-10-16-1730/"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Energy stocks outperform as oil prices jump",
+          "bullets": [
+            "Energy was Friday’s leading market sector.",
+            "The XLE energy ETF rose while technology lagged.",
+            "Oil prices climbed during the session."
+          ],
+          "source": "The Closing Print",
+          "url": "https://www.theclosingprint.net/2026/10/market-movers-2026-10-16-1730/"
+        },
+        {
+          "emoji": "🏥",
+          "title": "Healthcare stocks draw rotation away from AI trade",
+          "bullets": [
+            "Reuters reported investors shifted into healthcare Thursday.",
+            "Eli Lilly and UnitedHealth helped lift the S&P 500.",
+            "AI-related debt concerns pressured technology shares."
+          ],
+          "source": "Reuters / MarketScreener",
+          "url": "https://ca.marketscreener.com/news/s-p-500-ends-higher-as-traders-shift-from-ai-to-healthcare-ce785dd3d18af022"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economic stories shaping markets",
+      "articles": [
+        {
+          "emoji": "📅",
+          "title": "Major U.S. earnings reports dominate next week’s business calendar",
+          "bullets": [
+            "AP said major quarterly reports arrive next week.",
+            "Technology companies and airlines are among reporting firms.",
+            "Earnings will test market sentiment after tech weakness."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/3982e18ed2061f793aa921b6addade05"
+        },
+        {
+          "emoji": "🥤",
+          "title": "KFC switches U.S. beverage partner from PepsiCo to Coca-Cola",
+          "bullets": [
+            "KFC signed Coca-Cola for its U.S. restaurants.",
+            "The move ends a nearly four-decade PepsiCo relationship.",
+            "Reuters said the change could pressure PepsiCo’s soda revival."
+          ],
+          "source": "Reuters / CNBC TV18 / TradingView",
+          "url": "https://www.tradingview.com/news/cnbctv%3Aaa551a8f5094b%3A0/"
+        },
+        {
+          "emoji": "🎬",
+          "title": "Netflix names Peter Rice chief content officer",
+          "bullets": [
+            "Netflix named former Disney executive Peter Rice to the role.",
+            "Rice starts as chief content officer on October 26.",
+            "He replaces Bela Bajaria after her long Netflix tenure."
+          ],
+          "source": "CNBC TV18 / TradingView",
+          "url": "https://www.tradingview.com/news/cnbctv%3Aaa551a8f5094b%3A0/"
+        },
+        {
+          "emoji": "💵",
+          "title": "U.S. budget deficit nears $2 trillion for fiscal 2026",
+          "bullets": [
+            "CNBC reported the fiscal 2026 deficit approached $2 trillion.",
+            "The Treasury Department published the annual deficit figures.",
+            "The deficit rose 12% from the prior fiscal year."
+          ],
+          "source": "CNBC",
+          "url": "https://www.ceoexpress.com/rss/rsscenterfull.aspx?newsid=31&rssid=1675&tab=nc"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Investors expect Fed pause, but inflation risks remain in focus",
+          "bullets": [
+            "CNBC reported markets expect an October Fed hold.",
+            "Recent producer-price data showed persistent inflation pressure.",
+            "Energy prices remain a concern for monetary policy."
+          ],
+          "source": "CNBC",
+          "url": "https://www.ceoexpress.com/rss/rsscenterfull.aspx?newsid=31&rssid=1675&tab=nc"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology, AI and cybersecurity developments",
+      "articles": [
+        {
+          "emoji": "⚖️",
+          "title": "Eight states sue OpenAI over chatbot harms and consumer protection claims",
+          "bullets": [
+            "At least eight states filed lawsuits against OpenAI.",
+            "The suits allege harms to children and deceptive conduct.",
+            "Prosecutors cited alleged violations of consumer-protection laws."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/f29fa6c206cfe41d46ba38ee7be78218"
+        },
+        {
+          "emoji": "🇨🇳",
+          "title": "China targets AI and chip technologies in new export-control plan",
+          "bullets": [
+            "China plans controls on 40 technology categories.",
+            "AI and chip technologies are included in the proposal.",
+            "Officials framed the move around national security."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/5ac381c0c6d6628bbea2e0da7d855a5b"
+        },
+        {
+          "emoji": "🌐",
+          "title": "IMF warns AI needs urgent guardrails as global meetings begin",
+          "bullets": [
+            "The IMF chief called for urgent AI safeguards.",
+            "She compared AI’s risks to a Formula 1 car losing control.",
+            "The warning came during IMF-World Bank meetings."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/faba248f0609534a0d8284dec1b46a81"
+        },
+        {
+          "emoji": "🚢",
+          "title": "North Korea claims AI capabilities in new torpedo system",
+          "bullets": [
+            "North Korea said its new torpedo uses AI guidance.",
+            "The weapon was reportedly tested Thursday.",
+            "Experts remain cautious about Pyongyang’s technology claims."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/b9856c5697a043f74586719974dad6cc"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "CERT-In says AI agents accessed data of Indian entities",
+          "bullets": [
+            "CERT-In reported AI agents accessed Indian entities’ data.",
+            "The issue appeared in The Hindu’s October 17 technology coverage.",
+            "The report adds to concerns about AI security controls."
+          ],
+          "source": "The Hindu / Legacy IAS",
+          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
+        }
+      ]
+    }
+  }
+}
