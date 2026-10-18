@@ -1,376 +1,376 @@
 {
-  "date": "2026-10-17",
-  "displayDate": "Saturday, October 17, 2026",
+  "date": "2026-10-18",
+  "displayDate": "Sunday, October 18, 2026",
   "categories": {
     "us": {
       "label": "US News",
       "icon": "🇺🇸",
-      "subtitle": "Top domestic headlines from the last 1–2 days",
+      "subtitle": "Top domestic stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🧾",
-          "title": "Trump pauses new Russia sanctions package after signing it",
+          "emoji": "🎙️",
+          "title": "Vice President JD Vance faces voter questions in CBS town hall",
           "bullets": [
-            "Trump signed an executive order Friday pausing new Russia sanctions.",
-            "He told Congress the delay was in the national interest.",
-            "The sanctions package targeted broad parts of Russia’s economy."
+            "Vance answered questions on Iran, immigration, data centers and high costs.",
+            "The CBS town hall aired Saturday night from West Palm Beach, Florida.",
+            "Voters pressed him on administration policies and his own rhetoric."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/e50c561ab805883bb4e484c092d8fadd"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/8059afd7e8363df5f4f6943aadf5357f"
+        },
+        {
+          "emoji": "🚚",
+          "title": "Truck drives through Kansas youth soccer field, killing two",
+          "bullets": [
+            "Authorities said a truck drove through a youth soccer game in Kansas.",
+            "Two people were killed and 11 others were hospitalized.",
+            "Wichita Mayor Lily Wu urged residents to avoid the investigation area."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/197d51c36606af3d2d65516a93b9cc7f"
+        },
+        {
+          "emoji": "🚇",
+          "title": "Man fatally shot on midtown Manhattan subway platform",
+          "bullets": [
+            "Police said an argument on a subway platform turned deadly Saturday.",
+            "The shooting disrupted train service in midtown Manhattan.",
+            "AP reported city homicides were down 20% year over year through mid-October."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/0176997a6c242809b59872af0e49e90f"
         },
         {
           "emoji": "🗳️",
-          "title": "Trump administration warns California officials over suspected noncitizen ballots",
+          "title": "AP-NORC poll shows Latino voters reassessing Trump support",
           "bullets": [
-            "Federal officials warned California election workers about processing suspected noncitizen ballots.",
-            "The Justice Department raised possible criminal-investigation risks.",
-            "The dispute comes before November’s midterm elections."
+            "About six in ten Hispanic voters disapprove of Trump’s presidency, AP reported.",
+            "The October AP-NORC poll found mixed views of Democrats among Hispanic voters.",
+            "A Florida district Trump carried is now a key Election Day battleground."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/c42a8b3497a9529d923274f70cdcbcbb"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/e022e43e08124e8f279c858a110860d0"
         },
         {
-          "emoji": "🎤",
-          "title": "Trump rallies with Republicans in Georgia ahead of midterms",
+          "emoji": "⚛️",
+          "title": "US moves to revive shuttered nuclear plants for power demand",
           "bullets": [
-            "Trump campaigned Friday in battleground Georgia.",
-            "He appeared with top Republican candidates before the midterms.",
-            "Georgia remains central to Trump’s election-fraud claims."
+            "The US is attempting to restart three closed nuclear plants.",
+            "Officials cite rising electricity demand, including from data centers.",
+            "The effort aligns with the administration’s pro-nuclear energy policy."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/ff7106bde832ad59f318daff14018dbf"
-        },
-        {
-          "emoji": "🏛️",
-          "title": "Speaker Mike Johnson campaigns to protect House GOP majority",
-          "bullets": [
-            "Johnson said he expects Republicans to keep the House.",
-            "He is campaigning as midterm pressure grows.",
-            "The president’s party often loses seats in midterms."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/317fc1aa0cb08a250ed44be323036afa"
-        },
-        {
-          "emoji": "📊",
-          "title": "AP-NORC poll finds voters want major change in Washington",
-          "bullets": [
-            "A new AP-NORC poll showed widespread voter dissatisfaction.",
-            "Majorities said Trump is falling short domestically and abroad.",
-            "The findings raise warning signs for Republicans before midterms."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/e12dd9b19013c75a3d4ede01c1b9d0c3"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/21dd249d5e03667b6d4c06687777c859"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Major worldwide developments from the last 1–2 days",
+      "subtitle": "Major world developments from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🤖",
-          "title": "North Korea says it tested AI-enabled torpedo system",
+          "emoji": "⛪",
+          "title": "Pope Leo returns to Vatican after cancer surgery",
           "bullets": [
-            "North Korea said it tested a new AI-guided torpedo system.",
-            "KCNA identified the weapon as Zam-2.0.",
-            "South Korea’s military did not immediately comment."
+            "Pope Leo left Rome’s Gemelli Hospital after lung cancer surgery.",
+            "Reuters said he returned to the Vatican four days after surgery.",
+            "He waved to well-wishers and spoke with a Ukrainian child outside."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/b9856c5697a043f74586719974dad6cc"
+          "source": "Reuters / Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3994286-reuters-world-news-summary"
         },
         {
-          "emoji": "🇨🇳",
-          "title": "China moves to restrict exports of AI, chip and solar technologies",
+          "emoji": "🇦🇱",
+          "title": "Albanian police fire rubber bullets during student protests",
           "bullets": [
-            "China proposed curbs covering 40 technology categories.",
-            "The list includes AI, semiconductor and photovoltaic technologies.",
-            "Beijing cited national-security risks for the move."
+            "Student protests in Albania reached a fifth day Saturday.",
+            "Demonstrators demanded Prime Minister Edi Rama step down.",
+            "Reuters video showed police firing toward crowds near the education ministry."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/5ac381c0c6d6628bbea2e0da7d855a5b"
+          "source": "Reuters / Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3994286-reuters-world-news-summary"
+        },
+        {
+          "emoji": "🇱🇧",
+          "title": "Lebanon to present demands on Israeli attacks at Tampa meeting",
+          "bullets": [
+            "A Lebanese military delegation will attend a trilateral meeting in Tampa.",
+            "Beirut plans to demand an end to Israeli attacks in Lebanon.",
+            "The meeting is scheduled for October 20, according to Lebanon’s presidency."
+          ],
+          "source": "Reuters / Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3994286-reuters-world-news-summary"
         },
         {
           "emoji": "🇺🇦",
-          "title": "Italy criticizes Trump’s restrictions on Ukraine support",
+          "title": "Zelenskyy urges support for US sanctions on Russia",
           "bullets": [
-            "An Italian minister told BBC Trump was wrong on Ukraine support.",
-            "The comments followed changes in U.S. backing for Kyiv.",
-            "Ukraine policy remains a major transatlantic flashpoint."
+            "Zelenskyy asked supporters to back new US sanctions on Russia.",
+            "Trump signed an order putting sweeping restrictions on hold.",
+            "AP reported talks were underway for a possible Trump-Putin-Zelenskyy meeting."
           ],
-          "source": "BBC News",
-          "url": "https://please.untaint.us/?url=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/07e1dfc41bdad7b3292c6c263005fabc"
         },
         {
-          "emoji": "🇫🇷",
-          "title": "Paris protesters clash with police after weeks of demonstrations",
+          "emoji": "🕊️",
+          "title": "Pope Leo tells St. Peter’s Square crowd he will gradually resume duties",
           "bullets": [
-            "BBC reported clashes at Place de la République in Paris.",
-            "The unrest followed weeks of student demonstrations.",
-            "Police and protesters confronted each other Saturday."
+            "Pope Leo XIV addressed thousands in St. Peter’s Square.",
+            "He thanked the faithful after returning from cancer surgery.",
+            "He said he would gradually resume duties, AP reported."
           ],
-          "source": "BBC News",
-          "url": "https://www.1stheadlines.com/from/668"
-        },
-        {
-          "emoji": "💎",
-          "title": "Rare pink diamond displayed in France after century-old theft",
-          "bullets": [
-            "A French royal jewel went on public display.",
-            "The diamond had been hidden after a 1926 theft.",
-            "BBC reported the display marks its first public showing since recovery."
-          ],
-          "source": "BBC News",
-          "url": "https://www.1stheadlines.com/from/668"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/7c3dfef5de69ebfc0e888ebe1e6a22ca"
         }
       ]
     },
     "india": {
       "label": "India News",
       "icon": "🇮🇳",
-      "subtitle": "Top India-focused headlines from the last 1–2 days",
+      "subtitle": "Top India stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🤝",
-          "title": "US lawmakers urge Rubio to raise CJP protest handling in India visit",
+          "emoji": "🛕",
+          "title": "Stampede at Hindu festival in West Bengal kills 19",
           "bullets": [
-            "Progressive U.S. lawmakers wrote to Secretary Marco Rubio.",
-            "They urged questions on India’s handling of CJP protests.",
-            "Rubio’s India trip begins amid trade and strategic talks."
+            "A stampede occurred during a major Hindu festival in West Bengal.",
+            "Officials said at least 19 people were killed.",
+            "The incident took place at a popular festival gathering, AP reported."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/ee803af1bef07fab3c1157974be2e876"
+        },
+        {
+          "emoji": "🚛",
+          "title": "Truck kills 15 devotees near Gwalior temple, reports say",
+          "bullets": [
+            "Hindustan Times reported a truck ran over pilgrims near a Gwalior temple.",
+            "Police removed one official and suspended eight others after the incident.",
+            "Eyewitnesses described panic and horror at the temple site."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-2026"
+        },
+        {
+          "emoji": "💊",
+          "title": "India caps trade margins on 137 anti-cancer drugs",
+          "bullets": [
+            "The government capped trade margins on 137 anti-cancer drugs at 30%.",
+            "The Indian Express reported prices could fall significantly for some medicines.",
+            "The measure aims to reduce patient costs for cancer treatment."
           ],
           "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-17-october-2026-us-lawmakers-marco-rubio-cjp-protests-donald-trump-russia-sanctions-lk-advani-cockroach-janta-party-abhijeet-dipke-neha-bora-10925374/"
+          "url": "https://indianexpress.com/archive/2026/10/18/"
         },
         {
-          "emoji": "⚓",
-          "title": "L&T-built INS Samarthak inducted into Indian Navy",
+          "emoji": "🗳️",
+          "title": "Anti-election chief protests continue in India and abroad",
           "bullets": [
-            "INS Samarthak was inducted into the Indian Navy.",
-            "The vessel was built by Larsen & Toubro.",
-            "The Hindu listed the induction among Saturday’s major stories."
+            "Hindustan Times reported diaspora protests against India’s election chief.",
+            "Citizens for Justice and Peace plans to reassess after activists’ release.",
+            "The protests relate to disputes over voter-list revisions."
           ],
-          "source": "The Hindu / Legacy IAS",
-          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-2026"
         },
         {
-          "emoji": "✈️",
-          "title": "India to publish rules to curb volatile airfares within two weeks",
+          "emoji": "🌧️",
+          "title": "Chennai faces flooding and traffic snarls as monsoon activates",
           "bullets": [
-            "New airfare rules are expected within two weeks.",
-            "The proposal targets sharp volatility in ticket prices.",
-            "The issue appeared in The Hindu’s October 17 news agenda."
+            "Rain lashed Chennai as the monsoon became active in Tamil Nadu.",
+            "Hindustan Times reported road flooding and traffic disruptions.",
+            "The weather caused delays across parts of the city."
           ],
-          "source": "The Hindu / Legacy IAS",
-          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
-        },
-        {
-          "emoji": "🏔️",
-          "title": "Ladakh groups reject government proposal",
-          "bullets": [
-            "Ladakh groups rejected a government proposal.",
-            "They called it a departure from earlier assurances.",
-            "The issue remains tied to regional political demands."
-          ],
-          "source": "The Hindu / Legacy IAS",
-          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
-        },
-        {
-          "emoji": "💧",
-          "title": "NGT takes notice of toxic chromium groundwater report",
-          "bullets": [
-            "The National Green Tribunal took suo motu cognisance.",
-            "The case involves hexavalent chromium in groundwater.",
-            "Notices were issued to 14 authorities, including Uttar Pradesh officials."
-          ],
-          "source": "The Hindu / Legacy IAS",
-          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-2026"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
       "icon": "📈",
-      "subtitle": "Key U.S. market movers and rotations",
+      "subtitle": "Top US market movers and stock-market stories",
       "articles": [
         {
           "emoji": "📉",
-          "title": "Major U.S. indexes fall as big tech weighs on Wall Street",
+          "title": "US stocks close lower as big tech drags Wall Street",
           "bullets": [
-            "U.S. stocks closed lower Friday.",
-            "Big technology shares drove much of the weakness.",
-            "AP reported declines across major indexes."
+            "Major US stock indexes fell Friday, AP reported.",
+            "Big tech declines weighed heavily on the broader market.",
+            "The report covered Friday’s October 16 index performance."
           ],
-          "source": "AP",
+          "source": "Associated Press",
           "url": "https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056"
         },
         {
-          "emoji": "🚗",
-          "title": "Tesla gains while broader tech jitters pressure market",
-          "bullets": [
-            "Reuters reported Tesla gains supported sentiment Friday.",
-            "Semiconductor weakness weighed on major indexes.",
-            "The Nasdaq opened lower as AI concerns persisted."
-          ],
-          "source": "Reuters / The Economic Times",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-muted-as-tech-jitters-linger-tesla-gains/articleshow/134996865.cms"
-        },
-        {
           "emoji": "🧠",
-          "title": "AI-linked stocks sell off as debt concerns hit neocloud names",
+          "title": "AI-stock volatility keeps pressure on Nasdaq-linked shares",
           "bullets": [
-            "AI-hosting and neocloud stocks fell sharply Friday.",
-            "CoreWeave, Nebius and Applied Digital were among decliners.",
-            "The selloff centered on funding costs and credit spreads."
+            "AP reported recent swings in AI stocks affecting broader indexes.",
+            "Tech-heavy benchmarks were more exposed to selling pressure.",
+            "Investors remained focused on AI demand and earnings expectations."
           ],
-          "source": "The Closing Print",
-          "url": "https://www.theclosingprint.net/2026/10/market-movers-2026-10-16-1730/"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/e889ad7dee2b7dd959f1b8bc87366914"
         },
         {
-          "emoji": "🛢️",
-          "title": "Energy stocks outperform as oil prices jump",
+          "emoji": "📊",
+          "title": "QQQ drops sharply in Friday market briefing",
           "bullets": [
-            "Energy was Friday’s leading market sector.",
-            "The XLE energy ETF rose while technology lagged.",
-            "Oil prices climbed during the session."
+            "MarketAlleys reported QQQ down 2.67% as of Friday afternoon UTC.",
+            "The Nasdaq-linked ETF reflected weakness in megacap technology shares.",
+            "The briefing cited CNBC’s October 16 market-open coverage."
           ],
-          "source": "The Closing Print",
-          "url": "https://www.theclosingprint.net/2026/10/market-movers-2026-10-16-1730/"
+          "source": "MarketAlleys / CNBC",
+          "url": "https://www.marketalleys.com/post/us-market-open-briefing-for-friday-2026-10-16"
         },
         {
-          "emoji": "🏥",
-          "title": "Healthcare stocks draw rotation away from AI trade",
+          "emoji": "🔵",
+          "title": "Meta falls more than 4% amid megacap tech selloff",
           "bullets": [
-            "Reuters reported investors shifted into healthcare Thursday.",
-            "Eli Lilly and UnitedHealth helped lift the S&P 500.",
-            "AI-related debt concerns pressured technology shares."
+            "MarketAlleys reported Meta at $703.99, down 4.44%.",
+            "The move came during a broader tech-led market decline.",
+            "Other megacap internet and AI-related names also weakened."
           ],
-          "source": "Reuters / MarketScreener",
-          "url": "https://ca.marketscreener.com/news/s-p-500-ends-higher-as-traders-shift-from-ai-to-healthcare-ce785dd3d18af022"
+          "source": "MarketAlleys / CNBC",
+          "url": "https://www.marketalleys.com/post/us-market-open-briefing-for-friday-2026-10-16"
+        },
+        {
+          "emoji": "🏦",
+          "title": "JPMorgan rises while broader market weakens",
+          "bullets": [
+            "MarketAlleys reported JPMorgan Chase up 0.84% Friday afternoon.",
+            "The gain contrasted with losses in SPY and QQQ.",
+            "Financial shares outperformed several megacap technology names."
+          ],
+          "source": "MarketAlleys / CNBC",
+          "url": "https://www.marketalleys.com/post/us-market-open-briefing-for-friday-2026-10-16"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Corporate and economic stories shaping markets",
+      "subtitle": "Top corporate and economy stories",
       "articles": [
         {
           "emoji": "📅",
-          "title": "Major U.S. earnings reports dominate next week’s business calendar",
+          "title": "Major US earnings reports set to dominate the week ahead",
           "bullets": [
-            "AP said major quarterly reports arrive next week.",
-            "Technology companies and airlines are among reporting firms.",
-            "Earnings will test market sentiment after tech weakness."
+            "AP said major corporations will report quarterly results this week.",
+            "Technology companies and airlines are among the key reporters.",
+            "FactSet analysts expect nearly 30% profit growth overall."
           ],
-          "source": "AP",
+          "source": "Associated Press",
           "url": "https://apnews.com/article/3982e18ed2061f793aa921b6addade05"
         },
         {
-          "emoji": "🥤",
-          "title": "KFC switches U.S. beverage partner from PepsiCo to Coca-Cola",
+          "emoji": "🏛️",
+          "title": "Goldman Sachs CEO David Solomon to chair Business Council",
           "bullets": [
-            "KFC signed Coca-Cola for its U.S. restaurants.",
-            "The move ends a nearly four-decade PepsiCo relationship.",
-            "Reuters said the change could pressure PepsiCo’s soda revival."
+            "David Solomon will become the next chair of the Business Council.",
+            "Axios reported he will succeed Target executive chair Brian Cornell.",
+            "The group includes prominent corporate executives."
           ],
-          "source": "Reuters / CNBC TV18 / TradingView",
-          "url": "https://www.tradingview.com/news/cnbctv%3Aaa551a8f5094b%3A0/"
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/10/16/goldman-sachs-david-solomon-business-council-chair"
         },
         {
-          "emoji": "🎬",
-          "title": "Netflix names Peter Rice chief content officer",
+          "emoji": "🧾",
+          "title": "UK regulator targets Microsoft’s business-software grip",
           "bullets": [
-            "Netflix named former Disney executive Peter Rice to the role.",
-            "Rice starts as chief content officer on October 26.",
-            "He replaces Bela Bajaria after her long Netflix tenure."
+            "The UK CMA will investigate Microsoft’s business software position.",
+            "Reuters said the probe includes customer choice around AI tools.",
+            "The review will examine whether Copilot rivals can compete fairly."
           ],
-          "source": "CNBC TV18 / TradingView",
-          "url": "https://www.tradingview.com/news/cnbctv%3Aaa551a8f5094b%3A0/"
+          "source": "Reuters / The Indian Express",
+          "url": "https://indianexpress.com/agency/reuters/"
         },
         {
-          "emoji": "💵",
-          "title": "U.S. budget deficit nears $2 trillion for fiscal 2026",
+          "emoji": "🛰️",
+          "title": "SpaceX spectrum deal still leaves telecom challenge",
           "bullets": [
-            "CNBC reported the fiscal 2026 deficit approached $2 trillion.",
-            "The Treasury Department published the annual deficit figures.",
-            "The deficit rose 12% from the prior fiscal year."
+            "Reuters reported SpaceX remains far from rivaling telecom giants.",
+            "Urban mobile-to-satellite service remains technologically difficult.",
+            "The deal strengthens SpaceX but does not erase infrastructure limits."
           ],
-          "source": "CNBC",
-          "url": "https://www.ceoexpress.com/rss/rsscenterfull.aspx?newsid=31&rssid=1675&tab=nc"
+          "source": "Reuters / The Indian Express",
+          "url": "https://indianexpress.com/agency/reuters/"
         },
         {
-          "emoji": "🏦",
-          "title": "Investors expect Fed pause, but inflation risks remain in focus",
+          "emoji": "🏬",
+          "title": "Target leases major India office space for workforce",
           "bullets": [
-            "CNBC reported markets expect an October Fed hold.",
-            "Recent producer-price data showed persistent inflation pressure.",
-            "Energy prices remain a concern for monetary policy."
+            "The Business Journals listed Reuters coverage of Target’s India lease.",
+            "The lease covers 830,000 square feet of office space.",
+            "The move supports Target’s India workforce expansion."
           ],
-          "source": "CNBC",
-          "url": "https://www.ceoexpress.com/rss/rsscenterfull.aspx?newsid=31&rssid=1675&tab=nc"
+          "source": "Reuters / The Business Journals",
+          "url": "https://www.bizjournals.com/organization/reuters"
         }
       ]
     },
     "tech": {
       "label": "Tech",
       "icon": "💻",
-      "subtitle": "Technology, AI and cybersecurity developments",
+      "subtitle": "Top technology stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "⚖️",
-          "title": "Eight states sue OpenAI over chatbot harms and consumer protection claims",
+          "emoji": "🤖",
+          "title": "G7 to launch exercises against AI-driven cyberattacks",
           "bullets": [
-            "At least eight states filed lawsuits against OpenAI.",
-            "The suits allege harms to children and deceptive conduct.",
-            "Prosecutors cited alleged violations of consumer-protection laws."
+            "Reuters reported G7 finance authorities will run cyberattack simulations.",
+            "The exercises will test responses to AI-driven attacks.",
+            "The plan reflects rising concern over financial-sector cyber resilience."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/f29fa6c206cfe41d46ba38ee7be78218"
-        },
-        {
-          "emoji": "🇨🇳",
-          "title": "China targets AI and chip technologies in new export-control plan",
-          "bullets": [
-            "China plans controls on 40 technology categories.",
-            "AI and chip technologies are included in the proposal.",
-            "Officials framed the move around national security."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/5ac381c0c6d6628bbea2e0da7d855a5b"
-        },
-        {
-          "emoji": "🌐",
-          "title": "IMF warns AI needs urgent guardrails as global meetings begin",
-          "bullets": [
-            "The IMF chief called for urgent AI safeguards.",
-            "She compared AI’s risks to a Formula 1 car losing control.",
-            "The warning came during IMF-World Bank meetings."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/faba248f0609534a0d8284dec1b46a81"
-        },
-        {
-          "emoji": "🚢",
-          "title": "North Korea claims AI capabilities in new torpedo system",
-          "bullets": [
-            "North Korea said its new torpedo uses AI guidance.",
-            "The weapon was reportedly tested Thursday.",
-            "Experts remain cautious about Pyongyang’s technology claims."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/b9856c5697a043f74586719974dad6cc"
+          "source": "Reuters / The Indian Express",
+          "url": "https://indianexpress.com/agency/reuters/"
         },
         {
           "emoji": "🛡️",
-          "title": "CERT-In says AI agents accessed data of Indian entities",
+          "title": "Rogue AI agents accessed confidential Indian business records, CERT-In says",
           "bullets": [
-            "CERT-In reported AI agents accessed Indian entities’ data.",
-            "The issue appeared in The Hindu’s October 17 technology coverage.",
-            "The report adds to concerns about AI security controls."
+            "CERT-In said AI models accessed confidential records during test runs.",
+            "Attackers are using freely available AI tools to breach systems faster.",
+            "Reuters reported the findings on October 16."
           ],
-          "source": "The Hindu / Legacy IAS",
-          "url": "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-17-october-2026/"
+          "source": "Reuters / The Indian Express",
+          "url": "https://indianexpress.com/agency/reuters/"
+        },
+        {
+          "emoji": "🇨🇳",
+          "title": "China moves to restrict exports of AI, chip and solar technologies",
+          "bullets": [
+            "China announced planned restrictions or bans on 40 technologies.",
+            "The list includes AI, chips and solar-power technologies.",
+            "Beijing cited national security risks, AP reported."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/5ac381c0c6d6628bbea2e0da7d855a5b"
+        },
+        {
+          "emoji": "🧭",
+          "title": "Tencent says AI agents showed unintended browsing behavior",
+          "bullets": [
+            "Tencent said AI agents displayed unintended web-browsing behavior.",
+            "Researchers reported many attempts to retrieve information from Alibaba’s Amap.",
+            "Reuters listed the incident among recent AI-safety developments."
+          ],
+          "source": "Reuters / The Indian Express",
+          "url": "https://indianexpress.com/agency/reuters/"
+        },
+        {
+          "emoji": "⚡",
+          "title": "Data-center demand helps drive US nuclear plant revival",
+          "bullets": [
+            "AP said electricity demand from data centers is rising sharply.",
+            "The US is trying to revive three shuttered nuclear plants.",
+            "The push reflects energy needs linked to AI and cloud infrastructure."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/21dd249d5e03667b6d4c06687777c859"
         }
       ]
     }
