@@ -1,0 +1,378 @@
+{
+  "date": "2026-10-20",
+  "displayDate": "Tuesday, October 20, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🗳️",
+          "title": "Campaigning intensifies two weeks before US midterm elections",
+          "bullets": [
+            "Election Day is two weeks away, on November 3.",
+            "NPR reported campaigns are entering a final high-intensity stretch.",
+            "Voters are weighing Congress amid war, prices and domestic policy fights."
+          ],
+          "source": "NPR / Alabama Public Radio",
+          "url": "https://www.apr.org/2026-10-20/morning-news-brief?_amp=true"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Justice Department charges 28 people in California voting-crimes case",
+          "bullets": [
+            "NPR’s morning brief listed DOJ voting-crime charges in California.",
+            "The case comes during the final midterm campaign stretch.",
+            "Details were reported as part of Tuesday’s national news roundup."
+          ],
+          "source": "NPR / Alabama Public Radio",
+          "url": "https://www.apr.org/2026-10-20/morning-news-brief?_amp=true"
+        },
+        {
+          "emoji": "🛂",
+          "title": "DHS grants temporary deportation reprieve to Ukrainians and Sudanese",
+          "bullets": [
+            "More than 100,000 Ukrainians and Sudanese are covered.",
+            "Their US protection had been set to expire Monday.",
+            "DHS action temporarily reduces immediate deportation risk."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/a8f78833c7578b898abb97a933c1fe17"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Mahmoud Khalil asks Supreme Court to speed review of immigration detentions",
+          "bullets": [
+            "Khalil asked justices to allow faster judicial review.",
+            "The case concerns immigration-related detention challenges.",
+            "He framed the appeal as broader than his own case."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/8ac4b21f75a38a0165c92ee1a14f093e"
+        },
+        {
+          "emoji": "🔬",
+          "title": "Trump orders expanded federal research into women’s health",
+          "bullets": [
+            "The order directs agencies to bolster women’s health research.",
+            "It covers health across stages of women’s lives.",
+            "The plan was backed by first lady Melania Trump."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/47534d721ac1328832ca46d9286ca833"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide developments from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🇺🇦",
+          "title": "Russian aerial attacks kill seven in Ukraine as Zelenskyy visits Norway",
+          "bullets": [
+            "Russia launched a major aerial blitz on Ukraine.",
+            "AP reported at least seven people were killed.",
+            "Zelenskyy met US and European officials in Norway."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/140895c6c0a1682c46f4fe197e056996"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Iran accused of prolonging US talks as tensions remain high",
+          "bullets": [
+            "Iranian officials told Reuters talks were being prolonged deliberately.",
+            "Officials said Tehran was preparing for renewed attacks.",
+            "The report came ahead of US midterm elections."
+          ],
+          "source": "Reuters / Just Security",
+          "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
+        },
+        {
+          "emoji": "🇩🇪",
+          "title": "Germany charges three suspects over alleged plot targeting US installations",
+          "bullets": [
+            "Germany’s federal prosecutor filed charges Tuesday.",
+            "Two German nationals and one Turkish national were charged.",
+            "Authorities allege a plot to bomb US installations."
+          ],
+          "source": "Reuters / VoteKansas aggregator",
+          "url": "https://votekansas.org/reform/f/aggregator/categories/23"
+        },
+        {
+          "emoji": "🇸🇩",
+          "title": "Drone strike in disputed Sudan-South Sudan area kills dozens",
+          "bullets": [
+            "Reuters reported the strike killed dozens of people.",
+            "A minister confirmed deaths in the disputed area.",
+            "The incident was listed among Tuesday’s global headlines."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "🇮🇩",
+          "title": "Indonesia deploys thousands of security officers for Prabowo anniversary protests",
+          "bullets": [
+            "Indonesia planned more than 9,000 security officers.",
+            "Protests marked Prabowo’s two years in power.",
+            "Reuters listed the deployment in Tuesday’s world headlines."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🤝",
+          "title": "Rubio and Jaishankar hold Mumbai talks on US-India trade deal",
+          "bullets": [
+            "Marco Rubio met S. Jaishankar in Mumbai.",
+            "The talks focused on trade and energy cooperation.",
+            "Russian oil purchases remain a key tension point."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/61e40567f8f8453f1117328594d0445c"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Trump sanctions waiver may ease India’s Russian-oil concerns",
+          "bullets": [
+            "Reuters said the waiver eases India’s energy concerns.",
+            "India is a major importer of Russian oil.",
+            "The move may improve prospects for a US-India trade deal."
+          ],
+          "source": "Reuters / Investing.com",
+          "url": "https://www.investing.com/news/economy-news/trumps-russia-sanctions-waiver-eases-indias-energy-woes-lifts-trade-deal-chances-4957111"
+        },
+        {
+          "emoji": "📉",
+          "title": "Indian shares fall as banks slide and crude weighs on sentiment",
+          "bullets": [
+            "Nifty 50 fell 1.11% on Monday.",
+            "Sensex declined 1.17% to 73,852.90.",
+            "Private banks led losses after quarterly earnings."
+          ],
+          "source": "Reuters / MarketScreener India",
+          "url": "https://in.marketscreener.com/news/indian-shares-slip-as-private-bank-earnings-elevated-crude-hit-sentiment-ce785cdad08bf32d"
+        },
+        {
+          "emoji": "📱",
+          "title": "Investors await Jio Platforms’ record Indian IPO",
+          "bullets": [
+            "Jio Platforms’ IPO opens for subscription Wednesday.",
+            "Reuters said the deal could raise up to $3.2 billion.",
+            "The IPO would be India’s largest to date."
+          ],
+          "source": "Reuters / MarketScreener",
+          "url": "https://www.marketscreener.com/news/mukesh-ambani-s-jio-files-updated-prospectus-for-record-india-ipo-ce785dd2df8ff722"
+        },
+        {
+          "emoji": "🛕",
+          "title": "West Bengal festival stampede kills at least 19",
+          "bullets": [
+            "The stampede happened during a major Hindu festival.",
+            "Officials said at least 19 people died.",
+            "The incident occurred in eastern India’s West Bengal state."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/ee803af1bef07fab3c1157974be2e876"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and Wall Street themes",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "US futures dip as AI sell-off returns and oil prices rise",
+          "bullets": [
+            "AP reported US futures were lower Tuesday.",
+            "AI-related selling returned to markets.",
+            "Oil prices rose sharply, pressuring sentiment."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/b972b64127db5412a2b02c35ecf95c88"
+        },
+        {
+          "emoji": "💻",
+          "title": "Nasdaq climbs as chip and AI-linked stocks rebound",
+          "bullets": [
+            "Reuters said Nasdaq led Wall Street gains Monday.",
+            "Chip and AI-linked stocks bounced after a selloff.",
+            "The semiconductor index was on track to snap an eight-day losing streak."
+          ],
+          "source": "Reuters / Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3994925-us-stocks-nasdaq-climbs-as-chip-and-ai-linked-stocks-bounce-back"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Oil surge keeps energy and inflation risks in focus for traders",
+          "bullets": [
+            "Brent crude hovered near a five-month high.",
+            "Middle East tensions added a geopolitical risk premium.",
+            "Oil strength was a major market driver Tuesday."
+          ],
+          "source": "CNBC / Pulsarium",
+          "url": "https://pulsarium.finance/news/daily/2026-10-20/"
+        },
+        {
+          "emoji": "🧠",
+          "title": "DeepSeek ban hits AI sentiment across markets",
+          "bullets": [
+            "US agencies banned DeepSeek-related technology from civilian systems.",
+            "The move intensified US-China AI tensions.",
+            "AI names were among the most-watched market targets."
+          ],
+          "source": "CNBC / Pulsarium",
+          "url": "https://pulsarium.finance/news/daily/2026-10-20/"
+        },
+        {
+          "emoji": "🧱",
+          "title": "Consumer discretionary leads S&P sectors while utilities lag",
+          "bullets": [
+            "Consumer discretionary gained 2.91% at Monday’s close.",
+            "Technology rose 1.09% among S&P sectors.",
+            "Utilities fell 1.98%, the weakest sector."
+          ],
+          "source": "StockSetups",
+          "url": "https://stocksetups.com/today"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economic stories moving business news",
+      "articles": [
+        {
+          "emoji": "🛒",
+          "title": "Walmart launches $120 membership bundle before holidays",
+          "bullets": [
+            "Walmart introduced a $120 membership bundle.",
+            "The offer includes Sam’s Club ahead of holiday shopping.",
+            "Reuters listed the launch among Tuesday corporate headlines."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "☁️",
+          "title": "Amazon to invest more than €16 billion in Germany next year",
+          "bullets": [
+            "Amazon announced a major Germany investment plan.",
+            "Reuters reported the investment exceeds €16 billion.",
+            "The move expands Amazon’s European business footprint."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "✈️",
+          "title": "Ryanair optimistic Boeing MAX 10 certification will finish in October",
+          "bullets": [
+            "Ryanair expressed optimism on MAX 10 certification.",
+            "Reuters listed the update in Tuesday business headlines.",
+            "Certification timing remains important for Boeing customers."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "🏭",
+          "title": "ABB posts record quarterly orders helped by data-center boom",
+          "bullets": [
+            "ABB reported record quarterly orders.",
+            "Data-center demand helped drive the order book.",
+            "Reuters listed the update among Tuesday corporate news."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "🚗",
+          "title": "Volkswagen’s Xpeng bet struggles to revive China business",
+          "bullets": [
+            "Reuters analyzed Volkswagen’s China strategy with Xpeng.",
+            "The partnership has not gone as planned.",
+            "China remains a critical market for Volkswagen."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Top technology and AI stories",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "China defends DeepSeek after US government-systems ban",
+          "bullets": [
+            "China criticized the US ban on DeepSeek products.",
+            "The ban applies to federal civilian agency systems.",
+            "The dispute highlights the US-China AI race."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/2bffa5b0131808735280b2c0e6f0d856"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Nvidia CEO urges German manufacturers to adopt AI faster",
+          "bullets": [
+            "Jensen Huang addressed German industrial companies.",
+            "He said AI can help re-engineer manufacturing models.",
+            "Huang said digital technology will not replace heavy industry."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/f024c1e0d181677a19468657907a9025"
+        },
+        {
+          "emoji": "☁️",
+          "title": "Google Cloud outage affects London services, Revolut also down",
+          "bullets": [
+            "Reuters reported Google Cloud services faced a London outage.",
+            "Revolut services were also reported down.",
+            "The incident affected cloud-dependent digital services."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "📝",
+          "title": "Otter.ai raises $320 million to expand enterprise AI transcription",
+          "bullets": [
+            "Otter.ai closed $320 million in growth financing.",
+            "General Catalyst’s Customer Value Fund led the financing.",
+            "The company plans enterprise and international expansion."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "🧾",
+          "title": "Software upgrades consume nearly a third of company IT budgets",
+          "bullets": [
+            "A survey found upgrades take nearly one-third of IT budgets.",
+            "Reuters listed the finding in Tuesday tech headlines.",
+            "The report points to rising enterprise software maintenance costs."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        }
+      ]
+    }
+  }
+}

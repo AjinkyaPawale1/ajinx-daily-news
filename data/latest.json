@@ -1,376 +1,376 @@
 {
-  "date": "2026-10-19",
-  "displayDate": "Monday, October 19, 2026",
+  "date": "2026-10-20",
+  "displayDate": "Tuesday, October 20, 2026",
   "categories": {
     "us": {
       "label": "US News",
       "icon": "🇺🇸",
-      "subtitle": "Top domestic headlines",
+      "subtitle": "Top domestic stories from the last 1–2 days",
       "articles": [
         {
           "emoji": "🗳️",
-          "title": "AP-NORC poll shows Democrats gaining with AAPI adults before midterms",
+          "title": "Campaigning intensifies two weeks before US midterm elections",
           "bullets": [
-            "AAPI adults show growing disillusionment with Trump and Republicans.",
-            "Democrats hold stronger trust on the economy and health care.",
-            "The poll lands two weeks before the November 3 midterms."
+            "Election Day is two weeks away, on November 3.",
+            "NPR reported campaigns are entering a final high-intensity stretch.",
+            "Voters are weighing Congress amid war, prices and domestic policy fights."
+          ],
+          "source": "NPR / Alabama Public Radio",
+          "url": "https://www.apr.org/2026-10-20/morning-news-brief?_amp=true"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Justice Department charges 28 people in California voting-crimes case",
+          "bullets": [
+            "NPR’s morning brief listed DOJ voting-crime charges in California.",
+            "The case comes during the final midterm campaign stretch.",
+            "Details were reported as part of Tuesday’s national news roundup."
+          ],
+          "source": "NPR / Alabama Public Radio",
+          "url": "https://www.apr.org/2026-10-20/morning-news-brief?_amp=true"
+        },
+        {
+          "emoji": "🛂",
+          "title": "DHS grants temporary deportation reprieve to Ukrainians and Sudanese",
+          "bullets": [
+            "More than 100,000 Ukrainians and Sudanese are covered.",
+            "Their US protection had been set to expire Monday.",
+            "DHS action temporarily reduces immediate deportation risk."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/e6edac3a6fe6908f6191c0827e67767b"
+          "url": "https://apnews.com/article/a8f78833c7578b898abb97a933c1fe17"
         },
         {
           "emoji": "🏛️",
-          "title": "Judges weigh lawsuits over Trump’s rapid Washington makeover",
+          "title": "Mahmoud Khalil asks Supreme Court to speed review of immigration detentions",
           "bullets": [
-            "Federal and district judges are handling challenges to capital construction projects.",
-            "Cases include disputes over trees, paint testing and project authority.",
-            "Rulings could shape presidential power over Washington redevelopment."
+            "Khalil asked justices to allow faster judicial review.",
+            "The case concerns immigration-related detention challenges.",
+            "He framed the appeal as broader than his own case."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/4a1ae5b321d7182d40039a41a7d00ba9"
+          "url": "https://apnews.com/article/8ac4b21f75a38a0165c92ee1a14f093e"
         },
         {
-          "emoji": "🚨",
-          "title": "National Guard member shot while intervening in Washington fight",
+          "emoji": "🔬",
+          "title": "Trump orders expanded federal research into women’s health",
           "bullets": [
-            "A Guard member was injured Sunday night in southeast Washington.",
-            "Police said the suspected shooter was also hit by return fire.",
-            "The incident occurred as Guard members monitored a sidewalk fight."
+            "The order directs agencies to bolster women’s health research.",
+            "It covers health across stages of women’s lives.",
+            "The plan was backed by first lady Melania Trump."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/16a5059ef1c84487b40d13376928e263"
-        },
-        {
-          "emoji": "🗳️",
-          "title": "Hakeem Jeffries campaigns in Ohio as Democrats target House control",
-          "bullets": [
-            "Jeffries campaigned for Rep. Marcy Kaptur in Toledo.",
-            "He said the election climate remains favorable for Democrats.",
-            "He criticized Trump’s decision to waive Russia sanctions."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/1adbcdad25f63e7bdf4a52bd88a7be8b"
-        },
-        {
-          "emoji": "🚇",
-          "title": "Man fatally shot on midtown Manhattan subway platform",
-          "bullets": [
-            "The shooting happened Saturday at 7th Avenue and 53rd Street.",
-            "Police said the victim was shot during an argument on the E platform.",
-            "No arrests were immediately reported after the incident."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/0176997a6c242809b59872af0e49e90f"
+          "url": "https://apnews.com/article/47534d721ac1328832ca46d9286ca833"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Top worldwide developments",
+      "subtitle": "Major worldwide developments from the last 1–2 days",
       "articles": [
         {
           "emoji": "🇺🇦",
-          "title": "Russia strikes Ukraine’s power grid as Zelenskyy cites lack of early warning",
+          "title": "Russian aerial attacks kill seven in Ukraine as Zelenskyy visits Norway",
           "bullets": [
-            "Russia used ballistic missiles and jet-powered drones against energy infrastructure.",
-            "Zelenskyy said Kyiv received no early warning from partners.",
-            "Ukraine says Patriot shortages have increased vulnerability."
+            "Russia launched a major aerial blitz on Ukraine.",
+            "AP reported at least seven people were killed.",
+            "Zelenskyy met US and European officials in Norway."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/b041f78e5d037a0f3377b7108eac1dc7"
+          "url": "https://apnews.com/article/140895c6c0a1682c46f4fe197e056996"
         },
         {
           "emoji": "🛢️",
-          "title": "Oil falls after Trump pauses broad Russia sanctions",
+          "title": "Iran accused of prolonging US talks as tensions remain high",
           "bullets": [
-            "AP reported crude prices fell after Trump waived sweeping Russia sanctions.",
-            "Ukraine criticized the move as Russia continues attacks.",
-            "Global markets were mixed amid tech-stock volatility."
+            "Iranian officials told Reuters talks were being prolonged deliberately.",
+            "Officials said Tehran was preparing for renewed attacks.",
+            "The report came ahead of US midterm elections."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/494fbe4361a0360b2f6368e7a6d8f058"
+          "source": "Reuters / Just Security",
+          "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
         },
         {
-          "emoji": "🇮🇱",
-          "title": "Trump endorses Netanyahu late in Israel’s election campaign",
+          "emoji": "🇩🇪",
+          "title": "Germany charges three suspects over alleged plot targeting US installations",
           "bullets": [
-            "AP reported Trump endorsed Benjamin Netanyahu near the campaign’s end.",
-            "The endorsement followed months of distance between the leaders.",
-            "Their Middle East strategies had diverged before the announcement."
+            "Germany’s federal prosecutor filed charges Tuesday.",
+            "Two German nationals and one Turkish national were charged.",
+            "Authorities allege a plot to bomb US installations."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/e6edac3a6fe6908f6191c0827e67767b"
+          "source": "Reuters / VoteKansas aggregator",
+          "url": "https://votekansas.org/reform/f/aggregator/categories/23"
         },
         {
-          "emoji": "🛰️",
-          "title": "SpaceX service limits affect Ukrainian drone operations, Zelenskyy says",
+          "emoji": "🇸🇩",
+          "title": "Drone strike in disputed Sudan-South Sudan area kills dozens",
           "bullets": [
-            "Zelenskyy said limits on military-grade SpaceX internet hurt drone operations.",
-            "Ukraine relies on Western technology and intelligence against Russia.",
-            "The comments came after new Russian attacks on infrastructure."
+            "Reuters reported the strike killed dozens of people.",
+            "A minister confirmed deaths in the disputed area.",
+            "The incident was listed among Tuesday’s global headlines."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/b041f78e5d037a0f3377b7108eac1dc7"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         },
         {
-          "emoji": "💼",
-          "title": "Global markets mixed as AI volatility weighs on equities",
+          "emoji": "🇮🇩",
+          "title": "Indonesia deploys thousands of security officers for Prabowo anniversary protests",
           "bullets": [
-            "Asian shares traded mixed as technology stocks remained volatile.",
-            "French stocks led losses in Europe after mass protests.",
-            "Investors awaited another week of major U.S. earnings."
+            "Indonesia planned more than 9,000 security officers.",
+            "Protests marked Prabowo’s two years in power.",
+            "Reuters listed the deployment in Tuesday’s world headlines."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/494fbe4361a0360b2f6368e7a6d8f058"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         }
       ]
     },
     "india": {
       "label": "India News",
       "icon": "🇮🇳",
-      "subtitle": "Top India-focused stories",
+      "subtitle": "Top India stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🛡️",
-          "title": "CERT-In says rogue AI agents accessed confidential Indian business records",
-          "bullets": [
-            "India’s cybersecurity agency warned about AI agents accessing confidential records.",
-            "Attackers are using freely available AI tools to breach systems faster.",
-            "The report appeared in Reuters coverage carried by Indian Express."
-          ],
-          "source": "Reuters / Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
-        },
-        {
           "emoji": "🤝",
-          "title": "India says peace talks with Pakistan are at four-year low",
+          "title": "Rubio and Jaishankar hold Mumbai talks on US-India trade deal",
           "bullets": [
-            "Reuters reported India’s assessment after recent bombings.",
-            "The tensions followed attacks in Indian cities and at India’s Kabul embassy.",
-            "The remarks were reported from Colombo."
+            "Marco Rubio met S. Jaishankar in Mumbai.",
+            "The talks focused on trade and energy cooperation.",
+            "Russian oil purchases remain a key tension point."
           ],
-          "source": "Reuters / VoteKansas Reuters feed",
-          "url": "https://www.votekansas.org/reform/f/aggregator/categories/23?page=61"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/61e40567f8f8453f1117328594d0445c"
         },
         {
-          "emoji": "🕯️",
-          "title": "Kolkata puja pandal crowd crush kills 19 people",
+          "emoji": "🛢️",
+          "title": "Trump sanctions waiver may ease India’s Russian-oil concerns",
           "bullets": [
-            "A crowd crush at a Kolkata puja pandal killed 19 people.",
-            "The incident occurred on October 17.",
-            "The event was listed in recent India news tracking."
+            "Reuters said the waiver eases India’s energy concerns.",
+            "India is a major importer of Russian oil.",
+            "The move may improve prospects for a US-India trade deal."
           ],
-          "source": "Wikipedia news chronology citing Reuters",
-          "url": "https://en.wikipedia.org/wiki/2026_in_India"
+          "source": "Reuters / Investing.com",
+          "url": "https://www.investing.com/news/economy-news/trumps-russia-sanctions-waiver-eases-indias-energy-woes-lifts-trade-deal-chances-4957111"
         },
         {
-          "emoji": "👮",
-          "title": "Delhi locked down ahead of protest against election chief",
+          "emoji": "📉",
+          "title": "Indian shares fall as banks slide and crude weighs on sentiment",
           "bullets": [
-            "Authorities detained protesters ahead of a Delhi rally.",
-            "The protest targeted India’s election chief.",
-            "The development appeared in recent India news tracking."
+            "Nifty 50 fell 1.11% on Monday.",
+            "Sensex declined 1.17% to 73,852.90.",
+            "Private banks led losses after quarterly earnings."
           ],
-          "source": "Wikipedia news chronology citing Reuters",
-          "url": "https://en.wikipedia.org/wiki/2026_in_India"
+          "source": "Reuters / MarketScreener India",
+          "url": "https://in.marketscreener.com/news/indian-shares-slip-as-private-bank-earnings-elevated-crude-hit-sentiment-ce785cdad08bf32d"
         },
         {
-          "emoji": "📈",
-          "title": "Indian shares watch U.S. data and earnings after volatile week",
+          "emoji": "📱",
+          "title": "Investors await Jio Platforms’ record Indian IPO",
           "bullets": [
-            "Investors tracked U.S. import prices, industrial production and capacity use.",
-            "Foreign investors returned to buying Indian equities on Friday.",
-            "Domestic institutional investors turned net sellers despite benchmark gains."
+            "Jio Platforms’ IPO opens for subscription Wednesday.",
+            "Reuters said the deal could raise up to $3.2 billion.",
+            "The IPO would be India’s largest to date."
           ],
-          "source": "CNBC-TV18 / TradingView",
-          "url": "https://www.tradingview.com/news/cnbctv%3Afd339466e094b%3A0/"
+          "source": "Reuters / MarketScreener",
+          "url": "https://www.marketscreener.com/news/mukesh-ambani-s-jio-files-updated-prospectus-for-record-india-ipo-ce785dd2df8ff722"
+        },
+        {
+          "emoji": "🛕",
+          "title": "West Bengal festival stampede kills at least 19",
+          "bullets": [
+            "The stampede happened during a major Hindu festival.",
+            "Officials said at least 19 people died.",
+            "The incident occurred in eastern India’s West Bengal state."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/ee803af1bef07fab3c1157974be2e876"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
       "icon": "📈",
-      "subtitle": "Market movers and trading themes",
+      "subtitle": "Market movers and Wall Street themes",
       "articles": [
         {
-          "emoji": "🎯",
-          "title": "Target among notable U.S. stock movers in recent midday trading",
+          "emoji": "🤖",
+          "title": "US futures dip as AI sell-off returns and oil prices rise",
           "bullets": [
-            "Target appeared in CNBC’s list of biggest midday movers.",
-            "The roundup also included Intel, Medtronic and Palantir.",
-            "The item focused on stocks with notable session moves."
+            "AP reported US futures were lower Tuesday.",
+            "AI-related selling returned to markets.",
+            "Oil prices rose sharply, pressuring sentiment."
           ],
-          "source": "CNBC / Ground News",
-          "url": "https://ground.news/article/stocks-making-the-biggest-moves-midday-target-intel-medtronic-palantir-la-z-boy-and-more/"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/b972b64127db5412a2b02c35ecf95c88"
         },
         {
-          "emoji": "💾",
-          "title": "Intel highlighted as chip stocks face renewed pressure",
+          "emoji": "💻",
+          "title": "Nasdaq climbs as chip and AI-linked stocks rebound",
           "bullets": [
-            "Intel was listed among CNBC’s biggest midday stock movers.",
-            "Chip shares were under pressure amid policy and AI financing concerns.",
-            "Semiconductor weakness weighed on broader tech sentiment."
+            "Reuters said Nasdaq led Wall Street gains Monday.",
+            "Chip and AI-linked stocks bounced after a selloff.",
+            "The semiconductor index was on track to snap an eight-day losing streak."
           ],
-          "source": "CNBC / Ground News",
-          "url": "https://ground.news/article/stocks-making-the-biggest-moves-midday-target-intel-medtronic-palantir-la-z-boy-and-more/"
+          "source": "Reuters / Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/3994925-us-stocks-nasdaq-climbs-as-chip-and-ai-linked-stocks-bounce-back"
         },
         {
-          "emoji": "🏥",
-          "title": "Medtronic shares rise after guidance boost despite tariff impact",
+          "emoji": "🛢️",
+          "title": "Oil surge keeps energy and inflation risks in focus for traders",
           "bullets": [
-            "Medtronic shares rose after the company raised 2026 earnings guidance.",
-            "The company cited a $185 million tariff impact.",
-            "Analyst reactions helped lift the stock after earnings."
+            "Brent crude hovered near a five-month high.",
+            "Middle East tensions added a geopolitical risk premium.",
+            "Oil strength was a major market driver Tuesday."
           ],
-          "source": "CNBC / Ground News",
-          "url": "https://ground.news/article/stocks-making-the-biggest-moves-midday-target-intel-medtronic-palantir-la-z-boy-and-more/"
+          "source": "CNBC / Pulsarium",
+          "url": "https://pulsarium.finance/news/daily/2026-10-20/"
         },
         {
           "emoji": "🧠",
-          "title": "Palantir appears among biggest midday movers as AI trade stays volatile",
+          "title": "DeepSeek ban hits AI sentiment across markets",
           "bullets": [
-            "Palantir was named in CNBC’s midday movers roundup.",
-            "AI-linked stocks have faced questions about infrastructure financing.",
-            "The Nasdaq recently lagged amid semiconductor and AI volatility."
+            "US agencies banned DeepSeek-related technology from civilian systems.",
+            "The move intensified US-China AI tensions.",
+            "AI names were among the most-watched market targets."
           ],
-          "source": "CNBC / Ground News",
-          "url": "https://ground.news/article/stocks-making-the-biggest-moves-midday-target-intel-medtronic-palantir-la-z-boy-and-more/"
+          "source": "CNBC / Pulsarium",
+          "url": "https://pulsarium.finance/news/daily/2026-10-20/"
         },
         {
-          "emoji": "🚗",
-          "title": "Tesla gains premarket after redesigned Roadster reveal",
+          "emoji": "🧱",
+          "title": "Consumer discretionary leads S&P sectors while utilities lag",
           "bullets": [
-            "Tesla shares rose 4% in premarket trading Friday.",
-            "The company unveiled a redesigned Roadster with SpaceX-developed thrusters.",
-            "Investors also awaited more major U.S. earnings this week."
+            "Consumer discretionary gained 2.91% at Monday’s close.",
+            "Technology rose 1.09% among S&P sectors.",
+            "Utilities fell 1.98%, the weakest sector."
           ],
-          "source": "CNBC-TV18 / TradingView",
-          "url": "https://www.tradingview.com/news/cnbctv%3Afd339466e094b%3A0/"
+          "source": "StockSetups",
+          "url": "https://stocksetups.com/today"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Corporate and economy headlines",
+      "subtitle": "Corporate and economic stories moving business news",
       "articles": [
         {
-          "emoji": "🧾",
-          "title": "U.S. consumers grow uneasy about AI-assisted pricing tools",
+          "emoji": "🛒",
+          "title": "Walmart launches $120 membership bundle before holidays",
           "bullets": [
-            "Retailers and restaurants are adopting AI-assisted pricing systems.",
-            "Digital price tags are replacing paper labels in some grocery aisles.",
-            "AP reported consumer concerns about high-tech price setting."
+            "Walmart introduced a $120 membership bundle.",
+            "The offer includes Sam’s Club ahead of holiday shopping.",
+            "Reuters listed the launch among Tuesday corporate headlines."
           ],
-          "source": "Associated Press / WV News",
-          "url": "https://www.wvnews.com/business/ap-technology-summarybrief-at-3-18-a-m-edt/article_118cf525-a08a-5afa-8852-4177b09433f9.html"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         },
         {
-          "emoji": "💻",
-          "title": "Microsoft pulls out of U.K. data-center deal with Nscale, report says",
+          "emoji": "☁️",
+          "title": "Amazon to invest more than €16 billion in Germany next year",
           "bullets": [
-            "Reuters reported Microsoft exited a U.K. data-center deal with Nscale.",
-            "Nscale provides AI infrastructure, power and compute capacity.",
-            "The report appeared in Reuters coverage carried by Indian Express."
+            "Amazon announced a major Germany investment plan.",
+            "Reuters reported the investment exceeds €16 billion.",
+            "The move expands Amazon’s European business footprint."
           ],
-          "source": "Reuters / Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         },
         {
-          "emoji": "📊",
-          "title": "U.K. regulator targets Microsoft’s business software grip",
+          "emoji": "✈️",
+          "title": "Ryanair optimistic Boeing MAX 10 certification will finish in October",
           "bullets": [
-            "Britain’s CMA is investigating Microsoft’s business software position.",
-            "The probe will examine customer choice for AI tools.",
-            "Regulators will assess whether rivals can compete with Copilot."
+            "Ryanair expressed optimism on MAX 10 certification.",
+            "Reuters listed the update in Tuesday business headlines.",
+            "Certification timing remains important for Boeing customers."
           ],
-          "source": "Reuters / Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         },
         {
-          "emoji": "🛢️",
-          "title": "Oil prices fall after U.S. pauses Russia sanctions",
+          "emoji": "🏭",
+          "title": "ABB posts record quarterly orders helped by data-center boom",
           "bullets": [
-            "Brent and U.S. crude fell in Monday trading.",
-            "AP linked the drop to Trump’s Russia sanctions waiver.",
-            "Energy markets remain tense after recent Middle East supply risks."
+            "ABB reported record quarterly orders.",
+            "Data-center demand helped drive the order book.",
+            "Reuters listed the update among Tuesday corporate news."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/494fbe4361a0360b2f6368e7a6d8f058"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         },
         {
-          "emoji": "🤖",
-          "title": "IMF-World Bank meetings focus on AI risks and global economy",
+          "emoji": "🚗",
+          "title": "Volkswagen’s Xpeng bet struggles to revive China business",
           "bullets": [
-            "IMF discussions centered on global risks and AI’s potential benefits.",
-            "Officials called for guardrails around fast-moving AI development.",
-            "The meetings came as AI reshapes business and labor markets."
+            "Reuters analyzed Volkswagen’s China strategy with Xpeng.",
+            "The partnership has not gone as planned.",
+            "China remains a critical market for Volkswagen."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/faba248f0609534a0d8284dec1b46a81"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         }
       ]
     },
     "tech": {
       "label": "Tech",
       "icon": "💻",
-      "subtitle": "Technology and AI developments",
+      "subtitle": "Top technology and AI stories",
       "articles": [
         {
-          "emoji": "🔒",
-          "title": "AI agents raise privacy concerns as downloads surge",
+          "emoji": "🤖",
+          "title": "China defends DeepSeek after US government-systems ban",
           "bullets": [
-            "New AI agents are being used for tasks like reservations and inbox management.",
-            "AP reported users being surprised by agent behavior.",
-            "Privacy questions center on personal data access."
+            "China criticized the US ban on DeepSeek products.",
+            "The ban applies to federal civilian agency systems.",
+            "The dispute highlights the US-China AI race."
           ],
-          "source": "Associated Press / WV News",
-          "url": "https://www.wvnews.com/business/ap-technology-summarybrief-at-3-18-a-m-edt/article_118cf525-a08a-5afa-8852-4177b09433f9.html"
-        },
-        {
-          "emoji": "🇨🇳",
-          "title": "China plans export restrictions on AI, chips and solar technologies",
-          "bullets": [
-            "China plans to restrict or ban exports of 40 technologies.",
-            "The list includes AI, chips and solar power technologies.",
-            "The move reflects intensifying tech competition with the United States."
-          ],
-          "source": "Associated Press / WV News",
-          "url": "https://www.wvnews.com/business/ap-technology-summarybrief-at-3-18-a-m-edt/article_118cf525-a08a-5afa-8852-4177b09433f9.html"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/2bffa5b0131808735280b2c0e6f0d856"
         },
         {
           "emoji": "🧠",
-          "title": "Samsung to use TSMC technology for Nvidia next-generation memory chips, report says",
+          "title": "Nvidia CEO urges German manufacturers to adopt AI faster",
           "bullets": [
-            "Reuters reported Nvidia asked key memory suppliers to use TSMC processes.",
-            "Samsung, SK Hynix and Micron were named in the report.",
-            "The chips relate to next-generation NVHBM memory."
+            "Jensen Huang addressed German industrial companies.",
+            "He said AI can help re-engineer manufacturing models.",
+            "Huang said digital technology will not replace heavy industry."
           ],
-          "source": "Reuters / Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/f024c1e0d181677a19468657907a9025"
         },
         {
-          "emoji": "🛡️",
-          "title": "G7 to launch exercises against AI-driven cyberattacks",
+          "emoji": "☁️",
+          "title": "Google Cloud outage affects London services, Revolut also down",
           "bullets": [
-            "G7 finance authorities plan simulations for AI cyber threats.",
-            "The exercises will test response readiness across member economies.",
-            "The effort reflects rising concern over AI-enabled attacks."
+            "Reuters reported Google Cloud services faced a London outage.",
+            "Revolut services were also reported down.",
+            "The incident affected cloud-dependent digital services."
           ],
-          "source": "Reuters / Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         },
         {
-          "emoji": "📡",
-          "title": "SpaceX spectrum deal still leaves satellite phones behind telecom giants",
+          "emoji": "📝",
+          "title": "Otter.ai raises $320 million to expand enterprise AI transcription",
           "bullets": [
-            "Reuters reported SpaceX’s spectrum deal does not erase major telecom gaps.",
-            "Cities remain difficult for mobile-to-satellite connections.",
-            "Urban mobile telephony poses significant technical challenges."
+            "Otter.ai closed $320 million in growth financing.",
+            "General Catalyst’s Customer Value Fund led the financing.",
+            "The company plans enterprise and international expansion."
           ],
-          "source": "Reuters / Indian Express",
-          "url": "https://indianexpress.com/agency/reuters/"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "🧾",
+          "title": "Software upgrades consume nearly a third of company IT budgets",
+          "bullets": [
+            "A survey found upgrades take nearly one-third of IT budgets.",
+            "Reuters listed the finding in Tuesday tech headlines.",
+            "The report points to rising enterprise software maintenance costs."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         }
       ]
     }
