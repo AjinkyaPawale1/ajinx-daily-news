@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-24",
-  "displayDate": "Saturday, October 24, 2026",
+  "date": "2026-10-25",
+  "displayDate": "Sunday, October 25, 2026",
   "categories": {
     "us": {
       "label": "US News",
@@ -8,245 +8,245 @@
       "subtitle": "Top domestic stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🏛️",
-          "title": "State Department reduces staffing at four Middle East embassies over Iran threats",
-          "bullets": [
-            "The State Department cited increased threats from Iran against U.S. personnel.",
-            "Four U.S. embassies in the Middle East are affected by staffing reductions.",
-            "The move follows intelligence warnings amid heightened regional tensions."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/9635852ea973064907ed0b7c0fca4799"
-        },
-        {
           "emoji": "🗳️",
-          "title": "Trump administration sues over possible Democratic win in Alaska Senate race",
+          "title": "Trump campaigns in Michigan as GOP targets open Senate seat",
           "bullets": [
-            "The administration moved to block a possible Democratic victory in Alaska.",
-            "The dispute comes days before the November 3 midterm elections.",
-            "The case adds to legal fights surrounding congressional control."
+            "Trump headed to Port Huron, Michigan, for a midterm campaign rally.",
+            "Republicans are targeting the seat of retiring Democratic Sen. Gary Peters.",
+            "Democrat Abdul El-Sayed faces Republican Mike Rogers in the Nov. 3 race."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/4b43d8df0f4d7666de64f272f7b81ae7"
+          "url": "https://apnews.com/article/162330c3d193ecb94538f8dd8083f916"
         },
         {
-          "emoji": "🇨🇺",
-          "title": "Trump revives talk of military intervention in Cuba at South Florida rally",
+          "emoji": "🏭",
+          "title": "Trump says Audi will build $4.2 billion Georgia auto plant",
           "bullets": [
-            "Trump said U.S. warships could stop in Cuba after returning from the Middle East.",
-            "He linked the idea to forcing political change in Cuba.",
-            "The remarks came during a campaign rally in South Florida."
+            "Trump announced the project Saturday at a campaign rally in Perry, Georgia.",
+            "Audi said the Macon-area plant would create about 4,500 jobs.",
+            "Construction is scheduled for 2027, with production in the early 2030s."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/3b33aab6719558e289632e974c7a82ad"
+          "url": "https://apnews.com/article/c1d49f2437c1d9cf349af399b8abe3a3"
         },
         {
-          "emoji": "🏈",
-          "title": "Trump questions Paris NFL game amid civil unrest and planned protests",
+          "emoji": "✅",
+          "title": "Trump casts early midterm ballot in Florida",
           "bullets": [
-            "Trump said the NFL could have postponed the Steelers-Saints game in Paris.",
-            "The State Department issued a security alert for Saturday protests.",
-            "Paris has faced unrest after recent street demonstrations."
+            "Trump voted Saturday at a West Palm Beach polling location.",
+            "He said he voted for Republicans across the ballot.",
+            "He later traveled to Georgia for a campaign rally."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/29b50f59d13c2ec87771b9e63176669d"
+          "url": "https://apnews.com/article/2195b4226316fa8cb13b875f08d5df88"
         },
         {
-          "emoji": "💵",
-          "title": "Inflation data, earnings and Fed meeting loom for U.S. economy",
+          "emoji": "📨",
+          "title": "California election officials object to DOJ ballot-sequester demand",
           "bullets": [
-            "A key inflation update is due during a busy economic week.",
-            "Consumer confidence data is expected to show continued weakness.",
-            "Major earnings reports may clarify AI spending and household demand."
+            "County registrars received Justice Department letters about alleged noncitizen ballots.",
+            "Local officials described confusion and frustration over the demand.",
+            "The dispute escalates a legal fight before the midterm elections."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/7fc70f244e14a16e55450cf8b89d4651"
+          "url": "https://apnews.com/article/c0d91dbb27593bbc29b65cda1a80ee5e"
+        },
+        {
+          "emoji": "🏥",
+          "title": "Texas Trump voter breaks party ranks amid cancer bills and inflation",
+          "bullets": [
+            "AP profiled Cindy Banda, a three-time Trump voter in McAllen, Texas.",
+            "She faced breast cancer treatment and more than $25,000 in medical debt.",
+            "She cited high prices and medical costs before the Nov. 3 election."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/67c6edf617943a48fd23120284a44936"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Top worldwide stories from the last 1–2 days",
+      "subtitle": "Top worldwide developments",
       "articles": [
         {
-          "emoji": "🕊️",
-          "title": "Melania Trump brokers planned humanitarian ceasefire in occupied Oleshky",
+          "emoji": "🇧🇷",
+          "title": "Brazil votes in Lula-Bolsonaro presidential runoff",
           "bullets": [
-            "A ceasefire is planned for the Russian-occupied Ukrainian city of Oleshky.",
-            "The pause is intended to allow aid delivery and evacuations.",
-            "The report came in an AP news summary on October 24."
+            "Brazilians began voting Sunday in a tense presidential runoff.",
+            "Incumbent Lula faces Flávio Bolsonaro, son of jailed former President Jair Bolsonaro.",
+            "Polls showed a close contest before the vote."
           ],
-          "source": "Associated Press / KULR8",
-          "url": "https://www.kulr8.com/news/national/ap-news-summary-at-4-01-a-m-edt/article_010e0ac6-f2e6-5eea-9a69-78291a1d2c09.html"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/e2c9fe8fc4aa3e3675b9a8ec15405d93"
         },
         {
-          "emoji": "☢️",
-          "title": "IAEA says plutonium leak at Vienna-area lab was contained",
+          "emoji": "🇺🇦",
+          "title": "Russian strike sparks fire at Kharkiv home-improvement hypermarket",
           "bullets": [
-            "A small amount of plutonium leaked at an ageing IAEA laboratory.",
-            "The radioactive contamination was contained to a storage area.",
-            "The U.N. watchdog said no one was injured."
+            "Reuters Connect listed images from a Russian strike in Kharkiv, Ukraine.",
+            "The strike reportedly engulfed a home-improvement hypermarket in fire.",
+            "The item was posted early Sunday, October 25."
           ],
-          "source": "Reuters / VoteKansas.org",
-          "url": "https://www.votekansas.org/reform/f/aggregator/categories/23?page=56"
+          "source": "Reuters Connect / Anadolu Agency",
+          "url": "https://www.reutersconnect.com/collection/latest-news"
         },
         {
-          "emoji": "🌐",
-          "title": "China reports steady fiscal revenue growth through first three quarters",
+          "emoji": "🇵🇸",
+          "title": "Israeli drone strike injures students at Gaza university campus",
           "bullets": [
-            "China’s general public budget revenue reached about 17.23 trillion yuan.",
-            "The figure covers the first three quarters of 2026.",
-            "The report cited newly released official data."
+            "Reuters Connect listed video and images from an Islamic University strike in Gaza.",
+            "The listing said seven Palestinians were injured.",
+            "The footage was posted Sunday morning."
           ],
-          "source": "Nhan Dan",
-          "url": "https://en.nhandan.vn/world-news-in-brief-october-24-post168182.html"
+          "source": "Reuters Connect / Anadolu Agency / ZUMA Press Wire",
+          "url": "https://www.reutersconnect.com/collection/latest-news"
         },
         {
-          "emoji": "⛽",
-          "title": "Global focus turns to central banks and AI earnings in markets week ahead",
+          "emoji": "🇧🇬",
+          "title": "Bulgaria holds presidential election",
           "bullets": [
-            "The Fed, ECB and Bank of Japan are set to announce policy decisions.",
-            "Investors are watching Alphabet, Amazon and Microsoft earnings.",
-            "AI capital spending remains a central market theme."
+            "Reuters Connect listed multiple photo items from Bulgaria’s presidential election.",
+            "Election images were posted throughout Sunday morning.",
+            "The vote was among the latest global news items on the service."
           ],
-          "source": "Reuters / Yahoo News Malaysia",
-          "url": "https://malaysia.news.yahoo.com/five-ai-trade-meets-fed-072613378.html"
+          "source": "Reuters Connect / Reuters",
+          "url": "https://www.reutersconnect.com/collection/latest-news"
         },
         {
-          "emoji": "⛪",
-          "title": "Seven killed in Jordan church shooting, Indian outlets report",
+          "emoji": "🌀",
+          "title": "Typhoon Champi brings weather warnings around Taiwan",
           "bullets": [
-            "Gunmen opened fire inside a church in Jordan.",
-            "Reports said seven people were killed and 28 were injured.",
-            "The story was among top global headlines in Indian news roundups."
+            "A current-affairs roundup highlighted Typhoon Champi as a major world item.",
+            "The same roundup noted heavy-rain warnings connected to the storm.",
+            "The item appeared in an October 25 news digest."
           ],
-          "source": "The Hindu / Newsmriti",
-          "url": "https://srihayavadhana.com/newsmriti/headlines/24-october-2026/"
+          "source": "The Excellency Info",
+          "url": "https://theexcellencyinfo.com/current-affairs-25-october-2026/"
         }
       ]
     },
     "india": {
       "label": "India News",
       "icon": "🇮🇳",
-      "subtitle": "Top India stories from the last 1–2 days",
+      "subtitle": "Top India stories",
       "articles": [
         {
-          "emoji": "🚓",
-          "title": "AP investigation raises alarm over police shootings of alleged cow smugglers",
+          "emoji": "🗳️",
+          "title": "INDIA bloc plans ‘public impeachment’ campaign against CEC",
           "bullets": [
-            "AP found police in Uttar Pradesh shot hundreds of suspects in similar encounters.",
-            "Many cases involved Muslim men accused of cow smuggling.",
-            "Activists say the pattern is spreading to nearby BJP-run states."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/5535bd76395f0362be4366aee4ac76ac"
-        },
-        {
-          "emoji": "⚖️",
-          "title": "Takeaways detail alleged impunity in India cow-smuggling police shootings",
-          "bullets": [
-            "AP said critics describe the shootings as extrajudicial justice.",
-            "The cases are tied to cow protection laws and religious politics.",
-            "The investigation focused on India’s most populous state."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/01d24272a39d3f4af1248863c21f6032"
-        },
-        {
-          "emoji": "🚨",
-          "title": "IndiGo Delhi-Chennai flight returns to bay after bomb threat",
-          "bullets": [
-            "The IndiGo flight received a threat message on Friday afternoon.",
-            "The aircraft returned to the bay at Delhi airport.",
-            "Security checks were conducted after the threat."
+            "Rediff’s October 25 archive reported plans targeting CEC Gyanesh Kumar.",
+            "A ‘public impeachment’ event was planned for October 30.",
+            "A ‘Dilli Chalo’ march was planned for November 1 at Ramlila Maidan."
           ],
           "source": "Rediff.com",
-          "url": "https://news.rediff.com/archives/archhome.htm"
+          "url": "https://m.rediff.com/archives/archhome.htm"
         },
         {
-          "emoji": "🏫",
-          "title": "Tamil Nadu student dies after alleged caste and food-choice bullying",
+          "emoji": "🍬",
+          "title": "India extends duty-free raw sugar import deadline",
           "bullets": [
-            "A Class XI Dalit student in Coimbatore allegedly died by suicide.",
-            "Reports cited caste-based harassment and bullying over beef eating.",
-            "The case appeared in October 24 India news archives."
+            "A current-affairs roundup cited Reuters reporting on the sugar deadline.",
+            "India extended the deadline for one million metric tonnes of raw sugar.",
+            "The new deadline was listed as December 31, 2026."
           ],
-          "source": "Rediff.com",
-          "url": "https://news.rediff.com/archives/archhome.htm"
+          "source": "The Excellency Info / Reuters",
+          "url": "https://theexcellencyinfo.com/current-affairs-25-october-2026/"
         },
         {
-          "emoji": "🏭",
-          "title": "Madhya Pradesh courts ₹9,625 crore in tech investments",
+          "emoji": "🏦",
+          "title": "RBI bulletin flags inflation risks",
           "bullets": [
-            "The proposals include data centres and lithium-cell projects.",
-            "The investment push was listed among October 24 India headlines.",
-            "The projects highlight state efforts to attract technology manufacturing."
+            "The October 25 current-affairs roundup highlighted inflation risks in an RBI bulletin.",
+            "The item appeared alongside economy and policy headlines.",
+            "It followed an October marked by rate and price concerns."
           ],
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/archive/2026%2F10%2F24/"
+          "source": "The Excellency Info",
+          "url": "https://theexcellencyinfo.com/current-affairs-25-october-2026/"
+        },
+        {
+          "emoji": "🚇",
+          "title": "Urban mobility developments feature in India current-affairs roundup",
+          "bullets": [
+            "The October 25 roundup listed urban mobility as a major India topic.",
+            "It grouped the item with economy and infrastructure developments.",
+            "The summary was published Sunday, October 25."
+          ],
+          "source": "The Excellency Info",
+          "url": "https://theexcellencyinfo.com/current-affairs-25-october-2026/"
+        },
+        {
+          "emoji": "🌧️",
+          "title": "Heavy-rain warnings issued in India roundup",
+          "bullets": [
+            "The October 25 digest highlighted heavy-rain warnings among India items.",
+            "The warnings appeared in a same-day current-affairs summary.",
+            "The item was listed with national and weather developments."
+          ],
+          "source": "The Excellency Info",
+          "url": "https://theexcellencyinfo.com/current-affairs-25-october-2026/"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
       "icon": "📈",
-      "subtitle": "Top U.S. market movers and themes",
+      "subtitle": "Top US market movers and market stories",
       "articles": [
         {
           "emoji": "🛢️",
-          "title": "U.S. stocks fall as rising oil prices pressure Wall Street",
+          "title": "Wall Street falls as Brent crude jumps above $116",
           "bullets": [
-            "Major U.S. indexes declined in Friday’s session.",
-            "AP said rising oil prices weighed on equities.",
-            "The move capped a volatile week for markets."
+            "The S&P 500 fell 0.5% Friday.",
+            "The Dow dropped 1.2%, while the Nasdaq slipped 0.2%.",
+            "Brent crude rose 3.1% to $116.72 a barrel."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/7b47ef3b037bfba4e34f685329b9b963"
+        },
+        {
+          "emoji": "📉",
+          "title": "Dow loses 652 points in Friday selloff",
+          "bullets": [
+            "The Dow Jones Industrial Average fell 652.82 points Friday.",
+            "The S&P 500 closed at 7,623.68.",
+            "The 10-year Treasury yield rose to 4.99%."
           ],
           "source": "Associated Press",
           "url": "https://apnews.com/article/e07c72bc5cbe5dffe352ddf30054e35f"
         },
         {
-          "emoji": "🛡️",
-          "title": "CrowdStrike leads cybersecurity gains after global website vulnerability warnings",
+          "emoji": "🧸",
+          "title": "Hasbro leads weekly S&P 500 gainers after outlook raise",
           "bullets": [
-            "CrowdStrike rose 8.3%, according to Axios.",
-            "Cybersecurity stocks gained after warnings about vulnerable websites.",
-            "The move contrasted with broader AI-stock anxiety."
-          ],
-          "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-closer-259a2740-4cff-446c-ba8a-5a3e9a0648fe"
-        },
-        {
-          "emoji": "🤖",
-          "title": "AI rally faces pivotal test from earnings wave and Fed meeting",
-          "bullets": [
-            "Reuters said investors face a critical week for the AI-led rally.",
-            "Major AI players are due to report earnings.",
-            "The Federal Reserve meeting adds another market test."
-          ],
-          "source": "Reuters / Investing.com",
-          "url": "https://www.investing.com/news/economy-news/earnings-flood-fed-meeting-pose-pivotal-tests-for-rickety-ai-market-rally-4968724"
-        },
-        {
-          "emoji": "📉",
-          "title": "Tech selloff deepens, hitting hedge fund returns",
-          "bullets": [
-            "Reuters reported a fresh tech reckoning hurt global hedge funds.",
-            "Major strategies posted their worst day since the COVID-era rout.",
-            "The pressure followed weakness in technology shares."
-          ],
-          "source": "Reuters / Kitco",
-          "url": "https://www.kitco.com/author/reuters"
-        },
-        {
-          "emoji": "🏗️",
-          "title": "Comfort Systems USA slides despite better-than-expected results",
-          "bullets": [
-            "Comfort Systems USA was cited as the biggest mover in a weekend market brief.",
-            "Shares fell after a leadership change.",
-            "The company still reported better-than-expected results."
+            "Torvanta listed Hasbro as up 18.9% for the week.",
+            "The move followed stronger results and a raised outlook.",
+            "The stock was among the week’s biggest S&P 500 movers."
           ],
           "source": "Torvanta Research",
           "url": "https://torvanta.ai/research/daily-2026-10-24"
+        },
+        {
+          "emoji": "🛠️",
+          "title": "Construction and engineering stocks slide for the week",
+          "bullets": [
+            "Torvanta said the group’s median decline was 11.9% for the week.",
+            "Comfort Systems USA fell 19.2%.",
+            "Quanta Services dropped 13.6% and Emcor lost 10.3%."
+          ],
+          "source": "Torvanta Research",
+          "url": "https://torvanta.ai/research/daily-2026-10-24"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Cybersecurity shares rally as CrowdStrike jumps",
+          "bullets": [
+            "Axios reported CrowdStrike rose 8.3% in Friday’s stock spotlight.",
+            "The move came after warnings about global website vulnerabilities.",
+            "Netskope also extended gains, according to market-mover coverage."
+          ],
+          "source": "Axios / Insider Monkey",
+          "url": "https://www.axios.com/newsletters/axios-closer-259a2740-4cff-446c-ba8a-5a3e9a0648fe"
         }
       ]
     },
@@ -256,56 +256,56 @@
       "subtitle": "Top corporate and economic stories",
       "articles": [
         {
-          "emoji": "🍿",
-          "title": "Netflix tops earnings estimates while revenue matches expectations",
+          "emoji": "🏭",
+          "title": "Audi plans first Georgia plant in $4.2 billion project",
           "bullets": [
-            "Netflix reported third-quarter earnings of 87 cents per share.",
-            "Revenue was $12.9 billion, in line with analyst expectations.",
-            "The company said engagement remained healthy after 2026 price increases."
+            "Audi said the plant would produce about 200,000 cars annually.",
+            "The facility is expected to create roughly 4,500 jobs.",
+            "Construction is scheduled to begin in 2027."
           ],
-          "source": "Kiplinger",
-          "url": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/c1d49f2437c1d9cf349af399b8abe3a3"
         },
         {
-          "emoji": "📡",
-          "title": "AT&T raises 2026 earnings outlook after results beat estimates",
+          "emoji": "💳",
+          "title": "Visa reportedly cutting 5% of workforce to prepare for AI",
           "bullets": [
-            "AT&T reported stronger-than-expected third-quarter results.",
-            "The company raised 2026 EPS guidance to $2.40.",
-            "Telecom shares remain pressured by SpaceX wireless competition concerns."
+            "Kiplinger cited CNBC reporting on Visa’s planned job cuts.",
+            "The cuts equal about 5% of the workforce.",
+            "Visa’s CFO described the goal as becoming leaner and more agile."
           ],
-          "source": "Kiplinger",
-          "url": "https://www.kiplinger.com/investing/stocks/stocks-shoot-for-the-stars-on-ai-optimism-stock-market-today"
+          "source": "Kiplinger / CNBC",
+          "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today"
         },
         {
-          "emoji": "🍼",
-          "title": "Abbott plans to spin off nutrition business",
+          "emoji": "🍎",
+          "title": "Markets brace for heavy earnings and economic calendar",
           "bullets": [
-            "Abbott plans to create an independent publicly traded nutrition company.",
-            "Axios reported the plan in a corporate deal roundup.",
-            "The move would separate a major consumer-health business line."
+            "AP said inflation, consumer confidence and GDP updates are due this week.",
+            "Major earnings reports will also dominate the calendar.",
+            "The Federal Reserve’s rate decision is in focus."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/7fc70f244e14a16e55450cf8b89d4651"
+        },
+        {
+          "emoji": "🥫",
+          "title": "Abbott plans nutrition-business spinoff",
+          "bullets": [
+            "Axios reported Abbott plans to spin off its nutrition business.",
+            "The unit would become an independent publicly traded company.",
+            "The item appeared in Axios Pro Rata’s deal roundup."
           ],
           "source": "Axios",
           "url": "https://www.axios.com/newsletters/axios-pro-rata-c9b5580d-fe42-4bf9-b1e5-1b769c7cf924"
         },
         {
-          "emoji": "🏦",
-          "title": "Blackstone and Warburg Pincus prepare IntraFi sale process",
-          "bullets": [
-            "Blackstone and Warburg Pincus hired Morgan Stanley and Guggenheim.",
-            "The firms are exploring a sale of fintech company IntraFi.",
-            "Reuters said the deal could fetch about $10 billion."
-          ],
-          "source": "Axios / Reuters",
-          "url": "https://www.axios.com/newsletters/axios-pro-rata-c9b5580d-fe42-4bf9-b1e5-1b769c7cf924"
-        },
-        {
           "emoji": "🚀",
-          "title": "Potential Tesla-SpaceX tie-up draws attention as historic corporate deal",
+          "title": "SpaceX-Tesla merger talk advances with special committees",
           "bullets": [
-            "Axios said the potential transaction would be history’s largest corporate tie-up.",
-            "The idea remains tied to long-running Musk-company speculation.",
-            "The report highlighted rising investor focus on mega-cap consolidation."
+            "Axios reported Musk called a SpaceX-Tesla merger ‘a good idea.’",
+            "Both companies reportedly formed special committees to discuss a deal.",
+            "The item appeared in Axios Pro Rata’s October 23 newsletter."
           ],
           "source": "Axios",
           "url": "https://www.axios.com/newsletters/axios-pro-rata-c9b5580d-fe42-4bf9-b1e5-1b769c7cf924"
@@ -319,58 +319,58 @@
       "articles": [
         {
           "emoji": "🤖",
-          "title": "Chinese hacker used AI agents to target more than 100 company websites",
+          "title": "Tech companies turn to religion for AI morality efforts",
           "bullets": [
-            "AI agents attempted attacks on more than 1,200 websites, Tom’s Hardware reported.",
-            "More than 100 company websites were breached or targeted.",
-            "Deere and SharkNinja were among names mentioned in the report."
+            "AP examined how firms are seeking moral frameworks for AI systems.",
+            "The report noted concerns about simplifying religious traditions.",
+            "Meta Oversight Board member Paolo Carozza was among voices cited."
           ],
-          "source": "Tom’s Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/2bb91e3334fd6d732edf22288cabf4ec"
         },
         {
-          "emoji": "🧠",
-          "title": "Chinese tech giants reportedly place $35 billion in Nvidia GPU orders",
+          "emoji": "🐞",
+          "title": "Experts warn AI-discovered bugs could trigger new cyber disruptions",
           "bullets": [
-            "ByteDance, Alibaba and Tencent reportedly ordered over 3 million Nvidia RTX Pro 5500 GPUs.",
-            "The chips are designed to comply with export restrictions.",
-            "Reports said only a fraction of orders may be fulfillable."
+            "Reuters reported cybersecurity experts expect AI tools to find more vulnerabilities.",
+            "RunSafe Security’s CTO said recent model performance changed industry expectations.",
+            "The story was published October 23."
           ],
-          "source": "Tom’s Hardware",
-          "url": "https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable"
+          "source": "Reuters via Blue Water Healthy Living",
+          "url": "https://bluewaterhealthyliving.com/news/business-and-economy/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say/"
         },
         {
-          "emoji": "🔐",
-          "title": "Global website vulnerability warnings lift cybersecurity focus",
+          "emoji": "🇷🇺",
+          "title": "Ukraine strikes Russian data centers, disrupting major services",
           "bullets": [
-            "Axios said warnings highlighted vulnerable websites worldwide.",
-            "CrowdStrike led gains among cybersecurity stocks.",
-            "The story underscored demand for defensive software after AI-aided attacks."
+            "AP’s technology brief said Ukraine hit Yandex, Sberbank and VK data centers.",
+            "The strikes disrupted key Russian digital services.",
+            "The report said AI research was also affected."
           ],
-          "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-closer-259a2740-4cff-446c-ba8a-5a3e9a0648fe"
+          "source": "Associated Press via News Channel Nebraska",
+          "url": "https://southeast.newschannelnebraska.com/story/366838754/ap-technology-summarybrief-at-437-am-edt"
         },
         {
-          "emoji": "🧩",
-          "title": "PHP Foundation says it is under-funded with one full-time staff member",
+          "emoji": "💰",
+          "title": "Zuckerberg makes Meta deal tied to California billionaire-tax measure",
           "bullets": [
-            "The PHP Foundation’s director said the organization is under-funded.",
-            "The foundation reportedly has only one full-time staff member.",
-            "The issue appeared in October 24 technology headlines."
+            "AP reported Mark Zuckerberg made an agreement with Meta over potential tax costs.",
+            "California’s Proposition 40 would impose a one-time 5% wealth tax.",
+            "The measure targets billionaires living in California as of Jan. 1, 2026."
           ],
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/archive/2026%2F10%2F24/"
+          "source": "Associated Press via News Channel Nebraska",
+          "url": "https://southeast.newschannelnebraska.com/story/366838754/ap-technology-summarybrief-at-437-am-edt"
         },
         {
-          "emoji": "⌚",
-          "title": "Google Health 5.11 update improves Pixel Watch activity tracking",
+          "emoji": "☁️",
+          "title": "SAP AI NOW focuses on business AI value and safeguards",
           "bullets": [
-            "The update was listed among widely reported tech headlines.",
-            "Google Health 5.11 adds smarter activity-tracking features.",
-            "The story appeared in October 24 headline roundups."
+            "ITPro covered SAP AI NOW’s keynote from the NEC.",
+            "Speakers emphasized value creation from business AI projects.",
+            "The live report also discussed kill-switch concerns after a PHP security issue."
           ],
-          "source": "Android Authority / Newsmriti",
-          "url": "https://srihayavadhana.com/newsmriti/headlines/24-october-2026/"
+          "source": "ITPro",
+          "url": "https://www.itpro.com/software/live/sap-ai-now-follow-the-keynote-live-from-the-nec"
         }
       ]
     }
