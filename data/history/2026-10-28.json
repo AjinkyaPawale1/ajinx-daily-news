@@ -1,0 +1,378 @@
+{
+  "date": "2026-10-28",
+  "displayDate": "Wednesday, October 28, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic headlines from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🏦",
+          "title": "Fed decision looms as Treasury yields edge higher",
+          "bullets": [
+            "Treasury yields ticked higher before the Federal Reserve decision.",
+            "Traders awaited the central bank’s latest policy statement.",
+            "The decision followed a busy earnings and inflation week."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/us-treasury-yields-federal-reserve.html"
+        },
+        {
+          "emoji": "⛽",
+          "title": "US consumer confidence improves as gas prices ease",
+          "bullets": [
+            "Consumer confidence rebounded in October, AP reported.",
+            "Gas prices fell modestly from recent highs.",
+            "Inflation remained a major pressure for households."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/10aae13e93501c1c7f8803d44316eb28"
+        },
+        {
+          "emoji": "🏠",
+          "title": "Mortgage rates fall again, but borrowers seek riskier loans",
+          "bullets": [
+            "Mortgage rates declined for a second straight week.",
+            "Borrower demand rose only slightly, CNBC reported.",
+            "More borrowers sought savings through riskier loan products."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/mortgage-rates-fall-second-straight-week.html"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Musk PAC lawyer runs in Texas district tied to billionaire’s businesses",
+          "bullets": [
+            "Chris Gober is the GOP nominee in Texas’s 10th District.",
+            "The district includes major Tesla and SpaceX interests.",
+            "CNBC reported on the race and business connections."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/elon-musk-pac-lawyer-texas-10th-congress-election.html"
+        },
+        {
+          "emoji": "🏀",
+          "title": "Atlanta Dream criticizes WNBA Finals lunchtime schedule",
+          "bullets": [
+            "Atlanta Dream criticized a Thursday afternoon Finals game time.",
+            "The schedule drew reactions from public figures.",
+            "CNBC reported Flavor Flav and Hillary Clinton weighed in."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/wnba-finals-atlanta-dream-flavor-flav-hillary-clinton-.html"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🚆",
+          "title": "Spain high-speed train crash leaves 10 dead, local media say",
+          "bullets": [
+            "Local media reported 10 confirmed deaths in Spain.",
+            "The crash involved a high-speed train.",
+            "CNBC carried the report Wednesday morning."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Oil rises after Houthi attacks raise Saudi refinery concerns",
+          "bullets": [
+            "Oil prices climbed Wednesday, CNBC reported.",
+            "Investors weighed supply risks from Middle East conflict.",
+            "Houthi attacks on a Saudi refinery heightened worries."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/oil-prices-today-wti-brent-hormuz.html"
+        },
+        {
+          "emoji": "🇮🇱",
+          "title": "Israel election appears headed for no clear winner",
+          "bullets": [
+            "Exit polls showed no bloc near a governing majority.",
+            "Netanyahu’s alliance and Gadi Eisenkot’s bloc both fell short.",
+            "Coalition talks were expected after the vote."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html"
+        },
+        {
+          "emoji": "🚗",
+          "title": "China pushes car exports as domestic showrooms weaken",
+          "bullets": [
+            "CNBC reported empty or closed Chinese auto showrooms.",
+            "Autumn is traditionally a peak car-buying season.",
+            "Export markets have become increasingly important for automakers."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/china-car-exports.html"
+        },
+        {
+          "emoji": "⚽",
+          "title": "Mbappé faces China backlash as sponsors cut ties",
+          "bullets": [
+            "Chinese state media warned Kylian Mbappé after a viral meme controversy.",
+            "Sponsors cut ties, CNBC reported.",
+            "His apology was judged against future actions, state media said."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/china-mbappe-sponsor-meme-controversy.html"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India-focused headlines from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "📈",
+          "title": "Indian investors rush into US stocks through local apps",
+          "bullets": [
+            "Major Indian brokerages opened easier access to US markets.",
+            "Retail investors targeted Nvidia, SpaceX and Apple, CNBC reported.",
+            "The rollout expanded overseas investing options for millions."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html"
+        },
+        {
+          "emoji": "💱",
+          "title": "RBI likely intervenes to support rupee as oil pressures currency",
+          "bullets": [
+            "Traders said India’s central bank likely intervened Wednesday.",
+            "Persistently high oil prices weighed on the rupee.",
+            "Reuters reported the intervention expectations from Mumbai traders."
+          ],
+          "source": "Reuters / MarketScreener",
+          "url": "https://ca.marketscreener.com/news/indian-central-bank-likely-intervenes-to-support-rupee-as-oil-prices-weigh-traders-say-ce785cd2d98af12c"
+        },
+        {
+          "emoji": "📊",
+          "title": "Jio Platforms shares soar after record IPO debut",
+          "bullets": [
+            "Jio Platforms shares rose more than 21% on debut.",
+            "The listing followed a record IPO, CNBC reported.",
+            "Meta and Google are major backers of the company."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html"
+        },
+        {
+          "emoji": "📰",
+          "title": "Indian media debate France riots and protest coverage",
+          "bullets": [
+            "Le Monde reported Indian media amplified France riot footage.",
+            "Coverage referenced India’s Gen Z protest movement.",
+            "The report examined pro-government and far-right networks."
+          ],
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/10/23/in-india-pro-government-media-and-far-right-networks-capitalize-on-france-s-october-17-riots_6762208_4.html"
+        },
+        {
+          "emoji": "🤖",
+          "title": "OpenAI launches GPT-6.1 Terra, Times of India reports",
+          "bullets": [
+            "Times of India reported OpenAI’s GPT-6.1 Terra launch.",
+            "The product was framed around computer-use capabilities.",
+            "The story appeared in Wednesday’s DailyHub news roundup."
+          ],
+          "source": "The Times of India / DailyHub",
+          "url": "https://dailyhub.io/daily/2026-10-28"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and trading stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🧊",
+          "title": "Vertiv jumps after raising full-year outlook",
+          "bullets": [
+            "Vertiv rose about 16% premarket, StockTitan reported.",
+            "Third-quarter sales increased 61%.",
+            "The company raised its full-year sales forecast by $650 million."
+          ],
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
+        },
+        {
+          "emoji": "☀️",
+          "title": "Enphase sinks on weak solar demand and softer forecast",
+          "bullets": [
+            "Enphase fell more than 18% premarket.",
+            "The company cited soft US residential solar demand.",
+            "Fourth-quarter revenue guidance came in lower."
+          ],
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
+        },
+        {
+          "emoji": "🩺",
+          "title": "Surgery Partners surges after $5.7 billion takeover proposal",
+          "bullets": [
+            "Surgery Partners shares jumped nearly 48%.",
+            "HealthSpan Partners proposed a $5.7 billion takeover.",
+            "DailyHub named it the stock of the day."
+          ],
+          "source": "DailyHub / Yahoo Finance",
+          "url": "https://dailyhub.io/daily/2026-10-28"
+        },
+        {
+          "emoji": "🍔",
+          "title": "Wendy’s rises sharply without identified company news",
+          "bullets": [
+            "Wendy’s rose about 15.5% premarket.",
+            "StockTitan found no company news as of 8:03 a.m. ET.",
+            "The move appeared among the day’s biggest gainers."
+          ],
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
+        },
+        {
+          "emoji": "📱",
+          "title": "Robinhood falls after results show crypto revenue slump",
+          "bullets": [
+            "Robinhood fell about 6.8% premarket.",
+            "Crypto revenue dropped 55% from a year earlier.",
+            "Total revenue still reached a record, StockTitan reported."
+          ],
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-28-2026"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economy stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🚘",
+          "title": "Stellantis reports $4.5 billion cash drain amid turnaround",
+          "bullets": [
+            "Stellantis reported a 4 billion euro cash shortfall.",
+            "That equals about $4.5 billion, CNBC said.",
+            "The automaker’s turnaround plan remained underway."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/stellantis-cash-drain-turnaround.html"
+        },
+        {
+          "emoji": "🏦",
+          "title": "UBS third-quarter pretax profit rises 27%",
+          "bullets": [
+            "UBS reported pretax profit of $3.59 billion.",
+            "The result marked a 27% increase, CNBC reported.",
+            "The bank’s quarterly earnings were released Wednesday."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html"
+        },
+        {
+          "emoji": "🚢",
+          "title": "Luxury round-the-world cruise ends early as fuel costs surge",
+          "bullets": [
+            "Villa Vie Residences ended a luxury cruise abruptly.",
+            "The company cited soaring fuel costs.",
+            "It said passengers and crew would disembark during restructuring."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html"
+        },
+        {
+          "emoji": "🎰",
+          "title": "DraftKings CEO urges parents to discuss gambling addiction",
+          "bullets": [
+            "Jason Robins discussed gambling addiction with CNBC.",
+            "He said parents should talk with children about risks.",
+            "The comments referenced how he approaches the issue at home."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/draftkings-ceo-parents-talk-about-gambling.html"
+        },
+        {
+          "emoji": "🛍️",
+          "title": "Pop Mart shares extend decline after quarterly sales plunge",
+          "bullets": [
+            "Pop Mart reported a sharp third-quarter revenue decline.",
+            "CNBC cited a 45% to 50% year-on-year drop.",
+            "Shares of the Labubu maker extended losses."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "Nvidia to invest $3 billion in Meta partnership",
+          "bullets": [
+            "Axios reported Nvidia will invest $3 billion in Meta.",
+            "The story led DailyHub’s Wednesday morning roundup.",
+            "The partnership expands ties between two AI leaders."
+          ],
+          "source": "Axios / DailyHub",
+          "url": "https://www.axios.com/2026/10/28/nvidia-meta-investment-partnership"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Anthropic IPO plans could produce historic offering",
+          "bullets": [
+            "Scripps News reported Anthropic plans an IPO.",
+            "DailyHub said it could be the biggest stock offering ever.",
+            "The filing boosted attention on AI-linked equities."
+          ],
+          "source": "Scripps News / DailyHub",
+          "url": "https://dailyhub.io/daily/2026-10-28"
+        },
+        {
+          "emoji": "☁️",
+          "title": "Google expands cloud AI chip sales through partners",
+          "bullets": [
+            "Google is changing how it sells TPUs, CNBC reported.",
+            "The company is enlisting partners to sell more AI chips.",
+            "Custom chips are becoming a bigger growth driver."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/google-cloud-partners-to-sell-more-ai-chips.html"
+        },
+        {
+          "emoji": "💾",
+          "title": "SK Hynix profit beats estimates on AI memory demand",
+          "bullets": [
+            "SK Hynix reported third-quarter earnings Wednesday.",
+            "CNBC said profit sharply beat estimates.",
+            "AI memory demand supported the chipmaker’s results."
+          ],
+          "source": "CNBC",
+          "url": "http://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+        },
+        {
+          "emoji": "🖥️",
+          "title": "Apple expected to unveil touchscreen MacBook Pro models",
+          "bullets": [
+            "Benzinga reported Apple was expected to unveil touchscreen MacBook Pros.",
+            "The story appeared in DailyHub’s Wednesday roundup.",
+            "The launch would expand Apple’s laptop hardware lineup."
+          ],
+          "source": "Benzinga / DailyHub",
+          "url": "https://dailyhub.io/daily/2026-10-28"
+        }
+      ]
+    }
+  }
+}
