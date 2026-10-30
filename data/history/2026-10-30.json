@@ -1,0 +1,378 @@
+{
+  "date": "2026-10-30",
+  "displayDate": "Friday, October 30, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "⚖️",
+          "title": "Comey lawyers seek to block Justice Department prosecution",
+          "bullets": [
+            "Ex-FBI Director James Comey’s lawyers will ask a judge to block prosecution.",
+            "The case involves allegations tied to a decade-old media leak investigation.",
+            "Court filings say the administration bypassed a grand jury this month."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/4aa30c3ed244fa8b6f6eb98293c52917"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Justice Department expands politically sensitive cases before midterms",
+          "bullets": [
+            "AP reports several politically charged Justice Department actions near Election Day.",
+            "Cases include probes involving Ilhan Omar, ex-FBI officials and James Comey.",
+            "The moves revive scrutiny of Justice Department election-season practices."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/fc53d33a4ada827be3089ae358a5d826"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "US parties face midterm crossroads as Trump era nears transition point",
+          "bullets": [
+            "AP says both major parties are reassessing strategies before midterm voting.",
+            "Democrats face pressure from younger activists and leadership critics.",
+            "Republicans are working to preserve Trump-aligned congressional strength."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/65c1ca0e134ea5ed44566a1dccc684fc"
+        },
+        {
+          "emoji": "📋",
+          "title": "California election officials face DOJ subpoenas in voting probe",
+          "bullets": [
+            "Reports say DOJ issued subpoenas to California election officials.",
+            "The probe concerns alleged noncitizen voting and voter-roll records.",
+            "A federal judge recently questioned parts of the administration’s process."
+          ],
+          "source": "Reuters / NBC News via Top-News",
+          "url": "https://top-news.org/en/archive/2026-10-30"
+        },
+        {
+          "emoji": "🎃",
+          "title": "White House hosts Halloween event as campaign season intensifies",
+          "bullets": [
+            "AP’s Oct. 30 video roundup highlighted a White House Halloween celebration.",
+            "President Trump and Melania Trump hosted the event in Washington.",
+            "The event came days before consequential midterm elections."
+          ],
+          "source": "Associated Press via Yahoo News",
+          "url": "https://www.yahoo.com/news/videos/ap-top-stories-october-30-091826359.html"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide developments",
+      "articles": [
+        {
+          "emoji": "🇨🇦",
+          "title": "Canada and EU push closer alliance amid Trump trade pressure",
+          "bullets": [
+            "AP’s Oct. 30 roundup led with Canada-EU alliance efforts.",
+            "The talks come amid renewed US trade pressure under Trump.",
+            "The story reflects shifting transatlantic economic diplomacy."
+          ],
+          "source": "Associated Press via Yahoo News",
+          "url": "https://www.yahoo.com/news/videos/ap-top-stories-october-30-091826359.html"
+        },
+        {
+          "emoji": "🚆",
+          "title": "Russian drone strike kills 14 at Dnipro rail platform",
+          "bullets": [
+            "The Guardian reported outrage across Europe after the Dnipro strike.",
+            "EU leaders called the attack cruel and devastating.",
+            "The report appeared in its Ukraine war briefing for day 1,710."
+          ],
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/all"
+        },
+        {
+          "emoji": "🇨🇳",
+          "title": "China expels record number from Communist Party amid Xi purges",
+          "bullets": [
+            "The Guardian reported a record number of party expulsions.",
+            "Empty seats at a political meeting signaled the purge’s scale.",
+            "The expulsions reflect intensified discipline under Xi Jinping."
+          ],
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/30/all"
+        },
+        {
+          "emoji": "🌋",
+          "title": "Mayon volcano erupts in the Philippines, sending ash plume skyward",
+          "bullets": [
+            "Horizon reported Mayon volcano ejected ash 3,000 meters high.",
+            "The update cited reporting from The Straits Times.",
+            "Authorities monitored the eruption’s impact on nearby communities."
+          ],
+          "source": "Horizon / The Straits Times",
+          "url": "https://www.horizonapp.link/en/2026/10/30"
+        },
+        {
+          "emoji": "🌊",
+          "title": "Bhutan glacial lake rupture triggers flooding alerts",
+          "bullets": [
+            "Horizon reported flooding after a glacial lake rupture in Bhutan.",
+            "No injuries were reported in the initial update.",
+            "Alerts extended to northern West Bengal and Assam."
+          ],
+          "source": "Horizon / The Straits Times",
+          "url": "https://www.horizonapp.link/en/2026/10/30"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India-focused stories",
+      "articles": [
+        {
+          "emoji": "💱",
+          "title": "Rupee steadies, heading for strongest month since February",
+          "bullets": [
+            "Reuters reported the rupee was little changed near 95.25 per dollar.",
+            "The currency was on track for a 0.6% October gain.",
+            "Traders cited RBI measures curbing dollar demand."
+          ],
+          "source": "Reuters via MarketScreener",
+          "url": "https://www.marketscreener.com/news/rupee-to-benefit-from-dollar-retreat-plunging-us-yields-oil-surge-tempers-impact-ce785fdad08df022"
+        },
+        {
+          "emoji": "🗞️",
+          "title": "Indian news publishers challenge privacy law in Supreme Court",
+          "bullets": [
+            "Twenty-one publishers challenged India’s privacy legislation in court.",
+            "They warned the law could threaten investigative journalism.",
+            "The case was included in Tabla’s weekly India roundup."
+          ],
+          "source": "Tabla",
+          "url": "https://www.tabla.com.sg/news/india/india-2-minutes-week-oct-30"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "India protests intensify over voter-roll review",
+          "bullets": [
+            "The Atlantic reported demonstrations over India’s voter-roll revision.",
+            "The review has reportedly removed more than 130 million citizens.",
+            "Protesters demanded accountability from election officials."
+          ],
+          "source": "The Atlantic",
+          "url": "https://www.theatlantic.com/international/2026/10/india-modi-cockroach-janta-party/689183/?utm_source=openai"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Rahul Gandhi case tied to 2018 Amit Shah remark advances",
+          "bullets": [
+            "Tabla cited Reuters reporting on the defamation-related case.",
+            "The case stems from a 2018 election speech.",
+            "The remark allegedly described Amit Shah as a murder accused."
+          ],
+          "source": "Tabla / Reuters",
+          "url": "https://www.tabla.com.sg/news/india/india-2-minutes-week-oct-30"
+        },
+        {
+          "emoji": "🤝",
+          "title": "New Zealand–India trade deal begins implementation",
+          "bullets": [
+            "Recent India timelines noted the trade agreement took effect Oct. 20.",
+            "The deal marks a new phase in bilateral trade ties.",
+            "It remained part of India’s late-October policy backdrop."
+          ],
+          "source": "Wikipedia current-events index",
+          "url": "https://en.wikipedia.org/wiki/2026_in_India"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and trading themes",
+      "articles": [
+        {
+          "emoji": "🔤",
+          "title": "Alphabet slide drags Wall Street lower after revenue miss",
+          "bullets": [
+            "Reuters reported Alphabet tumbled more than 12% after results.",
+            "Investors focused on AI spending and disappointing revenue.",
+            "The selloff weighed on major US stock indexes."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://ca.investing.com/news/economy-news/midterm-elections-earnings-jobs-data-loom-for-aiwary-market-4917113"
+        },
+        {
+          "emoji": "🛒",
+          "title": "Amazon falls after cautious holiday-quarter sales outlook",
+          "bullets": [
+            "Amazon issued a cautious fourth-quarter sales outlook.",
+            "Third-quarter results missed Wall Street expectations.",
+            "AWS revenue rose 39.3% to $46 billion."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/2de72b65d63006a7ce85eab441e2d6b7"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Intel slumps after softer-than-expected fourth-quarter outlook",
+          "bullets": [
+            "AP reported Intel dropped more than 25% premarket.",
+            "The company cited continued weakness in personal computers.",
+            "Intel’s outlook weighed on US futures Friday."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/16c266731fdf64178f38070af2b42497"
+        },
+        {
+          "emoji": "💊",
+          "title": "Eli Lilly jumps after earnings beat and raised guidance",
+          "bullets": [
+            "StreetInsider’s Reuters feed listed Eli Lilly among major movers.",
+            "The stock rose after an earnings beat.",
+            "The company also raised guidance."
+          ],
+          "source": "Reuters via StreetInsider",
+          "url": "https://www.streetinsider.com/?p_no=1"
+        },
+        {
+          "emoji": "💾",
+          "title": "Micron dips as Samsung weakness spreads to memory peers",
+          "bullets": [
+            "StreetInsider’s Reuters feed reported pressure on Micron shares.",
+            "The move followed Samsung’s post-earnings selloff.",
+            "Memory-chip names remained sensitive to AI-demand concerns."
+          ],
+          "source": "Reuters via StreetInsider",
+          "url": "https://www.streetinsider.com/?p_no=1"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economic stories",
+      "articles": [
+        {
+          "emoji": "🛍️",
+          "title": "Amazon reports strong cloud growth but cautious outlook",
+          "bullets": [
+            "AWS sales rose 39.3% in the quarter ended Sept. 30.",
+            "Amazon said it is installing AI chips rapidly.",
+            "Holiday-quarter guidance disappointed Wall Street."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/2de72b65d63006a7ce85eab441e2d6b7"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Oil prices settle lower as diplomacy hopes offset supply worries",
+          "bullets": [
+            "StreetInsider’s Reuters feed reported lower oil settlement prices.",
+            "Diplomacy hopes offset some Middle East supply concerns.",
+            "Energy markets remained sensitive to Strait of Hormuz risks."
+          ],
+          "source": "Reuters via StreetInsider",
+          "url": "https://www.streetinsider.com/?p_no=1"
+        },
+        {
+          "emoji": "✈️",
+          "title": "Boeing drops after warning on 737 MAX delivery targets",
+          "bullets": [
+            "Axios reported Boeing fell 10.7% in its stock spotlight.",
+            "The company said it would miss 737 MAX delivery targets.",
+            "Boeing also pushed back monthly production targets."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-closer-0f7e1b10-a594-4f0a-8531-6d3059d0b159"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Markets brace for jobs data, earnings and midterms",
+          "bullets": [
+            "Reuters said next week brings jobs data and major earnings.",
+            "Investors remain focused on AI-related spending risks.",
+            "Midterms may influence the outlook for AI regulation."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://ca.investing.com/news/economy-news/midterm-elections-earnings-jobs-data-loom-for-aiwary-market-4917113"
+        },
+        {
+          "emoji": "⛽",
+          "title": "Exxon and Chevron earnings draw focus in busy reporting slate",
+          "bullets": [
+            "FinanceAI listed ExxonMobil and Chevron earnings due Oct. 30.",
+            "Energy majors reported amid elevated crude prices.",
+            "Investors watched profits, production and shareholder-return updates."
+          ],
+          "source": "FinanceAI",
+          "url": "https://financeai.info/"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI developments",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "AI spending fears hit global technology shares",
+          "bullets": [
+            "Reuters reported tech shares slumped on Friday.",
+            "Investors questioned whether massive AI spending will pay off.",
+            "Bond markets rallied as investors sought safety."
+          ],
+          "source": "Reuters via MarketScreener",
+          "url": "https://www.marketscreener.com/news/stocks-slump-bonds-leap-as-ai-giants-spending-spooks-investors-ce785fdad08af024"
+        },
+        {
+          "emoji": "💽",
+          "title": "Asian chip firms cite strong AI demand despite market jitters",
+          "bullets": [
+            "Reuters reported AI demand remained strong across Asian chip suppliers.",
+            "SK Hynix, TSMC and Advantest shares came under pressure.",
+            "Investors weighed growth against AI-infrastructure return concerns."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://ca.investing.com/news/stock-market-news/asia-chip-firms-see-strong-ai-demand-market-jitters-continue-4916717"
+        },
+        {
+          "emoji": "🛃",
+          "title": "Malaysia seizes $12 million in advanced AI chips hidden in servers",
+          "bullets": [
+            "Officials found 30 servers containing advanced chips at Kuala Lumpur airport.",
+            "The chips were reportedly worth about $12 million.",
+            "Authorities suspect Malaysia was used as a transit hub."
+          ],
+          "source": "Tom’s Hardware / Reuters",
+          "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub"
+        },
+        {
+          "emoji": "🧩",
+          "title": "OpenAI reportedly plans to buy Google AI chips",
+          "bullets": [
+            "Reuters cited The Information on OpenAI’s chip-purchase plans.",
+            "The move would broaden OpenAI’s AI-computing supply options.",
+            "AI companies continue ramping spending for compute demand."
+          ],
+          "source": "Reuters via AOL",
+          "url": "https://www.aol.com/articles/openai-plans-buy-googles-ai-012329000.html"
+        },
+        {
+          "emoji": "🧯",
+          "title": "Security experts warn of ‘Black October’ software flaws",
+          "bullets": [
+            "Axios reported experts dubbed the month ‘Black October.’",
+            "AI-discovered flaws and attacks hit platforms powering the AI boom.",
+            "Researchers said some PHP vulnerabilities remained difficult to exploit."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-future-of-cybersecurity-340330d0-cf00-11f1-a1fd-f1b7e30b8d45"
+        }
+      ]
+    }
+  }
+}
