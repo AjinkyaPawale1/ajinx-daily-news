@@ -1,314 +1,314 @@
 {
-  "date": "2026-11-01",
-  "displayDate": "Sunday, November 1, 2026",
+  "date": "2026-11-10",
+  "displayDate": "Tuesday, November 10, 2026",
   "categories": {
     "us": {
       "label": "US News",
       "icon": "🇺🇸",
-      "subtitle": "Top domestic stories from the last 1–2 days",
+      "subtitle": "Top domestic headlines",
       "articles": [
         {
-          "emoji": "🚜",
-          "title": "Trump administration promises $15 billion in farm aid before midterms",
+          "emoji": "🗳️",
+          "title": "Massie files resolution to impeach Defense Secretary Pete Hegseth",
           "bullets": [
-            "The administration announced farm-support promises weeks before Election Day.",
-            "AP says the aid targets higher diesel and fertilizer costs.",
-            "The measures come amid political pressure in rural states."
+            "Rep. Thomas Massie filed an impeachment resolution against Pete Hegseth.",
+            "The resolution cites the Iran war, civilian deaths and alleged abuse of power.",
+            "The move follows Democratic gains in the 2026 midterm elections."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/113757ded4631a2debfa184a36c4d85e"
+          "source": "AP",
+          "url": "https://apnews.com/article/a4a74dab93a32c094e2a5b0a5105578d"
         },
         {
-          "emoji": "🗳️",
-          "title": "Trump administration election posts criticized as inflammatory",
+          "emoji": "🛂",
+          "title": "Trump rejects immigration ‘amnesty’ after saying deportation policy was too tough",
           "bullets": [
-            "AP reported criticism of official social-media posts before the midterms.",
-            "The posts focused on immigration, fraud and public-benefits issues.",
-            "Opponents said the messaging risked inflaming political tensions."
+            "Trump described his deportation policy as “very strong.”",
+            "He rejected suggestions of an immigration amnesty.",
+            "AP polling found many midterm voters said enforcement had gone too far."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/1cbe329db22a76762a18c0e97a651aaf"
+          "source": "AP",
+          "url": "https://apnews.com/article/56acd4d76925046a8dea8231eff7e80c"
         },
         {
           "emoji": "⚖️",
-          "title": "Virginia and DC sue over Trump memorial arch plan",
+          "title": "Most Americans want new Democratic Congress to end Trump’s Iran war, poll finds",
           "bullets": [
-            "Virginia and Washington, DC filed a federal lawsuit Saturday.",
-            "The case challenges a proposed memorial arch near Arlington.",
-            "The administration said construction could begin as early as next week."
+            "A Reuters/Ipsos poll found broad opposition to continuing the Iran war.",
+            "The finding comes after Democrats won control of Congress.",
+            "The result increases pressure on Trump’s Middle East policy."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/f71a43143f8c8734fbd9aa3ceebfd1d6"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         },
         {
-          "emoji": "🌧️",
-          "title": "Heavy rain raises flooding risk across saturated Southwest",
+          "emoji": "🚗",
+          "title": "White House briefly locked down after nearby car crash",
           "bullets": [
-            "Forecasters warned of flooding in already saturated areas.",
-            "Officials reported multiple water rescues from flooded roads.",
-            "Authorities urged drivers to avoid washes and fast-moving water."
+            "A vehicle crash near the White House triggered a brief lockdown.",
+            "Authorities detained two people after the incident.",
+            "The lockdown was reported among major overnight US headlines."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/d2c143efb5ca8f4a6efbbcaeb14ed228"
+          "source": "NDTV via Newsmriti",
+          "url": "https://srihayavadhana.com/newsmriti/headlines/10-november-2026/"
         },
         {
-          "emoji": "🪖",
-          "title": "AP analysis finds Iranian strikes damaged US Mideast bases",
+          "emoji": "🏞️",
+          "title": "AP: Federal decision advances Texas river project despite environmental objections",
           "bullets": [
-            "AP verified damage using satellite imagery and regional sources.",
-            "Iranian attacks reportedly targeted air defenses, aircraft and buildings.",
-            "The analysis covered strikes from April through June."
+            "Environmental groups criticized approval tied to a major Texas river project.",
+            "Opponents called it a threat to a wild river landscape.",
+            "The story led AP’s overnight US news-in-brief package."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/26e0f05e01d6f56ff46f7c1a14384f7c"
+          "source": "AP / Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/11/10/ap-news-in-brief-at-1204-a-m-est-497"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Major worldwide stories from the last 1–2 days",
+      "subtitle": "Top worldwide headlines",
       "articles": [
         {
-          "emoji": "🤝",
-          "title": "G20 foreign ministers end Atlanta meeting without consensus",
+          "emoji": "🕊️",
+          "title": "Russia and Ukraine hold nearly four hours of US-mediated talks in Abu Dhabi",
           "bullets": [
-            "Diplomats remained divided on security and supply-chain issues.",
-            "European objections to Russia canceled the traditional group photo.",
-            "The US separately approved Patriot interceptor sales for Ukraine."
+            "Delegations met in Abu Dhabi for talks mediated by the United States.",
+            "The meeting lasted nearly four hours, AP reported.",
+            "Earlier rounds this year produced no major breakthrough."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/ed4ab8ad9fedd628c39ac05bc5092cac"
+          "source": "AP",
+          "url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18"
         },
         {
-          "emoji": "🇫🇷",
-          "title": "Youth-led protests spread across France and Germany",
+          "emoji": "💥",
+          "title": "Overnight strikes in Yemen kill at least one and wound nine",
           "bullets": [
-            "Thousands rallied in France for a third weekend.",
-            "The Guardian reported clashes involving masked rioters and police.",
-            "German officers used tear gas as some protests turned violent."
+            "Strikes hit Yemen overnight, including near an oil facility in Sanaa.",
+            "At least one person was killed and nine were wounded.",
+            "Residents reported explosions near residential areas."
           ],
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/all"
+          "source": "AP",
+          "url": "https://apnews.com/article/f4407845b6dd105e54190ccab7d55f8d"
         },
         {
-          "emoji": "🇧🇬",
-          "title": "Bulgarians vote in presidential runoff amid security concerns",
+          "emoji": "🇮🇷",
+          "title": "Trump says Iran war is militarily ‘effectively over’ after Qatar talks",
           "bullets": [
-            "Bulgaria held a presidential runoff on Sunday.",
-            "AP reported regional security threats and economic worries shaped the vote.",
-            "The election came during heightened tensions in Eastern Europe."
+            "Trump spoke after meeting Qatar’s prime minister.",
+            "He said the Iran war was militarily “effectively over.”",
+            "He suggested renewed US bombardment was not imminent."
           ],
-          "source": "Associated Press / The Washington Post",
-          "url": "https://www.washingtonpost.com/world/wires/"
+          "source": "AP",
+          "url": "https://apnews.com/article/c38770b168faf5e094e96c1e1e212cff"
         },
         {
-          "emoji": "🇹🇷",
-          "title": "Turkey moves Kurdish militant leader Ocalan during peace push",
+          "emoji": "🎭",
+          "title": "Russell Brand sentenced to 10 1/2 years in prison",
           "bullets": [
-            "Turkey moved Abdullah Ocalan within his island prison.",
-            "AP reported the move was linked to renewed peace efforts.",
-            "Ocalan remains a central figure in Turkey’s Kurdish conflict."
+            "A London court sentenced Russell Brand on Monday.",
+            "He was convicted of raping one woman and sexually assaulting three others.",
+            "The case followed earlier media investigations into allegations against him."
           ],
-          "source": "Associated Press / The Washington Post",
-          "url": "https://www.washingtonpost.com/world/wires/"
+          "source": "AP / Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/11/10/ap-news-in-brief-at-1204-a-m-est-497"
         },
         {
-          "emoji": "🇬🇧",
-          "title": "London police arrest 139 outside US Embassy protest",
+          "emoji": "🇨🇲",
+          "title": "Cameroon’s Paul Biya sets February 7 date for delayed polls",
           "bullets": [
-            "Police arrested 139 people at a London demonstration.",
-            "The protest supported the banned group Palestine Action.",
-            "Authorities said the arrests happened outside the US Embassy."
+            "President Paul Biya set delayed legislative and local elections for February 7.",
+            "Biya is widely described as the world’s oldest leader.",
+            "The announcement appeared in global headline roundups Tuesday."
           ],
-          "source": "Associated Press / The Washington Post",
-          "url": "https://www.washingtonpost.com/world/wires/"
+          "source": "Web2News",
+          "url": "https://web2news.com/news/2026-11-10/"
         }
       ]
     },
     "india": {
       "label": "India News",
       "icon": "🇮🇳",
-      "subtitle": "Top India stories from the last 1–2 days",
+      "subtitle": "Top India headlines",
       "articles": [
         {
-          "emoji": "🚔",
-          "title": "Delhi security tightened before opposition ‘Save Democracy’ march",
-          "bullets": [
-            "Security personnel surrounded Ramlila Maidan on Sunday.",
-            "The opposition demanded Election Commissioner Gyanesh Kumar’s resignation.",
-            "Riot-control vehicles and baton-carrying police were deployed."
-          ],
-          "source": "Reuters via Internazionale",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/01/indian-authorities-tighten-security-ahead-of-big-opposition-march-in-delhi"
-        },
-        {
-          "emoji": "🗳️",
-          "title": "Indian opposition renews protest against elections chief",
-          "bullets": [
-            "Opposition parties staged fresh protests against the elections chief.",
-            "AP described it as public dissent against Modi’s government.",
-            "The protests focused on a controversial voter-list revision."
-          ],
-          "source": "Associated Press / The Washington Post",
-          "url": "https://www.washingtonpost.com/world/wires/"
-        },
-        {
           "emoji": "🌫️",
-          "title": "Delhi-Haryana border clogs during anti-pollution vehicle checks",
+          "title": "Thick smog shrouds New Delhi after Diwali firecrackers",
           "bullets": [
-            "Police turned away non-BS VI vehicles at border points.",
-            "The checks were part of anti-pollution restrictions.",
-            "Indian Express reported traffic congestion through the day."
+            "New Delhi was covered by thick smog after Diwali celebrations.",
+            "Firecrackers worsened already dangerous seasonal pollution.",
+            "Low winds and cooler temperatures trapped pollutants."
           ],
-          "source": "The Indian Express via Newsmriti",
-          "url": "https://srihayavadhana.com/newsmriti/headlines/1-november-2026/"
+          "source": "AP",
+          "url": "https://apnews.com/article/f3ba17c93d6fb0898392dce06ca4d776"
         },
         {
           "emoji": "🏭",
-          "title": "New Delhi imposes restrictions as pollution worsens",
+          "title": "Three workers die at Tata Electronics Hosur plant",
           "bullets": [
-            "AFP reported new anti-pollution measures in Delhi.",
-            "Steps included higher parking fees and work-from-home mandates.",
-            "The goal was reducing traffic emissions in the capital."
+            "Three workers died at a utility facility at Tata Electronics’ Hosur plant.",
+            "The facility was operated by Nalco Water, PTI reported.",
+            "Tamil Nadu officials said the incident would be thoroughly probed."
           ],
-          "source": "AFP via Arab News",
-          "url": "https://www.arabnews.com/world?page=1523&quicktabs_stat2=1&service=rss"
+          "source": "PTI / The Samaja",
+          "url": "https://www.thesamaja.com/en/politics/pti-highlights-top-stories-10-nov"
         },
         {
-          "emoji": "🏑",
-          "title": "India beat Japan 4–1 in hockey at Jalandhar",
+          "emoji": "🗳️",
+          "title": "Election Commission extends neutrality rules to retired officials",
           "bullets": [
-            "India defeated Japan 4–1 in Jalandhar.",
-            "The win was India’s third from three matches.",
-            "India’s next scheduled opponent was Malaysia."
+            "India’s Election Commission tightened poll-time neutrality norms.",
+            "Restrictions now cover some retired or re-employed officials.",
+            "The order applies to individuals engaged by state governments."
           ],
-          "source": "RealFeed",
-          "url": "https://realfeed.in/hourly-brief-sun-1-nov-12-45-am-ist/"
+          "source": "UNI",
+          "url": "https://test.uniindia.com/uni-news-digest-at-1500-hrs-on-nov-10/india/news/4035203.html"
+        },
+        {
+          "emoji": "🏥",
+          "title": "Survey says 38.6 million Indian adults have undiagnosed diabetes",
+          "bullets": [
+            "A new survey estimated 38.6 million adults have undiagnosed diabetes.",
+            "The finding appeared among Tuesday’s top India health headlines.",
+            "The report highlights gaps in screening and diagnosis."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-7426"
+        },
+        {
+          "emoji": "📱",
+          "title": "Supreme Court asks WhatsApp and others about anti-cybercrime measures",
+          "bullets": [
+            "India’s Supreme Court sought details from WhatsApp and other platforms.",
+            "The court asked about measures against digital arrest scams.",
+            "Cybercrime prevention was among Tuesday’s major legal headlines."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-7426"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
       "icon": "📈",
-      "subtitle": "Market movers and Wall Street stories",
+      "subtitle": "Top market movers",
       "articles": [
         {
-          "emoji": "📉",
-          "title": "Wall Street drops sharply as AI spending fears hit tech",
+          "emoji": "🧠",
+          "title": "AMD jumps after AI-chip rebound and analyst upgrade",
           "bullets": [
-            "Reuters reported a broad Friday selloff in US stocks.",
-            "The Nasdaq had its worst daily percentage drop since June 5.",
-            "Intel and Amazon results fueled AI cash-burn concerns."
+            "AMD rose sharply in Monday’s AI-chip rebound.",
+            "Reports cited an Oppenheimer upgrade and Google TPU-related demand.",
+            "The move led several semiconductor gainers."
           ],
-          "source": "Reuters via StreetInsider",
-          "url": "https://www.streetinsider.com/?mode=f42"
+          "source": "Market Wealth Pro / Reuters / CNBC",
+          "url": "https://marketwealthpro.com/2026/11/10/daily-report-2026-11-10/"
         },
         {
-          "emoji": "🟠",
-          "title": "Amazon slides after earnings miss despite strong AWS growth",
+          "emoji": "🟩",
+          "title": "Nvidia lags despite broader AI-stock bounce",
           "bullets": [
-            "Amazon shares fell after its earnings report.",
-            "AWS posted its fastest growth in years, according to the roundup.",
-            "Investors focused on AI spending and free-cash-flow pressure."
+            "Nvidia fell Monday while several AI-linked stocks recovered.",
+            "The company is investigating issues involving CEO Jensen Huang.",
+            "Investors weighed governance and China-exposure concerns."
           ],
-          "source": "Wall Street Journal via DailyHub",
-          "url": "https://dailyhub.io/daily/2026-11-01"
+          "source": "AP / Axios",
+          "url": "https://apnews.com/article/ffe205fbc4fddf65c3e8e64e740355b7"
         },
         {
-          "emoji": "🟢",
-          "title": "Glaukos jumps 34% after earnings and outlook boost",
+          "emoji": "🔌",
+          "title": "Broadcom rallies with semiconductor rebound",
           "bullets": [
-            "Glaukos was listed as DailyHub’s stock of the day.",
-            "Shares rose 33.65% to $242.48.",
-            "The move followed strong quarterly results and a higher growth outlook."
+            "Broadcom was among major chip stocks rebounding Monday.",
+            "The AI trade recovered after last week’s steep tech selloff.",
+            "Investors rotated into chip names beyond Nvidia."
           ],
-          "source": "Yahoo Finance via DailyHub",
-          "url": "https://dailyhub.io/daily/2026-11-01"
+          "source": "Daily Cortex",
+          "url": "https://www.dailycortex.com/chips-rebound-without-nvidia"
         },
         {
-          "emoji": "🔐",
-          "title": "Fortinet plunges 26% as cybersecurity stocks lose favor",
+          "emoji": "💾",
+          "title": "Micron rises as chip demand optimism returns",
           "bullets": [
-            "DailyHub cited Fortinet as a major decliner.",
-            "Shares fell 26% despite a reported earnings beat.",
-            "The drop reflected weaker sentiment toward security stocks."
+            "Micron gained during the semiconductor rebound.",
+            "Reuters reported Micron was higher in Tuesday premarket trading.",
+            "AI infrastructure demand remained a key market driver."
           ],
-          "source": "24/7 Wall St. via DailyHub",
-          "url": "https://dailyhub.io/daily/2026-11-01"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/S%26P%2B500%2C%2BDow%2Bfutures%2Bclimb%2Bas%2Boil%2Bslide%2Blifts%2Bsentiment/27317417.html"
         },
         {
-          "emoji": "🛡️",
-          "title": "ADT rallies after Thrive Holdings agrees to buy company",
+          "emoji": "✈️",
+          "title": "Delta rises as oil slide boosts travel shares",
           "bullets": [
-            "ADT shares rose 33.20% to $9.87.",
-            "Thrive Holdings agreed to acquire ADT at $10 per share.",
-            "DailyHub listed ADT among the day’s top gainers."
+            "Delta Air Lines rose as crude prices declined.",
+            "Lower fuel costs improved sentiment toward airline stocks.",
+            "The move came during Monday’s broad US equity rebound."
           ],
-          "source": "Yahoo Finance via DailyHub",
-          "url": "https://dailyhub.io/daily/2026-11-01"
+          "source": "MarketFluxHub",
+          "url": "https://www.reddit.com/r/MarketFluxHub/comments/1xs2g10/broad_us_stock_rally_on_november_9_led_by_ai/"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Corporate and economic stories",
+      "subtitle": "Corporate and economy stories",
       "articles": [
         {
-          "emoji": "⛽",
-          "title": "ExxonMobil earnings top estimates on stronger refining margins",
+          "emoji": "🤖",
+          "title": "Anthropic targets blockbuster IPO in major AI-market test",
           "bullets": [
-            "StreetInsider listed ExxonMobil among top corporate headlines.",
-            "The report cited diesel and gasoline price strength.",
-            "Refining margins helped earnings beat expectations."
+            "Anthropic is preparing one of the largest AI-related IPOs.",
+            "Reuters reported disputed early pricing details were circulated then withdrawn.",
+            "The deal is seen as a test of AI-investor appetite."
           ],
-          "source": "StreetInsider",
-          "url": "https://www.streetinsider.com/?mode=f42"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
         },
         {
-          "emoji": "🍔",
-          "title": "Trian offers to acquire Wendy’s for about $1.4 billion",
+          "emoji": "🥤",
+          "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
           "bullets": [
-            "Trian Fund Management offered $7.35 per Wendy’s share.",
-            "Axios said the offer valued Wendy’s near $1.4 billion.",
-            "The price represented a 20% premium to the prior close."
+            "PepsiCo plans to cut roughly 1,000 jobs.",
+            "The reductions target a struggling North American business.",
+            "The move was cited in Tuesday market-news roundups."
           ],
-          "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-pro-rata-8001c86c-6663-4dd4-aaf2-5504cbaa044c"
+          "source": "Reuters via Reddit market roundup",
+          "url": "https://www.reddit.com/r/thewallstreet/comments/1xs3m1k/nightly_discussion_november_09_2026/"
         },
         {
-          "emoji": "🛰️",
-          "title": "Amazon receives FCC approval for Globalstar acquisition",
+          "emoji": "🏦",
+          "title": "SoftBank swings to $7 billion quarterly loss",
           "bullets": [
-            "Axios reported FCC approval for Amazon’s Globalstar deal.",
-            "The transaction was valued at $11.57 billion.",
-            "The acquisition expands Amazon’s satellite-based telecom ambitions."
+            "SoftBank reported a $7 billion loss for the September quarter.",
+            "AI and US data-center investments weighed on results.",
+            "Shares had rallied in Tokyo before the earnings release."
           ],
-          "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-pro-rata-7140db1f-394a-4e38-a9db-848b156a6616"
+          "source": "AP",
+          "url": "https://apnews.com/article/b2cfbb190e27c0202d533799b6ec3e8b"
         },
         {
-          "emoji": "👃",
-          "title": "Buyers circle luxury fragrance brand Parfums de Marly",
+          "emoji": "🏨",
+          "title": "Indian Hotels and Ambuja plan ₹2,700-crore West Bengal hospitality expansion",
           "bullets": [
-            "Axios cited Reuters on interest in Parfums de Marly.",
-            "CVC, Cinven and Puig were among potential suitors.",
-            "Advent International owns the French luxury fragrance brand."
+            "Indian Hotels and Ambuja announced a large hospitality expansion plan.",
+            "The West Bengal pipeline includes Taj-branded projects.",
+            "The investment is valued at about ₹2,700 crore."
           ],
-          "source": "Axios / Reuters",
-          "url": "https://www.axios.com/newsletters/axios-pro-rata-8001c86c-6663-4dd4-aaf2-5504cbaa044c"
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/?productID=376"
         },
         {
-          "emoji": "👕",
-          "title": "Bangladesh to form wage board after garment protests",
+          "emoji": "🧬",
+          "title": "WEF says India is a leading example of bioeconomy growth",
           "bullets": [
-            "Reuters reported Bangladesh will form a wage board.",
-            "The decision followed garment-worker protests that shut factories.",
-            "The apparel sector is central to Bangladesh’s export economy."
+            "The World Economic Forum highlighted India’s bioeconomy development.",
+            "It said demand and supply are growing together in India.",
+            "Governments globally are increasing bioeconomy investments."
           ],
-          "source": "Reuters via Arab News",
-          "url": "https://www.arabnews.com/world?page=1523&quicktabs_stat2=1&service=rss"
+          "source": "PTI / The Samaja",
+          "url": "https://www.thesamaja.com/en/politics/pti-highlights-top-stories-10-nov"
         }
       ]
     },
@@ -318,86 +318,59 @@
       "subtitle": "Technology and AI headlines",
       "articles": [
         {
-          "emoji": "🤖",
-          "title": "Tech giants brace for post-election AI scrutiny",
+          "emoji": "🖥️",
+          "title": "Microsoft presses Trump administration to halt expected Chinese data-center tech ban",
           "bullets": [
-            "Axios reported Democrats plan increased scrutiny of tech titans.",
-            "AI regulation and market power are expected to be key targets.",
-            "OpenAI’s Chris Lehane called Tuesday an “electoral portal.”],",
-            "source      ",
-            "url       ",
-            "source       ",
-            "url       ",
-            "bullets       ",
-            "title       ",
-            "emoji       ",
-            "source       ",
-            "url       ",
-            "bullets       ",
-            "title       ",
-            "emoji       ",
-            "source       ",
-            "url       ",
-            "bullets       ",
-            "title       ",
-            "emoji       ",
-            "source       ",
-            "url       ",
-            "bullets       ",
-            "title       ",
-            "emoji       ",
-            "source       ",
-            "url       ",
-            "bullets       ",
-            "title       ",
-            "emoji       "
+            "Microsoft is lobbying against an expected FCC-related import ban.",
+            "The issue involves Chinese optical transceivers used in data centers.",
+            "Reuters reported several companies are pressing the administration."
           ],
-          "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-am-c36b525d-34d3-426e-8b48-156dc3db6173"
+          "source": "Reuters / Techmeme",
+          "url": "https://www.techmeme.com/river?trk=public_post-text"
         },
         {
-          "emoji": "₿",
-          "title": "FBI blames North Korea for record Binance crypto hack",
+          "emoji": "🔐",
+          "title": "Nvidia faces scrutiny over CEO’s ties to Chinese businesswoman",
           "bullets": [
-            "AP reported the FBI attributed the theft to North Korea.",
-            "Binance said it had covered 90% of stolen funds.",
-            "The hack was described as the biggest in history."
+            "Nvidia said it is investigating issues involving Jensen Huang.",
+            "US intelligence reportedly linked the businesswoman to information gathering for China.",
+            "The matter renewed concerns about AI-chip access."
           ],
-          "source": "Associated Press via Arab News",
-          "url": "https://www.arabnews.com/world?page=1523&quicktabs_stat2=1&service=rss"
+          "source": "AP",
+          "url": "https://apnews.com/article/ffe205fbc4fddf65c3e8e64e740355b7"
         },
         {
-          "emoji": "🧒",
-          "title": "New York enacts stricter rules for AI chatbots used by children",
+          "emoji": "🏭",
+          "title": "Apple supply chain in India faces fires, protests and pollution issues",
           "bullets": [
-            "New York moved to restrict unsafe companion-chatbot behavior.",
-            "The law targets risks to children using AI systems.",
-            "States are increasingly setting AI rules without Washington."
+            "Reuters reported multiple pressures on Apple’s India supply chain.",
+            "Issues include fires, protests and pollution concerns.",
+            "The report came amid broader scrutiny of India manufacturing operations."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/03a4e090a7df1532838a5cb6f93a23ba"
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/US%2Becon"
+        },
+        {
+          "emoji": "📊",
+          "title": "TSMC October revenue surges as AI-chip demand stays strong",
+          "bullets": [
+            "TSMC reported October revenue sharply higher year over year.",
+            "The result reinforced strong global demand for AI chips.",
+            "US-listed chip shares moved higher after the report."
+          ],
+          "source": "AP / CNBC",
+          "url": "https://apnews.com/article/ffe205fbc4fddf65c3e8e64e740355b7"
         },
         {
           "emoji": "🧠",
-          "title": "Anthropic files for potentially record-setting IPO",
+          "title": "Anthropic launches new Claude models ahead of IPO push",
           "bullets": [
-            "Anthropic filed IPO paperwork Monday, AP reported.",
-            "The company disclosed huge revenue growth and major losses.",
-            "Its filing warned of catastrophic and existential AI risks."
+            "Anthropic launched new Claude models, according to headline roundups.",
+            "The release comes as the company prepares for an IPO.",
+            "AI infrastructure spending remains central to investor focus."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/ca2f4c282bef3201a392e59e3df2300c"
-        },
-        {
-          "emoji": "🧩",
-          "title": "Malaysia seizes advanced AI chips hidden in servers",
-          "bullets": [
-            "Officials found AI chips inside 30 servers at Kuala Lumpur airport.",
-            "Tom’s Hardware cited Reuters on the October 15 seizure.",
-            "Authorities suspected Malaysia was used as a smuggling transit hub."
-          ],
-          "source": "Tom’s Hardware / Reuters",
-          "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub"
+          "source": "NDTV via Newsmriti",
+          "url": "https://srihayavadhana.com/newsmriti/headlines/10-november-2026/"
         }
       ]
     }

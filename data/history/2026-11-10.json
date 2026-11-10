@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-10",
+  "displayDate": "Tuesday, November 10, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic headlines",
+      "articles": [
+        {
+          "emoji": "🗳️",
+          "title": "Massie files resolution to impeach Defense Secretary Pete Hegseth",
+          "bullets": [
+            "Rep. Thomas Massie filed an impeachment resolution against Pete Hegseth.",
+            "The resolution cites the Iran war, civilian deaths and alleged abuse of power.",
+            "The move follows Democratic gains in the 2026 midterm elections."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/a4a74dab93a32c094e2a5b0a5105578d"
+        },
+        {
+          "emoji": "🛂",
+          "title": "Trump rejects immigration ‘amnesty’ after saying deportation policy was too tough",
+          "bullets": [
+            "Trump described his deportation policy as “very strong.”",
+            "He rejected suggestions of an immigration amnesty.",
+            "AP polling found many midterm voters said enforcement had gone too far."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/56acd4d76925046a8dea8231eff7e80c"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Most Americans want new Democratic Congress to end Trump’s Iran war, poll finds",
+          "bullets": [
+            "A Reuters/Ipsos poll found broad opposition to continuing the Iran war.",
+            "The finding comes after Democrats won control of Congress.",
+            "The result increases pressure on Trump’s Middle East policy."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "🚗",
+          "title": "White House briefly locked down after nearby car crash",
+          "bullets": [
+            "A vehicle crash near the White House triggered a brief lockdown.",
+            "Authorities detained two people after the incident.",
+            "The lockdown was reported among major overnight US headlines."
+          ],
+          "source": "NDTV via Newsmriti",
+          "url": "https://srihayavadhana.com/newsmriti/headlines/10-november-2026/"
+        },
+        {
+          "emoji": "🏞️",
+          "title": "AP: Federal decision advances Texas river project despite environmental objections",
+          "bullets": [
+            "Environmental groups criticized approval tied to a major Texas river project.",
+            "Opponents called it a threat to a wild river landscape.",
+            "The story led AP’s overnight US news-in-brief package."
+          ],
+          "source": "AP / Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/11/10/ap-news-in-brief-at-1204-a-m-est-497"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide headlines",
+      "articles": [
+        {
+          "emoji": "🕊️",
+          "title": "Russia and Ukraine hold nearly four hours of US-mediated talks in Abu Dhabi",
+          "bullets": [
+            "Delegations met in Abu Dhabi for talks mediated by the United States.",
+            "The meeting lasted nearly four hours, AP reported.",
+            "Earlier rounds this year produced no major breakthrough."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18"
+        },
+        {
+          "emoji": "💥",
+          "title": "Overnight strikes in Yemen kill at least one and wound nine",
+          "bullets": [
+            "Strikes hit Yemen overnight, including near an oil facility in Sanaa.",
+            "At least one person was killed and nine were wounded.",
+            "Residents reported explosions near residential areas."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/f4407845b6dd105e54190ccab7d55f8d"
+        },
+        {
+          "emoji": "🇮🇷",
+          "title": "Trump says Iran war is militarily ‘effectively over’ after Qatar talks",
+          "bullets": [
+            "Trump spoke after meeting Qatar’s prime minister.",
+            "He said the Iran war was militarily “effectively over.”",
+            "He suggested renewed US bombardment was not imminent."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/c38770b168faf5e094e96c1e1e212cff"
+        },
+        {
+          "emoji": "🎭",
+          "title": "Russell Brand sentenced to 10 1/2 years in prison",
+          "bullets": [
+            "A London court sentenced Russell Brand on Monday.",
+            "He was convicted of raping one woman and sexually assaulting three others.",
+            "The case followed earlier media investigations into allegations against him."
+          ],
+          "source": "AP / Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/11/10/ap-news-in-brief-at-1204-a-m-est-497"
+        },
+        {
+          "emoji": "🇨🇲",
+          "title": "Cameroon’s Paul Biya sets February 7 date for delayed polls",
+          "bullets": [
+            "President Paul Biya set delayed legislative and local elections for February 7.",
+            "Biya is widely described as the world’s oldest leader.",
+            "The announcement appeared in global headline roundups Tuesday."
+          ],
+          "source": "Web2News",
+          "url": "https://web2news.com/news/2026-11-10/"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India headlines",
+      "articles": [
+        {
+          "emoji": "🌫️",
+          "title": "Thick smog shrouds New Delhi after Diwali firecrackers",
+          "bullets": [
+            "New Delhi was covered by thick smog after Diwali celebrations.",
+            "Firecrackers worsened already dangerous seasonal pollution.",
+            "Low winds and cooler temperatures trapped pollutants."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/f3ba17c93d6fb0898392dce06ca4d776"
+        },
+        {
+          "emoji": "🏭",
+          "title": "Three workers die at Tata Electronics Hosur plant",
+          "bullets": [
+            "Three workers died at a utility facility at Tata Electronics’ Hosur plant.",
+            "The facility was operated by Nalco Water, PTI reported.",
+            "Tamil Nadu officials said the incident would be thoroughly probed."
+          ],
+          "source": "PTI / The Samaja",
+          "url": "https://www.thesamaja.com/en/politics/pti-highlights-top-stories-10-nov"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Election Commission extends neutrality rules to retired officials",
+          "bullets": [
+            "India’s Election Commission tightened poll-time neutrality norms.",
+            "Restrictions now cover some retired or re-employed officials.",
+            "The order applies to individuals engaged by state governments."
+          ],
+          "source": "UNI",
+          "url": "https://test.uniindia.com/uni-news-digest-at-1500-hrs-on-nov-10/india/news/4035203.html"
+        },
+        {
+          "emoji": "🏥",
+          "title": "Survey says 38.6 million Indian adults have undiagnosed diabetes",
+          "bullets": [
+            "A new survey estimated 38.6 million adults have undiagnosed diabetes.",
+            "The finding appeared among Tuesday’s top India health headlines.",
+            "The report highlights gaps in screening and diagnosis."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-7426"
+        },
+        {
+          "emoji": "📱",
+          "title": "Supreme Court asks WhatsApp and others about anti-cybercrime measures",
+          "bullets": [
+            "India’s Supreme Court sought details from WhatsApp and other platforms.",
+            "The court asked about measures against digital arrest scams.",
+            "Cybercrime prevention was among Tuesday’s major legal headlines."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-7426"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Top market movers",
+      "articles": [
+        {
+          "emoji": "🧠",
+          "title": "AMD jumps after AI-chip rebound and analyst upgrade",
+          "bullets": [
+            "AMD rose sharply in Monday’s AI-chip rebound.",
+            "Reports cited an Oppenheimer upgrade and Google TPU-related demand.",
+            "The move led several semiconductor gainers."
+          ],
+          "source": "Market Wealth Pro / Reuters / CNBC",
+          "url": "https://marketwealthpro.com/2026/11/10/daily-report-2026-11-10/"
+        },
+        {
+          "emoji": "🟩",
+          "title": "Nvidia lags despite broader AI-stock bounce",
+          "bullets": [
+            "Nvidia fell Monday while several AI-linked stocks recovered.",
+            "The company is investigating issues involving CEO Jensen Huang.",
+            "Investors weighed governance and China-exposure concerns."
+          ],
+          "source": "AP / Axios",
+          "url": "https://apnews.com/article/ffe205fbc4fddf65c3e8e64e740355b7"
+        },
+        {
+          "emoji": "🔌",
+          "title": "Broadcom rallies with semiconductor rebound",
+          "bullets": [
+            "Broadcom was among major chip stocks rebounding Monday.",
+            "The AI trade recovered after last week’s steep tech selloff.",
+            "Investors rotated into chip names beyond Nvidia."
+          ],
+          "source": "Daily Cortex",
+          "url": "https://www.dailycortex.com/chips-rebound-without-nvidia"
+        },
+        {
+          "emoji": "💾",
+          "title": "Micron rises as chip demand optimism returns",
+          "bullets": [
+            "Micron gained during the semiconductor rebound.",
+            "Reuters reported Micron was higher in Tuesday premarket trading.",
+            "AI infrastructure demand remained a key market driver."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/S%26P%2B500%2C%2BDow%2Bfutures%2Bclimb%2Bas%2Boil%2Bslide%2Blifts%2Bsentiment/27317417.html"
+        },
+        {
+          "emoji": "✈️",
+          "title": "Delta rises as oil slide boosts travel shares",
+          "bullets": [
+            "Delta Air Lines rose as crude prices declined.",
+            "Lower fuel costs improved sentiment toward airline stocks.",
+            "The move came during Monday’s broad US equity rebound."
+          ],
+          "source": "MarketFluxHub",
+          "url": "https://www.reddit.com/r/MarketFluxHub/comments/1xs2g10/broad_us_stock_rally_on_november_9_led_by_ai/"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economy stories",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "Anthropic targets blockbuster IPO in major AI-market test",
+          "bullets": [
+            "Anthropic is preparing one of the largest AI-related IPOs.",
+            "Reuters reported disputed early pricing details were circulated then withdrawn.",
+            "The deal is seen as a test of AI-investor appetite."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+        },
+        {
+          "emoji": "🥤",
+          "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+          "bullets": [
+            "PepsiCo plans to cut roughly 1,000 jobs.",
+            "The reductions target a struggling North American business.",
+            "The move was cited in Tuesday market-news roundups."
+          ],
+          "source": "Reuters via Reddit market roundup",
+          "url": "https://www.reddit.com/r/thewallstreet/comments/1xs3m1k/nightly_discussion_november_09_2026/"
+        },
+        {
+          "emoji": "🏦",
+          "title": "SoftBank swings to $7 billion quarterly loss",
+          "bullets": [
+            "SoftBank reported a $7 billion loss for the September quarter.",
+            "AI and US data-center investments weighed on results.",
+            "Shares had rallied in Tokyo before the earnings release."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/b2cfbb190e27c0202d533799b6ec3e8b"
+        },
+        {
+          "emoji": "🏨",
+          "title": "Indian Hotels and Ambuja plan ₹2,700-crore West Bengal hospitality expansion",
+          "bullets": [
+            "Indian Hotels and Ambuja announced a large hospitality expansion plan.",
+            "The West Bengal pipeline includes Taj-branded projects.",
+            "The investment is valued at about ₹2,700 crore."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/?productID=376"
+        },
+        {
+          "emoji": "🧬",
+          "title": "WEF says India is a leading example of bioeconomy growth",
+          "bullets": [
+            "The World Economic Forum highlighted India’s bioeconomy development.",
+            "It said demand and supply are growing together in India.",
+            "Governments globally are increasing bioeconomy investments."
+          ],
+          "source": "PTI / The Samaja",
+          "url": "https://www.thesamaja.com/en/politics/pti-highlights-top-stories-10-nov"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI headlines",
+      "articles": [
+        {
+          "emoji": "🖥️",
+          "title": "Microsoft presses Trump administration to halt expected Chinese data-center tech ban",
+          "bullets": [
+            "Microsoft is lobbying against an expected FCC-related import ban.",
+            "The issue involves Chinese optical transceivers used in data centers.",
+            "Reuters reported several companies are pressing the administration."
+          ],
+          "source": "Reuters / Techmeme",
+          "url": "https://www.techmeme.com/river?trk=public_post-text"
+        },
+        {
+          "emoji": "🔐",
+          "title": "Nvidia faces scrutiny over CEO’s ties to Chinese businesswoman",
+          "bullets": [
+            "Nvidia said it is investigating issues involving Jensen Huang.",
+            "US intelligence reportedly linked the businesswoman to information gathering for China.",
+            "The matter renewed concerns about AI-chip access."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/ffe205fbc4fddf65c3e8e64e740355b7"
+        },
+        {
+          "emoji": "🏭",
+          "title": "Apple supply chain in India faces fires, protests and pollution issues",
+          "bullets": [
+            "Reuters reported multiple pressures on Apple’s India supply chain.",
+            "Issues include fires, protests and pollution concerns.",
+            "The report came amid broader scrutiny of India manufacturing operations."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/US%2Becon"
+        },
+        {
+          "emoji": "📊",
+          "title": "TSMC October revenue surges as AI-chip demand stays strong",
+          "bullets": [
+            "TSMC reported October revenue sharply higher year over year.",
+            "The result reinforced strong global demand for AI chips.",
+            "US-listed chip shares moved higher after the report."
+          ],
+          "source": "AP / CNBC",
+          "url": "https://apnews.com/article/ffe205fbc4fddf65c3e8e64e740355b7"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Anthropic launches new Claude models ahead of IPO push",
+          "bullets": [
+            "Anthropic launched new Claude models, according to headline roundups.",
+            "The release comes as the company prepares for an IPO.",
+            "AI infrastructure spending remains central to investor focus."
+          ],
+          "source": "NDTV via Newsmriti",
+          "url": "https://srihayavadhana.com/newsmriti/headlines/10-november-2026/"
+        }
+      ]
+    }
+  }
+}
