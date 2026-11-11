@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-11",
+  "displayDate": "Wednesday, November 11, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🛡️",
+          "title": "House Republicans block effort to impeach Defense Secretary Pete Hegseth",
+          "bullets": [
+            "House Republicans moved to derail the impeachment push against Hegseth.",
+            "Democrats accused Hegseth of abusing power and undermining national security.",
+            "The issue could return after Democrats take House control in January."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/9a0e54363b4c74761212ad55785d2733"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Trump says Iran war is militarily ‘effectively over’ after meeting Qatari prime minister",
+          "bullets": [
+            "Trump said he is not prepared to resume bombardment of Iran for now.",
+            "He said Iran is talking to the U.S. ‘very politely.’",
+            "The conflict has rattled global energy markets and U.S. politics."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/c38770b168faf5e094e96c1e1e212cff"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Appeals court rules Trump administration illegally fired Voice of America chief",
+          "bullets": [
+            "A federal appeals court unanimously ruled against the firing.",
+            "The case concerns leadership of the U.S.-funded international broadcaster.",
+            "The ruling was highlighted in a national legal-news roundup."
+          ],
+          "source": "Just Security / Reuters roundup",
+          "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/"
+        },
+        {
+          "emoji": "🦠",
+          "title": "U.S. faces review over possible loss of measles-elimination status",
+          "bullets": [
+            "PAHO experts are set to review whether the U.S. remains measles-free.",
+            "The U.S. earned measles-elimination status in 2000.",
+            "HHS said its outbreak response would not fundamentally change."
+          ],
+          "source": "Just Security / Reuters roundup",
+          "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Kennedy family members sue to block Trump memorial arch near Arlington gravesites",
+          "bullets": [
+            "Nine Kennedy family members asked a judge to stop the project.",
+            "They say the arch would affect views near Kennedy gravesites.",
+            "The proposed structure is reported as 250 feet tall."
+          ],
+          "source": "Axios / The Daily Beast",
+          "url": "https://www.axios.com/newsletters/axios-am-f3ac7a8d-1023-4394-98d8-0a9b0c165ae3"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🕊️",
+          "title": "Russia and Ukraine hold nearly four hours of U.S.-mediated talks in Abu Dhabi",
+          "bullets": [
+            "The first day of talks ended in Abu Dhabi on Tuesday.",
+            "Washington called for a new security framework.",
+            "European leaders voiced concern about any deal excluding Europe."
+          ],
+          "source": "Reuters / Gulf Times",
+          "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/11/main-20261111-1-1794347522.pdf?ts=1794347522"
+        },
+        {
+          "emoji": "🔥",
+          "title": "Drone attack causes fire at Russia’s Baltic Sea port of Ust-Luga",
+          "bullets": [
+            "A drone attack sparked a fire at the Baltic Sea port.",
+            "The incident was reported by the regional governor.",
+            "Ust-Luga is a key Russian port facility."
+          ],
+          "source": "Reuters / Daily Finite roundup",
+          "url": "https://dailyfinite.news/"
+        },
+        {
+          "emoji": "🏫",
+          "title": "Italy evacuates more than 300 schools after bomb threats",
+          "bullets": [
+            "Italian authorities evacuated hundreds of schools Wednesday.",
+            "The emailed threats also referenced Prime Minister Giorgia Meloni.",
+            "Similar disruptions have recently hit European institutions."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/0f312fda4ee2e9cdcebd0d6e1a40d9e8"
+        },
+        {
+          "emoji": "🏭",
+          "title": "Deadly blast hits major Turkish steel producer",
+          "bullets": [
+            "A blast at a Turkish steel producer killed workers.",
+            "Another dozen people were injured, one critically.",
+            "The incident was reported in international coverage Wednesday."
+          ],
+          "source": "Reuters / Gulf Times",
+          "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/11/main-20261111-1-1794347522.pdf?ts=1794347522"
+        },
+        {
+          "emoji": "🦠",
+          "title": "DR Congo reports Ebola outbreak concerns in global headlines",
+          "bullets": [
+            "A DR Congo Ebola outbreak appeared in NPR’s latest headline roundup.",
+            "The item was listed among major overnight global stories.",
+            "Details were carried in the November 11 NPR News Now summary."
+          ],
+          "source": "NPR News Now / Podcast Rex",
+          "url": "https://podcastrex.com/shows/npr-news-now/4am-et-november-11-the-latest-headlines-from-npr"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🥃",
+          "title": "India holds Pernod and Diageo Scotch shipments amid tariff investigation",
+          "bullets": [
+            "Indian customs is holding bulk Scotch containers from Pernod and Diageo.",
+            "Investigators are seeking a higher tariff assessment.",
+            "Reuters reported the story from New Delhi on November 11."
+          ],
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+        },
+        {
+          "emoji": "🥛",
+          "title": "Mother Dairy to raise milk prices by ₹2–4 per litre from November 12",
+          "bullets": [
+            "The price increase applies from Thursday, November 12.",
+            "Hindustan Times reported the hike on November 11.",
+            "The change affects Mother Dairy milk consumers in India."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-6682"
+        },
+        {
+          "emoji": "⛽",
+          "title": "Karnataka chief minister says ethanol blending has hurt vehicle mileage",
+          "bullets": [
+            "The claim appeared in Indian Express live updates Wednesday.",
+            "The issue concerns fuel blending and vehicle efficiency.",
+            "Ethanol blending remains a national fuel-policy topic in India."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/?productID=376"
+        },
+        {
+          "emoji": "🎓",
+          "title": "IIT Madras opens GATE 2027 application correction window until November 14",
+          "bullets": [
+            "IIT Madras is organising the 2027 GATE exam.",
+            "The correction window is open until November 14.",
+            "NDTV listed the update in its November 11 latest-news feed."
+          ],
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/latest?update=1409778580"
+        },
+        {
+          "emoji": "🚢",
+          "title": "Vessel carrying six Indians hit in Persian Gulf, Hindustan Times reports",
+          "bullets": [
+            "The incident involved a vessel carrying six Indians.",
+            "It was listed in Hindustan Times’ November 11 morning brief.",
+            "The item appeared alongside major national and global headlines."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/htmorningnewsbriefnovember11petehegsethimpeachmentbidpersiangulfdelhiaqimaatrubhumitrailer-101794366821135.html"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and trading themes",
+      "articles": [
+        {
+          "emoji": "☁️",
+          "title": "CoreWeave jumps after revenue beat and stronger 2026 outlook",
+          "bullets": [
+            "CoreWeave rose more than 15% before Wednesday’s open.",
+            "The AI cloud company posted better-than-expected third-quarter revenue.",
+            "It also raised its 2026 revenue outlook."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/297d040c83844a9563327340b370c24e"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Nvidia shares stabilize after brutal week tied to Huang controversy",
+          "bullets": [
+            "Nvidia shares stabilized in premarket trading Wednesday.",
+            "The stock had suffered two days of steep losses.",
+            "The controversy involves CEO Jensen Huang and alleged espionage concerns."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/297d040c83844a9563327340b370c24e"
+        },
+        {
+          "emoji": "📊",
+          "title": "U.S. stock futures climb as AI trade rebounds",
+          "bullets": [
+            "U.S. futures rose Wednesday before the market open.",
+            "Nasdaq-100 futures led gains, helped by AI-linked stocks.",
+            "The move followed Tuesday’s inflation-driven selloff."
+          ],
+          "source": "CNBC TV18 / TradingView",
+          "url": "https://www.tradingview.com/news/cnbctv%3Ad9af4f8ca094b%3A0/"
+        },
+        {
+          "emoji": "📉",
+          "title": "Major U.S. indexes fell Tuesday after hotter inflation report",
+          "bullets": [
+            "U.S. stocks declined after inflation exceeded economist expectations.",
+            "Treasury yields jumped in Tuesday’s bond-market trading.",
+            "Oil prices continued to ease during the session."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/a97eb31c415811065561f2c2ac552cd7"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Veterans Day trading proceeds for stocks while bond market closes",
+          "bullets": [
+            "U.S. stock markets are open Wednesday, November 11.",
+            "Veterans Day is a bank and bond-market holiday.",
+            "The bond closure may reduce rate-market signals for traders."
+          ],
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/is-the-stock-market-open-on-veterans-day"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and industry headlines",
+      "articles": [
+        {
+          "emoji": "🚢",
+          "title": "Hapag-Lloyd raises outlook again on strong freight rates",
+          "bullets": [
+            "Hapag-Lloyd raised its full-year earnings outlook Wednesday.",
+            "It was the company’s third outlook increase.",
+            "Reuters linked the move to strong freight rates."
+          ],
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Deutsche Bank launches digital-asset custody service",
+          "bullets": [
+            "Deutsche Bank announced the custody launch Wednesday.",
+            "The service targets digital assets for clients.",
+            "The launch was reported by Reuters from Frankfurt."
+          ],
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+        },
+        {
+          "emoji": "🎨",
+          "title": "UK regulator gives AkzoNobel and Axalta one week to address merger concerns",
+          "bullets": [
+            "The companies are pursuing a $25 billion merger.",
+            "The UK regulator said competition concerns remain.",
+            "They have one week to offer remedies."
+          ],
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+        },
+        {
+          "emoji": "⚡",
+          "title": "RWE and KKR finalize $16 billion UK renewables investment",
+          "bullets": [
+            "RWE and KKR finalized the UK renewables deal Wednesday.",
+            "The investment is valued at $16 billion.",
+            "Reuters reported the transaction in business coverage."
+          ],
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+        },
+        {
+          "emoji": "📺",
+          "title": "ITV warns fourth-quarter advertising revenue may fall up to 10%",
+          "bullets": [
+            "ITV issued the advertising warning Wednesday.",
+            "The broadcaster expects fourth-quarter ad revenue pressure.",
+            "The update follows ITV’s agreement to sell channels and streaming operations."
+          ],
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI stories",
+      "articles": [
+        {
+          "emoji": "🕵️",
+          "title": "Nvidia CEO controversy raises Washington concerns over AI-chip security",
+          "bullets": [
+            "Jensen Huang’s alleged affair has triggered political scrutiny.",
+            "Officials worry about possible access to sensitive AI-chip technology.",
+            "The controversy comes amid U.S.-China AI competition."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/56e1c03b4797c38aa04f4804f7cdf4db"
+        },
+        {
+          "emoji": "🧩",
+          "title": "Alleged spy plot targeting Jensen Huang raises questions about Nvidia’s future",
+          "bullets": [
+            "Investigations focus on whether Huang was targeted by foreign intelligence.",
+            "A shareholder complaint says Nvidia misled investors about risks.",
+            "Nvidia remains central to the global AI boom."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/4116755e690472eef677772ec55b856d"
+        },
+        {
+          "emoji": "🖥️",
+          "title": "Military-linked Chinese university bought Nvidia H200 chips despite U.S. blacklist",
+          "bullets": [
+            "Reuters reviewed records showing H200 chip purchases.",
+            "The buyer was a Chinese university tied to the military.",
+            "The chips were reportedly bought through Shaanxi Bosuan Network Technology."
+          ],
+          "source": "Reuters / Just Security roundup",
+          "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/"
+        },
+        {
+          "emoji": "🤖",
+          "title": "France AI council urges stronger safeguards for AI assistants",
+          "bullets": [
+            "France’s AI and digital-technology council submitted a report November 10.",
+            "The report urged protections against assistants exploiting user vulnerabilities.",
+            "The item was listed in November 11 AI news coverage."
+          ],
+          "source": "Reuters / join.dev",
+          "url": "https://join.dev/news/ai/2026-11-11/"
+        },
+        {
+          "emoji": "🚗",
+          "title": "Finland clears Tesla assisted-driving technology after changes",
+          "bullets": [
+            "Finland granted provisional approval Wednesday.",
+            "Tesla made changes before receiving clearance.",
+            "Reuters reported the decision from Stockholm."
+          ],
+          "source": "Reuters / Global Banking & Finance Review",
+          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+        }
+      ]
+    }
+  }
+}
