@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-12",
+  "displayDate": "Thursday, November 12, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🗳️",
+          "title": "Mississippi elects Democrat Scott Colom to U.S. Senate",
+          "bullets": [
+            "AP called the race for Democrat Scott Colom.",
+            "He defeated Republican Sen. Cindy Hyde-Smith.",
+            "Colom becomes Mississippi’s first Black U.S. senator since Reconstruction."
+          ],
+          "source": "AP News",
+          "url": "https://apnews.com/article/cddff1c7b60b4ad584a551e140f3c594"
+        },
+        {
+          "emoji": "🏚️",
+          "title": "Brooklyn building collapse kills at least two",
+          "bullets": [
+            "A three-story Brooklyn building collapsed near a construction site.",
+            "At least two people were killed, officials said.",
+            "Seventeen people were hospitalized, including four critically injured."
+          ],
+          "source": "AP News",
+          "url": "https://apnews.com/article/202ddc195fbf2dcf14e85d004f3ac130"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Republican senators complicate Trump judicial confirmations",
+          "bullets": [
+            "Several GOP senators are resisting some late-term judicial nominees.",
+            "The dispute threatens a White House push on federal courts.",
+            "Senators cited process concerns and specific nominee objections."
+          ],
+          "source": "AP News",
+          "url": "https://apnews.com/article/d277bc62b82507c2e9a5499070e4cce3"
+        },
+        {
+          "emoji": "📉",
+          "title": "U.S. jobless claims rise to 200,000 but stay historically low",
+          "bullets": [
+            "Initial unemployment claims ticked up to 200,000.",
+            "AP reported layoffs remain rare by historical standards.",
+            "The labor market continues showing unusual worker job security."
+          ],
+          "source": "AP News",
+          "url": "https://apnews.com/article/7a08c78cfc6af1aff2ac8652bd532336"
+        },
+        {
+          "emoji": "🪖",
+          "title": "House Republican files impeachment resolution against Defense Secretary Hegseth",
+          "bullets": [
+            "Rep. Thomas Massie filed a resolution targeting Pete Hegseth.",
+            "Massie alleged unconstitutional military actions and civilian-harm issues.",
+            "Hegseth dismissed the effort as political, according to reports."
+          ],
+          "source": "AP News / USA Today",
+          "url": "https://apnews.com/article/a4a74dab93a32c094e2a5b0a5105578d"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🕊️",
+          "title": "U.S. envoys meet Putin after Ukraine talks in Abu Dhabi",
+          "bullets": [
+            "Steve Witkoff and Jared Kushner met Vladimir Putin in Moscow.",
+            "The meeting followed U.S.-mediated Russia-Ukraine talks in Abu Dhabi.",
+            "Those talks were the first direct Moscow-Kyiv discussions in nine months."
+          ],
+          "source": "AP News",
+          "url": "https://apnews.com/article/683810203340077f33611fd1d1757b23"
+        },
+        {
+          "emoji": "🔁",
+          "title": "Russia and Ukraine agree to large prisoner exchange",
+          "bullets": [
+            "AP reported agreement during U.S.-mediated talks in Abu Dhabi.",
+            "The talks involved representatives from Moscow and Kyiv.",
+            "The exchange emerged amid stalled broader peace efforts."
+          ],
+          "source": "AP News",
+          "url": "https://este.telemundonebraska.com/story/370527809/ap-news-summary-at-1225-am-est"
+        },
+        {
+          "emoji": "🇮🇱",
+          "title": "Israel faces post-election crisis over Netanyahu allegations",
+          "bullets": [
+            "The Atlantic reported turmoil after Israel’s election.",
+            "Reports cited allegations involving Netanyahu’s chief of staff.",
+            "The controversy centers on claims of manufactured pre-election headlines."
+          ],
+          "source": "The Atlantic",
+          "url": "https://www.theatlantic.com/international/2026/11/netanyahu-election-denial-israel/689386/?utm_source=openai"
+        },
+        {
+          "emoji": "🚨",
+          "title": "European schools face renewed bomb-threat wave",
+          "bullets": [
+            "Thousands of Italian schools received bomb warnings by email.",
+            "Some schools received new threats on November 12.",
+            "Reuters could not establish the sender’s identity, according to summaries."
+          ],
+          "source": "Reuters / Sky News / RTÉ via Wikipedia summary",
+          "url": "https://en.wikipedia.org/wiki/European_bomb_threat_wave"
+        },
+        {
+          "emoji": "⛽",
+          "title": "UK sanctions Russia’s top oil producers",
+          "bullets": [
+            "Reports said Britain sanctioned Russia’s top ten oil producers.",
+            "The move targets Moscow’s energy revenue base.",
+            "It comes amid continuing pressure over Russia’s war in Ukraine."
+          ],
+          "source": "Reuters via market-news roundup",
+          "url": "https://www.reddit.com/r/wallstreetbetsHUZZAH/comments/1xu9wp6/daily_discussion_thread_november_12_2026/"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🚔",
+          "title": "Two missing Special Police Officers found dead in J&K’s Kishtwar",
+          "bullets": [
+            "Indian Express reported the deaths in Jammu and Kashmir’s Kishtwar.",
+            "The officers had previously been reported missing.",
+            "The update led its India live news coverage."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/breaking-news-live-updates-12-november-2026-delhi-aqi-india-weather-today-kimberly-powell-nvidia-train-accident-10959719/lite/"
+        },
+        {
+          "emoji": "🌫️",
+          "title": "Smog blankets Delhi as AQI settles at 307",
+          "bullets": [
+            "Delhi’s air quality remained in the very poor range.",
+            "Indian Express reported an AQI reading of 307.",
+            "Pollution and weather updates dominated India coverage."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/breaking-news-live-updates-12-november-2026-delhi-aqi-india-weather-today-kimberly-powell-nvidia-train-accident-10959719/lite/"
+        },
+        {
+          "emoji": "🌾",
+          "title": "Cabinet clears higher rabi fertiliser subsidy",
+          "bullets": [
+            "India approved a rabi fertiliser subsidy of Rs 62,370 crore.",
+            "The subsidy is up 64% from last year.",
+            "The move exceeds earlier Budget estimates, according to headline summaries."
+          ],
+          "source": "The Hindu / Indian Express via NEXT IAS",
+          "url": "https://www.nextias.com/ca/headlines-of-the-day/12-11-2026/88526/"
+        },
+        {
+          "emoji": "🚿",
+          "title": "Telangana to begin first phase of Musi River rejuvenation",
+          "bullets": [
+            "Chief Minister Revanth Reddy announced the first-phase plan.",
+            "The project concerns rejuvenation of the Musi River.",
+            "ABP listed it among November 12 top India headlines."
+          ],
+          "source": "ABP Live",
+          "url": "https://news.abplive.com/topic/12-november-2026"
+        },
+        {
+          "emoji": "🧹",
+          "title": "Cleanliness drive reaches over 12 lakh field institutions",
+          "bullets": [
+            "A ministry update cited cleanliness work across field institutions.",
+            "ABP reported the figure exceeded 12 lakh institutions.",
+            "The item was listed among national headlines."
+          ],
+          "source": "ABP Live",
+          "url": "https://news.abplive.com/topic/12-november-2026"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Top U.S. market movers from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🧠",
+          "title": "Nvidia tumbles as CEO controversy deepens",
+          "bullets": [
+            "Nvidia shares fell sharply in early Thursday trading.",
+            "Reports questioned CEO Jensen Huang’s future at the company.",
+            "The stock had already faced AI-bubble and governance pressure."
+          ],
+          "source": "AP News",
+          "url": "https://apnews.com/article/f9ac67fed10c86c1ed1ad1f41dd921a5"
+        },
+        {
+          "emoji": "💾",
+          "title": "Micron jumps in AI-led rebound",
+          "bullets": [
+            "Micron was among major market-cap movers Wednesday.",
+            "Investing.com reported the stock rallied intraday.",
+            "The move came during a broader AI-stock rebound."
+          ],
+          "source": "Investing.com / Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/micron-tech-oracle-among-market-cap-stock-movers-on-wednesday-93CH-5019727"
+        },
+        {
+          "emoji": "☁️",
+          "title": "Oracle rallies as tech shares rebound",
+          "bullets": [
+            "Oracle ranked among major stock movers Wednesday.",
+            "The stock rallied during an AI-led market recovery.",
+            "Investing.com cited significant intraday market-cap movement."
+          ],
+          "source": "Investing.com / Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/micron-tech-oracle-among-market-cap-stock-movers-on-wednesday-93CH-5019727"
+        },
+        {
+          "emoji": "⚙️",
+          "title": "Arm surges more than 12% during Wednesday trading",
+          "bullets": [
+            "Arm gained 12.81%, according to market-mover data.",
+            "The move came amid renewed demand for AI-related equities.",
+            "The report grouped Arm with other large market-cap movers."
+          ],
+          "source": "Investing.com / Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/micron-tech-oracle-among-market-cap-stock-movers-on-wednesday-93CH-5019727"
+        },
+        {
+          "emoji": "🔋",
+          "title": "Bloom Energy rebounds sharply after selloff",
+          "bullets": [
+            "Bloom Energy rose about 13% in market summaries.",
+            "The move followed a steep prior selloff.",
+            "AI-infrastructure and energy names led parts of the rebound."
+          ],
+          "source": "Ethivo Briefing",
+          "url": "https://www.ethivo-briefing.com/"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Top corporate stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🛍️",
+          "title": "Burberry reports stronger-than-expected second-quarter sales",
+          "bullets": [
+            "Burberry posted comparable retail sales above market estimates.",
+            "Growth in the U.S. and China helped offset regional weakness.",
+            "Reuters reported weakness in Europe and the Middle East."
+          ],
+          "source": "Reuters via Euronext",
+          "url": "https://live.euronext.com/en/financial-news?_bhlid=aeccce0081dbf3511cb85b16a88c5f908dfeece3&page=10"
+        },
+        {
+          "emoji": "💊",
+          "title": "Eli Lilly weight-loss pill approved in China",
+          "bullets": [
+            "Eli Lilly became first drugmaker with GLP-1 pill approval in China.",
+            "The approval covers a weight-loss drug, according to Reuters summaries.",
+            "The milestone expands Lilly’s obesity-drug footprint."
+          ],
+          "source": "Reuters via market-news roundup",
+          "url": "https://www.reddit.com/r/wallstreetbetsHUZZAH/comments/1xu9wp6/daily_discussion_thread_november_12_2026/"
+        },
+        {
+          "emoji": "📰",
+          "title": "Thomson Reuters announces $500 million share buyback plan",
+          "bullets": [
+            "Thomson Reuters announced a new normal-course issuer bid.",
+            "The company plans repurchases of up to $500 million.",
+            "The program runs from November 13, 2026 to November 12, 2027."
+          ],
+          "source": "Thomson Reuters",
+          "url": "https://ir.thomsonreuters.com/static-files/a01bb6bd-a06b-40ad-84e0-93e6ba320324"
+        },
+        {
+          "emoji": "🧮",
+          "title": "CoreWeave revenue more than doubles amid AI demand",
+          "bullets": [
+            "CoreWeave reported revenue of $3.7 billion.",
+            "CNBC cited CEO Michael Intrator saying AI demand remains overwhelming.",
+            "Shares jumped after the report, according to market coverage."
+          ],
+          "source": "CNBC via Macau Post Daily",
+          "url": "https://www.macaupostdaily.com/attachment/files/2026/11/12/1.pdf.pdf"
+        },
+        {
+          "emoji": "🧥",
+          "title": "Nvidia scandal becomes major corporate-governance risk",
+          "bullets": [
+            "Reports tied Nvidia’s turmoil to CEO conduct allegations.",
+            "The controversy raised governance questions at the AI-chip leader.",
+            "Nvidia and MegaSpeed denied diversion-related allegations."
+          ],
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/11/11/a-chinese-spy-a-chip-war-and-trump-s-indifference-how-nvidia-became-caught-in-an-international-scandal_6778048_19.html"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Top technology stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🔌",
+          "title": "Trump authorized multiple crackdowns on Nvidia chip diversion, Axios reports",
+          "bullets": [
+            "Axios said Trump approved three crackdowns this year.",
+            "The actions targeted suspected diversion of Nvidia AI chips to China.",
+            "The report cited Oval Office tensions over enforcement."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-pm-b842395e-3c97-4494-b272-1f552d228163"
+        },
+        {
+          "emoji": "🖥️",
+          "title": "Huawei unveils AI supercluster architecture",
+          "bullets": [
+            "Huawei described architecture linking up to one million AI chips.",
+            "The design aims to make chips operate as one computer.",
+            "AP-linked reporting cited Huawei executives and engineers in China."
+          ],
+          "source": "Live Science / AP",
+          "url": "https://www.livescience.com/technology/computing/huawei-unveils-supercluster-architecture-designed-to-make-1-million-ai-chips-work-as-a-single-computer"
+        },
+        {
+          "emoji": "🇬🇧",
+          "title": "British AI-chip startup Fractile raises $720 million",
+          "bullets": [
+            "Fractile announced a $720 million Series C round.",
+            "Reuters reported an approximately $7 billion valuation.",
+            "UK government-linked funds supported the financing."
+          ],
+          "source": "Reuters via Tech Current",
+          "url": "https://teccurrent.com/articles/daily-brief-2026-11-12/"
+        },
+        {
+          "emoji": "📱",
+          "title": "Meta expands AI age-estimation tools globally on Instagram",
+          "bullets": [
+            "Meta plans broader AI age-estimation deployment.",
+            "The system can move teens into protected account settings.",
+            "The expansion comes amid lawsuits over youth-platform harms."
+          ],
+          "source": "Reuters via Business Standard archive",
+          "url": "https://nsearchives.nseindia.com/corporate/APTUS_10112026161613_SENotice_sd.pdf"
+        },
+        {
+          "emoji": "🚚",
+          "title": "Malaysia seized AI-chip servers in export-control case",
+          "bullets": [
+            "Malaysia seized 30 servers with advanced AI chips.",
+            "Officials suspected an export-control violation.",
+            "The shipment was valued around $12.2 million."
+          ],
+          "source": "AP News",
+          "url": "https://apnews.com/article/79a912de57b21a4e59b27c9a86340202"
+        }
+      ]
+    }
+  }
+}
