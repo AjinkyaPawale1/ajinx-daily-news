@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-13",
+  "displayDate": "Friday, November 13, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🗳️",
+          "title": "Republicans assess losses after midterm defeats",
+          "bullets": [
+            "Republicans are reviewing what went wrong in 2026 midterm races.",
+            "Democrats expanded gains in Congress after the November 3 elections.",
+            "Party leaders face pressure over governing strategy and voter messaging."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/9fc9b226f25e5c371db6021170b70d27"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Trump Justice Department faces Democratic congressional scrutiny",
+          "bullets": [
+            "A Democratic-led Congress is preparing oversight of the Justice Department.",
+            "AP reports lawmakers plan scrutiny of firings and politically charged investigations.",
+            "The department says its law-enforcement mission remains unchanged."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/e121c4420d0010b9ba7e8003407d304a"
+        },
+        {
+          "emoji": "🛰️",
+          "title": "US military says it downed two Iranian attack drones",
+          "bullets": [
+            "The US military said it intercepted two Iranian attack drones.",
+            "Iran claimed a strike on a US radar system in Bahrain.",
+            "The incident followed escalating US-Iran tensions in the Gulf region."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/5d73a23b5b8647d2515c35b267b36c08"
+        },
+        {
+          "emoji": "💰",
+          "title": "FBI says it seized $1.2 billion in stolen Binance cryptocurrency",
+          "bullets": [
+            "The FBI announced a $1.2 billion cryptocurrency seizure.",
+            "Officials linked the funds to a major Binance theft last month.",
+            "The FBI previously attributed the heist to a North Korean hacking group."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/41be4834083e596a8facfd719f851cae"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Democrats weigh next steps after strong election gains",
+          "bullets": [
+            "Democrats are debating priorities after major midterm gains.",
+            "AP reported new attention on rebuilding party momentum nationally.",
+            "The results shifted focus toward Congress and the 2028 political map."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/3ed27e89abf3b0489d463fd30dacf37d"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "☁️",
+          "title": "Global Microsoft outage disrupts governments and businesses",
+          "bullets": [
+            "Microsoft said recovery work continued into a second day.",
+            "The outage affected email, workplace apps, emergency calls and court operations.",
+            "Government agencies in several countries reported service disruptions."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/d92547a821930290db2964388016979a"
+        },
+        {
+          "emoji": "🇺🇦",
+          "title": "Ukraine and Russia prepare largest-ever prisoner exchange",
+          "bullets": [
+            "Zelenskyy said Ukraine and Russia would hold a major prisoner swap.",
+            "The exchange was reported amid renewed diplomatic talks in Europe.",
+            "Kyiv continued pressing allies for air-defense support."
+          ],
+          "source": "Reuters Connect / Anadolu Agency",
+          "url": "https://www.reutersconnect.com/collection/news-coverage"
+        },
+        {
+          "emoji": "🇮🇪",
+          "title": "Zelenskyy meets NATO and European leaders in Dublin",
+          "bullets": [
+            "Zelenskyy met NATO chief Mark Rutte in Dublin.",
+            "He also held talks with French and Italian leaders.",
+            "Air defense and the Ukraine war were central topics."
+          ],
+          "source": "Reuters Connect / Anadolu Agency",
+          "url": "https://www.reutersconnect.com/collection/news-coverage"
+        },
+        {
+          "emoji": "🇰🇭",
+          "title": "Francophonie Summit opens in Phnom Penh",
+          "bullets": [
+            "The 20th Francophonie Summit convened in Cambodia’s capital.",
+            "Reuters carried coverage from the Phnom Penh meetings.",
+            "The summit brought together French-speaking governments and partners."
+          ],
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/collection/news-coverage"
+        },
+        {
+          "emoji": "🌧️",
+          "title": "Italy rescues people trapped by rising river in Ventimiglia",
+          "bullets": [
+            "Italian firefighters rescued 19 people from rising water.",
+            "The rescue took place in Ventimiglia after river levels climbed.",
+            "Severe weather also affected parts of southern Europe."
+          ],
+          "source": "Reuters Connect / Anadolu Agency",
+          "url": "https://www.reutersconnect.com/collection/news-coverage"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "📈",
+          "title": "India’s October retail inflation breaches RBI tolerance band",
+          "bullets": [
+            "Reuters reported October retail inflation at 6.09% year over year.",
+            "Food-price pressure squeezed household budgets.",
+            "The data fueled expectations of tighter monetary policy."
+          ],
+          "source": "Reuters / Glimpse",
+          "url": "https://glimpse.wozart.com/news/2026-11-13"
+        },
+        {
+          "emoji": "📉",
+          "title": "Indian shares fall as oil and inflation worries weigh",
+          "bullets": [
+            "Indian equities declined Friday amid higher crude prices.",
+            "Inflation concerns offset support from foreign institutional inflows.",
+            "Foreign investors recorded a ninth straight session of net buying."
+          ],
+          "source": "Reuters / MarketScreener India",
+          "url": "https://in.marketscreener.com/news/indian-shares-decline-as-oil-surge-inflation-jitters-weigh-ce785ed9db8dfe22"
+        },
+        {
+          "emoji": "💱",
+          "title": "Rupee rally faces pressure from oil and US yields",
+          "bullets": [
+            "The rupee faced renewed pressure from rising oil prices.",
+            "Higher US yields supported the dollar against emerging-market currencies.",
+            "Bankers cited speculation about RBI dollar-market activity."
+          ],
+          "source": "Reuters / MarketScreener India",
+          "url": "https://in.marketscreener.com/news/rupee-s-faltering-rally-faces-returning-oil-pressure-surging-us-yields-ce785ed9db8af724"
+        },
+        {
+          "emoji": "📰",
+          "title": "Indian Express publishes November 13 national news archive",
+          "bullets": [
+            "The Indian Express listed its November 13 news archive.",
+            "The archive gathered national, political and regional India coverage.",
+            "It provides a same-day index of India-focused reporting."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/archive/2026/11/13/"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Reuters reports probe into fake court-order website takedowns",
+          "bullets": [
+            "Reuters found India ordered website takedowns using fake court orders.",
+            "Police launched a probe after the findings.",
+            "The report was published on November 11 and remained in India coverage."
+          ],
+          "source": "Reuters Best",
+          "url": "https://reutersbest.com/country/india/"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📊",
+      "subtitle": "Top US market movers and market stories",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "Nvidia stabilizes after CEO resignation shock",
+          "bullets": [
+            "US futures rose as investors assessed Jensen Huang’s departure.",
+            "Nvidia shares stabilized after sharp swings tied to leadership turmoil.",
+            "Markets watched possible effects on AI chip supply."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/f8edd0eeb1494d4d2584715686c5e619"
+        },
+        {
+          "emoji": "📉",
+          "title": "US indexes absorb Nvidia and oil volatility",
+          "bullets": [
+            "Major US indexes ended Thursday with modest losses.",
+            "AP said markets absorbed large swings in Nvidia and oil prices.",
+            "Other AI chip stocks rose even as Nvidia remained volatile."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Nvidia selloff rattles broader tech trade",
+          "bullets": [
+            "Axios reported Nvidia’s slide pressured technology stocks.",
+            "The company recently hit a multitrillion-dollar market value peak.",
+            "Investors watched how the wider AI ecosystem would trade."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/12/nvidia-stocks-tech-huang"
+        },
+        {
+          "emoji": "💻",
+          "title": "Microsoft shares pressured by global outage",
+          "bullets": [
+            "Microsoft’s services outage continued affecting workplace apps worldwide.",
+            "AP said the outage had limited immediate market impact.",
+            "The stock declined in premarket trading."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/f8edd0eeb1494d4d2584715686c5e619"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Oil-price moves remain a key market focus",
+          "bullets": [
+            "AP reported oil swings contributed to Thursday’s market volatility.",
+            "Rising crude also pressured international markets and inflation expectations.",
+            "Investors monitored Middle East tensions and inventory data."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Top corporate and business stories",
+      "articles": [
+        {
+          "emoji": "🧑‍💼",
+          "title": "Jensen Huang resigns as Nvidia CEO",
+          "bullets": [
+            "Nvidia said Jensen Huang resigned after a widening personal and security scandal.",
+            "CFO Colette Kress became interim CEO.",
+            "The departure triggered questions about Nvidia’s AI leadership."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/017d4af2ad194ec2981d661663da9f9b"
+        },
+        {
+          "emoji": "🏢",
+          "title": "Nvidia faces post-Huang succession challenge",
+          "bullets": [
+            "AP said Nvidia must find a way forward without its longtime CEO.",
+            "Huang built Nvidia into a central AI infrastructure company.",
+            "Analysts are watching customer confidence and chip-supply continuity."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/5403f152a601cf82ce939f1d24fffa0f"
+        },
+        {
+          "emoji": "🧩",
+          "title": "AI industry weighs fallout from Nvidia scandal",
+          "bullets": [
+            "AP reported rivals may try to exploit Nvidia’s uncertainty.",
+            "The scandal raised concerns about AI-sector concentration.",
+            "Nvidia competitors include AMD, Intel, Broadcom and cloud providers."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/1b7431af84c9d78773c277672a9486f3"
+        },
+        {
+          "emoji": "🔐",
+          "title": "Binance theft recovery puts crypto security in focus",
+          "bullets": [
+            "US officials seized $1.2 billion tied to stolen Binance cryptocurrency.",
+            "The broader Binance theft totaled about $6.3 billion.",
+            "Authorities linked the attack to North Korea’s TraderTraitor group."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/41be4834083e596a8facfd719f851cae"
+        },
+        {
+          "emoji": "📧",
+          "title": "Microsoft outage disrupts global business operations",
+          "bullets": [
+            "Microsoft’s workplace software outage entered a second day.",
+            "Businesses, police services, courts and AI tools reported disruptions.",
+            "Microsoft said it was making progress restoring services."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/d92547a821930290db2964388016979a"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "🧬",
+      "subtitle": "Top technology stories",
+      "articles": [
+        {
+          "emoji": "☁️",
+          "title": "Microsoft 365 outage hits Outlook, Teams and Copilot",
+          "bullets": [
+            "A widespread Microsoft outage affected Outlook and related services.",
+            "The disruption spread across business and government users worldwide.",
+            "Microsoft said recovery work was continuing Friday."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/d92547a821930290db2964388016979a"
+        },
+        {
+          "emoji": "📨",
+          "title": "Outlook outage causes widespread email failures",
+          "bullets": [
+            "Users reported trouble accessing Outlook and Microsoft apps Thursday.",
+            "The outage affected email and other Microsoft 365 services.",
+            "AP reported errors across the company’s app suite."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/6376045281feb430c0b923e3a4b251c2"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Nvidia enters post-Jensen era for AI",
+          "bullets": [
+            "Axios said Nvidia’s leadership change tests the AI boom.",
+            "The company remains central to AI chips and financing.",
+            "Investors are watching whether customers diversify suppliers."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia"
+        },
+        {
+          "emoji": "🔒",
+          "title": "Nvidia security concerns intensify after CEO exit",
+          "bullets": [
+            "AP reported Huang’s resignation followed concerns involving personal relationships and security.",
+            "Lawmakers scrutinized Nvidia’s exposure to China-related risks.",
+            "The episode may increase calls for stricter chip export controls."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/314714d463cf578cbb0dbd49de903107"
+        },
+        {
+          "emoji": "🪙",
+          "title": "FBI crypto seizure highlights North Korean hacking threat",
+          "bullets": [
+            "The FBI seized cryptocurrency stolen from Binance.",
+            "Investigators tied the wider hack to a North Korean group.",
+            "The theft ranks among the largest crypto heists reported."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/41be4834083e596a8facfd719f851cae"
+        }
+      ]
+    }
+  }
+}
