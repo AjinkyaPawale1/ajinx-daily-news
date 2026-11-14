@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "displayDate": "Friday, November 13, 2026",
+  "date": "2026-11-14",
+  "displayDate": "Saturday, November 14, 2026",
   "categories": {
     "us": {
       "label": "US News",
@@ -8,369 +8,369 @@
       "subtitle": "Top domestic stories from the last 1–2 days",
       "articles": [
         {
+          "emoji": "✈️",
+          "title": "U.S. airlines recover after nationwide ground stop cancels thousands of flights",
+          "bullets": [
+            "More than 2,000 flights were canceled after the longest nationwide ground stop in 25 years.",
+            "Airlines warned disruptions and cancellations could continue through Saturday.",
+            "The outage stranded travelers and disrupted some professional and college sports travel."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291"
+        },
+        {
+          "emoji": "🌐",
+          "title": "FAA lifts nationwide flight halt after air-traffic technology outage",
+          "bullets": [
+            "The FAA lifted the nationwide ground stop Friday evening.",
+            "Transportation officials cited outdated air-traffic control technology as part of the problem.",
+            "JetBlue and other airlines warned of continued knock-on delays."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/6aaa6bd4991ef22eb0c3baa6961a91d1"
+        },
+        {
+          "emoji": "🤝",
+          "title": "Trump, Xi and Putin plan joint meeting at APEC in Shenzhen",
+          "bullets": [
+            "The White House said the three leaders plan to meet next week.",
+            "The meeting would occur alongside the APEC summit in Shenzhen, China.",
+            "AP described it as unprecedented for the three nuclear powers’ leaders."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+        },
+        {
           "emoji": "🗳️",
-          "title": "Republicans assess losses after midterm defeats",
+          "title": "Democrat Jonathan Kreiss-Tomkins wins Alaska governor race",
           "bullets": [
-            "Republicans are reviewing what went wrong in 2026 midterm races.",
-            "Democrats expanded gains in Congress after the November 3 elections.",
-            "Party leaders face pressure over governing strategy and voter messaging."
+            "NPR reported Kreiss-Tomkins won the Alaska governor’s race.",
+            "The result replaces a Republican governor in Alaska.",
+            "The race was called in post-midterm vote counting."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/9fc9b226f25e5c371db6021170b70d27"
+          "source": "NPR / Veramundi roundup",
+          "url": "https://veramundi.com/united-states/2026-11-14?lang=en"
         },
         {
-          "emoji": "⚖️",
-          "title": "Trump Justice Department faces Democratic congressional scrutiny",
+          "emoji": "📺",
+          "title": "Savannah Guthrie renews NBC News contract after 15 years",
           "bullets": [
-            "A Democratic-led Congress is preparing oversight of the Justice Department.",
-            "AP reports lawmakers plan scrutiny of firings and politically charged investigations.",
-            "The department says its law-enforcement mission remains unchanged."
+            "Guthrie extended her NBC News contract, AP reported.",
+            "She will continue as a prominent face of NBC’s Today program.",
+            "The agreement follows more than 15 years at the network."
           ],
           "source": "AP",
-          "url": "https://apnews.com/article/e121c4420d0010b9ba7e8003407d304a"
-        },
-        {
-          "emoji": "🛰️",
-          "title": "US military says it downed two Iranian attack drones",
-          "bullets": [
-            "The US military said it intercepted two Iranian attack drones.",
-            "Iran claimed a strike on a US radar system in Bahrain.",
-            "The incident followed escalating US-Iran tensions in the Gulf region."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/5d73a23b5b8647d2515c35b267b36c08"
-        },
-        {
-          "emoji": "💰",
-          "title": "FBI says it seized $1.2 billion in stolen Binance cryptocurrency",
-          "bullets": [
-            "The FBI announced a $1.2 billion cryptocurrency seizure.",
-            "Officials linked the funds to a major Binance theft last month.",
-            "The FBI previously attributed the heist to a North Korean hacking group."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/41be4834083e596a8facfd719f851cae"
-        },
-        {
-          "emoji": "🏛️",
-          "title": "Democrats weigh next steps after strong election gains",
-          "bullets": [
-            "Democrats are debating priorities after major midterm gains.",
-            "AP reported new attention on rebuilding party momentum nationally.",
-            "The results shifted focus toward Congress and the 2028 political map."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/3ed27e89abf3b0489d463fd30dacf37d"
+          "url": "https://apnews.com/article/ddb35e405a1904991e18411b95e7f946"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Top worldwide stories from the last 1–2 days",
+      "subtitle": "Major worldwide developments",
       "articles": [
         {
-          "emoji": "☁️",
-          "title": "Global Microsoft outage disrupts governments and businesses",
+          "emoji": "🕊️",
+          "title": "Israeli drone strike kills two Palestinians in Gaza",
           "bullets": [
-            "Microsoft said recovery work continued into a second day.",
-            "The outage affected email, workplace apps, emergency calls and court operations.",
-            "Government agencies in several countries reported service disruptions."
+            "AP reported an Israeli drone strike killed two Palestinians in Gaza.",
+            "The story was part of AP’s latest Middle East updates.",
+            "The report came amid continued regional tensions."
           ],
           "source": "AP",
-          "url": "https://apnews.com/article/d92547a821930290db2964388016979a"
+          "url": "https://apnews.com/article/ade76bebaf22135168aac6eb3016bc19"
         },
         {
           "emoji": "🇺🇦",
-          "title": "Ukraine and Russia prepare largest-ever prisoner exchange",
+          "title": "Zelenskyy says proposed European security framework could help Putin",
           "bullets": [
-            "Zelenskyy said Ukraine and Russia would hold a major prisoner swap.",
-            "The exchange was reported amid renewed diplomatic talks in Europe.",
-            "Kyiv continued pressing allies for air-defense support."
+            "Zelenskyy criticized a new European security framework floated by the U.S.",
+            "He said similar ideas had previously been raised by Putin.",
+            "The remarks came amid ongoing Russia-Ukraine diplomacy."
           ],
-          "source": "Reuters Connect / Anadolu Agency",
-          "url": "https://www.reutersconnect.com/collection/news-coverage"
+          "source": "AP",
+          "url": "https://apnews.com/article/f9a8629626c087424f05adc85d127780"
         },
         {
-          "emoji": "🇮🇪",
-          "title": "Zelenskyy meets NATO and European leaders in Dublin",
+          "emoji": "🌡️",
+          "title": "UN chief urges drastic emissions cuts at climate summit",
           "bullets": [
-            "Zelenskyy met NATO chief Mark Rutte in Dublin.",
-            "He also held talks with French and Italian leaders.",
-            "Air defense and the Ukraine war were central topics."
+            "António Guterres called for immediate and drastic fossil-fuel emissions cuts.",
+            "He warned against catastrophic climate impacts without faster action.",
+            "The remarks came at his final climate summit, AP reported."
           ],
-          "source": "Reuters Connect / Anadolu Agency",
-          "url": "https://www.reutersconnect.com/collection/news-coverage"
+          "source": "AP",
+          "url": "https://apnews.com/article/9c3945f36e4445dd4427f490c40e4bf3"
         },
         {
-          "emoji": "🇰🇭",
-          "title": "Francophonie Summit opens in Phnom Penh",
+          "emoji": "🌏",
+          "title": "U.S., China and Russia leaders set for rare APEC-side meeting",
           "bullets": [
-            "The 20th Francophonie Summit convened in Cambodia’s capital.",
-            "Reuters carried coverage from the Phnom Penh meetings.",
-            "The summit brought together French-speaking governments and partners."
+            "Trump, Xi and Putin are expected to meet in Shenzhen next week.",
+            "The summit brings 21 economies to China’s technology hub.",
+            "The meeting could dominate global diplomatic attention."
           ],
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/collection/news-coverage"
+          "source": "AP",
+          "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
         },
         {
-          "emoji": "🌧️",
-          "title": "Italy rescues people trapped by rising river in Ventimiglia",
+          "emoji": "🎤",
+          "title": "Inaugural Eurovision Song Contest Asia held in Bangkok",
           "bullets": [
-            "Italian firefighters rescued 19 people from rising water.",
-            "The rescue took place in Ventimiglia after river levels climbed.",
-            "Severe weather also affected parts of southern Europe."
+            "The inaugural Eurovision Song Contest Asia was scheduled for November 14.",
+            "Bangkok, Thailand hosted the new regional contest.",
+            "The event appeared in global day-of-news summaries."
           ],
-          "source": "Reuters Connect / Anadolu Agency",
-          "url": "https://www.reutersconnect.com/collection/news-coverage"
+          "source": "Wikipedia current-events roundup",
+          "url": "https://en.wikipedia.org/wiki/2026"
         }
       ]
     },
     "india": {
       "label": "India News",
       "icon": "🇮🇳",
-      "subtitle": "Top India stories from the last 1–2 days",
+      "subtitle": "Top India stories and updates",
       "articles": [
         {
-          "emoji": "📈",
-          "title": "India’s October retail inflation breaches RBI tolerance band",
+          "emoji": "🚆",
+          "title": "Modi flags off Bengaluru–Madgaon Vande Bharat Express",
           "bullets": [
-            "Reuters reported October retail inflation at 6.09% year over year.",
-            "Food-price pressure squeezed household budgets.",
-            "The data fueled expectations of tighter monetary policy."
-          ],
-          "source": "Reuters / Glimpse",
-          "url": "https://glimpse.wozart.com/news/2026-11-13"
-        },
-        {
-          "emoji": "📉",
-          "title": "Indian shares fall as oil and inflation worries weigh",
-          "bullets": [
-            "Indian equities declined Friday amid higher crude prices.",
-            "Inflation concerns offset support from foreign institutional inflows.",
-            "Foreign investors recorded a ninth straight session of net buying."
-          ],
-          "source": "Reuters / MarketScreener India",
-          "url": "https://in.marketscreener.com/news/indian-shares-decline-as-oil-surge-inflation-jitters-weigh-ce785ed9db8dfe22"
-        },
-        {
-          "emoji": "💱",
-          "title": "Rupee rally faces pressure from oil and US yields",
-          "bullets": [
-            "The rupee faced renewed pressure from rising oil prices.",
-            "Higher US yields supported the dollar against emerging-market currencies.",
-            "Bankers cited speculation about RBI dollar-market activity."
-          ],
-          "source": "Reuters / MarketScreener India",
-          "url": "https://in.marketscreener.com/news/rupee-s-faltering-rally-faces-returning-oil-pressure-surging-us-yields-ce785ed9db8af724"
-        },
-        {
-          "emoji": "📰",
-          "title": "Indian Express publishes November 13 national news archive",
-          "bullets": [
-            "The Indian Express listed its November 13 news archive.",
-            "The archive gathered national, political and regional India coverage.",
-            "It provides a same-day index of India-focused reporting."
+            "Prime Minister Narendra Modi flagged off the Bengaluru–Madgaon Vande Bharat Express.",
+            "He also inaugurated four redeveloped railway stations in Karnataka.",
+            "The update appeared in Indian Express live coverage."
           ],
           "source": "The Indian Express",
-          "url": "https://indianexpress.com/archive/2026/11/13/"
+          "url": "https://indianexpress.com/article/india/?productID=376"
+        },
+        {
+          "emoji": "🌾",
+          "title": "Tamil Nadu limits rice and dal stocks as prices soar",
+          "bullets": [
+            "Tamil Nadu set limits on rice and dal stocks, Indian Express reported.",
+            "The move followed rising prices for key staples.",
+            "The measure was reported in live national updates."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/breaking-news-live-updates-14-november-2026-delhi-aqi-childrens-day-kerala-weather-flights-pollution-nvidia-share-price-accidents-10962590/lite/"
+        },
+        {
+          "emoji": "🌎",
+          "title": "India says it hopes Pakistan attends SCO meeting in Delhi",
+          "bullets": [
+            "A minister said India hopes Pakistan will attend the SCO meeting in Delhi.",
+            "The Hindu carried the item in its November 14 headlines.",
+            "The issue concerns regional diplomacy and multilateral engagement."
+          ],
+          "source": "The Hindu / NEXT IAS roundup",
+          "url": "https://www.nextias.com/ca/headlines-of-the-day/14-11-2026/88677/"
+        },
+        {
+          "emoji": "🤝",
+          "title": "U.S. assures India comparative edge under trade deal",
+          "bullets": [
+            "Indian Express reported U.S. assurances tied to a trade deal.",
+            "The item was listed among November 14 front-page headlines.",
+            "The issue relates to India-U.S. trade negotiations."
+          ],
+          "source": "The Indian Express / NEXT IAS roundup",
+          "url": "https://www.nextias.com/ca/headlines-of-the-day/14-11-2026/88677/"
         },
         {
           "emoji": "⚖️",
-          "title": "Reuters reports probe into fake court-order website takedowns",
+          "title": "Yes Bank asks Supreme Court to review AT1 bond ruling",
           "bullets": [
-            "Reuters found India ordered website takedowns using fake court orders.",
-            "Police launched a probe after the findings.",
-            "The report was published on November 11 and remained in India coverage."
+            "Yes Bank filed a Supreme Court review petition, Reuters reported.",
+            "The case concerns ₹8,415 crore of additional tier-1 bonds.",
+            "Financial Express carried the Reuters item in its November 14 edition."
           ],
-          "source": "Reuters Best",
-          "url": "https://reutersbest.com/country/india/"
+          "source": "Reuters / Financial Express",
+          "url": "https://epaperarchive.indianexpress.com/viewepaper/4220851/Bengaluru/November-14-2026"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
-      "icon": "📊",
-      "subtitle": "Top US market movers and market stories",
+      "icon": "📈",
+      "subtitle": "Top U.S. market movers and market-impact stories",
       "articles": [
         {
-          "emoji": "🤖",
-          "title": "Nvidia stabilizes after CEO resignation shock",
+          "emoji": "🧠",
+          "title": "Nvidia slide weighs on tech stocks after Jensen Huang exit",
           "bullets": [
-            "US futures rose as investors assessed Jensen Huang’s departure.",
-            "Nvidia shares stabilized after sharp swings tied to leadership turmoil.",
-            "Markets watched possible effects on AI chip supply."
+            "Reuters reported major U.S. indexes fell as investors assessed Huang’s exit.",
+            "Technology shares were the biggest drag on the market.",
+            "Nvidia uncertainty continued to ripple through AI and chip stocks."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/f8edd0eeb1494d4d2584715686c5e619"
+          "source": "Reuters / MarketScreener",
+          "url": "https://www.marketscreener.com/news/wall-st-reverses-early-gains-as-nvidia-fallout-rattles-tech-stocks-ce785ed9d181f020"
         },
         {
           "emoji": "📉",
-          "title": "US indexes absorb Nvidia and oil volatility",
+          "title": "Nasdaq falls as chip stocks give back gains",
           "bullets": [
-            "Major US indexes ended Thursday with modest losses.",
-            "AP said markets absorbed large swings in Nvidia and oil prices.",
-            "Other AI chip stocks rose even as Nvidia remained volatile."
+            "CoinWorldCap reported the Nasdaq fell 0.91% on November 14 market coverage.",
+            "Chip shares broadly gave back gains during the session.",
+            "The move followed renewed volatility in AI-related stocks."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
+          "source": "CoinWorldCap",
+          "url": "https://www.coinworldcap.com/news/452117"
         },
         {
-          "emoji": "🧠",
-          "title": "Nvidia selloff rattles broader tech trade",
+          "emoji": "🔻",
+          "title": "AMD drops sharply amid AI-stock volatility",
           "bullets": [
-            "Axios reported Nvidia’s slide pressured technology stocks.",
-            "The company recently hit a multitrillion-dollar market value peak.",
-            "Investors watched how the wider AI ecosystem would trade."
+            "AMD fell about 8.8%, among the steepest large-cap declines reported.",
+            "The drop was linked to renewed volatility across AI stocks.",
+            "The move came after a sharp prior run-up in the shares."
           ],
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/11/12/nvidia-stocks-tech-huang"
+          "source": "CoinWorldCap / WiseView",
+          "url": "https://wiseview.ai/news/stock-market-close-2026-11-13"
         },
         {
-          "emoji": "💻",
-          "title": "Microsoft shares pressured by global outage",
+          "emoji": "📊",
+          "title": "Cerebras jumps after raising revenue forecast and signing Microsoft",
           "bullets": [
-            "Microsoft’s services outage continued affecting workplace apps worldwide.",
-            "AP said the outage had limited immediate market impact.",
-            "The stock declined in premarket trading."
+            "Cerebras rose more than 11%, Reuters reported.",
+            "The company raised its 2026 revenue forecast.",
+            "It also signed Microsoft as a customer."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/f8edd0eeb1494d4d2584715686c5e619"
+          "source": "Reuters / MarketScreener",
+          "url": "https://www.marketscreener.com/news/wall-st-reverses-early-gains-as-nvidia-fallout-rattles-tech-stocks-ce785ed9d181f020"
         },
         {
-          "emoji": "🛢️",
-          "title": "Oil-price moves remain a key market focus",
+          "emoji": "🏥",
+          "title": "Steris gains after Jefferies upgrade",
           "bullets": [
-            "AP reported oil swings contributed to Thursday’s market volatility.",
-            "Rising crude also pressured international markets and inflation expectations.",
-            "Investors monitored Middle East tensions and inventory data."
+            "Steris rose 4.29% after a Jefferies upgrade, WiseView reported.",
+            "Jefferies moved the stock to buy from hold.",
+            "The upgrade cited stronger earnings-per-share growth ahead."
           ],
-          "source": "AP",
-          "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
+          "source": "WiseView / CNBC reference",
+          "url": "https://wiseview.ai/news/stock-market-close-2026-11-13"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Top corporate and business stories",
+      "subtitle": "Corporate and economy headlines",
       "articles": [
         {
-          "emoji": "🧑‍💼",
-          "title": "Jensen Huang resigns as Nvidia CEO",
-          "bullets": [
-            "Nvidia said Jensen Huang resigned after a widening personal and security scandal.",
-            "CFO Colette Kress became interim CEO.",
-            "The departure triggered questions about Nvidia’s AI leadership."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/017d4af2ad194ec2981d661663da9f9b"
-        },
-        {
-          "emoji": "🏢",
-          "title": "Nvidia faces post-Huang succession challenge",
-          "bullets": [
-            "AP said Nvidia must find a way forward without its longtime CEO.",
-            "Huang built Nvidia into a central AI infrastructure company.",
-            "Analysts are watching customer confidence and chip-supply continuity."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/5403f152a601cf82ce939f1d24fffa0f"
-        },
-        {
           "emoji": "🧩",
-          "title": "AI industry weighs fallout from Nvidia scandal",
+          "title": "Nvidia leadership crisis raises questions for AI supply chain",
           "bullets": [
-            "AP reported rivals may try to exploit Nvidia’s uncertainty.",
-            "The scandal raised concerns about AI-sector concentration.",
-            "Nvidia competitors include AMD, Intel, Broadcom and cloud providers."
+            "AP said Huang’s exit could affect export policy and the AI supply chain.",
+            "Lawmakers are pushing for tighter technology-export restrictions.",
+            "The episode comes before Trump’s planned China visit."
           ],
           "source": "AP",
-          "url": "https://apnews.com/article/1b7431af84c9d78773c277672a9486f3"
+          "url": "https://apnews.com/article/aba7f92a1ec2f0f9e4b4da206d640d61"
         },
         {
-          "emoji": "🔐",
-          "title": "Binance theft recovery puts crypto security in focus",
+          "emoji": "🛫",
+          "title": "Flight disruptions hit airlines and travel-dependent businesses",
           "bullets": [
-            "US officials seized $1.2 billion tied to stolen Binance cryptocurrency.",
-            "The broader Binance theft totaled about $6.3 billion.",
-            "Authorities linked the attack to North Korea’s TraderTraitor group."
+            "Airlines worked to recover from the nationwide ground stop.",
+            "More than 2,000 cancellations disrupted travelers and operations.",
+            "Sports teams and other organizations scrambled for transportation."
           ],
           "source": "AP",
-          "url": "https://apnews.com/article/41be4834083e596a8facfd719f851cae"
+          "url": "https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291"
         },
         {
-          "emoji": "📧",
-          "title": "Microsoft outage disrupts global business operations",
+          "emoji": "💻",
+          "title": "Microsoft says services fully restored after global outage",
           "bullets": [
-            "Microsoft’s workplace software outage entered a second day.",
-            "Businesses, police services, courts and AI tools reported disruptions.",
-            "Microsoft said it was making progress restoring services."
+            "Microsoft said services were fully restored after hours of disruption.",
+            "The company said there was no indication of malicious activity.",
+            "The outage highlighted business reliance on major cloud platforms."
           ],
           "source": "AP",
-          "url": "https://apnews.com/article/d92547a821930290db2964388016979a"
+          "url": "https://apnews.com/article/ca395c0f1e51af784b6d70afb6554f6a"
+        },
+        {
+          "emoji": "🎓",
+          "title": "Advent revives sale process for Singapore tutoring chain",
+          "bullets": [
+            "Axios reported Advent International revived a sale process for The Learning Lab.",
+            "The Singapore tutoring chain could fetch $400 million to $500 million.",
+            "Axios attributed the valuation to Bloomberg reporting."
+          ],
+          "source": "Axios / Bloomberg",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-f5104d1c-9fa6-48ac-9cf3-5e09e0c1e79f"
+        },
+        {
+          "emoji": "🚗",
+          "title": "BYD expands luxury car push with Denza launch in India coverage",
+          "bullets": [
+            "Financial Express highlighted BYD’s luxury-car expansion through Denza.",
+            "The item appeared in the November 14 Bengaluru edition.",
+            "The launch reflects BYD’s continued premium EV strategy."
+          ],
+          "source": "Financial Express",
+          "url": "https://epaperarchive.indianexpress.com/viewepaper/4220851/Bengaluru/November-14-2026"
         }
       ]
     },
     "tech": {
       "label": "Tech",
-      "icon": "🧬",
+      "icon": "💻",
       "subtitle": "Top technology stories",
       "articles": [
         {
           "emoji": "☁️",
-          "title": "Microsoft 365 outage hits Outlook, Teams and Copilot",
+          "title": "Microsoft restores services after global outage",
           "bullets": [
-            "A widespread Microsoft outage affected Outlook and related services.",
-            "The disruption spread across business and government users worldwide.",
-            "Microsoft said recovery work was continuing Friday."
+            "Microsoft reported full restoration after an hourslong global outage.",
+            "The company said it saw no sign of a cyberattack.",
+            "The disruption affected communications and technology platforms worldwide."
           ],
           "source": "AP",
-          "url": "https://apnews.com/article/d92547a821930290db2964388016979a"
-        },
-        {
-          "emoji": "📨",
-          "title": "Outlook outage causes widespread email failures",
-          "bullets": [
-            "Users reported trouble accessing Outlook and Microsoft apps Thursday.",
-            "The outage affected email and other Microsoft 365 services.",
-            "AP reported errors across the company’s app suite."
-          ],
-          "source": "AP",
-          "url": "https://apnews.com/article/6376045281feb430c0b923e3a4b251c2"
+          "url": "https://apnews.com/article/ca395c0f1e51af784b6d70afb6554f6a"
         },
         {
           "emoji": "🧠",
-          "title": "Nvidia enters post-Jensen era for AI",
+          "title": "Nvidia scandal intensifies U.S.-China AI rivalry",
           "bullets": [
-            "Axios said Nvidia’s leadership change tests the AI boom.",
-            "The company remains central to AI chips and financing.",
-            "Investors are watching whether customers diversify suppliers."
-          ],
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia"
-        },
-        {
-          "emoji": "🔒",
-          "title": "Nvidia security concerns intensify after CEO exit",
-          "bullets": [
-            "AP reported Huang’s resignation followed concerns involving personal relationships and security.",
-            "Lawmakers scrutinized Nvidia’s exposure to China-related risks.",
-            "The episode may increase calls for stricter chip export controls."
+            "AP said Nvidia’s crisis is heightening U.S.-China AI tensions.",
+            "Lawmakers are pressing for tougher technology-export controls.",
+            "The issue comes ahead of Trump’s meeting with Xi."
           ],
           "source": "AP",
-          "url": "https://apnews.com/article/314714d463cf578cbb0dbd49de903107"
+          "url": "https://apnews.com/article/aba7f92a1ec2f0f9e4b4da206d640d61"
         },
         {
-          "emoji": "🪙",
-          "title": "FBI crypto seizure highlights North Korean hacking threat",
+          "emoji": "✈️",
+          "title": "FAA outage renews scrutiny of aging air-traffic technology",
           "bullets": [
-            "The FBI seized cryptocurrency stolen from Binance.",
-            "Investigators tied the wider hack to a North Korean group.",
-            "The theft ranks among the largest crypto heists reported."
+            "Transportation officials pointed to outdated air-traffic control technology.",
+            "The nationwide ground stop halted travel across the U.S.",
+            "The disruption caused widespread cancellations and operational delays."
           ],
           "source": "AP",
-          "url": "https://apnews.com/article/41be4834083e596a8facfd719f851cae"
+          "url": "https://apnews.com/article/6aaa6bd4991ef22eb0c3baa6961a91d1"
+        },
+        {
+          "emoji": "🧾",
+          "title": "Nvidia approaches Arm CEO Rene Haas as possible successor, report says",
+          "bullets": [
+            "A news roundup cited Reuters and other outlets on Nvidia’s CEO search.",
+            "Arm CEO Rene Haas was reported as a potential successor target.",
+            "The report followed Jensen Huang’s resignation from Nvidia."
+          ],
+          "source": "Reuters / Newsmriti roundup",
+          "url": "https://srihayavadhana.com/newsmriti/headlines/14-november-2026/"
+        },
+        {
+          "emoji": "🤖",
+          "title": "Cerebras raises 2026 revenue forecast and signs Microsoft customer deal",
+          "bullets": [
+            "Cerebras raised its 2026 revenue forecast, Reuters reported.",
+            "The chip and cloud company signed Microsoft as a customer.",
+            "Shares jumped more than 11% after the update."
+          ],
+          "source": "Reuters / MarketScreener",
+          "url": "https://www.marketscreener.com/news/wall-st-reverses-early-gains-as-nvidia-fallout-rattles-tech-stocks-ce785ed9d181f020"
         }
       ]
     }
