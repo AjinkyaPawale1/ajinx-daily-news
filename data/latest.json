@@ -1,128 +1,128 @@
 {
-  "date": "2026-11-15",
-  "displayDate": "Sunday, November 15, 2026",
+  "date": "2026-11-16",
+  "displayDate": "Monday, November 16, 2026",
   "categories": {
     "us": {
       "label": "US News",
       "icon": "🇺🇸",
-      "subtitle": "Top domestic developments from the last 1–2 days",
+      "subtitle": "Top domestic stories from the last 1–2 days",
       "articles": [
         {
           "emoji": "✈️",
-          "title": "FAA says US air travel should normalize after nationwide ground stop",
+          "title": "Trump leaves for Asia amid domestic political pressure",
           "bullets": [
-            "Nationwide disruption followed overloaded air-traffic communications and radar systems.",
-            "Officials said schedules should recover by late Sunday.",
-            "Thousands of Saturday cancellations continued after Friday’s four-hour stop."
+            "Trump is set to visit Manila and Shenzhen this week.",
+            "The trip follows Republican losses in the November midterm elections.",
+            "The White House says economic deals and nuclear talks are central aims."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/7dce2343ceb56332aa7946a27fcae562"
+          "url": "https://apnews.com/article/ffc5e5a2d384f00960034ec10087502e"
         },
         {
-          "emoji": "🛠️",
-          "title": "Officials blame router and legacy systems for air-traffic outage",
+          "emoji": "🛫",
+          "title": "AAA forecasts another busy Thanksgiving travel week",
           "bullets": [
-            "A contractor was replacing copper wiring with fiber-optic equipment.",
-            "Officials said a router flooded the network with connection requests.",
-            "Transportation leaders urged Congress to fund air-traffic modernization."
+            "AAA expects heavy holiday travel around Thanksgiving week.",
+            "Last year’s shutdown-related FAA flight cuts disrupted many passengers.",
+            "Airlines and airports are preparing for another high-volume period."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/0a71f6d3b52f9087105ebea7c527bdd7"
+          "url": "https://apnews.com/article/e7f3f746bcbaa3edbb6b2b2ff0f519c6"
         },
         {
-          "emoji": "⚖️",
-          "title": "Federal judge pauses Trump plan for Washington public golf course redevelopment",
+          "emoji": "🏛️",
+          "title": "Senate Democrat signals scrutiny of Commerce Secretary Lutnick",
           "bullets": [
-            "The order delays work at East Potomac Golf Links for two weeks.",
-            "Trump wanted the site closed November 15 for renovation.",
-            "The court order runs through November 28 unless changed."
+            "The Senate Commerce Committee’s top Democrat flagged future oversight.",
+            "Lutnick is traveling with Trump on the Asia trip.",
+            "Democrats are preparing investigations after winning Congress."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/df0f89f28f2a216faf09b3d63cdb6f9a"
+          "url": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2"
         },
         {
-          "emoji": "🌏",
-          "title": "Trump heads to Asia seeking momentum after midterm setbacks",
+          "emoji": "🛩️",
+          "title": "Trump administration faces questions over air-traffic funding request",
           "bullets": [
-            "Trump plans meetings during a major Asia trip this week.",
-            "AP reports a possible three-way meeting with Xi and Putin.",
-            "The trip follows Republican losses in the midterm elections."
+            "The administration is seeking $50 billion for air-traffic control upgrades.",
+            "Democrats want answers on prior aviation infrastructure spending.",
+            "Recent router problems reportedly contributed to a nationwide grounding."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/30ac0f6937301f36904808f278b79b1e"
+          "source": "News9Live",
+          "url": "https://www.news9live.com/india/breaking-news-live-updates-todays-news-headlines-november-16-2026-pm-narendra-modi-us-president-donald-trump-chhath-puja-pratihar-usha-araghya-3024871"
         },
         {
-          "emoji": "🧩",
-          "title": "FAA outage, Microsoft disruption and AI turmoil raise infrastructure concerns",
+          "emoji": "🛡️",
+          "title": "Pentagon faces criticism over Iran drone-warning handling",
           "bullets": [
-            "AP examined several technology disruptions hitting Americans in recent days.",
-            "The FAA outage disrupted flights nationwide.",
-            "Microsoft services and AI-sector instability added to public concern."
+            "A report says officials were warned about Iran’s drone capabilities.",
+            "The issue follows years of drone warfare lessons from Ukraine.",
+            "U.S. drone-defense preparedness is under renewed scrutiny."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/ea5f7a1f95a38f65dd57e58cfc17672b"
+          "source": "The Atlantic",
+          "url": "https://www.theatlantic.com/national-security/2026/11/pentagon-drones-iran-war-hegseth/689425/?utm_source=openai"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Major worldwide stories trending today",
+      "subtitle": "Top worldwide stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🤝",
-          "title": "ASEAN summit opens in Manila with conflicts and security on agenda",
+          "emoji": "☢️",
+          "title": "U.S., China and Russia prepare rare three-way nuclear talks",
           "bullets": [
-            "Southeast Asian leaders began three days of talks in Manila.",
-            "Disputes, economic uncertainty and transnational threats topped the agenda.",
-            "Trump is expected to join dialogues during his Asia trip."
+            "Trump’s Asia trip includes planned talks with Xi and Putin.",
+            "China called the trilateral discussions potentially groundbreaking.",
+            "The meetings are expected to address global security stability."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/ca9bb47cc109a1ca9e57be787b137095"
+          "url": "https://apnews.com/article/a31165456bf217de16f1c4e646b72bd2"
         },
         {
-          "emoji": "🕊️",
-          "title": "Middle East updates: Israel kills Hamas commander; Jordan sentences church-attack defendants",
+          "emoji": "🤖",
+          "title": "UN-backed talks weigh rules for lethal autonomous weapons",
           "bullets": [
-            "AP reported multiple major developments across the region.",
-            "Israel said it killed a senior Hamas commander.",
-            "Jordan sentenced three people over a church attack."
+            "Government envoys are meeting in Geneva this week.",
+            "The talks focus on killer robots and autonomous drones.",
+            "Delegates may decide whether to launch formal rule negotiations."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/3b4adde832dadd333451fd2f7a51908c"
+          "url": "https://apnews.com/article/1ff519255c145105360b04961d136081"
         },
         {
-          "emoji": "🛢️",
-          "title": "Iran war and energy shock concerns ripple through markets and diplomacy",
+          "emoji": "🇪🇹",
+          "title": "Ethiopia and Sudan trade accusations as conflict fears rise",
           "bullets": [
-            "US officials debated inflation pressures tied to energy supplies.",
-            "Treasury Secretary Scott Bessent urged the Fed not to hike rates.",
-            "Federal Reserve officials said price pressures extended beyond oil."
+            "Both governments accuse the other of backing armed fighters.",
+            "Sudan filed complaints against Ethiopia with the United Nations.",
+            "Analysts warn instability could spread across both countries."
           ],
-          "source": "Gulf Times / CNBC / Reuters",
-          "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/15/business-20261115-1-1794690881.pdf?ts=1794690881"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/649640494d674bfffcdc4418205b7485"
         },
         {
-          "emoji": "🌾",
-          "title": "Chinese purchases of US farm goods lag despite trade agreement",
+          "emoji": "🔫",
+          "title": "South Africa mass shootings kill at least 17 people",
           "bullets": [
-            "Reuters analysis found non-soybean farm purchases on pace for a seven-year low.",
-            "The deal calls for $17 billion in annual purchases through 2028.",
-            "The shortfall highlights uncertainty around US-China trade commitments."
+            "Police reported two mass shootings on the same day.",
+            "At least 17 people were killed in the attacks.",
+            "Authorities were alerted on the morning of November 16."
           ],
-          "source": "Gulf Times / Reuters",
-          "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/15/main-20261115-1-1794690922.pdf?ts=1794690922"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/1d8c73c660ebe7feda8d4c3848f6ac4f"
         },
         {
-          "emoji": "🗳️",
-          "title": "Cape Verde holds presidential election",
+          "emoji": "🚢",
+          "title": "Houthis accuse Saudi Arabia of deadly strikes in Yemen",
           "bullets": [
-            "Cape Verdeans voted in a presidential election on November 15.",
-            "The election was listed among the day’s major global events.",
-            "Results were not yet reported in the indexed summary."
+            "Houthis said Saudi strikes killed three people, including a child.",
+            "The report came amid wider Middle East tensions.",
+            "AP also reported related regional political and security developments."
           ],
-          "source": "Wikipedia news index",
-          "url": "https://en.wikipedia.org/wiki/2026"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/8830a880160d69e2d7f1fd654207a121"
         }
       ]
     },
@@ -132,245 +132,245 @@
       "subtitle": "Top India stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "💹",
-          "title": "Foreign investors pump ₹84,290 crore into Indian equities in November first half",
+          "emoji": "🛫",
+          "title": "Modi heads to Manila for ASEAN and East Asia summits",
           "bullets": [
-            "PTI reported strong foreign inflows into Indian equities.",
-            "The figure covers the first half of November.",
-            "The story was listed among India’s top items at 5 pm."
-          ],
-          "source": "PTI / The Samaja",
-          "url": "https://www.thesamaja.com/en/business/pti-highlights-top-stories-at-5-pm-15-nov"
-        },
-        {
-          "emoji": "🏥",
-          "title": "India’s health spending triples as out-of-pocket share falls",
-          "bullets": [
-            "National Health Accounts data showed health spending at ₹4.14 lakh crore.",
-            "Out-of-pocket spending fell to 42.7%.",
-            "PTI listed the figures among Sunday’s top India stories."
-          ],
-          "source": "PTI / The Samaja",
-          "url": "https://www.thesamaja.com/en/business/pti-highlights-top-stories-at-5-pm-15-nov"
-        },
-        {
-          "emoji": "🗳️",
-          "title": "Pune election officials file complaint over attempted voter shift",
-          "bullets": [
-            "Officials alleged an attempt to shift 40 voters.",
-            "The development appeared in India live updates on November 15.",
-            "The story involved local election-administration concerns in Pune."
-          ],
-          "source": "The Indian Express / Veramundi index",
-          "url": "https://veramundi.com/2026-11-15?lang=en"
-        },
-        {
-          "emoji": "🏛️",
-          "title": "Congress MLA accused of vandalising stage at Uttarakhand event",
-          "bullets": [
-            "Harish Dhami and supporters allegedly vandalised a fair inauguration stage.",
-            "Dhami said he was not allowed to speak at the event.",
-            "The incident occurred in Pithoragarh district near the Indo-Nepal border."
+            "Modi departed for meetings in the Philippines.",
+            "India says ASEAN ties anchor its Act East Policy.",
+            "Trade, maritime security and regional connectivity are expected topics."
           ],
           "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-15-congress-mla-vandalises-stage-at-uttarakhand-event-israel-netanyahu-pushes-for-unity-government-top-updates-101794715415215.html"
+          "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-16-us-carrier-in-west-asia-iran-imd-cyclone-akvan-odi-world-cup-2027-santosh-davakhar-101794796723729-amp.html"
         },
         {
-          "emoji": "⚽",
-          "title": "India reaches SAFF Championship final after narrow win over Bhutan",
+          "emoji": "🌪️",
+          "title": "Deep depression likely to intensify into Cyclone Akvan",
           "bullets": [
-            "India beat Bhutan 2-1 in the SAFF Championship semifinals.",
-            "The Blue Tigers advanced to the final.",
-            "News On AIR reported the result late November 14."
+            "IMD expects a Bay of Bengal system to strengthen.",
+            "Andhra Pradesh has been placed on alert.",
+            "Fishermen were warned against venturing into rough seas."
           ],
-          "source": "News On AIR / MarketSignal",
-          "url": "https://marketsignal.co.in/2026/11/15/news-digest-15-november-2026-world-india-business/"
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-15809"
+        },
+        {
+          "emoji": "💸",
+          "title": "Congress seeks new Supreme Court-monitored Ram Temple donation probe",
+          "bullets": [
+            "Jairam Ramesh called for a fresh investigation.",
+            "The demand concerns alleged Ram Temple donation theft.",
+            "Congress wants a probe reporting exclusively to the Supreme Court."
+          ],
+          "source": "UNI / PTI via The Samaja",
+          "url": "https://www.thesamaja.com/en/business/pti-highlights-top-stories-at-1-pm-16-nov"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "RBI seeks Supreme Court review of Yes Bank bond order",
+          "bullets": [
+            "RBI asked the Supreme Court to review a Yes Bank judgment.",
+            "The case concerns ₹84.15 billion in AT1 bonds.",
+            "The court had set aside the bond write-off last month."
+          ],
+          "source": "RealFeed / Reuters",
+          "url": "https://realfeed.in/hourly-brief-mon-16-nov-5-45-pm-ist/"
+        },
+        {
+          "emoji": "🕵️",
+          "title": "NIA arrests another accused in Mizoram methamphetamine seizure case",
+          "bullets": [
+            "NIA arrested a suspect from Assam’s Silchar.",
+            "The case involves 236.33 kg of methamphetamine tablets.",
+            "Officials valued the seizure at about ₹30.72 crore."
+          ],
+          "source": "PTI via The Samaja",
+          "url": "https://www.thesamaja.com/en/business/pti-highlights-top-stories-at-1-pm-16-nov"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
       "icon": "📈",
-      "subtitle": "US market movers and market-moving stock stories",
+      "subtitle": "Top U.S. market movers and market-moving themes",
       "articles": [
         {
-          "emoji": "📉",
-          "title": "Nasdaq falls Friday as Nvidia fallout weighs on technology shares",
+          "emoji": "🧠",
+          "title": "Tech futures slip before Nvidia earnings and Anthropic debut",
           "bullets": [
-            "The Nasdaq Composite ended lower Friday.",
-            "Technology stocks were the biggest drag on the market.",
-            "Nvidia declined after Jensen Huang’s resignation shook the AI sector."
+            "Nasdaq 100 futures fell more than broader index futures.",
+            "Investors are watching Nvidia’s November 17 results.",
+            "Anthropic’s expected market debut is also in focus."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/12c1e8155fb85c3c7b09e058ed6d3c74"
+          "url": "https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7"
         },
         {
-          "emoji": "🧠",
-          "title": "Nvidia volatility dominates AI and semiconductor trading",
+          "emoji": "🟩",
+          "title": "Retail traders return to buying the stock-market dip",
           "bullets": [
-            "Nvidia’s market value has fallen sharply from its October high.",
-            "AI-linked stocks sold off as investors reassessed leadership risk.",
-            "Reuters-linked reports cited wider concern across chip and AI names."
+            "Axios reported dip-buying interest is returning.",
+            "Single-stock options remain popular with retail traders.",
+            "Nvidia remains a key focus for speculative positioning."
           ],
-          "source": "Gulf Times / Reuters",
-          "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/15/business-20261115-1-1794690881.pdf?ts=1794690881"
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/16/nvidia-stocks-options-retail"
         },
         {
-          "emoji": "🧾",
-          "title": "Applied Materials flagged as notable earnings-driven mover",
+          "emoji": "⚙️",
+          "title": "Nvidia selloff continues to shape broader tech trading",
           "bullets": [
-            "Applied Materials was highlighted among significant story stocks.",
-            "The move was tied to earnings and semiconductor-sector sentiment.",
-            "The stock appeared in market summaries after Friday trading."
+            "Reuters said tech remains under pressure entering the week.",
+            "Nvidia has lost major value over six weeks.",
+            "Markets are also watching potential chip-export restrictions."
           ],
-          "source": "WaveRider market summary",
-          "url": "https://www.waverider.ai/market-analysis/market-summary-midday-2026-11-14/"
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/commodities-news/morning-bid-techs-telltale-week-5029120"
         },
         {
-          "emoji": "🚀",
-          "title": "Liftoff Mobile highlighted as notable positive market mover",
+          "emoji": "☁️",
+          "title": "Cloudflare jumps after beat-and-raise results",
           "bullets": [
-            "Liftoff Mobile was listed among notable positive movers.",
-            "The move came during a volatile tech-heavy trading session.",
-            "Market coverage grouped it with Friday’s top stock spotlights."
+            "StreetInsider reported Cloudflare surged in after-hours trading.",
+            "The move followed stronger-than-expected results and guidance.",
+            "Cloud software names remain active market movers."
           ],
-          "source": "WaveRider / TheStreet",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026?.tsrc=rss"
+          "source": "StreetInsider",
+          "url": "https://www.streetinsider.com/?mode=f42"
         },
         {
-          "emoji": "🏦",
-          "title": "Hancock Whitney to buy Trustmark in $3.2 billion stock deal",
+          "emoji": "🤖",
+          "title": "Polibeli Group jumps after AI computing-services agreement",
           "bullets": [
-            "Hancock Whitney agreed to acquire Trustmark.",
-            "The transaction is valued at $3.2 billion in stock.",
-            "The regional-bank deal was reported in Friday’s deal flow."
+            "DailyHub listed Polibeli as stock of the day.",
+            "Shares rose after an AI computing services deal.",
+            "The customer was described as Taiwan-based."
           ],
-          "source": "Axios Pro Rata",
-          "url": "https://www.axios.com/newsletters/axios-pro-rata-f5104d1c-9fa6-48ac-9cf3-5e09e0c1e79f"
+          "source": "DailyHub / Benzinga on MSN",
+          "url": "https://dailyhub.io/daily/2026-11-16"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Corporate and economic stories moving markets",
+      "subtitle": "Top corporate and economic stories",
       "articles": [
         {
-          "emoji": "🧊",
-          "title": "Modine draws attention amid data-center cooling deal reports",
+          "emoji": "⛽",
+          "title": "Diesel prices fall below $6 for first time since September",
           "bullets": [
-            "Modine makes cooling systems used in data centers.",
-            "The company had a market capitalization near $5.6 billion.",
-            "Reports placed it among notable AI-infrastructure deal targets."
+            "AAA data showed average diesel prices below $6 per gallon.",
+            "Axios linked the decline to lower recent oil prices.",
+            "Fuel costs remain important for transport and logistics firms."
           ],
-          "source": "Axios Pro Rata / TheStreet",
-          "url": "https://www.axios.com/newsletters/axios-pro-rata-f5104d1c-9fa6-48ac-9cf3-5e09e0c1e79f"
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-future-of-energy-d2371940-e122-11f1-bb26-673c2c8bdef2"
         },
         {
-          "emoji": "💻",
-          "title": "Microsoft services recover after major Outlook and Teams outage",
+          "emoji": "🛢️",
+          "title": "U.S. oilfield consolidation continues with $5 billion deal",
           "bullets": [
-            "Outlook, Teams and other Microsoft 365 services were disrupted globally.",
-            "Microsoft said service levels were returning toward normal.",
-            "The company said there was no indication of a cyberattack."
+            "Axios reported a $5 billion cash-and-stock energy transaction.",
+            "The deal adds to Permian-focused consolidation.",
+            "Energy finance remains active despite oil-market volatility."
           ],
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/news/live/outlook-outage-nov-2026"
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-future-of-energy-d2371940-e122-11f1-bb26-673c2c8bdef2"
         },
         {
-          "emoji": "🛰️",
-          "title": "SpaceX recovers Starship upper stage with launch-tower arms",
+          "emoji": "♻️",
+          "title": "Building-materials startup Supersede raises $13 million",
           "bullets": [
-            "SpaceX completed a 22-hour orbital test flight.",
-            "The Starship vehicle was recovered at Starbase, Texas.",
-            "The catch marked a first for an orbital upper-stage spacecraft."
+            "Supersede raised a Series A led by APV Ventures.",
+            "The company plans to expand manufacturing capacity.",
+            "It is targeting broader industrial use of its materials."
           ],
-          "source": "Wikipedia news index",
-          "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States"
+          "source": "Axios Pro",
+          "url": "https://www.axios.com/newsletters/axios-future-of-energy-d2371940-e122-11f1-bb26-673c2c8bdef2"
         },
         {
-          "emoji": "🏗️",
-          "title": "Ferguson Enterprises rises after guidance boost",
+          "emoji": "🧾",
+          "title": "India’s wholesale inflation quickens to 12.29% in October",
           "bullets": [
-            "Ferguson shares rose 11.2% on Monday.",
-            "The company raised full-year guidance after quarterly results.",
-            "Non-residential sales grew 15%, supporting capital-goods sentiment."
+            "Government data showed wholesale inflation rose year over year.",
+            "Higher food and oil prices drove the increase.",
+            "The reading adds pressure before budget consultations."
           ],
-          "source": "Activest Wealth Management weekly market report",
-          "url": "https://activestwm.com/wp-content/uploads/2026/11/activest-weekly-2026-11-13.pdf"
+          "source": "Reuters via StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Factbox-Airlines%2Bsuspend%2Bflights%2Bas%2BMiddle%2BEast%2Btensions%2Brise/Insider%2BTrades"
         },
         {
-          "emoji": "💉",
-          "title": "Moderna falls after unclear 2027 cost outlook",
+          "emoji": "💰",
+          "title": "Sitharaman begins pre-budget consultations for 2027–28 budget",
           "bullets": [
-            "Moderna lost 12.2% for the week.",
-            "Investors reacted to a 2027 cost outlook.",
-            "The report said revenue visibility remained unclear."
+            "India’s finance minister began consultations with economists.",
+            "The talks are part of Budget 2027–28 preparations.",
+            "Economic growth, inflation and fiscal priorities are likely central issues."
           ],
-          "source": "Activest Wealth Management weekly market report",
-          "url": "https://activestwm.com/wp-content/uploads/2026/11/activest-weekly-2026-11-13.pdf"
+          "source": "UNI",
+          "url": "https://test.uniindia.com/uni-news-digest-at-1400-hrs-on-november-16/india/news/4041412.html"
         }
       ]
     },
     "tech": {
       "label": "Tech",
-      "icon": "🧑‍💻",
-      "subtitle": "Top technology stories from the last 1–2 days",
+      "icon": "💻",
+      "subtitle": "Top technology stories",
       "articles": [
         {
-          "emoji": "🧠",
-          "title": "Nvidia CEO Jensen Huang resigns, sending shockwaves through AI industry",
-          "bullets": [
-            "Huang’s resignation unsettled Nvidia and AI-linked companies.",
-            "Rivals including AMD and Intel could seek advantage.",
-            "AP said the fallout may cool AI-boom exuberance."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/1b7431af84c9d78773c277672a9486f3"
-        },
-        {
-          "emoji": "☁️",
-          "title": "Microsoft 365 outage disrupts Outlook, Teams, Copilot and Exchange Online",
-          "bullets": [
-            "The outage began Thursday and affected users in many countries.",
-            "Reports showed high Downdetector complaint volumes.",
-            "Microsoft said services were returning to normal levels."
-          ],
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/news/live/outlook-outage-nov-2026"
-        },
-        {
           "emoji": "🔌",
-          "title": "Microsoft lobbies against potential Chinese optical-gear import ban",
+          "title": "Nvidia results and Anthropic IPO set up pivotal AI week",
           "bullets": [
-            "The FCC is considering restrictions on Chinese optical transceivers.",
-            "Microsoft and industry groups warned a ban could slow data-center rollout.",
-            "The issue affects AI data-center networking supply chains."
+            "Reuters called it a telling week for technology markets.",
+            "Nvidia reports results on November 17.",
+            "Anthropic’s listing is expected later in the week."
           ],
-          "source": "Tom’s Hardware / Reuters",
-          "url": "https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt"
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/commodities-news/morning-bid-techs-telltale-week-5029120"
         },
         {
           "emoji": "🧩",
-          "title": "Restricted Nvidia chips reported in Chinese AI computing projects",
+          "title": "Microsoft 365 and Teams outage affects millions worldwide",
           "bullets": [
-            "A Reuters review identified Chinese AI projects using restricted Nvidia processors.",
-            "The projects reportedly totaled more than $3 billion.",
-            "Nvidia says US export controls shut it out of China’s AI data-center market."
+            "Users reported disruptions to Outlook, Teams and Microsoft 365.",
+            "Tom’s Guide cited estimates of hundreds of millions affected.",
+            "Analysts warned some businesses could face economic losses."
           ],
-          "source": "Daily 8 News / Reuters",
-          "url": "https://www.daily8news.com/category/technology/?date=2026-11-15"
+          "source": "Tom’s Guide",
+          "url": "https://www.tomsguide.com/news/live/microsoft-outlook-down-live-updates-outage-11-12-26"
         },
         {
-          "emoji": "🔗",
-          "title": "AI economy’s dense corporate ties draw scrutiny after Nvidia turmoil",
+          "emoji": "📡",
+          "title": "Shenzhen showcases China’s technology ambitions during APEC week",
           "bullets": [
-            "Axios highlighted overlapping Nvidia, Microsoft and Anthropic relationships.",
-            "The report described a concentrated web of AI financing and cloud deals.",
-            "The scrutiny followed turmoil around Nvidia leadership."
+            "AP described Shenzhen as a window into China’s tech transformation.",
+            "The city is hosting major APEC-related activity.",
+            "Tech and trade tensions frame the summit backdrop."
+          ],
+          "source": "Associated Press via Metro News Channel Nebraska",
+          "url": "https://metro.newschannelnebraska.com/story/370528895/ap-business-summarybrief-at-200-am-est"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Mphasis says clients are increasing cybersecurity spending",
+          "bullets": [
+            "Mphasis reported stronger cybersecurity demand from clients.",
+            "The company cited AI-driven threats as a factor.",
+            "The update came in Reuters’ India technology coverage."
+          ],
+          "source": "Reuters via StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Factbox-Airlines%2Bsuspend%2Bflights%2Bas%2BMiddle%2BEast%2Btensions%2Brise/Insider%2BTrades"
+        },
+        {
+          "emoji": "💧",
+          "title": "Tacoma Power uses satellite-fed AI forecasts for hydropower",
+          "bullets": [
+            "Axios reported Tacoma Power uses Upstream Tech’s HydroForecast.",
+            "The system combines NASA satellite, weather and river data.",
+            "Forecasts are updated every two hours."
           ],
           "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-closer-54cb8378-50e3-477d-999d-0aaa60f5efcc"
+          "url": "https://www.axios.com/newsletters/axios-future-of-energy-d2371940-e122-11f1-bb26-673c2c8bdef2"
         }
       ]
     }
