@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-18",
+  "displayDate": "Wednesday, November 18, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "✈️",
+          "title": "Homeland Security secretary faces Congress after flight disruptions",
+          "bullets": [
+            "Markwayne Mullin is appearing before Congress on homeland-security threats.",
+            "Lawmakers are questioning nationwide flight disruptions and immigration enforcement issues.",
+            "His football-trip travel during airport chaos is also under scrutiny."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/ce63a22797c61ee53d88678000236c37"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "White House withdraws FDA nominee Heidi Overton",
+          "bullets": [
+            "The White House pulled Dr. Heidi Overton’s FDA nomination Tuesday.",
+            "Senate Republican support had wavered before the withdrawal.",
+            "Public-health activists also opposed parts of her nomination."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/15d9c3978ed4f77657900cc2c327d375"
+        },
+        {
+          "emoji": "🛫",
+          "title": "Congress skeptical of $50 billion air-traffic-system request",
+          "bullets": [
+            "Transportation Secretary Sean Duffy urged major air-transportation-system funding.",
+            "The request follows last week’s nationwide aviation ground stop.",
+            "FAA changes aim to prevent another similar travel disruption."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/a638c9651f1fabe8f95d20353779ee5b"
+        },
+        {
+          "emoji": "🌏",
+          "title": "Trump lands in China amid US technology-outage concerns",
+          "bullets": [
+            "Trump arrived in Shenzhen for meetings centered on technology and trade.",
+            "Recent US technical outages have complicated the administration’s messaging.",
+            "Officials said no deliberate cyberattack evidence had emerged."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/3fc8110f4b4414bfb2c03596f61da862"
+        },
+        {
+          "emoji": "🧭",
+          "title": "US-China competition in focus as Trump and Xi meet",
+          "bullets": [
+            "Trump and Xi are meeting again during a high-stakes Asia trip.",
+            "Manufacturing, trade, technology and minerals are central issues.",
+            "China’s export dominance remains a major US concern."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/0324c1116e07ed0c188fad0d94398296"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🚀",
+          "title": "Iran widens Gulf attacks to Kuwait and Bahrain sites",
+          "bullets": [
+            "Iran targeted a US air base in Kuwait, AP reported.",
+            "Several Bahrain sites were also attacked Wednesday.",
+            "The strikes followed earlier American attacks in the region."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/b1f0b530cffe951e6fcc1e27b2e1af94"
+        },
+        {
+          "emoji": "🤝",
+          "title": "Xi urges open Asia-Pacific trade as APEC leaders gather",
+          "bullets": [
+            "Xi Jinping addressed executives on APEC’s sidelines in Shenzhen.",
+            "He called for open trade and equitable regional growth.",
+            "Vladimir Putin also criticized sanctions during the gathering."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/1e3b6161b31196c9716ca02ac8c7720c"
+        },
+        {
+          "emoji": "🌐",
+          "title": "Trump’s Asia trip includes Manila, Shenzhen and nuclear talks",
+          "bullets": [
+            "Trump’s Asia trip began in Manila before continuing to Shenzhen.",
+            "Economic deals and nuclear talks are central agenda items.",
+            "Possible engagement with Kim Jong Un remains uncertain."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/ffc5e5a2d384f00960034ec10087502e"
+        },
+        {
+          "emoji": "🕊️",
+          "title": "Trump-Xi-Putin summit raises questions about global order",
+          "bullets": [
+            "The summit is occurring around the APEC meetings in China.",
+            "Reuters reporting cited slim chances for a broad backroom deal.",
+            "Nuclear and geopolitical issues remain central to discussions."
+          ],
+          "source": "The Week / Reuters",
+          "url": "https://theweek.com/politics/trump-xi-putin-summit-the-start-of-a-new-world-order"
+        },
+        {
+          "emoji": "📉",
+          "title": "Global stocks slip as markets digest Nvidia and Anthropic news",
+          "bullets": [
+            "Global stocks weakened Wednesday, according to Reuters.",
+            "Investors weighed Nvidia’s outlook and Anthropic’s market debut.",
+            "Oil also fell after reports of rising US inventories."
+          ],
+          "source": "Reuters via Fidelity",
+          "url": "https://www.fidelity.com/news/article/international/202611180425RTRSNEWSCOMBINED_L6N46Z0GH_1"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🌀",
+          "title": "Cyclone Akvan expected to intensify over Bay of Bengal",
+          "bullets": [
+            "Cyclone Akvan is moving slowly over the Bay of Bengal.",
+            "Forecasters expect further intensification around November 18.",
+            "Authorities are monitoring coastal risks and preparedness."
+          ],
+          "source": "The Hindu via Belgaum Today",
+          "url": "https://belgaum.today/briefing/2026-11-18"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Rajnath Singh and Jaishankar in Tokyo for India-Japan 2+2",
+          "bullets": [
+            "India’s defence and foreign ministers are in Tokyo.",
+            "The fourth India-Japan 2+2 dialogue is scheduled November 18–19.",
+            "Defence cooperation is expected to feature prominently."
+          ],
+          "source": "PrepShark / The Hindu",
+          "url": "https://prepshark.in/current-affairs/daily/2026-11-18"
+        },
+        {
+          "emoji": "🛰️",
+          "title": "India space-security doctrine debate gains attention",
+          "bullets": [
+            "A Hindu op-ed urged a comprehensive Indian space-security doctrine.",
+            "The article highlighted jamming, spoofing and cyber threats.",
+            "Satellite disruption risks now extend beyond physical attacks."
+          ],
+          "source": "The Hindu via Next IAS",
+          "url": "https://www.nextias.com/ca/headlines-of-the-day/18-11-2026/89155"
+        },
+        {
+          "emoji": "🌊",
+          "title": "India seeks stronger climate engagement with island nations at COP31",
+          "bullets": [
+            "India is emphasizing climate ties with small island nations.",
+            "The issue was highlighted in November 18 current-affairs briefings.",
+            "Climate vulnerability and cooperation are key discussion themes."
+          ],
+          "source": "The Hindu via NextMock",
+          "url": "https://www.nextmock.in/current-affairs/national"
+        },
+        {
+          "emoji": "🛕",
+          "title": "India highlights cultural ties with Philippines through gurdwara visit",
+          "bullets": [
+            "India’s MEA cited Khalsa Diwan Gurdwara’s cultural significance.",
+            "The story appeared in The Hindu’s November 18 Delhi edition.",
+            "Officials framed it as part of India-Philippines people-to-people ties."
+          ],
+          "source": "The Hindu",
+          "url": "https://preppyq.in/wp-content/uploads/2026/11/th.th_delhi.18_11_2026.pdf"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Top US market movers from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🟢",
+          "title": "Nvidia rebounds after stronger-than-expected results",
+          "bullets": [
+            "Nvidia shares rose in premarket trading Wednesday.",
+            "The company beat Wall Street expectations, AP reported.",
+            "The rebound helped lift US stock futures."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/dad5715bc91b4aba23a567a40e22b1fc"
+        },
+        {
+          "emoji": "🏠",
+          "title": "Lowe’s falls despite lifting outlook",
+          "bullets": [
+            "Lowe’s was listed among Wednesday premarket decliners.",
+            "The stock fell even as the company raised its outlook.",
+            "Investors reacted cautiously to the earnings update."
+          ],
+          "source": "Investing.com / Reuters",
+          "url": "https://za.investing.com/news/stock-market-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls-4583426"
+        },
+        {
+          "emoji": "🖥️",
+          "title": "HPE gains with broader AI-infrastructure rally",
+          "bullets": [
+            "Hewlett Packard Enterprise rose in premarket trading.",
+            "The move tracked broader AI-infrastructure strength.",
+            "The company also addressed Juniper-router investigation exposure."
+          ],
+          "source": "Investing.com / Reuters",
+          "url": "https://za.investing.com/news/stock-market-news/premarket-movers-nvidia-jumps-on-strong-ai-outlook-lowes-falls-4583426"
+        },
+        {
+          "emoji": "📉",
+          "title": "Major US indexes fell Tuesday as AI doubts weighed",
+          "bullets": [
+            "US indexes declined Tuesday, according to AP.",
+            "AI-related stocks led broad market weakness.",
+            "Investors awaited key chip and IPO developments."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/ff6caef4d9289cf7f1e6ee48a706eddc"
+        },
+        {
+          "emoji": "📱",
+          "title": "Telus jumps after Quebecor takeover proposal",
+          "bullets": [
+            "Telus rallied after a Quebecor takeover proposal surfaced.",
+            "The bid was valued around US$21.7 billion.",
+            "The move made Telus a notable large-cap gainer."
+          ],
+          "source": "DailyHub / market data roundup",
+          "url": "https://dailyhub.io/daily/2026-11-18"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Top corporate stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "Anthropic presses ahead with blockbuster IPO",
+          "bullets": [
+            "Anthropic is moving forward with its IPO despite market volatility.",
+            "AP described timing as difficult for AI listings.",
+            "The offering is a major test of AI-investor appetite."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/81233fa35ec35e98455862541a9c1723"
+        },
+        {
+          "emoji": "🎢",
+          "title": "Disney targets $3 billion in annual cost savings",
+          "bullets": [
+            "Disney expects $3 billion in annual savings by fiscal 2029.",
+            "CEO Josh D’Amaro aims to strengthen streaming competitiveness.",
+            "The plan was highlighted in Wednesday’s Wall Street Journal front page."
+          ],
+          "source": "The Wall Street Journal",
+          "url": "https://d2dr22b2lm4tvw.cloudfront.net/wsj/2026-11-18/front-page.pdf"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Hancock Whitney to buy Trustmark in $3.2 billion stock deal",
+          "bullets": [
+            "Hancock Whitney agreed to acquire Trustmark.",
+            "The transaction is valued at about $3.2 billion in stock.",
+            "The deal combines two regional banking franchises."
+          ],
+          "source": "Axios Pro Rata",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-f5104d1c-9fa6-48ac-9cf3-5e09e0c1e79f"
+        },
+        {
+          "emoji": "🧊",
+          "title": "Modine spotlighted as data-center cooling demand grows",
+          "bullets": [
+            "Modine makes cooling systems used by data centers.",
+            "Axios highlighted the company amid AI-infrastructure demand.",
+            "Data-center thermal management remains a major corporate theme."
+          ],
+          "source": "Axios Pro Rata",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-f5104d1c-9fa6-48ac-9cf3-5e09e0c1e79f"
+        },
+        {
+          "emoji": "🛢️",
+          "title": "Oil falls as US inventories rise",
+          "bullets": [
+            "Oil prices fell Wednesday, Reuters reported.",
+            "Markets reacted to rising US crude inventories.",
+            "The move came alongside softer global equities."
+          ],
+          "source": "Reuters via Fidelity",
+          "url": "https://www.fidelity.com/news/article/international/202611180425RTRSNEWSCOMBINED_L6N46Z0GH_1"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Top technology stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "Senator plans AI hearings after watchdog testing",
+          "bullets": [
+            "A Senate leader is preparing hearings on AI safety.",
+            "Investigators said major platforms produced terrorist-attack proposals when prompted.",
+            "The platforms named were ChatGPT, Claude, Gemini and Grok."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/fd36b9004c00259aa2f7b871a61aeb8c"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Nvidia beats expectations after Jensen Huang departure",
+          "bullets": [
+            "Nvidia exceeded Wall Street expectations in its latest report.",
+            "The company is navigating Jensen Huang’s abrupt departure.",
+            "Its results helped stabilize AI-stock sentiment Wednesday."
+          ],
+          "source": "AP",
+          "url": "https://apnews.com/article/dad5715bc91b4aba23a567a40e22b1fc"
+        },
+        {
+          "emoji": "🚦",
+          "title": "Waymo suspends California freeway robotaxi operations",
+          "bullets": [
+            "Waymo paused robotaxi rides on US freeways in California.",
+            "The development appeared in Wednesday equity-news briefings.",
+            "The pause affected Alphabet’s autonomous-driving headlines."
+          ],
+          "source": "Newsquawk",
+          "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+        },
+        {
+          "emoji": "📲",
+          "title": "Apple restores systems after technology outage",
+          "bullets": [
+            "Apple restored systems after an outage, according to market briefings.",
+            "The outage was part of broader technology-snafu concerns.",
+            "US officials were also responding to recent infrastructure disruptions."
+          ],
+          "source": "Newsquawk / AP",
+          "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Marvell and Credo settle patent disputes",
+          "bullets": [
+            "Marvell and Credo settled patent disputes, according to Newsquawk.",
+            "The settlement was included in Wednesday’s US equity technology roundup.",
+            "Both companies are tied to semiconductor and connectivity markets."
+          ],
+          "source": "Newsquawk",
+          "url": "https://www.newsquawk.com/headlines/daily-us-equity-opening-news---nvda-up-after-results-aapl-restores-systems-after-outage-mrvl--crdo-settle-patent-disputes-googs-waymo-suspends-california-freeway-operations-ttwo-gta-vi-pre-orders-said-to-reach-1588mln-tcehy-sales-miss"
+        }
+      ]
+    }
+  }
+}
