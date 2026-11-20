@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-20",
+  "displayDate": "Friday, November 20, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "⚡",
+          "title": "Senate passes bipartisan energy permitting bill",
+          "bullets": [
+            "The Senate approved legislation Thursday to speed energy infrastructure reviews.",
+            "The bill targets power plants, transmission lines, pipelines and mines.",
+            "Supporters say it would address rising electricity demand and costs."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/b41c2017e4a9fe2e6de92ec77a4cdd0a"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Congress faces shutdown risk amid Iran-war funding dispute",
+          "bullets": [
+            "Lawmakers warned funding talks could fail before a pre-Christmas deadline.",
+            "Trump is seeking $350 billion in new Pentagon spending.",
+            "Democrats are preparing to take control of Congress in January."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/congress-struggles-to-avert-us-shutdown-as-iran-war-divides-lawmakers-5041259"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Justice Department seeks dismissal of Alaska Senate race challenge",
+          "bullets": [
+            "The DOJ moved to dismiss a lawsuit challenging Alaska’s Senate race.",
+            "The filing comes after Mary Peltola’s Senate victory was called.",
+            "The case remains part of post-election legal fallout."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/540e631e21d003b83877ee4174cde2c0"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Trump administration replaces top cybersecurity official",
+          "bullets": [
+            "The administration named a new top cybersecurity official.",
+            "The move follows recent widespread technology disruptions.",
+            "The role oversees federal cybersecurity coordination and response."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/540e631e21d003b83877ee4174cde2c0"
+        },
+        {
+          "emoji": "📱",
+          "title": "House Democrat demands preservation of official app messages",
+          "bullets": [
+            "A senior House Democrat sought preservation of agency communications.",
+            "The request covers messages created on nongovernment apps.",
+            "The effort signals expected oversight fights in the next Congress."
+          ],
+          "source": "Associated Press via The Journal",
+          "url": "https://www.the-journal.com/associated-press/?q=&start=1180"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide developments",
+      "articles": [
+        {
+          "emoji": "🤝",
+          "title": "Trump, Xi and Putin hold high-profile summit in Shenzhen",
+          "bullets": [
+            "The three leaders met during China’s APEC-hosted diplomacy week.",
+            "Xi described the talks as positive and fruitful.",
+            "The summit highlighted China’s central role in global diplomacy."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/25e17ec8d9c55fbff960d5631eaba71d"
+        },
+        {
+          "emoji": "🇺🇦",
+          "title": "Kyiv allies push back after Trump-Putin Ukraine diplomacy",
+          "bullets": [
+            "European allies reacted warily to U.S.-Russia security discussions.",
+            "Jared Kushner said Russia was comfortable with NATO-like assurances.",
+            "Ukraine’s partners continued pressing for Kyiv’s role in any deal."
+          ],
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/20/kyiv-s-allies-push-back-against-trump-and-putin-s-provocations_6785209_4.html"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Rights groups seek sanctions after World Court Rohingya ruling",
+          "bullets": [
+            "The ICJ found Myanmar committed genocide against Rohingya Muslims.",
+            "Rights groups urged arms embargoes and economic sanctions.",
+            "China and Russia could block Security Council enforcement steps."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/d32c2f2a58942b9a3edb81866a850e65"
+        },
+        {
+          "emoji": "🌡️",
+          "title": "COP31 talks in Turkey near close with fossil-fuel dispute unresolved",
+          "bullets": [
+            "Negotiators remained divided over fossil-fuel language.",
+            "Experts warned emissions cuts are needed to avoid worse warming.",
+            "The next climate summit is scheduled for Addis Ababa in 2027."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/a683c5c87a7ee64caf4e9257948b6e40"
+        },
+        {
+          "emoji": "🚀",
+          "title": "Saudi Arabia intercepts Houthi missiles and drones",
+          "bullets": [
+            "Saudi Arabia reported intercepting additional Houthi attacks from Yemen.",
+            "The incident underscored continuing regional security volatility.",
+            "The attacks came amid broader Middle East tensions."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/16c39c487a23b53b73c5eabb7f0fd57a"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India-focused stories",
+      "articles": [
+        {
+          "emoji": "🪖",
+          "title": "India and Japan deepen defense cooperation in Tokyo talks",
+          "bullets": [
+            "India and Japan agreed to expand military and defense-industry cooperation.",
+            "Japanese troops may train at Indian live-fire ranges.",
+            "Ministers framed the partnership as an Indo-Pacific stabilizer."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/5b29b80bebf7a9b61422d19e9b3eed7f"
+        },
+        {
+          "emoji": "🌐",
+          "title": "Parliamentary panel briefed on India-Europe relations",
+          "bullets": [
+            "Commerce and External Affairs officials briefed a parliamentary committee.",
+            "The briefing covered opportunities and challenges in India-Europe ties.",
+            "Shashi Tharoor said the panel would submit a report soon."
+          ],
+          "source": "PTI via TaxTMI",
+          "url": "https://www.taxtmi.com/news?id=75393"
+        },
+        {
+          "emoji": "🇳🇵",
+          "title": "Nepal prime minister Balen Shah to visit India",
+          "bullets": [
+            "Nepal’s prime minister is scheduled to visit India on November 22–23.",
+            "The trip is his first official India visit as prime minister.",
+            "Bilateral ties and regional issues are expected on the agenda."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/page-17974"
+        },
+        {
+          "emoji": "🗣️",
+          "title": "Rahul Gandhi says talks with Pakistan impossible amid killings",
+          "bullets": [
+            "Rahul Gandhi criticized engagement with Pakistan during continuing violence.",
+            "His remarks were reported in Indian political coverage Friday.",
+            "The comments came amid renewed debate over cross-border policy."
+          ],
+          "source": "The Hindu via World in Summary",
+          "url": "https://worldinsummary.com/in/editions/2026-11-20/"
+        },
+        {
+          "emoji": "🏭",
+          "title": "Modi urges industry to put ‘India First’ in investment plans",
+          "bullets": [
+            "Prime Minister Modi addressed long-term industrial investment decisions.",
+            "He urged businesses to prioritize India over the next 20 years.",
+            "The remarks were carried in public broadcaster coverage."
+          ],
+          "source": "News on AIR",
+          "url": "https://newsonair.gov.in/wp-content/uploads/2026/11/kohim-text-1920.pdf"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and trading themes",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "Anthropic falls back after historic IPO pop",
+          "bullets": [
+            "Anthropic opened sharply above its IPO price Thursday.",
+            "Shares later retreated, trading near $88 premarket Friday.",
+            "The debut did not stop broader AI-stock selling."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/c4c3f4878b12989347f8a930ed813dad"
+        },
+        {
+          "emoji": "📉",
+          "title": "Nasdaq drops 2.3% as AI selloff deepens",
+          "bullets": [
+            "The Nasdaq fell 550.69 points Thursday.",
+            "AI-linked stocks led another broad market decline.",
+            "The S&P 500 and Dow also finished lower."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/2f178054aea79d282e5ccf8d62f26a28"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Nvidia volatility persists after earnings beat and leadership turmoil",
+          "bullets": [
+            "Nvidia reported revenue of $115.8 billion for fiscal Q3.",
+            "Adjusted earnings beat Wall Street expectations.",
+            "Leadership concerns continued to pressure sentiment toward the stock."
+          ],
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026"
+        },
+        {
+          "emoji": "🧾",
+          "title": "Intuit, Ross Stores and Keysight draw premarket attention",
+          "bullets": [
+            "Investors watched post-earnings moves in Intuit, Ross and Keysight.",
+            "Keysight beat fourth-quarter earnings and revenue estimates.",
+            "Futures pointed lower before Friday’s open."
+          ],
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63465508/stock-market-today-dow-jones-sp-500-futures-fall-as-trump-weighs-iran-decision-intu-rost-keys-in-focus"
+        },
+        {
+          "emoji": "💻",
+          "title": "Chinese tech stocks hit by new U.S. AI-chip curbs",
+          "bullets": [
+            "U.S. restrictions pressured Chinese technology shares this week.",
+            "Measures target access to advanced AI chips and cloud compute.",
+            "Investors weighed China’s push for chip self-sufficiency."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/us-ai-chip-curbs-hit-china-tech-stocks-spur-selfsufficiency-push-5040932"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economic stories",
+      "articles": [
+        {
+          "emoji": "🏦",
+          "title": "Banks earn major fees from Anthropic IPO",
+          "bullets": [
+            "Anthropic’s offering became a major payday for Wall Street banks.",
+            "The stock opened at $111.50 after an $83 offering price.",
+            "Shares closed Thursday at $97.17."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/20/banks-feast-on-ant-offering"
+        },
+        {
+          "emoji": "💳",
+          "title": "Citigroup misstated European trading-unit risk assets",
+          "bullets": [
+            "Citigroup incorrectly recorded certain European trading-unit trades.",
+            "The error understated risk-weighted assets by about $35 billion.",
+            "The issue was reported by Reuters."
+          ],
+          "source": "Reuters via Reddit aggregation",
+          "url": "https://www.reddit.com/r/wallstreetbetsHUZZAH/comments/1y10mi1/daily_discussion_thread_november_20_2026/"
+        },
+        {
+          "emoji": "💊",
+          "title": "Drugmakers say AI is speeding early-stage development",
+          "bullets": [
+            "Pharmaceutical executives said AI shortened early molecule-development timelines.",
+            "Some companies reported cuts of up to half in early work.",
+            "The gains affect preclinical drug discovery workflows."
+          ],
+          "source": "Reuters via StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/US%2Bimposes%2Bsanctions%2Bon%2BInternational%2BCriminal%2BCourt"
+        },
+        {
+          "emoji": "🏗️",
+          "title": "Alphabet raises C$6 billion in Canadian bond sale",
+          "bullets": [
+            "Alphabet raised C$6 billion through a four-tranche offering.",
+            "The pricing terms were filed with the SEC.",
+            "The deal adds to large tech-sector debt issuance."
+          ],
+          "source": "Reuters via StreetInsider",
+          "url": "https://new.streetinsider.com/Reuters/Nasdaq%2Bopens%2Bhigher%2Bas%2Bchips%2Bpare%2Blosses%2C%2Brate-hike%2Bfears%2Blinger/images/news2/273/27305205/LYNXNPEMA51F0.jpg"
+        },
+        {
+          "emoji": "🚢",
+          "title": "Britain and EU set to ease food trade and youth mobility",
+          "bullets": [
+            "The U.K. and EU prepared a post-Brexit reset package.",
+            "The deal would ease food trade and youth mobility.",
+            "A summit Friday was expected to address longer-term ties."
+          ],
+          "source": "Reuters via Rock Hill Herald",
+          "url": "https://www.heraldonline.com/news/nation-world/world/"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI developments",
+      "articles": [
+        {
+          "emoji": "🧠",
+          "title": "U.S. chip curbs unsettle China’s AI sector",
+          "bullets": [
+            "Washington expanded measures limiting China’s access to advanced AI chips.",
+            "Chinese firms face pressure across chips, cloud and disclosures.",
+            "The curbs accelerated debate over domestic chip self-sufficiency."
+          ],
+          "source": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/us-ai-chip-curbs-hit-china-tech-stocks-spur-selfsufficiency-push-5040932"
+        },
+        {
+          "emoji": "☁️",
+          "title": "Alibaba warns U.S. AI-chip rules may affect data-center plans",
+          "bullets": [
+            "Alibaba reported strong AI cloud and compute growth.",
+            "The company warned U.S. restrictions could affect overseas expansion.",
+            "Other Chinese tech firms are reassessing AI infrastructure plans."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/922a7ccb3ee1b1336af112ace0e3b288"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Tech outages blamed on rushed fixes, not coordinated cyberattack",
+          "bullets": [
+            "Twenty CEO Joe Lin discussed recent outage patterns at Axios’ summit.",
+            "He said AI-discovered vulnerabilities prompted rushed organizational fixes.",
+            "Officials have not attributed the outages to a coordinated attack."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/19/twenty-future-of-defense-axios-cyber-threats-joe-lin"
+        },
+        {
+          "emoji": "📜",
+          "title": "Commerce issues advanced-computing export-control rule",
+          "bullets": [
+            "The Commerce Department published new advanced-computing controls.",
+            "The rule targets foreign access to U.S.-origin compute capabilities.",
+            "Data centers and chip exporters face added due-diligence requirements."
+          ],
+          "source": "Federal Register",
+          "url": "https://thefederalregister.org/pdf/documents/2026-23529.pdf"
+        },
+        {
+          "emoji": "🤖",
+          "title": "Apple hiring points to new agentic AI assistant effort",
+          "bullets": [
+            "A Bloomberg-spotted job listing described an agentic assistant role.",
+            "The assistant would browse the web and work across apps.",
+            "The role suggests Apple is expanding hands-on AI agent development."
+          ],
+          "source": "The Verge via The day’s tech, sifted",
+          "url": "https://sift.yasint.dev/2026-11-20.html"
+        }
+      ]
+    }
+  }
+}
