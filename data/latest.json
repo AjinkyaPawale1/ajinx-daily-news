@@ -1,376 +1,376 @@
 {
-  "date": "2026-11-22",
-  "displayDate": "Sunday, November 22, 2026",
+  "date": "2026-11-23",
+  "displayDate": "Monday, November 23, 2026",
   "categories": {
     "us": {
       "label": "US News",
       "icon": "🇺🇸",
-      "subtitle": "Top domestic headlines from the last 1–2 days",
+      "subtitle": "Top domestic stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🕵️",
-          "title": "FBI investigates apparent hack of national criminal justice database",
+          "emoji": "✈️",
+          "title": "Delta automation problem delays flights during Thanksgiving travel rush",
           "bullets": [
-            "AP reported the NCIC database was apparently targeted.",
-            "The FBI opened an investigation into the incident.",
-            "The database supports law enforcement checks nationwide."
+            "Delta reported an automation-system problem affecting operations Sunday.",
+            "The FAA issued a temporary ground stop for some Atlanta-bound flights.",
+            "The disruption hit as Thanksgiving travel volumes began rising."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/d066cff87a64a564db0a00172c124972"
+          "url": "https://apnews.com/article/d4bdb732da930205ec3453d35c28daa2"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Democrats secure largest House majority since 1992 after North Carolina call",
+          "bullets": [
+            "AP projected Democrat Chuck Hubbard won North Carolina’s 5th District.",
+            "The call expanded Democrats’ House majority after the 2026 midterms.",
+            "The result added to Republican losses in previously competitive territory."
+          ],
+          "source": "Associated Press / Omni",
+          "url": "https://omni.se/demokraterna-nar-storsta-majoriteten-sedan-1992/a/Pv9Ab6"
         },
         {
           "emoji": "🏛️",
-          "title": "Trump says Putin wants to end war as Russia rejects Kushner progress claims",
+          "title": "North Carolina Legislature splits control between Democrats and Republicans",
           "bullets": [
-            "Trump discussed Ukraine diplomacy during a White House news conference.",
-            "Russia rejected Kushner’s claims of progress in talks.",
-            "The remarks followed renewed U.S. diplomatic engagement on Ukraine."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/540e631e21d003b83877ee4174cde2c0"
-        },
-        {
-          "emoji": "💳",
-          "title": "Trump criticizes credit card companies in Fox interview",
-          "bullets": [
-            "Trump said credit card companies have profited heavily.",
-            "The comments came during a live Fox interview.",
-            "Axios included the remarks in its Sunday morning briefing."
+            "AP projected Democrats won control of the North Carolina House.",
+            "Republicans retained control of the state Senate.",
+            "The split legislature sets up divided control in Raleigh."
           ],
           "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-am-4fdcdf3f-5786-4a64-b134-567fad56a564"
+          "url": "https://www.axios.com/local/raleigh/2026/11/23/north-carolina-election-democrats-house-majority-republican-senate"
         },
         {
-          "emoji": "🛢️",
-          "title": "Pentagon information access questioned after Iran war",
+          "emoji": "💣",
+          "title": "US Army plans emergency detonation of bomb-making chemicals in Iowa",
           "bullets": [
-            "The Atlantic reported new concerns over Pentagon transparency.",
-            "The report cited limits on congressional travel support.",
-            "Officials estimated war operations and munitions replacement at about $48 billion."
+            "The Army plans to invoke emergency provisions for the detonation.",
+            "Officials identified the material as bomb-making chemicals in Iowa.",
+            "The action was listed in AP’s Monday morning news summary."
           ],
-          "source": "The Atlantic",
-          "url": "https://www.theatlantic.com/national-security/2026/11/iran-war-pentagon-information-access/689524/"
+          "source": "Associated Press",
+          "url": "https://tmneeste.producer.immergo.tv/story/370530683/ap-news-summary-at-429-am-est"
         },
         {
-          "emoji": "🥫",
-          "title": "White House debates definition of ultra-processed food",
+          "emoji": "🌉",
+          "title": "Platte River bridge near Schuyler reopens after closure",
           "bullets": [
-            "The administration has debated a federal definition of ultra-processed food.",
-            "Officials weighed possible economic effects of follow-on policies.",
-            "HHS referred questions to the White House."
+            "Local officials reopened the bridge over the Platte River near Schuyler.",
+            "The update was posted Sunday, ahead of Monday morning travel.",
+            "The reopening affects regional traffic in eastern Nebraska."
           ],
-          "source": "The Atlantic",
-          "url": "https://www.theatlantic.com/health/2026/11/ultra-processed-food-definition-wiles-means-kennedy/689536/"
+          "source": "Telemundo Nebraska",
+          "url": "https://tmneeste.producer.immergo.tv/story/370530683/ap-news-summary-at-429-am-est"
         }
       ]
     },
     "global": {
       "label": "Global",
       "icon": "🌍",
-      "subtitle": "Major world stories and international developments",
+      "subtitle": "Major worldwide developments",
       "articles": [
         {
-          "emoji": "🇺🇦",
-          "title": "Russian attack near Kyiv kills two and wounds four",
+          "emoji": "🚢",
+          "title": "Zelenskyy praises Ukrainian drone strike on Russian warship in Libya",
           "bullets": [
-            "A Russian strike hit an apartment building near Ukraine’s capital.",
-            "Authorities said at least two people were killed.",
-            "Four others were wounded in the attack."
+            "Ukraine said naval drones struck a Russian warship in Libyan waters.",
+            "Zelenskyy praised the operation by Ukraine’s security services.",
+            "AP described it as a long-range strike far from Ukraine’s front line."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/14fecc1c55d601bb9f5b5fc8c9fb0b94"
+          "url": "https://apnews.com/article/c382f8eb06dca7d87e89bc6c18ba7d61"
         },
         {
-          "emoji": "🇪🇺",
-          "title": "EU and Indonesia sign trade deal after decade of negotiations",
+          "emoji": "🌡️",
+          "title": "UN climate talks collapse without major fossil-fuel deal",
           "bullets": [
-            "Reuters reported the agreement was signed on November 21.",
-            "The deal followed about ten years of negotiations.",
-            "It adds to the EU’s Asia trade agenda."
+            "AP reported the climate talks ended without a comprehensive agreement.",
+            "Fossil-fuel language remained a central sticking point.",
+            "The United States did not participate in the negotiations."
           ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/f571df2b9d6dc6fd6b4b991e988c3bdd"
         },
         {
-          "emoji": "🇩🇰",
-          "title": "Denmark urges EU travel curbs on Russians after foiled plot",
+          "emoji": "🗣️",
+          "title": "Climate negotiators react after talks end without deal",
           "bullets": [
-            "Denmark pressed EU partners to tighten Russian travel restrictions.",
-            "Reuters linked the push to a foiled plot.",
-            "The issue was reported from Paris on November 21."
+            "Leaders and delegates expressed disappointment after the talks closed.",
+            "Small and vulnerable states sought stronger emissions and finance commitments.",
+            "The final outcome left major climate-policy disputes unresolved."
           ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/baed7f1491d16a00ee9b60a35596e1f6"
         },
         {
-          "emoji": "🇮🇶",
-          "title": "Fire brought under control at Iraq’s Hartha power station",
+          "emoji": "🇨🇦",
+          "title": "Canada’s Carney roasts Trump and politicians at press gallery dinner",
           "bullets": [
-            "Iraq’s state news agency said civil defence teams contained the fire.",
-            "The incident occurred north of Basra.",
-            "Reuters reported from the scene in Gulf Times coverage."
+            "Prime Minister Mark Carney appeared with a fake Donald Trump onstage.",
+            "The event was Canada’s annual press gallery dinner with journalists.",
+            "Opposition leader Pierre Poilievre also delivered political jokes."
           ],
-          "source": "Reuters / Gulf Times",
-          "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/22/main-20261122-1-1795298547.pdf?ts=1795298547"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/75c0aa1ae75143e2cd044fc289149d44"
         },
         {
-          "emoji": "🇪🇺",
-          "title": "EU budget chair proposes new cuts and digital tax",
+          "emoji": "🛡️",
+          "title": "Kyiv’s allies push back after Trump-Putin diplomacy alarms Europe",
           "bullets": [
-            "EU leaders’ chair proposed further cuts to the 2028–2034 budget draft.",
-            "The proposal also suggested a digital tax.",
-            "France called the latest proposal very disappointing."
+            "European leaders discussed Ukraine security after Trump’s Asia meetings.",
+            "Zelenskyy joined talks with European leaders and US envoys.",
+            "Le Monde reported allies were resisting pressure on Kyiv."
           ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/20/kyiv-s-allies-push-back-against-trump-and-putin-s-provocations_6785209_4.html"
         }
       ]
     },
     "india": {
       "label": "India News",
       "icon": "🇮🇳",
-      "subtitle": "Top India headlines and regional developments",
+      "subtitle": "Top India stories",
       "articles": [
         {
-          "emoji": "🚛",
-          "title": "Seven killed as truck collides with car in Gujarat’s Kutch",
+          "emoji": "🤝",
+          "title": "India announces $1.6 billion package for Nepal during Balen Shah visit",
           "bullets": [
-            "A speeding truck collided with a car in Kutch.",
-            "The Indian Express reported seven deaths.",
-            "The story led its India live updates on November 22."
+            "Prime Minister Narendra Modi announced a major development package for Nepal.",
+            "Nepal Prime Minister Balendra Shah visited India from November 22–23.",
+            "The two sides unveiled a joint vision to reset ties."
           ],
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/india-breaking-news-today-live-updates-22-november-2026-delhi-mumbai-weather-pollution-gujarat-rajasthan-accident-10973332/"
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-november-23-sc-bs-vi-vehicles-delhi-pollution-india-announces-nepal-package-icc-bat-gauges-101795434979114.html"
         },
         {
-          "emoji": "🪖",
-          "title": "India and China commanders meet to calm Arunachal frontier",
+          "emoji": "🏫",
+          "title": "Modi announces offshore IIT campus plan in Nepal",
           "bullets": [
-            "Indian Express listed the meeting in its November 22 archive.",
-            "Commanders discussed tensions along the Arunachal frontier.",
-            "The talks focused on calming the border situation."
+            "The announcement came during Nepal PM Balendra Shah’s India visit.",
+            "It was framed as part of expanded India-Nepal cooperation.",
+            "The proposal was highlighted in Monday current-affairs updates."
           ],
-          "source": "The Indian Express",
-          "url": "https://indianexpress.com/archive/2026/11/22/"
+          "source": "The Hindu / NextMock",
+          "url": "https://www.nextmock.in/current-affairs/national"
         },
         {
-          "emoji": "🇳🇵",
-          "title": "Nepal prime minister’s India visit leads November 22 headlines",
+          "emoji": "🚗",
+          "title": "Supreme Court weighs BS-VI mandate for Delhi amid pollution concerns",
           "bullets": [
-            "Dainik Jagran listed Nepal PM’s India visit among top headlines.",
-            "The visit was highlighted with other national stories.",
-            "The roundup was published on November 22."
+            "The Supreme Court considered matters linked to Delhi-NCR air pollution.",
+            "The issue included vehicle-emission standards in the capital region.",
+            "The hearing was listed among Monday’s major India developments."
           ],
-          "source": "Dainik Jagran English",
-          "url": "https://english.dainikjagranmpcg.com/special-news/november-22-2026-todays-top-news-headlines/article-45743"
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-november-23-sc-bs-vi-vehicles-delhi-pollution-india-announces-nepal-package-icc-bat-gauges-101795434979114.html"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Supreme Court to hear West Bengal electoral-roll revision pleas",
+          "bullets": [
+            "The court listed petitions on Special Intensive Revision in West Bengal.",
+            "Petitioners included Mamata Banerjee, Rahul Gandhi and INDIA bloc leaders.",
+            "The pleas allege irregularities in the revision process."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-23-november-2026-delhi-mumbai-weather-kochi-telangana-supreme-court-bengal-sir-modi-balendra-shah-ayodhya-janakpur-train-10974387/"
         },
         {
           "emoji": "🏏",
-          "title": "Rishabh Pant century powers India against New Zealand",
+          "title": "ICC to introduce bat gauges in cricket rule enforcement",
           "bullets": [
-            "Pant scored his ninth Test century.",
-            "India reached 629 for six at lunch on day four.",
-            "The match was against New Zealand at Basin Reserve."
+            "The ICC move was included in Monday’s national news brief.",
+            "Bat gauges are intended to standardize equipment checks.",
+            "The update appeared alongside major India policy and court stories."
           ],
-          "source": "News9live",
-          "url": "https://www.news9live.com/india/breaking-news-live-updates-todays-news-headlines-november-22-2026-pm-narendra-modi-us-president-donald-trump-us-israel-vs-iran-war-missiles-3026537"
-        },
-        {
-          "emoji": "🛢️",
-          "title": "India’s net oil and gas import bill jumps in October",
-          "bullets": [
-            "India’s net oil and gas import bill rose 60% year over year.",
-            "The October bill reached $16 billion.",
-            "PPAC data cited Brent averaging $124.77 a barrel."
-          ],
-          "source": "PTI via TaxTMI",
-          "url": "https://www.taxtmi.com/news?id=75451&page=1"
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-november-23-sc-bs-vi-vehicles-delhi-pollution-india-announces-nepal-package-icc-bat-gauges-101795434979114.html"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
       "icon": "📈",
-      "subtitle": "Market movers and trading stories",
+      "subtitle": "Market movers and trading themes",
       "articles": [
         {
-          "emoji": "📉",
-          "title": "Nasdaq dives as AI stocks sell off",
+          "emoji": "📊",
+          "title": "US futures rise as tech attempts rebound from AI-led rout",
           "bullets": [
-            "Kiplinger reported the Nasdaq fell 1,261 points.",
-            "AI-related names led the selloff.",
-            "The decline capped a dismal week for major indexes."
+            "US equity futures climbed early Monday after a brutal sell-off.",
+            "Technology shares led the premarket recovery attempt.",
+            "AP said investors were watching AI-linked stocks closely."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/49ba1beba78fa4ed2bd5898029f79c91"
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI spending worries pressure market sentiment after sell-off",
+          "bullets": [
+            "Axios reported investors are reassessing AI capital-spending expectations.",
+            "UBS said markets need evidence of AI monetization.",
+            "The story followed sharp declines in AI-linked equities."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/23/ai-spending-slowdown"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Anthropic and AI stocks remain focus after Nasdaq plunge",
+          "bullets": [
+            "Kiplinger reported the Nasdaq dropped sharply Friday.",
+            "Anthropic and other AI-linked shares led market attention.",
+            "The sell-off came after volatile trading around AI valuations."
           ],
           "source": "Kiplinger",
           "url": "https://www.kiplinger.com/investing/stocks/nasdaq-dives-1-261-points-as-anthropic-ai-stocks-sink-stock-market-today"
         },
         {
-          "emoji": "🟢",
-          "title": "Nvidia slides after Reuters reports SEC accounting probe",
+          "emoji": "🛡️",
+          "title": "Zscaler jumps premarket after CrowdStrike deal report",
           "bullets": [
-            "Reuters reported the SEC is examining potential accounting issues.",
-            "Nvidia shares plunged sharply on Friday.",
-            "The stock had its worst week since 2008, according to market roundups."
+            "Swingfolio reported Zscaler shares rose sharply before Monday’s open.",
+            "The move followed a reported CrowdStrike all-stock acquisition agreement.",
+            "CrowdStrike shares fell in the same premarket update."
           ],
-          "source": "Reuters via StreetInsider / StockCar",
-          "url": "https://www.streetinsider.com/?trk=article-ssr-frontend-pulse_little-text-block"
+          "source": "Swingfolio / CNBC / Reuters",
+          "url": "https://swingfolio.com/daily/us/2026-11-23/morning"
         },
         {
-          "emoji": "🤖",
-          "title": "Anthropic’s post-IPO stumble hits AI trade",
+          "emoji": "💾",
+          "title": "Chip and memory stocks remain volatile after last week’s drop",
           "bullets": [
-            "Anthropic fell after its much-watched market debut.",
-            "Reuters called the move a reality check for AI stocks.",
-            "The decline added pressure to broader technology shares."
+            "Market updates showed semiconductor names rebounding in premarket trading.",
+            "Friday’s rout hit memory and AI-infrastructure stocks hard.",
+            "Nvidia remained a key driver of index swings."
           ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
-        },
-        {
-          "emoji": "🚗",
-          "title": "Tesla shares slide as market selloff overshadows upgrade",
-          "bullets": [
-            "StreetInsider listed Tesla among Friday’s notable decliners.",
-            "The broader market selloff weighed on the stock.",
-            "The move came despite an HSBC upgrade."
-          ],
-          "source": "StreetInsider",
-          "url": "https://www.streetinsider.com/?trk=article-ssr-frontend-pulse_little-text-block"
-        },
-        {
-          "emoji": "₿",
-          "title": "Bitcoin falls below $60,000 and hits two-year low",
-          "bullets": [
-            "Reuters reported Bitcoin dropped below $60,000.",
-            "A later item said it reached its lowest level in two years.",
-            "The decline tracked broader risk-asset weakness."
-          ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+          "source": "Market Chameleon / AP",
+          "url": "https://marketchameleon.com/?pap_aid=4120433"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Corporate, finance and economy headlines",
+      "subtitle": "Corporate and economy headlines",
       "articles": [
         {
+          "emoji": "🛒",
+          "title": "Home Depot CEO transition takes effect after market turbulence",
+          "bullets": [
+            "Kiplinger reported Ted Decker would leave the CEO role November 23.",
+            "CFO Richard McPhail was set to replace him.",
+            "The update came during a sharp Dow sell-off last week."
+          ],
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/dow-dives-848-points-as-nsa-outage-wrecks-tech-stock-market-today"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "CrowdStrike agrees to buy Zscaler in all-stock cybersecurity deal",
+          "bullets": [
+            "The reported deal valued Zscaler at about $43.9 billion.",
+            "CrowdStrike shareholders would own most of the combined company.",
+            "The companies targeted $1 billion in extra annual revenue."
+          ],
+          "source": "CNBC / Reuters / Swingfolio",
+          "url": "https://swingfolio.com/daily/us/2026-11-23/morning"
+        },
+        {
           "emoji": "🏦",
-          "title": "Spain to extend banking tax to fund housing policies",
+          "title": "Investors look to PMIs and policy data in shortened Thanksgiving week",
           "bullets": [
-            "Prime Minister Pedro Sánchez announced the plan Saturday.",
-            "The banking tax extension would support housing policies.",
-            "Reuters reported the announcement from Madrid."
+            "US markets face a holiday-shortened trading week.",
+            "S&P Global flash PMIs were scheduled for Monday.",
+            "GDP and PCE data were expected later in the week."
           ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+          "source": "Reddit market calendar citing CNBC/AP/Schwab",
+          "url": "https://www.reddit.com/r/DayTradeFutures/comments/1y33fhm/sunday_open_week_ahead_nov_22_futures_bounce/"
         },
         {
-          "emoji": "⚖️",
-          "title": "Missouri judge approves Bayer’s $7.25 billion Roundup settlement",
+          "emoji": "⚡",
+          "title": "OPPD proposes 3% residential electricity-rate increase",
           "bullets": [
-            "A Missouri judge approved Bayer’s Roundup settlement.",
-            "The deal is valued at $7.25 billion.",
-            "Reuters reported the ruling on November 20."
+            "Omaha Public Power District proposed higher residential electricity rates.",
+            "The proposed increase was listed at 3%.",
+            "The update was reported by Telemundo Nebraska on Sunday."
           ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+          "source": "Telemundo Nebraska",
+          "url": "https://tmneeste.producer.immergo.tv/story/370530683/ap-news-summary-at-429-am-est"
         },
         {
-          "emoji": "🚚",
-          "title": "Stellantis recalls more than 82,000 Ram trucks",
+          "emoji": "🧾",
+          "title": "Markets monitor China margin-rule support after AI-stock wipeout",
           "bullets": [
-            "Stellantis recalled 82,843 Chrysler Ram pickups.",
-            "The issue involves anti-lock brake software risk.",
-            "Reuters reported the recall on November 20."
+            "Reuters-linked market reports said China planned margin-rule easing.",
+            "The measure would reduce minimum margins for financed stock purchases.",
+            "The change was expected to begin November 30."
           ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
-        },
-        {
-          "emoji": "🥛",
-          "title": "Verlinvest to buy China Resources’ stake in Oatly",
-          "bullets": [
-            "Belgium’s Verlinvest agreed to buy China Resources’ Oatly stake.",
-            "The deal concerns the oat milk maker’s ownership structure.",
-            "Reuters reported the agreement from New York."
-          ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
-        },
-        {
-          "emoji": "💳",
-          "title": "GTCR explores takeover of Global Payments",
-          "bullets": [
-            "GTCR is exploring a potential takeover of Global Payments.",
-            "Reuters cited sources familiar with the matter.",
-            "The report was published on November 20."
-          ],
-          "source": "Reuters via Global Banking & Finance Review",
-          "url": "https://www.globalbankingandfinance.com/author/reuters/"
+          "source": "Market Wealth Pro / Reuters",
+          "url": "https://marketwealthpro.com/2026/11/23/daily-report-2026-11-23/"
         }
       ]
     },
     "tech": {
       "label": "Tech",
       "icon": "💻",
-      "subtitle": "Technology, AI and cybersecurity developments",
+      "subtitle": "Technology and AI developments",
       "articles": [
         {
           "emoji": "🤖",
-          "title": "AI leaders warn of a 2027 reckoning",
+          "title": "AI trade enters new phase as investors question spending boom",
           "bullets": [
-            "Axios interviewed leaders across government, AI, business and cyber.",
-            "Officials worry government expertise is lagging AI advances.",
-            "The report frames AI preparedness as a national security issue."
+            "Axios said the AI trade entered uncharted territory after market declines.",
+            "Investors are focused on capex growth and monetization.",
+            "The shift follows months of rapid AI-stock gains."
           ],
           "source": "Axios",
-          "url": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning"
-        },
-        {
-          "emoji": "🌐",
-          "title": "Tech outages pile up as AI raises cybersecurity stakes",
-          "bullets": [
-            "AP reported recent disruptions across government and private systems.",
-            "Experts cited AI’s role in both attack and defense.",
-            "Google warned hackers are using more sophisticated AI techniques."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/0c0f0cf4983a0f81ba88c4c4d2b8383f"
-        },
-        {
-          "emoji": "🇪🇺",
-          "title": "AI-generated cyberattack targeted European Union institution",
-          "bullets": [
-            "An EU official confirmed an AI-generated cyberattack.",
-            "The incident was first detected on October 22.",
-            "Some digital tools remained offline weeks later."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/79705095e8141cd650196dbff1cf3c70"
-        },
-        {
-          "emoji": "🧱",
-          "title": "AI finds critical security flaws in NGINX",
-          "bullets": [
-            "Researchers found serious NGINX vulnerabilities using AI.",
-            "TechRadar said the flaws could be exploited to steal data.",
-            "CISA warned organizations to patch immediately."
-          ],
-          "source": "TechRadar",
-          "url": "https://www.techradar.com/pro/security/ai-finds-internet-breaker-security-flaws-in-nginx-open-source-technology-responsible-for-running-hundreds-of-millions-of-websites-has-decades-old-issues-which-can-be-hijacked-to-steal-data"
+          "url": "https://www.axios.com/2026/11/23/ai-spending-slowdown"
         },
         {
           "emoji": "🏭",
-          "title": "Trump threatens tax on overseas AI data centers",
+          "title": "Trump threatens tax on US companies building AI data centers abroad",
           "bullets": [
-            "AP reported Trump threatened a tax on foreign AI data centers.",
-            "The stance highlights tensions over AI infrastructure expansion.",
-            "The item appeared in AP’s November 21 technology summary."
+            "AP reported Trump threatened a tax on overseas AI data-center builds.",
+            "The proposal highlights tensions over AI infrastructure location.",
+            "The policy targets companies expanding computing capacity outside the US."
           ],
-          "source": "Associated Press via WV News",
-          "url": "https://www.wvnews.com/business/ap-technology-summarybrief-at-2-22-a-m-est/article_96f406ad-da53-593e-8eed-2e2e1688c53b.html"
+          "source": "Associated Press / Arab Times",
+          "url": "https://www.arabtimesonline.com/arabtimes/uploads/images/2026/11/22/151365.pdf"
+        },
+        {
+          "emoji": "🔐",
+          "title": "FBI investigates apparent hack of key criminal-justice database",
+          "bullets": [
+            "AP reported the FBI was investigating an apparent database hack.",
+            "The system is tied to national criminal-justice operations.",
+            "The incident followed a broader wave of November technology outages."
+          ],
+          "source": "Associated Press / Wikipedia summary",
+          "url": "https://en.wikipedia.org/wiki/November_2026_technology_outages"
+        },
+        {
+          "emoji": "🧊",
+          "title": "European commercial refrigerator hacks prompt security operation",
+          "bullets": [
+            "BBC reported an operation to secure commercial fridges and freezers.",
+            "The action targeted cyber risks in connected refrigeration equipment.",
+            "The issue was listed among November 2026 UK technology developments."
+          ],
+          "source": "BBC News / Wikipedia summary",
+          "url": "https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom"
+        },
+        {
+          "emoji": "🩺",
+          "title": "NHS begins recruiting for major AI breast-cancer screening trial",
+          "bullets": [
+            "The NHS began recruiting participants on November 23.",
+            "The trial uses AI in breast-cancer screening.",
+            "It was described as the world’s largest trial of its kind."
+          ],
+          "source": "BBC News / Wikipedia summary",
+          "url": "https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom"
         }
       ]
     }

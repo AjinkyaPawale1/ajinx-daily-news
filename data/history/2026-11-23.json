@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-23",
+  "displayDate": "Monday, November 23, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "✈️",
+          "title": "Delta automation problem delays flights during Thanksgiving travel rush",
+          "bullets": [
+            "Delta reported an automation-system problem affecting operations Sunday.",
+            "The FAA issued a temporary ground stop for some Atlanta-bound flights.",
+            "The disruption hit as Thanksgiving travel volumes began rising."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/d4bdb732da930205ec3453d35c28daa2"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Democrats secure largest House majority since 1992 after North Carolina call",
+          "bullets": [
+            "AP projected Democrat Chuck Hubbard won North Carolina’s 5th District.",
+            "The call expanded Democrats’ House majority after the 2026 midterms.",
+            "The result added to Republican losses in previously competitive territory."
+          ],
+          "source": "Associated Press / Omni",
+          "url": "https://omni.se/demokraterna-nar-storsta-majoriteten-sedan-1992/a/Pv9Ab6"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "North Carolina Legislature splits control between Democrats and Republicans",
+          "bullets": [
+            "AP projected Democrats won control of the North Carolina House.",
+            "Republicans retained control of the state Senate.",
+            "The split legislature sets up divided control in Raleigh."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/local/raleigh/2026/11/23/north-carolina-election-democrats-house-majority-republican-senate"
+        },
+        {
+          "emoji": "💣",
+          "title": "US Army plans emergency detonation of bomb-making chemicals in Iowa",
+          "bullets": [
+            "The Army plans to invoke emergency provisions for the detonation.",
+            "Officials identified the material as bomb-making chemicals in Iowa.",
+            "The action was listed in AP’s Monday morning news summary."
+          ],
+          "source": "Associated Press",
+          "url": "https://tmneeste.producer.immergo.tv/story/370530683/ap-news-summary-at-429-am-est"
+        },
+        {
+          "emoji": "🌉",
+          "title": "Platte River bridge near Schuyler reopens after closure",
+          "bullets": [
+            "Local officials reopened the bridge over the Platte River near Schuyler.",
+            "The update was posted Sunday, ahead of Monday morning travel.",
+            "The reopening affects regional traffic in eastern Nebraska."
+          ],
+          "source": "Telemundo Nebraska",
+          "url": "https://tmneeste.producer.immergo.tv/story/370530683/ap-news-summary-at-429-am-est"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide developments",
+      "articles": [
+        {
+          "emoji": "🚢",
+          "title": "Zelenskyy praises Ukrainian drone strike on Russian warship in Libya",
+          "bullets": [
+            "Ukraine said naval drones struck a Russian warship in Libyan waters.",
+            "Zelenskyy praised the operation by Ukraine’s security services.",
+            "AP described it as a long-range strike far from Ukraine’s front line."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/c382f8eb06dca7d87e89bc6c18ba7d61"
+        },
+        {
+          "emoji": "🌡️",
+          "title": "UN climate talks collapse without major fossil-fuel deal",
+          "bullets": [
+            "AP reported the climate talks ended without a comprehensive agreement.",
+            "Fossil-fuel language remained a central sticking point.",
+            "The United States did not participate in the negotiations."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/f571df2b9d6dc6fd6b4b991e988c3bdd"
+        },
+        {
+          "emoji": "🗣️",
+          "title": "Climate negotiators react after talks end without deal",
+          "bullets": [
+            "Leaders and delegates expressed disappointment after the talks closed.",
+            "Small and vulnerable states sought stronger emissions and finance commitments.",
+            "The final outcome left major climate-policy disputes unresolved."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/baed7f1491d16a00ee9b60a35596e1f6"
+        },
+        {
+          "emoji": "🇨🇦",
+          "title": "Canada’s Carney roasts Trump and politicians at press gallery dinner",
+          "bullets": [
+            "Prime Minister Mark Carney appeared with a fake Donald Trump onstage.",
+            "The event was Canada’s annual press gallery dinner with journalists.",
+            "Opposition leader Pierre Poilievre also delivered political jokes."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/75c0aa1ae75143e2cd044fc289149d44"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Kyiv’s allies push back after Trump-Putin diplomacy alarms Europe",
+          "bullets": [
+            "European leaders discussed Ukraine security after Trump’s Asia meetings.",
+            "Zelenskyy joined talks with European leaders and US envoys.",
+            "Le Monde reported allies were resisting pressure on Kyiv."
+          ],
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/20/kyiv-s-allies-push-back-against-trump-and-putin-s-provocations_6785209_4.html"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top India stories",
+      "articles": [
+        {
+          "emoji": "🤝",
+          "title": "India announces $1.6 billion package for Nepal during Balen Shah visit",
+          "bullets": [
+            "Prime Minister Narendra Modi announced a major development package for Nepal.",
+            "Nepal Prime Minister Balendra Shah visited India from November 22–23.",
+            "The two sides unveiled a joint vision to reset ties."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-november-23-sc-bs-vi-vehicles-delhi-pollution-india-announces-nepal-package-icc-bat-gauges-101795434979114.html"
+        },
+        {
+          "emoji": "🏫",
+          "title": "Modi announces offshore IIT campus plan in Nepal",
+          "bullets": [
+            "The announcement came during Nepal PM Balendra Shah’s India visit.",
+            "It was framed as part of expanded India-Nepal cooperation.",
+            "The proposal was highlighted in Monday current-affairs updates."
+          ],
+          "source": "The Hindu / NextMock",
+          "url": "https://www.nextmock.in/current-affairs/national"
+        },
+        {
+          "emoji": "🚗",
+          "title": "Supreme Court weighs BS-VI mandate for Delhi amid pollution concerns",
+          "bullets": [
+            "The Supreme Court considered matters linked to Delhi-NCR air pollution.",
+            "The issue included vehicle-emission standards in the capital region.",
+            "The hearing was listed among Monday’s major India developments."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-november-23-sc-bs-vi-vehicles-delhi-pollution-india-announces-nepal-package-icc-bat-gauges-101795434979114.html"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Supreme Court to hear West Bengal electoral-roll revision pleas",
+          "bullets": [
+            "The court listed petitions on Special Intensive Revision in West Bengal.",
+            "Petitioners included Mamata Banerjee, Rahul Gandhi and INDIA bloc leaders.",
+            "The pleas allege irregularities in the revision process."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-23-november-2026-delhi-mumbai-weather-kochi-telangana-supreme-court-bengal-sir-modi-balendra-shah-ayodhya-janakpur-train-10974387/"
+        },
+        {
+          "emoji": "🏏",
+          "title": "ICC to introduce bat gauges in cricket rule enforcement",
+          "bullets": [
+            "The ICC move was included in Monday’s national news brief.",
+            "Bat gauges are intended to standardize equipment checks.",
+            "The update appeared alongside major India policy and court stories."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-november-23-sc-bs-vi-vehicles-delhi-pollution-india-announces-nepal-package-icc-bat-gauges-101795434979114.html"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and trading themes",
+      "articles": [
+        {
+          "emoji": "📊",
+          "title": "US futures rise as tech attempts rebound from AI-led rout",
+          "bullets": [
+            "US equity futures climbed early Monday after a brutal sell-off.",
+            "Technology shares led the premarket recovery attempt.",
+            "AP said investors were watching AI-linked stocks closely."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/49ba1beba78fa4ed2bd5898029f79c91"
+        },
+        {
+          "emoji": "🤖",
+          "title": "AI spending worries pressure market sentiment after sell-off",
+          "bullets": [
+            "Axios reported investors are reassessing AI capital-spending expectations.",
+            "UBS said markets need evidence of AI monetization.",
+            "The story followed sharp declines in AI-linked equities."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/23/ai-spending-slowdown"
+        },
+        {
+          "emoji": "🧠",
+          "title": "Anthropic and AI stocks remain focus after Nasdaq plunge",
+          "bullets": [
+            "Kiplinger reported the Nasdaq dropped sharply Friday.",
+            "Anthropic and other AI-linked shares led market attention.",
+            "The sell-off came after volatile trading around AI valuations."
+          ],
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/nasdaq-dives-1-261-points-as-anthropic-ai-stocks-sink-stock-market-today"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "Zscaler jumps premarket after CrowdStrike deal report",
+          "bullets": [
+            "Swingfolio reported Zscaler shares rose sharply before Monday’s open.",
+            "The move followed a reported CrowdStrike all-stock acquisition agreement.",
+            "CrowdStrike shares fell in the same premarket update."
+          ],
+          "source": "Swingfolio / CNBC / Reuters",
+          "url": "https://swingfolio.com/daily/us/2026-11-23/morning"
+        },
+        {
+          "emoji": "💾",
+          "title": "Chip and memory stocks remain volatile after last week’s drop",
+          "bullets": [
+            "Market updates showed semiconductor names rebounding in premarket trading.",
+            "Friday’s rout hit memory and AI-infrastructure stocks hard.",
+            "Nvidia remained a key driver of index swings."
+          ],
+          "source": "Market Chameleon / AP",
+          "url": "https://marketchameleon.com/?pap_aid=4120433"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economy headlines",
+      "articles": [
+        {
+          "emoji": "🛒",
+          "title": "Home Depot CEO transition takes effect after market turbulence",
+          "bullets": [
+            "Kiplinger reported Ted Decker would leave the CEO role November 23.",
+            "CFO Richard McPhail was set to replace him.",
+            "The update came during a sharp Dow sell-off last week."
+          ],
+          "source": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/stocks/dow-dives-848-points-as-nsa-outage-wrecks-tech-stock-market-today"
+        },
+        {
+          "emoji": "🛡️",
+          "title": "CrowdStrike agrees to buy Zscaler in all-stock cybersecurity deal",
+          "bullets": [
+            "The reported deal valued Zscaler at about $43.9 billion.",
+            "CrowdStrike shareholders would own most of the combined company.",
+            "The companies targeted $1 billion in extra annual revenue."
+          ],
+          "source": "CNBC / Reuters / Swingfolio",
+          "url": "https://swingfolio.com/daily/us/2026-11-23/morning"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Investors look to PMIs and policy data in shortened Thanksgiving week",
+          "bullets": [
+            "US markets face a holiday-shortened trading week.",
+            "S&P Global flash PMIs were scheduled for Monday.",
+            "GDP and PCE data were expected later in the week."
+          ],
+          "source": "Reddit market calendar citing CNBC/AP/Schwab",
+          "url": "https://www.reddit.com/r/DayTradeFutures/comments/1y33fhm/sunday_open_week_ahead_nov_22_futures_bounce/"
+        },
+        {
+          "emoji": "⚡",
+          "title": "OPPD proposes 3% residential electricity-rate increase",
+          "bullets": [
+            "Omaha Public Power District proposed higher residential electricity rates.",
+            "The proposed increase was listed at 3%.",
+            "The update was reported by Telemundo Nebraska on Sunday."
+          ],
+          "source": "Telemundo Nebraska",
+          "url": "https://tmneeste.producer.immergo.tv/story/370530683/ap-news-summary-at-429-am-est"
+        },
+        {
+          "emoji": "🧾",
+          "title": "Markets monitor China margin-rule support after AI-stock wipeout",
+          "bullets": [
+            "Reuters-linked market reports said China planned margin-rule easing.",
+            "The measure would reduce minimum margins for financed stock purchases.",
+            "The change was expected to begin November 30."
+          ],
+          "source": "Market Wealth Pro / Reuters",
+          "url": "https://marketwealthpro.com/2026/11/23/daily-report-2026-11-23/"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI developments",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "AI trade enters new phase as investors question spending boom",
+          "bullets": [
+            "Axios said the AI trade entered uncharted territory after market declines.",
+            "Investors are focused on capex growth and monetization.",
+            "The shift follows months of rapid AI-stock gains."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/23/ai-spending-slowdown"
+        },
+        {
+          "emoji": "🏭",
+          "title": "Trump threatens tax on US companies building AI data centers abroad",
+          "bullets": [
+            "AP reported Trump threatened a tax on overseas AI data-center builds.",
+            "The proposal highlights tensions over AI infrastructure location.",
+            "The policy targets companies expanding computing capacity outside the US."
+          ],
+          "source": "Associated Press / Arab Times",
+          "url": "https://www.arabtimesonline.com/arabtimes/uploads/images/2026/11/22/151365.pdf"
+        },
+        {
+          "emoji": "🔐",
+          "title": "FBI investigates apparent hack of key criminal-justice database",
+          "bullets": [
+            "AP reported the FBI was investigating an apparent database hack.",
+            "The system is tied to national criminal-justice operations.",
+            "The incident followed a broader wave of November technology outages."
+          ],
+          "source": "Associated Press / Wikipedia summary",
+          "url": "https://en.wikipedia.org/wiki/November_2026_technology_outages"
+        },
+        {
+          "emoji": "🧊",
+          "title": "European commercial refrigerator hacks prompt security operation",
+          "bullets": [
+            "BBC reported an operation to secure commercial fridges and freezers.",
+            "The action targeted cyber risks in connected refrigeration equipment.",
+            "The issue was listed among November 2026 UK technology developments."
+          ],
+          "source": "BBC News / Wikipedia summary",
+          "url": "https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom"
+        },
+        {
+          "emoji": "🩺",
+          "title": "NHS begins recruiting for major AI breast-cancer screening trial",
+          "bullets": [
+            "The NHS began recruiting participants on November 23.",
+            "The trial uses AI in breast-cancer screening.",
+            "It was described as the world’s largest trial of its kind."
+          ],
+          "source": "BBC News / Wikipedia summary",
+          "url": "https://en.wikipedia.org/wiki/2026_in_the_United_Kingdom"
+        }
+      ]
+    }
+  }
+}
