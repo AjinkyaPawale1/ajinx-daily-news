@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-24",
-  "displayDate": "Tuesday, November 24, 2026",
+  "date": "2026-11-25",
+  "displayDate": "Wednesday, November 25, 2026",
   "categories": {
     "us": {
       "label": "US News",
       "icon": "🇺🇸",
-      "subtitle": "Top domestic stories from the last 1–2 days",
+      "subtitle": "Top domestic headlines from the last 1–2 days",
       "articles": [
         {
-          "emoji": "💊",
-          "title": "AP investigation says DEA allowed 1.4 million fentanyl pills to go unseized",
-          "bullets": [
-            "AP reported findings on fentanyl pills allegedly allowed to move unseized.",
-            "The story focuses on DEA tactics and Justice Department rules.",
-            "It raises questions about fentanyl enforcement and public-safety risks."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/f8a2c4cf802a811cc6126ffca0a245ef"
-        },
-        {
-          "emoji": "🏛️",
-          "title": "Trump’s role in Nvidia CEO reinstatement becomes new political flashpoint",
-          "bullets": [
-            "AP reported Democrats are targeting Trump’s ties to tech executives.",
-            "The criticism intensified after Jensen Huang returned as Nvidia CEO.",
-            "Potential 2028 contenders framed the issue around power and accountability."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/7c83c2f90e924291e435e0fb0d51f524"
-        },
-        {
           "emoji": "🏭",
-          "title": "Data-center expansion draws scrutiny in Black communities",
+          "title": "Trump administration proposes new tariffs on China, EU and other partners",
           "bullets": [
-            "AP examined data-center growth in Black communities.",
-            "Residents described limited say over local siting decisions.",
-            "The issue is growing as AI infrastructure spending accelerates."
+            "Officials outlined additional duties on China and several major trading partners.",
+            "The proposal targets subsidized production that Washington says disadvantages U.S. manufacturers.",
+            "The tariffs remain at the proposal stage with no firm implementation timeline."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/2288a4183181e6fdb61d4aa0a3e93705"
+          "url": "https://apnews.com/article/367083ea32f71fd7f70029ba7df66bf0"
         },
         {
-          "emoji": "📈",
-          "title": "US stocks post major rebound after AI-sector selloff",
+          "emoji": "✈️",
+          "title": "Small plane crash off Mississippi coast kills six people",
           "bullets": [
-            "The Nasdaq rose 6.5% on Monday, AP reported.",
-            "The Dow gained nearly 1,450 points in the rally.",
-            "AI-linked stocks led the rebound after sharp prior declines."
+            "A Cessna 210 crashed Tuesday in the Gulf of Mexico off Mississippi.",
+            "The Coast Guard said four adults and two children were killed.",
+            "The FAA and NTSB will investigate the crash."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/49ba1beba78fa4ed2bd5898029f79c91"
+          "url": "https://apnews.com/article/a1dfde1b2e73ef5862a4786db9644046"
         },
         {
-          "emoji": "🧨",
-          "title": "US Army gets court approval to detonate degraded bomb-making material in Iowa",
+          "emoji": "⚖️",
+          "title": "Fort Hood shooter asks federal court to delay firing-squad execution",
           "bullets": [
-            "A news roundup listed the Iowa detonation approval among top US stories.",
-            "The case involves degraded bomb-making material held by the Army.",
-            "Officials sought court clearance before carrying out the detonation."
+            "Nidal Hasan sought more time to challenge his death sentence.",
+            "His execution had been scheduled for next week.",
+            "A federal hearing was set for Wednesday morning."
           ],
-          "source": "The Daily Finite / AP News",
-          "url": "https://dailyfinite.news/"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/4b02f8c4545e5e7e3ee4a06b703d9780"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "Young Republicans call for party reset after midterm losses",
+          "bullets": [
+            "Young GOP activists met in Texas after damaging midterm results.",
+            "Democrats won major Texas statewide races, AP reported.",
+            "Participants urged the party to address affordability and generational concerns."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/0e823c8c8beedc8f2deccc707c7bb0da"
+        },
+        {
+          "emoji": "🍽️",
+          "title": "GLP-1 weight-loss drugs reshape Thanksgiving eating habits",
+          "bullets": [
+            "More Americans using GLP-1 medications report smaller holiday portions.",
+            "Doctors say the drugs can reduce cravings and increase fullness.",
+            "The trend is changing some food-centered social traditions."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/66848ee82ce4111237a64a7d617b6b78"
         }
       ]
     },
@@ -70,307 +70,307 @@
       "subtitle": "Major worldwide stories from the last 1–2 days",
       "articles": [
         {
-          "emoji": "⛽",
-          "title": "Mine blasts set three oil tankers ablaze in Strait of Hormuz",
+          "emoji": "🛶",
+          "title": "Canary Islands record nearly 2,000 migrant arrivals in one day",
           "bullets": [
-            "Anadolu’s morning briefing cited Iran’s Revolutionary Guard Corps Navy.",
-            "Three oil tankers were reported ablaze after mine blasts.",
-            "The Strait of Hormuz is a critical global energy route."
+            "Spanish authorities reported 1,990 arrivals on 15 boats Tuesday.",
+            "Officials said it was a single-day record for the archipelago.",
+            "The surge comes ahead of Spain’s national election."
           ],
-          "source": "Anadolu Agency",
-          "url": "https://aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
-        },
-        {
-          "emoji": "🕊️",
-          "title": "Israeli drone strike kills Palestinians at Gaza police post",
-          "bullets": [
-            "Anadolu listed the Gaza strike among the day’s top world stories.",
-            "The reported target was a police post in Gaza.",
-            "The incident adds to continuing violence in the region."
-          ],
-          "source": "Anadolu Agency",
-          "url": "https://aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/dfa1b036283a58d040ea6a6ae6d8141a"
         },
         {
           "emoji": "🚢",
-          "title": "Russia and Ukraine clash at UN over Black Sea shipping attacks",
+          "title": "Libyan officers die after Ukrainian drone attack on Russian warship",
           "bullets": [
-            "Anadolu reported a UN clash over Black Sea shipping.",
-            "The dispute also covered attacks on energy infrastructure.",
-            "The issue reflects the war’s widening maritime and energy impacts."
-          ],
-          "source": "Anadolu Agency",
-          "url": "https://aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
-        },
-        {
-          "emoji": "🇮🇷",
-          "title": "Iran rules out US talks until seven conditions are met",
-          "bullets": [
-            "AP reported Iran rejected talks without preconditions being met.",
-            "The article covered the stance alongside other Mideast developments.",
-            "The position comes amid continuing US-Iran tensions."
+            "Libya’s eastern forces said two naval officers died from wounds.",
+            "The attack opened a new theater in the Russia-Ukraine conflict.",
+            "The Libyan National Army vowed retaliation."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/ba01cb036a849ba69873da5000ee08d5"
+          "url": "https://apnews.com/article/6995de4ee91278459742a359eeb7439e"
         },
         {
-          "emoji": "🦠",
-          "title": "WHO urges peace in DR Congo Ebola outbreak zone",
+          "emoji": "🌡️",
+          "title": "Pope Leo criticizes failure of UN climate talks",
           "bullets": [
-            "A Nov. 24 global news report cited a WHO plea for peace.",
-            "The outbreak’s epicentre has seen deadly Ebola cases.",
-            "WHO said conflict complicates health response efforts."
+            "Pope Leo XIV lamented the lack of agreement after COP31 talks.",
+            "He warned climate-linked extreme events are becoming more frequent.",
+            "The talks ended without an overarching deal on fossil fuels."
           ],
-          "source": "The Global New Light of Myanmar",
-          "url": "https://mdn.gov.mm/en/file-download/download/public/361020"
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/b49de85de51e04cb2d6326e94da25e8b"
+        },
+        {
+          "emoji": "🇪🇹",
+          "title": "Amnesty urges war-crimes probe into Ethiopian shelling in Tigray",
+          "bullets": [
+            "Amnesty said shelling of civilian areas should be independently investigated.",
+            "The group verified 14 civilian deaths in attacks on Alamata.",
+            "Renewed fighting has raised fears of wider conflict with Eritrea."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/427358084fef2eb567e38acd81c3eacd"
+        },
+        {
+          "emoji": "🧒",
+          "title": "Melania Trump announces seventh wartime child reunification effort",
+          "bullets": [
+            "The White House said another group of Ukrainian and Russian children returned home.",
+            "The effort has reunited 43 children with families, AP reported.",
+            "The first lady framed the work as humanitarian intervention amid war."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/4fa1ae5512f4fb71dc36478b0f44514e"
         }
       ]
     },
     "india": {
       "label": "India News",
       "icon": "🇮🇳",
-      "subtitle": "Top India stories from the last 1–2 days",
+      "subtitle": "Top India-focused headlines from the last 1–2 days",
       "articles": [
         {
-          "emoji": "🛕",
-          "title": "Over 5,600 police guard Thirupparankundram hill ahead of Deepathoon lighting",
+          "emoji": "🤖",
+          "title": "India urges human-centric approach to AI in armed conflict at UN",
           "bullets": [
-            "Indian Express reported heavy security at the Madurai hill site.",
-            "The deployment follows a Supreme Court interim order.",
-            "Public gatherings at the disputed hilltop were barred."
+            "India addressed a UN Security Council debate on AI and conflict.",
+            "Officials flagged risks of misuse by terrorist groups.",
+            "New Delhi called for safeguards centered on human responsibility."
           ],
           "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-24-november-2026-thirupparankundram-security-deepathoon-delhi-road-sweeping-machines-delay-10975898/"
+          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-25-november-2026-india-unsc-ai-conflict-congress-sad-bjp-reunion-miss-universe-10977499/"
         },
         {
-          "emoji": "🚧",
-          "title": "Delhi road-sweeping machine delays feature in India live news updates",
+          "emoji": "⚖️",
+          "title": "Supreme Court seeks responses on CEC protest detentions",
           "bullets": [
-            "Indian Express included Delhi civic delays in its live updates.",
-            "The issue concerns road-sweeping machines in the capital.",
-            "The story fits ongoing scrutiny of urban pollution measures."
+            "The Supreme Court asked the Centre and Delhi government to respond.",
+            "The matter concerns detentions during a CEC-related protest.",
+            "The case was listed among Wednesday’s national headlines."
           ],
           "source": "The Indian Express",
-          "url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-24-november-2026-thirupparankundram-security-deepathoon-delhi-road-sweeping-machines-delay-10975898/"
+          "url": "https://indianexpress.com/article/india/?productID=376"
         },
         {
-          "emoji": "🤝",
-          "title": "India announces ₹15,000 crore development package for Nepal",
+          "emoji": "🚨",
+          "title": "Top Court denies interim bail to Sharjeel Imam and Umar Khalid",
           "bullets": [
-            "A current-affairs roundup cited India’s Nepal assistance package.",
-            "The package followed Nepal’s prime minister’s November 22–23 state visit.",
-            "The aid was listed at ₹15,000 crore."
+            "The Supreme Court declined interim bail on Wednesday.",
+            "Sharjeel Imam and Umar Khalid remain in custody.",
+            "The matter appeared in NDTV’s latest India updates."
           ],
-          "source": "CLAT Gurukul / government joint-statement roundup",
-          "url": "https://clatgurukul.com/wp-content/uploads/gk-lessons/2026-11-24/daily-news-wrap-24-november-2026-clat.pdf"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india?disabledm=1&update=1420046258"
         },
         {
-          "emoji": "🚗",
-          "title": "Supreme Court developments on BS-VI vehicles in Delhi draw attention",
+          "emoji": "🪔",
+          "title": "Madurai collector apologizes in Supreme Court over Deepathoon lamp issue",
           "bullets": [
-            "A Nov. 24 current-affairs wrap listed the Supreme Court vehicle matter.",
-            "The issue concerns BS-VI vehicles in Delhi.",
-            "The topic connects court oversight with air-quality policy."
+            "The district collector filed a preliminary status report.",
+            "He gave an unconditional apology over the November 24 lamp-lighting issue.",
+            "The report was submitted before the Supreme Court."
           ],
-          "source": "CLAT Gurukul",
-          "url": "https://clatgurukul.com/wp-content/uploads/gk-lessons/2026-11-24/daily-news-wrap-24-november-2026-clat.pdf"
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/india?disabledm=1&update=1420046258"
         },
         {
-          "emoji": "🛂",
-          "title": "Dhaka expects New Delhi to comply with extradition treaty over Hasina",
+          "emoji": "🌾",
+          "title": "Centre expands tribal welfare outreach to 76,000 villages",
           "bullets": [
-            "A Nov. 24 India briefing cited Reuters reporting from Bangladesh.",
-            "Bangladesh said it expects India to follow the extradition treaty.",
-            "Dhaka said Hasina would be arrested if she returned."
+            "The Centre is building a grassroots network for tribal welfare schemes.",
+            "The outreach aims to cover 76,000 villages.",
+            "Economic Times listed the update among November 25 national headlines."
           ],
-          "source": "Belgaum Today / Reuters",
-          "url": "https://belgaum.today/briefing/2026-11-24"
+          "source": "The Economic Times",
+          "url": "https://economictimes.indiatimes.com/News/articlelist/1715249553.cms"
         }
       ]
     },
     "stocks": {
       "label": "US Stocks",
-      "icon": "📊",
-      "subtitle": "Market movers and US equity stories",
+      "icon": "📈",
+      "subtitle": "Key U.S. market movers and trading stories",
       "articles": [
         {
-          "emoji": "🟩",
-          "title": "Nvidia surges after Jensen Huang returns as CEO",
-          "bullets": [
-            "AP said Nvidia’s rebound powered a broader AI-stock rally.",
-            "The move followed the board’s decision to reinstate Huang.",
-            "The rally helped US indexes recover part of last week’s plunge."
-          ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/49ba1beba78fa4ed2bd5898029f79c91"
-        },
-        {
           "emoji": "🤖",
-          "title": "Anthropic slides below IPO price as tech whiplash continues",
+          "title": "AI stocks drag U.S. indexes lower after Monday rebound fades",
           "bullets": [
-            "AP reported Anthropic fell below its initial offering price.",
-            "The decline came after a sharp AI-sector rally.",
-            "US futures weakened as tech stocks gave back gains."
+            "AP said AI stocks pulled the market lower Tuesday.",
+            "The move followed a sharp Nvidia-led rally Monday.",
+            "Indexes remained volatile after recent all-time highs."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/feec0e25b9994b1c86b16329cf770192"
+          "url": "https://apnews.com/article/6cc4e580290aadf304ee316d6d46dd81"
         },
         {
-          "emoji": "📈",
-          "title": "Nasdaq jumps 6.5% in Monday rebound",
+          "emoji": "🧠",
+          "title": "Nvidia shares slump as Huang comeback rally reverses",
           "bullets": [
-            "AP reported the Nasdaq Composite rose 1,471.82 points.",
-            "The index closed at 24,089.56 on Monday.",
-            "AI-linked stocks led the market advance."
+            "Nvidia fell after surging on Jensen Huang’s reinstatement.",
+            "AP reported the broader AI rout continued Wednesday.",
+            "Investors reassessed governance concerns and AI valuations."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/fcdf1bad36b4f81c90cbb0f33a2c5704"
+          "url": "https://apnews.com/article/10044b4fb55d3ff20fde9ba9e9acaab1"
         },
         {
-          "emoji": "⚡",
-          "title": "Trefis lists NVDA, KYMR and AXTI among top market winners",
+          "emoji": "📉",
+          "title": "Anthropic falls below IPO price after record market debut",
           "bullets": [
-            "Trefis published a Nov. 24 market-movers screen.",
-            "Its winners list included NVDA, KYMR and AXTI.",
-            "The screen followed Monday’s broad US stock rally."
+            "Anthropic shares dropped below their $83 IPO price in premarket trading.",
+            "The decline added pressure to AI-linked stocks.",
+            "The IPO had been billed as the largest on record."
           ],
-          "source": "Trefis",
-          "url": "https://www.trefis.com/articles/628237/market-movers-winners-nvda-kymr-axti-losers-swrd-tron-agl/2026-11-24?from=section_article"
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-5a9e227a-6906-48a8-93a2-ec350042af44"
         },
         {
-          "emoji": "🔐",
-          "title": "CrowdStrike falls after agreeing to buy Zscaler in all-stock deal",
+          "emoji": "💻",
+          "title": "Dell jumps after raising fiscal 2027 revenue forecast",
           "bullets": [
-            "A market brief cited a $43.9 billion all-stock transaction.",
-            "CrowdStrike shares fell following the Zscaler deal news.",
-            "The move stood out during a volatile AI-led market rebound."
+            "Dell lifted its fiscal 2027 revenue forecast to $202 billion.",
+            "The update followed stronger-than-expected quarterly results.",
+            "Shares were highlighted among Wednesday premarket movers."
           ],
-          "source": "Panin Asset Management market brief",
-          "url": "https://rss.panin-am.co.id/Resources/Forms/Morning%20News%202026-11-24.pdf"
+          "source": "Swingfolio / CNBC",
+          "url": "https://swingfolio.com/daily/us/2026-11-25/morning"
+        },
+        {
+          "emoji": "🧩",
+          "title": "Analog Devices and HPE lead Tuesday’s S&P 500 decliners",
+          "bullets": [
+            "ChartMill cited Analog Devices and Hewlett Packard Enterprise among biggest losers.",
+            "Both stocks fell sharply in Tuesday’s session.",
+            "Tech weakness offset gains in most other S&P 500 sectors."
+          ],
+          "source": "ChartMill / CNBC",
+          "url": "https://www.chartmill.com/news/IART"
         }
       ]
     },
     "business": {
       "label": "Business",
       "icon": "💼",
-      "subtitle": "Corporate and business stories from the last 1–2 days",
+      "subtitle": "Major corporate and economy stories",
       "articles": [
         {
-          "emoji": "🧠",
-          "title": "Nvidia board reinstates Jensen Huang after political pressure",
+          "emoji": "💊",
+          "title": "Sanofi agrees to buy Insmed in $41 billion cash deal",
           "bullets": [
-            "AP reported Huang returned as Nvidia CEO.",
-            "Trump said his intervention helped persuade the board.",
-            "The decision reverberated across markets and politics."
+            "Sanofi will acquire Insmed for $175 per share in cash.",
+            "The companies announced the $41 billion transaction Tuesday.",
+            "The deal expands Sanofi’s pharmaceutical portfolio."
+          ],
+          "source": "Daily8News",
+          "url": "https://www.daily8news.com/category/business/?date=2026-11-15"
+        },
+        {
+          "emoji": "🧑‍💼",
+          "title": "Nvidia board faces scrutiny after reinstating Jensen Huang",
+          "bullets": [
+            "Nvidia’s board unanimously brought Huang back as CEO.",
+            "The reversal followed his resignation days earlier.",
+            "Critics questioned governance and outside political pressure."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/49ba1beba78fa4ed2bd5898029f79c91"
+          "url": "https://apnews.com/article/7b0af450cb10c489ae00c51ae14af58a"
         },
         {
-          "emoji": "🔐",
-          "title": "CrowdStrike agrees to acquire Zscaler in $43.9 billion all-stock deal",
+          "emoji": "🛃",
+          "title": "New U.S. tariff proposal targets subsidized foreign manufacturing",
           "bullets": [
-            "A daily market brief reported the cybersecurity mega-deal.",
-            "The transaction was described as all-stock.",
-            "CrowdStrike shares fell after the announcement."
-          ],
-          "source": "Panin Asset Management market brief",
-          "url": "https://rss.panin-am.co.id/Resources/Forms/Morning%20News%202026-11-24.pdf"
-        },
-        {
-          "emoji": "🏢",
-          "title": "AI data-center buildout faces community backlash",
-          "bullets": [
-            "AP reported tech companies are pouring billions into infrastructure.",
-            "Black communities described limited input on data-center siting.",
-            "The issue intersects AI investment, power demand and local governance."
+            "The administration plans higher tariffs on several major trading partners.",
+            "Officials said the move addresses subsidies and trade barriers.",
+            "The plan could affect imports from China, Europe and Asia."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/2288a4183181e6fdb61d4aa0a3e93705"
+          "url": "https://apnews.com/article/367083ea32f71fd7f70029ba7df66bf0"
         },
         {
-          "emoji": "🎮",
-          "title": "Grand Theft Auto VI release continues to reshape entertainment business",
+          "emoji": "🛒",
+          "title": "Best Buy shows signs of retail recovery after difficult years",
           "bullets": [
-            "Axios previously reported massive market impact from GTA VI.",
-            "The launch helped Take-Two reach a major valuation milestone.",
-            "The game’s sales became a major consumer-business story."
+            "Axios reported stronger momentum for the Minnesota-based retailer.",
+            "Gaming demand and advertising sales supported the business.",
+            "The company joins Target in a brighter Twin Cities retail outlook."
           ],
           "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-am-2a196908-3762-42ff-baaf-4595c57dbf01"
+          "url": "https://www.axios.com/newsletters/axios-twin-cities-4247bb82-aef1-4cf0-84cd-60bd3a3ec325"
         },
         {
-          "emoji": "💳",
-          "title": "Major companies form alliance to strengthen critical infrastructure resilience",
+          "emoji": "📰",
+          "title": "The Economist reports growth in subscriptions and operating profit",
           "bullets": [
-            "Axios reported JPMorgan CEO Jamie Dimon chairs the alliance.",
-            "Members span finance, energy, technology, telecom and airlines.",
-            "The group aims to reduce systemic business-continuity risks."
+            "The Economist’s consumer unit remains its largest business segment.",
+            "Axios reported operating profit grew 24% to £25 million.",
+            "The company is also monetizing video through sponsorships and platforms."
           ],
           "source": "Axios",
-          "url": "https://www.axios.com/newsletters/axios-am-4fdcdf3f-5786-4a64-b134-567fad56a564"
+          "url": "https://www.axios.com/newsletters/axios-media-trends-1fbf9e90-e852-11f1-bc70-f9cadc7f0c37"
         }
       ]
     },
     "tech": {
       "label": "Tech",
       "icon": "💻",
-      "subtitle": "Technology and AI stories from the last 1–2 days",
+      "subtitle": "Top technology stories and AI-sector developments",
       "articles": [
         {
-          "emoji": "🧑‍💼",
-          "title": "Jensen Huang’s Nvidia return steadies AI trade, then volatility resumes",
+          "emoji": "⚖️",
+          "title": "Huawei convicted in U.S. over bank fraud and sanctions-related charges",
           "bullets": [
-            "AP reported tech stocks weakened after Monday’s Huang rally.",
-            "Nvidia’s leadership reversal drove major market swings.",
-            "Anthropic also fell below its IPO price."
+            "A U.S. jury convicted Huawei on 10 of 12 criminal counts.",
+            "Charges included bank fraud and conspiracy to steal trade secrets.",
+            "Huawei was acquitted of racketeering and obstruction counts."
+          ],
+          "source": "TIME",
+          "url": "https://time.com/article/2026/11/25/huawei-guilty-crimes-fraud-conspiracy-sanctions-us-china/"
+        },
+        {
+          "emoji": "🧠",
+          "title": "AI market selloff deepens after Nvidia leadership turmoil",
+          "bullets": [
+            "AP reported renewed selling across AI-linked stocks.",
+            "Nvidia and Anthropic both weakened after earlier surges.",
+            "The moves reflected fading enthusiasm after Huang’s return."
           ],
           "source": "Associated Press",
-          "url": "https://apnews.com/article/feec0e25b9994b1c86b16329cf770192"
+          "url": "https://apnews.com/article/10044b4fb55d3ff20fde9ba9e9acaab1"
         },
         {
-          "emoji": "🏭",
-          "title": "AI data centers flood Black communities without residents having a say",
+          "emoji": "🔐",
+          "title": "Nvidia chip-diversion network to China draws renewed scrutiny",
           "bullets": [
-            "AP investigated racial disparities in data-center siting.",
-            "The buildout is tied to massive AI infrastructure spending.",
-            "Residents reported limited influence over local decisions."
+            "Le Monde reported on networks allegedly routing Nvidia chips to China.",
+            "The report connected the issue to the broader Huang scandal.",
+            "Documents reportedly tied hardware to a Shanghai-area data center."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/2288a4183181e6fdb61d4aa0a3e93705"
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/11/25/behind-the-nvidia-case-a-vast-network-diverting-ai-chips-to-china_6787816_19.html"
         },
         {
-          "emoji": "🔌",
-          "title": "Tech outages raise questions about whether disruptions are becoming normal",
+          "emoji": "📊",
+          "title": "Anthropic’s post-IPO slide tests investor appetite for AI",
           "bullets": [
-            "AP examined recent outages across sectors.",
-            "Experts are assessing AI’s role in risks and detection.",
-            "Centralized technology failures can cascade through public services."
+            "Anthropic shares fell below the $83 IPO price in premarket trading.",
+            "The move followed last week’s record-setting public listing.",
+            "Investors remain focused on AI profitability and infrastructure costs."
           ],
-          "source": "Associated Press",
-          "url": "https://apnews.com/article/0c0f0cf4983a0f81ba88c4c4d2b8383f"
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-5a9e227a-6906-48a8-93a2-ec350042af44"
         },
         {
-          "emoji": "🤖",
-          "title": "Sierra raises $1.75 billion at reported $30 billion valuation",
+          "emoji": "🎮",
+          "title": "RTX 5090 shortages hit major PC makers and U.S. retailers",
           "bullets": [
-            "A Nov. 24 tech roundup reported Sierra’s Series F raise.",
-            "The enterprise-agent company was valued around $30 billion.",
-            "The valuation roughly doubled its mid-November level."
+            "TechRadar reported Lenovo, Dell and HP ran out of RTX 5090 desktops.",
+            "Standalone cards have become rarer at U.S. retail outlets.",
+            "Demand is tied to gaming, rendering and local AI workloads."
           ],
-          "source": "The Day’s Tech, Sifted",
-          "url": "https://sift.yasint.dev/2026-11-24.html"
-        },
-        {
-          "emoji": "🛡️",
-          "title": "Cybersecurity sector shaken by CrowdStrike-Zscaler deal",
-          "bullets": [
-            "A market brief reported CrowdStrike’s agreement to buy Zscaler.",
-            "The deal was valued at $43.9 billion in stock.",
-            "The transaction would reshape enterprise cybersecurity competition."
-          ],
-          "source": "Panin Asset Management market brief",
-          "url": "https://rss.panin-am.co.id/Resources/Forms/Morning%20News%202026-11-24.pdf"
+          "source": "TechRadar",
+          "url": "https://www.techradar.com/pro/lenovo-and-hp-run-out-of-rtx-5090-gaming-desktops-as-standalone-gpus-disappear-from-us-retailers"
         }
       ]
     }
