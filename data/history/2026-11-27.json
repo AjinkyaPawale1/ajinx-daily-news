@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-27",
+  "displayDate": "Friday, November 27, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic headlines from the last 1–2 days",
+      "articles": [
+        {
+          "emoji": "🌧️",
+          "title": "East Coast storm leaves hundreds of thousands without power",
+          "bullets": [
+            "Heavy rain and wind battered the East Coast after Thanksgiving.",
+            "More than 600,000 homes and businesses remained without power Friday morning.",
+            "Outages had peaked above 900,000 on Thursday."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/bbf9dad3076a69b9bd18b7c0c80490ad"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Republicans reconsider Trump tariffs as Democrats prepare challenge",
+          "bullets": [
+            "Some Republicans are questioning President Trump’s tariff strategy.",
+            "Democrats see an opening as they prepare to retake control of Congress.",
+            "Canada tariffs and USMCA renewal are emerging as early flashpoints."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/a438d0649e3b905804eafb63e9803bb3"
+        },
+        {
+          "emoji": "🧪",
+          "title": "EPA awaits test results after Iowa lead detonation",
+          "bullets": [
+            "Officials collected samples after a U.S. Army lead detonation in Iowa.",
+            "The EPA said test results were expected soon.",
+            "Residents had raised safety concerns before and after the operation."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/bc178961a973a39834cbe249fd19183b"
+        },
+        {
+          "emoji": "🛍️",
+          "title": "Black Friday crowds return despite weeks of online discounts",
+          "bullets": [
+            "Shoppers gathered before sunrise at Macy’s and other stores.",
+            "Retailers face a shorter, more stretched-out holiday shopping season.",
+            "Adobe reported AI-driven shopping referrals more than doubled from 2025."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433"
+        },
+        {
+          "emoji": "🦠",
+          "title": "Reuters summary flags U.S. measles cases across 47 jurisdictions",
+          "bullets": [
+            "The CDC reported 6,039 confirmed measles cases as of November 24.",
+            "Cases were spread across 47 U.S. jurisdictions.",
+            "The update appeared in Reuters’ U.S. domestic news summary."
+          ],
+          "source": "Reuters / Devdiscourse",
+          "url": "https://www.devdiscourse.com/article/international/4012876-reuters-us-domestic-news-summary"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Major worldwide developments",
+      "articles": [
+        {
+          "emoji": "🇺🇦",
+          "title": "Zelenskyy urges Washington to increase pressure on Putin",
+          "bullets": [
+            "Ukraine’s president criticized Trump’s description of Putin as “my friend.”",
+            "Kyiv is pressing for stronger U.S. pressure on Moscow.",
+            "Russia launched nearly 300 aerial attacks a week in November."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/d891149b4cbd6521b83096a32bd5e53d"
+        },
+        {
+          "emoji": "🍽️",
+          "title": "UN warns hunger risks will deepen in 16 countries",
+          "bullets": [
+            "UN food agencies warned hunger could worsen over six months.",
+            "Sudan and Yemen were among countries facing the gravest risks.",
+            "War, displacement, fuel costs and aid cuts are key drivers."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/819ca5f619621b6f3b7ca8ba66b65762"
+        },
+        {
+          "emoji": "💥",
+          "title": "Houthis report 11 killed in airstrike in Yemen",
+          "bullets": [
+            "Houthi officials said 11 people, including children, were killed.",
+            "AP said it could not independently verify the claims.",
+            "Saudi coalition officials had no immediate public comment."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/dbb2c950f5cd991a52f3a065b6325535"
+        },
+        {
+          "emoji": "🇳🇿",
+          "title": "New Zealand election results leave Luxon short of majority",
+          "bullets": [
+            "Final results showed New Zealand’s ruling coalition short of a majority.",
+            "Prime Minister Christopher Luxon needs support from centrist parties.",
+            "The result followed the country’s November 7 election."
+          ],
+          "source": "Reuters / The Star",
+          "url": "https://www.thestar.com.my/news/world/"
+        },
+        {
+          "emoji": "⛽",
+          "title": "Iran and Algeria expected to discuss gas-producer bloc",
+          "bullets": [
+            "Iran and Algeria were expected to discuss a gas producers’ grouping.",
+            "The talks were linked to Algeria’s president visiting Tehran.",
+            "The idea resembles an OPEC-style framework for gas exporters."
+          ],
+          "source": "Reuters / VoteKansas aggregator",
+          "url": "https://www.votekansas.org/reform/f/aggregator/sources/19?page=32"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Key India-focused stories",
+      "articles": [
+        {
+          "emoji": "🏛️",
+          "title": "Parliament special session expected to focus on delimitation",
+          "bullets": [
+            "Hindustan Times highlighted a likely Parliament special session agenda.",
+            "Delimitation was listed among the key political issues.",
+            "The item appeared in HT’s November 27 morning news brief."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-27-parliament-special-session-delimitation-trump-jensen-huang-chess-championship-ramayana-movie-delhi-aqi-101795750073142.html"
+        },
+        {
+          "emoji": "🗳️",
+          "title": "NDA position improves after opposition defections, HT reports",
+          "bullets": [
+            "HT reported major churn among opposition lawmakers.",
+            "Several Trinamool Congress lawmakers reportedly joined another party.",
+            "Some Shiv Sena UBT lawmakers reportedly moved to Shiv Sena."
+          ],
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-27-parliament-special-session-delimitation-trump-jensen-huang-chess-championship-ramayana-movie-delhi-aqi-101795750073142.html"
+        },
+        {
+          "emoji": "🪖",
+          "title": "India and UAE agree to deepen defence cooperation",
+          "bullets": [
+            "India and the UAE held their 14th JDCC meeting in Abu Dhabi.",
+            "Both sides agreed to boost defence co-development and co-production.",
+            "The talks took place on November 26, 2026."
+          ],
+          "source": "Sarkari Abhyash",
+          "url": "https://sarkariabhyash.com/_api/api/current-affairs/2026-11-27/pdf?lang=en"
+        },
+        {
+          "emoji": "⚖️",
+          "title": "Congress youth wing challenges India’s online rules in Delhi court",
+          "bullets": [
+            "A court filing dated November 25 was seen by Reuters.",
+            "The case challenges rules critics call suppressive of lawful political expression.",
+            "The filing was made in the Delhi High Court."
+          ],
+          "source": "Reuters / Kuwait Times",
+          "url": "https://kuwaittimes.com/uploads/pdf/2026/11/27/kt_pdf-20261127-1.pdf?ts=220034"
+        },
+        {
+          "emoji": "🏭",
+          "title": "Tata power tussle escalates, Reuters-linked report says",
+          "bullets": [
+            "A Reuters-linked report described tensions at India’s largest corporate group.",
+            "Tata’s businesses include Jaguar Land Rover and Tetley tea.",
+            "The report said the latest development comes amid shakier markets."
+          ],
+          "source": "Reuters / Kuwait Times",
+          "url": "https://kuwaittimes.com/uploads/pdf/2026/11/27/kt_pdf-20261127-1.pdf?ts=220034"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and Wall Street themes",
+      "articles": [
+        {
+          "emoji": "🤖",
+          "title": "U.S. equity funds see biggest outflows in 11 weeks",
+          "bullets": [
+            "Reuters reported heavy weekly outflows from U.S. equity funds.",
+            "The week ended November 25 saw the largest withdrawals in nearly three months.",
+            "Tech weakness and AI investment concerns weighed on sentiment."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://new.streetinsider.com/Reuters/S%26P%2B500%2Bfutures%2Bpare%2Bgains%2Bafter%2BOctober%2Bnon-farm%2Bpayrolls%2Bdata/x"
+        },
+        {
+          "emoji": "📊",
+          "title": "Wall Street volatility remains elevated before jobs data",
+          "bullets": [
+            "Reuters said investors are focused on the next monthly jobs report.",
+            "AI-related stock volatility has kept markets on edge.",
+            "The VIX remained well above its long-term median."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://new.streetinsider.com/Reuters/Sliding%2Bstock%2Bmarket%2Bconfronts%2Bjobs%2Bdata%2C%2Brate%2Bview%2Bas%2Bnext%2Btests%C2%A0/27405296.html"
+        },
+        {
+          "emoji": "🧠",
+          "title": "AI stock rebound continues into shortened Black Friday session",
+          "bullets": [
+            "U.S. markets reopened for a shortened post-Thanksgiving session.",
+            "AI-related shares were in focus after recent sharp swings.",
+            "StockTitan tracked premarket movers and market conditions."
+          ],
+          "source": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
+        },
+        {
+          "emoji": "🧮",
+          "title": "Wednesday indexes closed mixed before Thanksgiving break",
+          "bullets": [
+            "The S&P 500 slipped 0.25% on Wednesday.",
+            "The Nasdaq Composite fell 0.62%.",
+            "The Dow Jones Industrial Average rose 0.33%."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/94fdb0ecb060ec65c0b02879ce0d2d09"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Global shares mostly rise ahead of Wall Street reopening",
+          "bullets": [
+            "AP reported broad global market gains before U.S. trading resumed.",
+            "Chinese officials signaled stronger stock-market support.",
+            "AI-linked buying remained a major global market driver."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/c7ef10c1dbc5fa09668bd4fe0729c613"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economic stories",
+      "articles": [
+        {
+          "emoji": "🛒",
+          "title": "Retailers count on Black Friday after weeks of early deals",
+          "bullets": [
+            "Black Friday has evolved into a multiweek retail event.",
+            "Retailers are balancing holiday demand with cautious consumers.",
+            "Salesforce expected deep discounts in clothing, home goods and beauty."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433"
+        },
+        {
+          "emoji": "🛰️",
+          "title": "Airbus agrees to sell U.S. space business to Cerberus",
+          "bullets": [
+            "Axios reported Airbus agreed to sell its U.S. space business.",
+            "Cerberus Capital Management is the buyer.",
+            "The item appeared in Axios Pro Rata’s deal roundup."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-a3e26c0f-6d85-4b97-8f1c-aa734828f95b"
+        },
+        {
+          "emoji": "₿",
+          "title": "Kraken owner Payward acquires Tribe Capital",
+          "bullets": [
+            "Payward, owner of crypto exchange Kraken, announced the acquisition.",
+            "The target is venture firm Tribe Capital.",
+            "Axios listed the deal in its corporate venturing roundup."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-a3e26c0f-6d85-4b97-8f1c-aa734828f95b"
+        },
+        {
+          "emoji": "📺",
+          "title": "Disney’s ABC sues FCC over broadcast-license order",
+          "bullets": [
+            "ABC and parent Disney sued the FCC in August.",
+            "The dispute concerns early license-renewal applications for eight ABC-owned stations.",
+            "AP’s business summary highlighted the litigation update."
+          ],
+          "source": "Associated Press / News Channel Nebraska",
+          "url": "https://southeast.newschannelnebraska.com/story/370531636/ap-business-summarybrief-at-1204-am-est-1"
+        },
+        {
+          "emoji": "🇨🇳",
+          "title": "China plans new steps to stabilize capital markets",
+          "bullets": [
+            "Reuters reported China is preparing incremental capital-market policies.",
+            "Measures include encouraging listed firms to raise dividends and buybacks.",
+            "The plan was cited by Xinhua after a cabinet meeting."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Factbox-Airlines%2Bsuspend%2Bflights%2Bas%2BMiddle%2BEast%2Btensions%2Brise/Corporate%2BNews"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology, AI and cybersecurity developments",
+      "articles": [
+        {
+          "emoji": "🎓",
+          "title": "Los Angeles schools block Google AI features",
+          "bullets": [
+            "School districts are pushing back against Google’s AI features.",
+            "Los Angeles blocked the tools amid classroom concerns.",
+            "Some districts are considering dropping Google products without permanent workarounds."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/762a613b11bd316384430112cc223ed1"
+        },
+        {
+          "emoji": "☁️",
+          "title": "Hackers breach U.S. Air Force Cloud One platform, Reuters reports",
+          "bullets": [
+            "Reuters reported a breach of the Air Force’s flagship cloud platform.",
+            "U.S. Cyber Command began a damage assessment.",
+            "Application updates and migrations were halted, according to the report."
+          ],
+          "source": "Reuters / Wikipedia summary",
+          "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States"
+        },
+        {
+          "emoji": "🔐",
+          "title": "SAP investigates suspicious activity but says customer data appears safe",
+          "bullets": [
+            "SAP told Reuters it identified suspicious activity.",
+            "The company said it found no evidence of unauthorized customer-data access.",
+            "The update came in Reuters’ corporate news feed."
+          ],
+          "source": "Reuters / StreetInsider",
+          "url": "https://www.streetinsider.com/Reuters/Factbox-Airlines%2Bsuspend%2Bflights%2Bas%2BMiddle%2BEast%2Btensions%2Brise/Corporate%2BNews"
+        },
+        {
+          "emoji": "🧩",
+          "title": "U.S. chip rules pressure Chinese AI labs’ model timelines",
+          "bullets": [
+            "Reports said Z.AI’s next flagship model is behind schedule.",
+            "Moonshot AI may face longer gaps between flagship releases.",
+            "The delays were linked to reduced overseas compute access."
+          ],
+          "source": "Reuters / decryptingtech",
+          "url": "https://decryptingtech.com/daily-briefing-27-november-2026/"
+        },
+        {
+          "emoji": "🚫",
+          "title": "Apple removes MiniMax Talkie chatbot after child-safety allegations",
+          "bullets": [
+            "Apple removed MiniMax’s Talkie chatbot from its App Store worldwide.",
+            "The move followed reporting on alleged harmful messages to children.",
+            "Reuters was cited in AI news summaries about the removal."
+          ],
+          "source": "Reuters / Malpass",
+          "url": "https://malpass.co/top-ai-stories-2026-11-27/"
+        }
+      ]
+    }
+  }
+}
