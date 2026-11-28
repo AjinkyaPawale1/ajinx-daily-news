@@ -1,0 +1,378 @@
+{
+  "date": "2026-11-28",
+  "displayDate": "Saturday, November 28, 2026",
+  "categories": {
+    "us": {
+      "label": "US News",
+      "icon": "🇺🇸",
+      "subtitle": "Top domestic stories",
+      "articles": [
+        {
+          "emoji": "⚖️",
+          "title": "Supreme Court to review whether assault-weapons bans violate the Second Amendment",
+          "bullets": [
+            "The court agreed to hear challenges to state assault-weapons restrictions.",
+            "The Trump administration argues the bans are unconstitutional.",
+            "The case could reshape gun regulations nationwide."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/769ef245e755e5999d220a74253ff3d6"
+        },
+        {
+          "emoji": "🏛️",
+          "title": "Trump sticks to agenda after midterm rebuke",
+          "bullets": [
+            "AP reports Trump is doubling down after Democratic midterm gains.",
+            "Democrats won majorities in both the House and Senate.",
+            "Analysts described the result as a broad national repudiation."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/89678e61440def22506dff48bcdee301"
+        },
+        {
+          "emoji": "🌧️",
+          "title": "Thanksgiving storms bring flooding, wind and widespread power outages",
+          "bullets": [
+            "Heavy rain and winds hit much of the United States.",
+            "More than 900,000 customers lost power Thursday evening.",
+            "Trump signed a Florida disaster declaration after earlier flooding."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/e8bc9bc454c933dacffe89b1139c4d3c"
+        },
+        {
+          "emoji": "🛍️",
+          "title": "Black Friday shoppers turn out despite inflation and bad weather",
+          "bullets": [
+            "Shoppers visited malls and stores after Thanksgiving meals.",
+            "Some used AI tools to compare discounts and deals.",
+            "Mall of America reported stronger first-hour attendance than last year."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433"
+        },
+        {
+          "emoji": "🔐",
+          "title": "US Air Force cloud breach prompts Cyber Command damage review",
+          "bullets": [
+            "Reuters reported hackers breached the Air Force’s Cloud One platform.",
+            "US Cyber Command began assessing potential damage.",
+            "Application updates and migrations were reportedly halted."
+          ],
+          "source": "Reuters / Wikipedia current-events index",
+          "url": "https://en.wikipedia.org/wiki/2026_in_the_United_States"
+        }
+      ]
+    },
+    "global": {
+      "label": "Global",
+      "icon": "🌍",
+      "subtitle": "Top worldwide stories",
+      "articles": [
+        {
+          "emoji": "🇺🇦",
+          "title": "Zelenskyy urges US to pressure Putin over Ukraine war",
+          "bullets": [
+            "Zelenskyy called for stronger US pressure on Putin.",
+            "He questioned Trump’s description of Putin as a “friend.”",
+            "The war is nearing its fifth year since Russia’s invasion."
+          ],
+          "source": "Associated Press summary via News Channel Nebraska",
+          "url": "https://metro.newschannelnebraska.com/story/370531915/ap-news-summary-at-1238-am-est-1"
+        },
+        {
+          "emoji": "🚢",
+          "title": "US military says it disabled another ship trying to breach Mideast blockade",
+          "bullets": [
+            "The US military reported another interdiction in the Mideast.",
+            "The ship was described as trying to breach a blockade.",
+            "The update came amid continuing regional tensions."
+          ],
+          "source": "Associated Press summary via News Channel Nebraska",
+          "url": "https://metro.newschannelnebraska.com/story/370531915/ap-news-summary-at-1238-am-est-1"
+        },
+        {
+          "emoji": "🇫🇷",
+          "title": "Former French Prime Minister Dominique de Villepin returns to politics",
+          "bullets": [
+            "De Villepin is re-entering French politics at age 73.",
+            "He is seeking to block Marine Le Pen’s presidential path.",
+            "The move adds a new figure to France’s political contest."
+          ],
+          "source": "Associated Press summary via News Channel Nebraska",
+          "url": "https://metro.newschannelnebraska.com/story/370531915/ap-news-summary-at-1238-am-est-1"
+        },
+        {
+          "emoji": "🇪🇺",
+          "title": "EU leaders wrestle over long-term budget and Ukraine financing",
+          "bullets": [
+            "EU leaders debated the bloc’s 2028–2034 budget proposal.",
+            "They also discussed future financing for Ukraine.",
+            "The seven-year budget requires unanimous approval from all 27 members."
+          ],
+          "source": "Reuters via Gulf Times",
+          "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/27/main-20261127-1-1795728851.pdf?ts=1795728851"
+        },
+        {
+          "emoji": "🌊",
+          "title": "Strengthening El Niño brings early effects across regions",
+          "bullets": [
+            "Time reported this El Niño is among the strongest on record.",
+            "Warm oceans are influencing weather and coastal conditions.",
+            "NOAA expects a wetter southern US winter in affected areas."
+          ],
+          "source": "Time",
+          "url": "https://time.com/article/2026/11/25/el-ni-o-is-strengthening-here-s-where-its-effects-are-already-showing-up/"
+        }
+      ]
+    },
+    "india": {
+      "label": "India News",
+      "icon": "🇮🇳",
+      "subtitle": "Top stories from India",
+      "articles": [
+        {
+          "emoji": "🗳️",
+          "title": "Kharge calls INDIA bloc meeting on delimitation",
+          "bullets": [
+            "Mallikarjun Kharge called a meeting of INDIA bloc parties.",
+            "Delimitation is listed as a key discussion issue.",
+            "Supriya Sule was reported likely to skip the meeting."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/breaking-news-live-updates-28-november-2026-india-bloc-meeting-punjab-up-elections-delimitation-aqi-kerala-deepam-row-accident-10981877/"
+        },
+        {
+          "emoji": "⛓️",
+          "title": "Eight Andhra families rescued from alleged bonded labour in Telangana",
+          "bullets": [
+            "The Indian Express reported the rescue in its live updates.",
+            "The families were from Andhra Pradesh.",
+            "Authorities treated the case as alleged bonded labour."
+          ],
+          "source": "The Indian Express",
+          "url": "https://indianexpress.com/article/india/?productID=376"
+        },
+        {
+          "emoji": "🪔",
+          "title": "Karthigai Deepam lit on Madurai hilltop under Supreme Court-appointed judges’ watch",
+          "bullets": [
+            "The ceremonial lamp was lit on Thiruparankundram Hill.",
+            "Judges appointed by the Supreme Court oversaw the event.",
+            "CRPF security was reported around the site."
+          ],
+          "source": "Hindustan Times / Wikipedia current-events index",
+          "url": "https://www.hindustantimes.com/india-news/page-2228"
+        },
+        {
+          "emoji": "💉",
+          "title": "WHO experts say India may miss 2026 measles elimination target",
+          "bullets": [
+            "WHO experts warned India may miss its 2026 goal.",
+            "The concern persists despite high immunisation numbers.",
+            "The issue was flagged in Indian Express coverage."
+          ],
+          "source": "NEXT IAS citing The Indian Express",
+          "url": "https://www.nextias.com/ca/headlines-of-the-day/28-11-2026/89747"
+        },
+        {
+          "emoji": "🏦",
+          "title": "Rahul Madan takes charge as IBBI chairperson",
+          "bullets": [
+            "Rahul Madan took charge of the Insolvency and Bankruptcy Board of India.",
+            "The appointment took effect on November 25, 2026.",
+            "The update was attributed to an IBBI release."
+          ],
+          "source": "Blackbook Current Affairs",
+          "url": "https://blackbook.co.in/current-affairs/pdf/blackbook-current-affairs-28-november-2026-english-one-liner.pdf"
+        }
+      ]
+    },
+    "stocks": {
+      "label": "US Stocks",
+      "icon": "📈",
+      "subtitle": "Market movers and trading themes",
+      "articles": [
+        {
+          "emoji": "🚀",
+          "title": "S&P 500, Nasdaq and Dow rally in shortened Friday session",
+          "bullets": [
+            "The S&P 500 rose 1.60% on Friday.",
+            "The Nasdaq Composite gained 2.31%.",
+            "The Dow Jones Industrial Average climbed 1.18%."
+          ],
+          "source": "Associated Press / Nexqual market data",
+          "url": "https://apnews.com/article/04dab6079cf7f3dfe7285a3cc1f240a2"
+        },
+        {
+          "emoji": "💾",
+          "title": "AI and chip stocks rebound after volatile week",
+          "bullets": [
+            "AP said stocks jumped after erratic technology trading.",
+            "Reuters reported battered AI stocks gained into Friday’s close.",
+            "The rebound helped Wall Street post its best week in over a year."
+          ],
+          "source": "Associated Press / Reuters via KleverStock",
+          "url": "https://uat-www.kleverstock.live/news-detail-page/20261128/Wall-Street-Ends-Higher-As-Battered-AI-Stocks-Gain-In-Volatile-Week/75626"
+        },
+        {
+          "emoji": "🧬",
+          "title": "Vertex shares slide after FDA delay on kidney-drug decision",
+          "bullets": [
+            "Vertex was listed among Friday’s largest notable decliners.",
+            "The move followed an FDA delay on a kidney-drug decision.",
+            "COT-Trading showed VRTX down more than 5%."
+          ],
+          "source": "COT-Trading / TipRanks / Investing.com aggregation",
+          "url": "https://www.cot-trading.com/market-movers"
+        },
+        {
+          "emoji": "💽",
+          "title": "SanDisk leads notable gainers in Friday’s US close",
+          "bullets": [
+            "Swingfolio listed SNDK as a top Friday mover.",
+            "The stock was shown up 15.96%.",
+            "The gain came during a broader AI-and-chip rebound."
+          ],
+          "source": "Swingfolio / Yahoo Finance data",
+          "url": "https://swingfolio.com/daily/us/2026-11-27/afternoon"
+        },
+        {
+          "emoji": "🍫",
+          "title": "Hershey appears among active US market movers",
+          "bullets": [
+            "A MarkitDigital market report listed Hershey among active movers.",
+            "Hershey closed at 183.28 in the table.",
+            "The report showed a 3.81% day gain."
+          ],
+          "source": "MarkitDigital World Markets report",
+          "url": "https://markets.ptc.ft.markitdigital.com/data/dataarchive/ajax/fetchreport?documentKey=688_GWSM_261127&reportCode=GWSM"
+        }
+      ]
+    },
+    "business": {
+      "label": "Business",
+      "icon": "💼",
+      "subtitle": "Corporate and economy stories",
+      "articles": [
+        {
+          "emoji": "🛒",
+          "title": "Retailers see resilient Black Friday traffic despite higher prices",
+          "bullets": [
+            "AP reported shoppers pursued deals despite inflation concerns.",
+            "NRF expected prices to drive about half of holiday sales growth.",
+            "Retail executives described consumers as surprisingly resilient."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/21e10113de5d5941024b3220bec29433"
+        },
+        {
+          "emoji": "📊",
+          "title": "Jobs and sentiment data take focus for US economy-watchers",
+          "bullets": [
+            "AP said upcoming reports will examine the economy from several angles.",
+            "Friday’s jobs report will detail November hiring.",
+            "Industry and consumer sentiment updates are also due."
+          ],
+          "source": "Associated Press",
+          "url": "https://apnews.com/article/5afaa3815f4e852e12f750fb4f983471"
+        },
+        {
+          "emoji": "🚀",
+          "title": "SpaceX secures $44 billion funding deal tied to Nvidia chip purchases",
+          "bullets": [
+            "TechRadar cited Reuters reporting on a major SpaceX funding deal.",
+            "Senior secured notes mature in April 2033.",
+            "The financing is tied to Nvidia Vera Rubin chip purchases."
+          ],
+          "source": "TechRadar / Reuters",
+          "url": "https://www.techradar.com/pro/spacex-secures-usd44-billion-funding-deal-to-snap-up-nvidia-vera-rubin-chips"
+        },
+        {
+          "emoji": "🛰️",
+          "title": "Airbus satellite merger with Leonardo and Thales advances European space push",
+          "bullets": [
+            "Axios cited Bloomberg on Airbus merging satellite operations.",
+            "Leonardo and Thales are part of the planned joint venture.",
+            "The venture would compete more directly with SpaceX."
+          ],
+          "source": "Axios / Bloomberg",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-a3e26c0f-6d85-4b97-8f1c-aa734828f95b"
+        },
+        {
+          "emoji": "📺",
+          "title": "Atairos seeks sale of Ocean Outdoor, report says",
+          "bullets": [
+            "Axios cited Reuters on a potential Ocean Outdoor sale.",
+            "The UK outdoor advertising operator could fetch about £800 million.",
+            "Atairos is reportedly exploring the transaction."
+          ],
+          "source": "Axios / Reuters",
+          "url": "https://www.axios.com/newsletters/axios-pro-rata-a3e26c0f-6d85-4b97-8f1c-aa734828f95b"
+        }
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "icon": "💻",
+      "subtitle": "Technology and AI headlines",
+      "articles": [
+        {
+          "emoji": "🧠",
+          "title": "AI math breakthroughs spark speculation about next scientific advances",
+          "bullets": [
+            "Axios reported major math discoveries from OpenAI, Anthropic and Google.",
+            "The breakthroughs renewed debate over AI’s scientific capabilities.",
+            "Companies may be holding back additional results."
+          ],
+          "source": "Axios",
+          "url": "https://www.axios.com/"
+        },
+        {
+          "emoji": "🛰️",
+          "title": "FCC clears SpaceX plan for one million data centers in space",
+          "bullets": [
+            "The Wall Street Journal front page reported the FCC clearance.",
+            "The approval was described as a major regulatory win.",
+            "The proposed scale could transform the night sky."
+          ],
+          "source": "The Wall Street Journal",
+          "url": "https://d2dr22b2lm4tvw.cloudfront.net/wsj/2026-11-27/front-page.pdf"
+        },
+        {
+          "emoji": "🔒",
+          "title": "US tightens scrutiny of AI-chip flows to China",
+          "bullets": [
+            "Reuters-linked reports described expanded US chip-control enforcement.",
+            "Washington is deploying export-control officers to embassies.",
+            "The focus is preventing advanced AI chips from reaching China."
+          ],
+          "source": "Reuters via Gulf Times / WSJ",
+          "url": "https://www.gulf-times.com/gulftimes/uploads/pdf/2026/11/28/business-20261128-1-1795816939.pdf?ts=1795816939"
+        },
+        {
+          "emoji": "🕵️",
+          "title": "Nvidia-linked Megaspeed faces renewed scrutiny over China exposure",
+          "bullets": [
+            "Time examined red flags around Nvidia customer Megaspeed.",
+            "Congressional disclosures showed export-license requests involving advanced chips.",
+            "Megaspeed said it conducts lawful business and retained external counsel."
+          ],
+          "source": "Time",
+          "url": "https://time.com/article/2026/11/25/nvidia-megaspeed-china-investment/"
+        },
+        {
+          "emoji": "☁️",
+          "title": "US Air Force Cloud One breach adds to November technology-outage concerns",
+          "bullets": [
+            "Reuters reported the Cloud One intrusion on November 27.",
+            "NBC also confirmed the breach, according to the current-events index.",
+            "The incident followed a month of high-profile technology disruptions."
+          ],
+          "source": "Reuters / NBC News via Wikipedia current-events index",
+          "url": "https://en.wikipedia.org/wiki/November_2026_technology_outages"
+        }
+      ]
+    }
+  }
+}
